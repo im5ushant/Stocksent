@@ -1,0 +1,34 @@
+.preview-section__container {
+  position: relative;
+  margin: 1rem auto;
+  width: 48%;
+  min-width: 300px;
+  max-height: 400px;
+  background-color: #131722;
+  border-radius: 5px;
+  border: 1px solid #363c4e;
+  /* box-shadow: 0 0 5px 3px #33458d3d; */
+}
+
+.preview-section__header {
+  padding: 16px;
+  position: sticky;
+  font-size: 24px;
+  color: #ffffff;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  /* background-image: linear-gradient(to right, #101b49, #3f529b, #101b49); */
+  background-color: #364892;
+}
+
+.preview-section__content {
+  height: 72%;
+  padding: 16px;
+  overflow-y: scroll;
+}
+
+@media screen and (max-width: 645px){
+    .preview-section__container{
+        width: 100%;
+    }
+}

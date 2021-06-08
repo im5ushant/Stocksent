@@ -1,0 +1,10 @@
+.preview-item__container {
+  font-size: 14px;
+  padding: 8px;
+  margin: 8px 4px;
+  text-align: left;
+  color: #7d8089;
+  background-color: #151924;
+  border: 1px solid #232632;
+  border-radius: 5px;
+}
