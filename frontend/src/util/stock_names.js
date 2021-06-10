@@ -1,16371 +1,16371 @@
 export const stock_names = [
         {
-            "SYM": "ABB",
-            "COMPANY": "ABB India Limited"
+            SYM: "ABB",
+            COM: "ABB India Limited"
         },
         {
-            "SYM": "AEGISLOG",
-            "COMPANY": "AEGIS LOGISTICS LTD."
+            SYM: "AEGISLOG",
+            COM: "AEGIS LOGISTICS LTD."
         },
         {
-            "SYM": "AMARAJABAT",
-            "COMPANY": "AMARA RAJA BATTERIES LTD."
+            SYM: "AMARAJABAT",
+            COM: "AMARA RAJA BATTERIES LTD."
         },
         {
-            "SYM": "AMBALALSA",
-            "COMPANY": "AMBALAL SARABHAI ENTERPRISES LTD."
+            SYM: "AMBALALSA",
+            COM: "AMBALAL SARABHAI ENTERPRISES LTD."
         },
         {
-            "SYM": "HDFC",
-            "COMPANY": "HOUSING DEVELOPMENT FINANCE CORP.LTD."
+            SYM: "HDFC",
+            COM: "HOUSING DEVELOPMENT FINANCE CORP.LTD."
         },
         {
-            "SYM": "ANDHRAPET",
-            "COMPANY": "ANDHRA PETROCHEMICALS LTD."
+            SYM: "ANDHRAPET",
+            COM: "ANDHRA PETROCHEMICALS LTD."
         },
         {
-            "SYM": "ANSALAPI",
-            "COMPANY": "ANSAL PROPERTIES & INFRASTRUCTURE LTD."
+            SYM: "ANSALAPI",
+            COM: "ANSAL PROPERTIES & INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "UTIQUE",
-            "COMPANY": "Utique Enterprises Ltd"
+            SYM: "UTIQUE",
+            COM: "Utique Enterprises Ltd"
         },
         {
-            "SYM": "ARUNAHTEL",
-            "COMPANY": "ARUNA HOTELS LTD."
+            SYM: "ARUNAHTEL",
+            COM: "ARUNA HOTELS LTD."
         },
         {
-            "SYM": "BOMDYEING",
-            "COMPANY": "BOMBAY DYEING & MFG.CO.LTD."
+            SYM: "BOMDYEING",
+            COM: "BOMBAY DYEING & MFG.CO.LTD."
         },
         {
-            "SYM": "ASIANHOTNR",
-            "COMPANY": "Asian Hotels (North) Limited"
+            SYM: "ASIANHOTNR",
+            COM: "Asian Hotels (North) Limited"
         },
         {
-            "SYM": "ATUL",
-            "COMPANY": "ATUL LTD."
+            SYM: "ATUL",
+            COM: "ATUL LTD."
         },
         {
-            "SYM": "ATVPR",
-            "COMPANY": "ATV PROJECTS INDIA LTD."
+            SYM: "ATVPR",
+            COM: "ATV PROJECTS INDIA LTD."
         },
         {
-            "SYM": "BAJAJELEC",
-            "COMPANY": "BAJAJ ELECTRICALS LTD.-$"
+            SYM: "BAJAJELEC",
+            COM: "BAJAJ ELECTRICALS LTD."
         },
         {
-            "SYM": "BAJAJHIND",
-            "COMPANY": "Bajaj Hindusthan Sugar Limited"
+            SYM: "BAJAJHIND",
+            COM: "Bajaj Hindusthan Sugar Limited"
         },
         {
-            "SYM": "FORCEMOT",
-            "COMPANY": "FORCE MOTORS LTD.-$"
+            SYM: "FORCEMOT",
+            COM: "FORCE MOTORS LTD."
         },
         {
-            "SYM": "BAJFINANCE",
-            "COMPANY": "Bajaj Finance Limited"
+            SYM: "BAJFINANCE",
+            COM: "Bajaj Finance Limited"
         },
         {
-            "SYM": "BALRAMCHIN",
-            "COMPANY": "BALRAMPUR CHINI MILLS LTD."
+            SYM: "BALRAMCHIN",
+            COM: "BALRAMPUR CHINI MILLS LTD."
         },
         {
-            "SYM": "BANCOINDIA",
-            "COMPANY": "BANCO PRODUCTS (INDIA) LTD.-$"
+            SYM: "BANCOINDIA",
+            COM: "BANCO PRODUCTS (INDIA) LTD."
         },
         {
-            "SYM": "CENTURYTEX",
-            "COMPANY": "CENTURY TEXTILES & INDUSTRIES LTD."
+            SYM: "CENTURYTEX",
+            COM: "CENTURY TEXTILES & INDUSTRIES LTD."
         },
         {
-            "SYM": "BANARISUG",
-            "COMPANY": "BANNARI AMMAN SUGARS LTD."
+            SYM: "BANARISUG",
+            COM: "BANNARI AMMAN SUGARS LTD."
         },
         {
-            "SYM": "BASF",
-            "COMPANY": "BASF INDIA LTD."
+            SYM: "BASF",
+            COM: "BASF INDIA LTD."
         },
         {
-            "SYM": "BATAINDIA",
-            "COMPANY": "BATA INDIA LTD."
+            SYM: "BATAINDIA",
+            COM: "BATA INDIA LTD."
         },
         {
-            "SYM": "BEML",
-            "COMPANY": "BEML LTD."
+            SYM: "BEML",
+            COM: "BEML LTD."
         },
         {
-            "SYM": "BEL",
-            "COMPANY": "BHARAT ELECTRONICS LTD."
+            SYM: "BEL",
+            COM: "BHARAT ELECTRONICS LTD."
         },
         {
-            "SYM": "BEPL",
-            "COMPANY": "BHANSALI ENGINEERING POLYMERS LTD.-$"
+            SYM: "BEPL",
+            COM: "BHANSALI ENGINEERING POLYMERS LTD."
         },
         {
-            "SYM": "TATASTLBSL",
-            "COMPANY": "Tata Steel Bsl Ltd"
+            SYM: "TATASTLBSL",
+            COM: "Tata Steel Bsl Ltd"
         },
         {
-            "SYM": "BIHSPONG",
-            "COMPANY": "BIHAR SPONGE IRON LTD."
+            SYM: "BIHSPONG",
+            COM: "BIHAR SPONGE IRON LTD."
         },
         {
-            "SYM": "BIRLACABLE",
-            "COMPANY": "Birla Cable Ltd"
+            SYM: "BIRLACABLE",
+            COM: "Birla Cable Ltd"
         },
         {
-            "SYM": "BLUESTARCO",
-            "COMPANY": "BLUE STAR LTD."
+            SYM: "BLUESTARCO",
+            COM: "BLUE STAR LTD."
         },
         {
-            "SYM": "DISAQ",
-            "COMPANY": "DISA INDIA LTD."
+            SYM: "DISAQ",
+            COM: "DISA INDIA LTD."
         },
         {
-            "SYM": "BNKCAP",
-            "COMPANY": "BNK CAPITAL MARKETS LTD."
+            SYM: "BNKCAP",
+            COM: "BNK CAPITAL MARKETS LTD."
         },
         {
-            "SYM": "BPL",
-            "COMPANY": "BPL LTD."
+            SYM: "BPL",
+            COM: "BPL LTD."
         },
         {
-            "SYM": "OAL",
-            "COMPANY": "Oriental Aromatics Ltd-$"
+            SYM: "OAL",
+            COM: "Oriental Aromatics Ltd"
         },
         {
-            "SYM": "CENTEXT",
-            "COMPANY": "CENTURY EXTRUSIONS LTD."
+            SYM: "CENTEXT",
+            COM: "CENTURY EXTRUSIONS LTD."
         },
         {
-            "SYM": "CESC",
-            "COMPANY": "CESC LTD."
+            SYM: "CESC",
+            COM: "CESC LTD."
         },
         {
-            "SYM": "CHAMBLFERT",
-            "COMPANY": "CHAMBAL FERTILISERS & CHEMICALS LTD."
+            SYM: "CHAMBLFERT",
+            COM: "CHAMBAL FERTILISERS & CHEMICALS LTD."
         },
         {
-            "SYM": "EXIDEIND",
-            "COMPANY": "EXIDE INDUSTRIES LTD."
+            SYM: "EXIDEIND",
+            COM: "EXIDE INDUSTRIES LTD."
         },
         {
-            "SYM": "CIPLA",
-            "COMPANY": "CIPLA LTD."
+            SYM: "CIPLA",
+            COM: "CIPLA LTD."
         },
         {
-            "SYM": "DICIND",
-            "COMPANY": "DIC INDIA LTD."
+            SYM: "DICIND",
+            COM: "DIC INDIA LTD."
         },
         {
-            "SYM": "CRISIL",
-            "COMPANY": "CRISIL LTD."
+            SYM: "CRISIL",
+            COM: "CRISIL LTD."
         },
         {
-            "SYM": "CGPOWER",
-            "COMPANY": "CG Power and Industrial Solutions Ltd"
+            SYM: "CGPOWER",
+            COM: "CG Power and Industrial Solutions Ltd"
         },
         {
-            "SYM": "DABUR",
-            "COMPANY": "DABUR INDIA LTD."
+            SYM: "DABUR",
+            COM: "DABUR INDIA LTD."
         },
         {
-            "SYM": "DALMIASUG",
-            "COMPANY": "Dalmia Bharat Sugar and Industries Ltd"
+            SYM: "DALMIASUG",
+            COM: "Dalmia Bharat Sugar and Industries Ltd"
         },
         {
-            "SYM": "ARVIND",
-            "COMPANY": "ARVIND LTD."
+            SYM: "ARVIND",
+            COM: "ARVIND LTD."
         },
         {
-            "SYM": "BALLARPUR",
-            "COMPANY": "BALLARPUR INDUSTRIES LTD."
+            SYM: "BALLARPUR",
+            COM: "BALLARPUR INDUSTRIES LTD."
         },
         {
-            "SYM": "BHEL",
-            "COMPANY": "BHARAT HEAVY ELECTRICALS LTD."
+            SYM: "BHEL",
+            COM: "BHARAT HEAVY ELECTRICALS LTD."
         },
         {
-            "SYM": "HINDPETRO",
-            "COMPANY": "HINDUSTAN PETROLEUM CORPORATION LTD."
+            SYM: "HINDPETRO",
+            COM: "HINDUSTAN PETROLEUM CORPORATION LTD."
         },
         {
-            "SYM": "IFCI",
-            "COMPANY": "IFCI LTD."
+            SYM: "IFCI",
+            COM: "IFCI LTD."
         },
         {
-            "SYM": "MTNL",
-            "COMPANY": "MAHANAGAR TELEPHONE NIGAM LTD."
+            SYM: "MTNL",
+            COM: "MAHANAGAR TELEPHONE NIGAM LTD."
         },
         {
-            "SYM": "MRPL",
-            "COMPANY": "MANGALORE REFINERY & PETROCHEMICALS LTD."
+            SYM: "MRPL",
+            COM: "MANGALORE REFINERY & PETROCHEMICALS LTD."
         },
         {
-            "SYM": "CHENNPETRO",
-            "COMPANY": "CHENNAI PETROLEUM CORPORATION LTD."
+            SYM: "CHENNPETRO",
+            COM: "CHENNAI PETROLEUM CORPORATION LTD."
         },
         {
-            "SYM": "RELCAPITAL",
-            "COMPANY": "RELIANCE CAPITAL LTD."
+            SYM: "RELCAPITAL",
+            COM: "RELIANCE CAPITAL LTD."
         },
         {
-            "SYM": "SBIN",
-            "COMPANY": "STATE BANK OF INDIA"
+            SYM: "SBIN",
+            COM: "STATE BANK OF INDIA"
         },
         {
-            "SYM": "SAIL",
-            "COMPANY": "STEEL AUTHORITY OF INDIA LTD."
+            SYM: "SAIL",
+            COM: "STEEL AUTHORITY OF INDIA LTD."
         },
         {
-            "SYM": "TITAN",
-            "COMPANY": "Titan Company Limited"
+            SYM: "TITAN",
+            COM: "Titan Company Limited"
         },
         {
-            "SYM": "IDBI",
-            "COMPANY": "IDBI BANK LTD."
+            SYM: "IDBI",
+            COM: "IDBI BANK LTD."
         },
         {
-            "SYM": "DCW",
-            "COMPANY": "DCW LTD."
+            SYM: "DCW",
+            COM: "DCW LTD."
         },
         {
-            "SYM": "DHAMPURSUG",
-            "COMPANY": "DHAMPUR SUGAR MILLS LTD."
+            SYM: "DHAMPURSUG",
+            COM: "DHAMPUR SUGAR MILLS LTD."
         },
         {
-            "SYM": "DIAMINESQ",
-            "COMPANY": "DIAMINES & CHEMICALS LTD.-$"
+            SYM: "DIAMINESQ",
+            COM: "DIAMINES & CHEMICALS LTD."
         },
         {
-            "SYM": "ELANTAS",
-            "COMPANY": "ELANTAS BECK INDIA LTD.-$"
+            SYM: "ELANTAS",
+            COM: "ELANTAS BECK INDIA LTD."
         },
         {
-            "SYM": "DRREDDY",
-            "COMPANY": "DR.REDDY&#39;S LABORATORIES LTD."
+            SYM: "DRREDDY",
+            COM: "DR.REDDY&#39;S LABORATORIES LTD."
         },
         {
-            "SYM": "EIDPARRY",
-            "COMPANY": "E.I.D.-PARRY (INDIA) LTD."
+            SYM: "EIDPARRY",
+            COM: "E.I.D.-PARRY (INDIA) LTD."
         },
         {
-            "SYM": "PGHL",
-            "COMPANY": "Procter & Gamble Health Ltd"
+            SYM: "PGHL",
+            COM: "Procter & Gamble Health Ltd"
         },
         {
-            "SYM": "ELECTCAST",
-            "COMPANY": "ELECTROSTEEL CASTINGS LTD."
+            SYM: "ELECTCAST",
+            COM: "ELECTROSTEEL CASTINGS LTD."
         },
         {
-            "SYM": "ESABINDIA",
-            "COMPANY": "ESAB INDIA LTD."
+            SYM: "ESABINDIA",
+            COM: "ESAB INDIA LTD."
         },
         {
-            "SYM": "EPL",
-            "COMPANY": "EPL Ltd"
+            SYM: "EPL",
+            COM: "EPL Ltd"
         },
         {
-            "SYM": "ESTER",
-            "COMPANY": "ESTER INDUSTRIES LTD."
+            SYM: "ESTER",
+            COM: "ESTER INDUSTRIES LTD."
         },
         {
-            "SYM": "FGP",
-            "COMPANY": "FGP LTD."
+            SYM: "FGP",
+            COM: "FGP LTD."
         },
         {
-            "SYM": "PHCAP",
-            "COMPANY": "PH CAPITAL LTD."
+            SYM: "PHCAP",
+            COM: "PH CAPITAL LTD."
         },
         {
-            "SYM": "FINCABLES",
-            "COMPANY": "FINOLEX CABLES LTD."
+            SYM: "FINCABLES",
+            COM: "FINOLEX CABLES LTD."
         },
         {
-            "SYM": "COCKERILL",
-            "COMPANY": "John Cockerill India Ltd-$"
+            SYM: "COCKERILL",
+            COM: "John Cockerill India Ltd"
         },
         {
-            "SYM": "UFLEX",
-            "COMPANY": "UFLEX LTD."
+            SYM: "UFLEX",
+            COM: "UFLEX LTD."
         },
         {
-            "SYM": "FOSECOIND",
-            "COMPANY": "FOSECO INDIA LTD."
+            SYM: "FOSECOIND",
+            COM: "FOSECO INDIA LTD."
         },
         {
-            "SYM": "GOLDENTOBC",
-            "COMPANY": "GOLDEN TOBACCO LTD."
+            SYM: "GOLDENTOBC",
+            COM: "GOLDEN TOBACCO LTD."
         },
         {
-            "SYM": "GANESHBE",
-            "COMPANY": "GANESH BENZOPLAST LTD."
+            SYM: "GANESHBE",
+            COM: "GANESH BENZOPLAST LTD."
         },
         {
-            "SYM": "METROGLOBL",
-            "COMPANY": "Metroglobal Limited"
+            SYM: "METROGLOBL",
+            COM: "Metroglobal Limited"
         },
         {
-            "SYM": "GTL",
-            "COMPANY": "GTL LTD."
+            SYM: "GTL",
+            COM: "GTL LTD."
         },
         {
-            "SYM": "GODFRYPHLP",
-            "COMPANY": "GODFREY PHILLIPS INDIA LTD."
+            SYM: "GODFRYPHLP",
+            COM: "GODFREY PHILLIPS INDIA LTD."
         },
         {
-            "SYM": "GODREJIND",
-            "COMPANY": "GODREJ INDUSTRIES LTD."
+            SYM: "GODREJIND",
+            COM: "GODREJ INDUSTRIES LTD."
         },
         {
-            "SYM": "KANSAINER",
-            "COMPANY": "KANSAI NEROLAC PAINTS LTD."
+            SYM: "KANSAINER",
+            COM: "KANSAI NEROLAC PAINTS LTD."
         },
         {
-            "SYM": "GOODRICKE",
-            "COMPANY": "GOODRICKE GROUP LTD."
+            SYM: "GOODRICKE",
+            COM: "GOODRICKE GROUP LTD."
         },
         {
-            "SYM": "GOODYEAR",
-            "COMPANY": "GOODYEAR INDIA LTD."
+            SYM: "GOODYEAR",
+            COM: "GOODYEAR INDIA LTD."
         },
         {
-            "SYM": "GTNINDS",
-            "COMPANY": "GTN INDUSTRIES LTD."
+            SYM: "GTNINDS",
+            COM: "GTN INDUSTRIES LTD."
         },
         {
-            "SYM": "GHCL",
-            "COMPANY": "GHCL LTD."
+            SYM: "GHCL",
+            COM: "GHCL LTD."
         },
         {
-            "SYM": "GFLLIMITED",
-            "COMPANY": "GFL Ltd"
+            SYM: "GFLLIMITED",
+            COM: "GFL Ltd"
         },
         {
-            "SYM": "GLFL",
-            "COMPANY": "GUJARAT LEASE FINANCING LTD."
+            SYM: "GLFL",
+            COM: "GUJARAT LEASE FINANCING LTD."
         },
         {
-            "SYM": "HCL-INSYS",
-            "COMPANY": "HCL INFOSYSTEMS LTD."
+            SYM: "HCL-INSYS",
+            COM: "HCL INFOSYSTEMS LTD."
         },
         {
-            "SYM": "HDFCBANK",
-            "COMPANY": "HDFC Bank Ltd"
+            SYM: "HDFCBANK",
+            COM: "HDFC Bank Ltd"
         },
         {
-            "SYM": "HEROMOTOCO",
-            "COMPANY": "HERO MOTOCORP LTD."
+            SYM: "HEROMOTOCO",
+            COM: "HERO MOTOCORP LTD."
         },
         {
-            "SYM": "HFCL",
-            "COMPANY": "HFCL Ltd"
+            SYM: "HFCL",
+            COM: "HFCL Ltd"
         },
         {
-            "SYM": "HSCL",
-            "COMPANY": "Himadri Speciality Chemical Ltd"
+            SYM: "HSCL",
+            COM: "Himadri Speciality Chemical Ltd"
         },
         {
-            "SYM": "HCC",
-            "COMPANY": "HINDUSTAN CONSTRUCTION CO.LTD."
+            SYM: "HCC",
+            COM: "HINDUSTAN CONSTRUCTION CO.LTD."
         },
         {
-            "SYM": "HINDOILEXP",
-            "COMPANY": "HINDUSTAN OIL EXPLORATION CO.LTD."
+            SYM: "HINDOILEXP",
+            COM: "HINDUSTAN OIL EXPLORATION CO.LTD."
         },
         {
-            "SYM": "HSIL",
-            "COMPANY": "HSIL LTD."
+            SYM: "HSIL",
+            COM: "HSIL LTD."
         },
         {
-            "SYM": "HINDZINC",
-            "COMPANY": "HINDUSTAN ZINC LTD."
+            SYM: "HINDZINC",
+            COM: "HINDUSTAN ZINC LTD."
         },
         {
-            "SYM": "NXTDIGITAL",
-            "COMPANY": "Nxtdigital Ltd"
+            SYM: "NXTDIGITAL",
+            COM: "Nxtdigital Ltd"
         },
         {
-            "SYM": "HMT",
-            "COMPANY": "HMT LTD."
+            SYM: "HMT",
+            COM: "HMT LTD."
         },
         {
-            "SYM": "PRAGBOS",
-            "COMPANY": "PRAG BOSIMI SYNTHETICS LTD."
+            SYM: "PRAGBOS",
+            COM: "PRAG BOSIMI SYNTHETICS LTD."
         },
         {
-            "SYM": "HLVLTD",
-            "COMPANY": "HLV Ltd"
+            SYM: "HLVLTD",
+            COM: "HLV Ltd"
         },
         {
-            "SYM": "IGPL",
-            "COMPANY": "I G PETROCHEMICALS LTD."
+            SYM: "IGPL",
+            COM: "I G PETROCHEMICALS LTD."
         },
         {
-            "SYM": "INDIAGLYCO",
-            "COMPANY": "INDIA GLYCOLS LTD."
+            SYM: "INDIAGLYCO",
+            COM: "INDIA GLYCOLS LTD."
         },
         {
-            "SYM": "INDLEASE",
-            "COMPANY": "INDIA LEASE DEVELOPMENT LTD."
+            SYM: "INDLEASE",
+            COM: "INDIA LEASE DEVELOPMENT LTD."
         },
         {
-            "SYM": "MARGOFIN",
-            "COMPANY": "Margo Finance Limited"
+            SYM: "MARGOFIN",
+            COM: "Margo Finance Limited"
         },
         {
-            "SYM": "INDORAMA",
-            "COMPANY": "INDO RAMA SYNTHETICS (INDIA) LTD."
+            SYM: "INDORAMA",
+            COM: "INDO RAMA SYNTHETICS (INDIA) LTD."
         },
         {
-            "SYM": "INFY",
-            "COMPANY": "INFOSYS LTD."
+            SYM: "INFY",
+            COM: "INFOSYS LTD."
         },
         {
-            "SYM": "INGERRAND",
-            "COMPANY": "INGERSOLL-RAND (INDIA) LTD."
+            SYM: "INGERRAND",
+            COM: "INGERSOLL-RAND (INDIA) LTD."
         },
         {
-            "SYM": "INSILCO",
-            "COMPANY": "INSILCO LTD."
+            SYM: "INSILCO",
+            COM: "INSILCO LTD."
         },
         {
-            "SYM": "IFSL",
-            "COMPANY": "INTEGRATED FINANCIAL SERVICES LTD."
+            SYM: "IFSL",
+            COM: "INTEGRATED FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "ITHL",
-            "COMPANY": "INTERNATIONAL TRAVEL HOUSE LTD.-$"
+            SYM: "ITHL",
+            COM: "INTERNATIONAL TRAVEL HOUSE LTD."
         },
         {
-            "SYM": "IONEXCHANG",
-            "COMPANY": "ION EXCHANGE (INDIA) LTD.-$"
+            SYM: "IONEXCHANG",
+            COM: "ION EXCHANGE (INDIA) LTD."
         },
         {
-            "SYM": "ATFL",
-            "COMPANY": "AGRO TECH FOODS LTD."
+            SYM: "ATFL",
+            COM: "AGRO TECH FOODS LTD."
         },
         {
-            "SYM": "JISLJALEQS",
-            "COMPANY": "JAIN IRRIGATION SYSTEMS LTD."
+            SYM: "JISLJALEQS",
+            COM: "JAIN IRRIGATION SYSTEMS LTD."
         },
         {
-            "SYM": "JASCH",
-            "COMPANY": "JASCH INDUSTRIES LTD."
+            SYM: "JASCH",
+            COM: "JASCH INDUSTRIES LTD."
         },
         {
-            "SYM": "JCTLTD",
-            "COMPANY": "JCT LTD."
+            SYM: "JCTLTD",
+            COM: "JCT LTD."
         },
         {
-            "SYM": "JINDALPOLY",
-            "COMPANY": "JINDAL POLY FILMS LTD."
+            SYM: "JINDALPOLY",
+            COM: "JINDAL POLY FILMS LTD."
         },
         {
-            "SYM": "JSWSTEEL",
-            "COMPANY": "JSW STEEL LTD."
+            SYM: "JSWSTEEL",
+            COM: "JSW STEEL LTD."
         },
         {
-            "SYM": "UMANGDAIR",
-            "COMPANY": "UMANG DAIRIES LTD."
+            SYM: "UMANGDAIR",
+            COM: "UMANG DAIRIES LTD."
         },
         {
-            "SYM": "KAJARIACER",
-            "COMPANY": "KAJARIA CERAMICS LTD."
+            SYM: "KAJARIACER",
+            COM: "KAJARIA CERAMICS LTD."
         },
         {
-            "SYM": "KAKATCEM",
-            "COMPANY": "KAKATIYA CEMENT SUGAR & INDUSTRIES LTD."
+            SYM: "KAKATCEM",
+            COM: "KAKATIYA CEMENT SUGAR & INDUSTRIES LTD."
         },
         {
-            "SYM": "KSL",
-            "COMPANY": "KALYANI STEELS LTD."
+            SYM: "KSL",
+            COM: "KALYANI STEELS LTD."
         },
         {
-            "SYM": "KANELIND",
-            "COMPANY": "Kanel Industries Limited"
+            SYM: "KANELIND",
+            COM: "Kanel Industries Limited"
         },
         {
-            "SYM": "WHIRLPOOL",
-            "COMPANY": "WHIRLPOOL OF INDIA LTD."
+            SYM: "WHIRLPOOL",
+            COM: "WHIRLPOOL OF INDIA LTD."
         },
         {
-            "SYM": "KGDENIM",
-            "COMPANY": "KG DENIM LTD."
+            SYM: "KGDENIM",
+            COM: "KG DENIM LTD."
         },
         {
-            "SYM": "KINETICENG",
-            "COMPANY": "KINETIC ENGINEERING LTD."
+            SYM: "KINETICENG",
+            COM: "KINETIC ENGINEERING LTD."
         },
         {
-            "SYM": "KIRLOSBROS",
-            "COMPANY": "KIRLOSKAR BROTHERS LTD.-$"
+            SYM: "KIRLOSBROS",
+            COM: "KIRLOSKAR BROTHERS LTD."
         },
         {
-            "SYM": "KIRLOSIND",
-            "COMPANY": "Kirloskar Industries Ltd"
+            SYM: "KIRLOSIND",
+            COM: "Kirloskar Industries Ltd"
         },
         {
-            "SYM": "KIRLFER",
-            "COMPANY": "KIRLOSKAR FERROUS INDUSTRIES LTD."
+            SYM: "KIRLFER",
+            COM: "KIRLOSKAR FERROUS INDUSTRIES LTD."
         },
         {
-            "SYM": "ENVAIREL",
-            "COMPANY": "ENVAIR ELECTRODYNE LTD."
+            SYM: "ENVAIREL",
+            COM: "ENVAIR ELECTRODYNE LTD."
         },
         {
-            "SYM": "KOTAKBANK",
-            "COMPANY": "KOTAK MAHINDRA BANK LTD."
+            SYM: "KOTAKBANK",
+            COM: "KOTAK MAHINDRA BANK LTD."
         },
         {
-            "SYM": "KRIFILIND",
-            "COMPANY": "Krishna Filament Industries Ltd"
+            SYM: "KRIFILIND",
+            COM: "Krishna Filament Industries Ltd"
         },
         {
-            "SYM": "KSB",
-            "COMPANY": "KSB Ltd"
+            SYM: "KSB",
+            COM: "KSB Ltd"
         },
         {
-            "SYM": "LGBBROSLTD",
-            "COMPANY": "L.G.BALAKRISHNAN & BROS.LTD."
+            SYM: "LGBBROSLTD",
+            COM: "L.G.BALAKRISHNAN & BROS.LTD."
         },
         {
-            "SYM": "TRENT",
-            "COMPANY": "TRENT LTD."
+            SYM: "TRENT",
+            COM: "TRENT LTD."
         },
         {
-            "SYM": "LAXMIMACH",
-            "COMPANY": "LAKSHMI MACHINE WORKS LTD."
+            SYM: "LAXMIMACH",
+            COM: "LAKSHMI MACHINE WORKS LTD."
         },
         {
-            "SYM": "LICHSGFIN",
-            "COMPANY": "LIC HOUSING FINANCE LTD."
+            SYM: "LICHSGFIN",
+            COM: "LIC HOUSING FINANCE LTD."
         },
         {
-            "SYM": "LUPIN",
-            "COMPANY": "LUPIN LTD."
+            SYM: "LUPIN",
+            COM: "LUPIN LTD."
         },
         {
-            "SYM": "LYKALABS",
-            "COMPANY": "LYKA LABS LTD."
+            SYM: "LYKALABS",
+            COM: "LYKA LABS LTD."
         },
         {
-            "SYM": "RAMCOCEM",
-            "COMPANY": "The Ramco Cements Limited"
+            SYM: "RAMCOCEM",
+            COM: "The Ramco Cements Limited"
         },
         {
-            "SYM": "MAFATIND",
-            "COMPANY": "MAFATLAL INDUSTRIES LTD.-$"
+            SYM: "MAFATIND",
+            COM: "MAFATLAL INDUSTRIES LTD."
         },
         {
-            "SYM": "MAHSEAMLES",
-            "COMPANY": "MAHARASHTRA SEAMLESS LTD."
+            SYM: "MAHSEAMLES",
+            COM: "MAHARASHTRA SEAMLESS LTD."
         },
         {
-            "SYM": "MAHSCOOTER",
-            "COMPANY": "MAHARASHTRA SCOOTERS LTD."
+            SYM: "MAHSCOOTER",
+            COM: "MAHARASHTRA SCOOTERS LTD."
         },
         {
-            "SYM": "MAJESAUT",
-            "COMPANY": "MAJESTIC AUTO LTD.-$"
+            SYM: "MAJESAUT",
+            COM: "MAJESTIC AUTO LTD."
         },
         {
-            "SYM": "MANALIPETC",
-            "COMPANY": "MANALI PETROCHEMICAL LTD."
+            SYM: "MANALIPETC",
+            COM: "MANALI PETROCHEMICAL LTD."
         },
         {
-            "SYM": "MFSL",
-            "COMPANY": "Max Financial Services Ltd"
+            SYM: "MFSL",
+            COM: "Max Financial Services Ltd"
         },
         {
-            "SYM": "MESPHAR-B",
-            "COMPANY": "MESCO PHARMACEUTICALS LTD."
+            SYM: "MESPHAR-B",
+            COM: "MESCO PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "MIDINDIA",
-            "COMPANY": "MID INDIA INDUSTRIES LTD."
+            SYM: "MIDINDIA",
+            COM: "MID INDIA INDUSTRIES LTD."
         },
         {
-            "SYM": "MIRCELECTR",
-            "COMPANY": "MIRC ELECTRONICS LTD."
+            SYM: "MIRCELECTR",
+            COM: "MIRC ELECTRONICS LTD."
         },
         {
-            "SYM": "CENTENKA",
-            "COMPANY": "CENTURY ENKA LTD."
+            SYM: "CENTENKA",
+            COM: "CENTURY ENKA LTD."
         },
         {
-            "SYM": "LORDSCHLO",
-            "COMPANY": "LORDS CHLORO ALKALI LTD."
+            SYM: "LORDSCHLO",
+            COM: "LORDS CHLORO ALKALI LTD."
         },
         {
-            "SYM": "SPICEJET",
-            "COMPANY": "SPICEJET LTD."
+            SYM: "SPICEJET",
+            COM: "SPICEJET LTD."
         },
         {
-            "SYM": "MOREPENLAB",
-            "COMPANY": "MOREPEN LABORATORIES LTD."
+            SYM: "MOREPENLAB",
+            COM: "MOREPEN LABORATORIES LTD."
         },
         {
-            "SYM": "MRF",
-            "COMPANY": "MRF LTD."
+            SYM: "MRF",
+            COM: "MRF LTD."
         },
         {
-            "SYM": "HEIDELBERG",
-            "COMPANY": "HEIDELBERGCEMENT INDIA LTD."
+            SYM: "HEIDELBERG",
+            COM: "HEIDELBERGCEMENT INDIA LTD."
         },
         {
-            "SYM": "NCC",
-            "COMPANY": "NCC Limited"
+            SYM: "NCC",
+            COM: "NCC Limited"
         },
         {
-            "SYM": "VEDL",
-            "COMPANY": "Vedanta Limited"
+            SYM: "VEDL",
+            COM: "Vedanta Limited"
         },
         {
-            "SYM": "NAHARSPING",
-            "COMPANY": "NAHAR SPINNING MILLS LTD."
+            SYM: "NAHARSPING",
+            COM: "NAHAR SPINNING MILLS LTD."
         },
         {
-            "SYM": "NATPEROX",
-            "COMPANY": "NATIONAL PEROXIDE LTD."
+            SYM: "NATPEROX",
+            COM: "NATIONAL PEROXIDE LTD."
         },
         {
-            "SYM": "GRASIM",
-            "COMPANY": "GRASIM INDUSTRIES LTD."
+            SYM: "GRASIM",
+            COM: "GRASIM INDUSTRIES LTD."
         },
         {
-            "SYM": "PEL",
-            "COMPANY": "PIRAMAL ENTERPRISES LTD."
+            SYM: "PEL",
+            COM: "PIRAMAL ENTERPRISES LTD."
         },
         {
-            "SYM": "NIITLTD",
-            "COMPANY": "NIIT LTD."
+            SYM: "NIITLTD",
+            COM: "NIIT LTD."
         },
         {
-            "SYM": "JAYKAY",
-            "COMPANY": "JAYKAY ENTERPRISES LTD."
+            SYM: "JAYKAY",
+            COM: "JAYKAY ENTERPRISES LTD."
         },
         {
-            "SYM": "NIRLON",
-            "COMPANY": "NIRLON LTD."
+            SYM: "NIRLON",
+            COM: "NIRLON LTD."
         },
         {
-            "SYM": "ONGC",
-            "COMPANY": "Oil and Natural Gas Corporation Ltd"
+            SYM: "ONGC",
+            COM: "Oil and Natural Gas Corporation Ltd"
         },
         {
-            "SYM": "ORIENTHOT",
-            "COMPANY": "ORIENTAL HOTELS LTD."
+            SYM: "ORIENTHOT",
+            COM: "ORIENTAL HOTELS LTD."
         },
         {
-            "SYM": "OSWALAGRO",
-            "COMPANY": "OSWAL AGRO MILLS LTD."
+            SYM: "OSWALAGRO",
+            COM: "OSWAL AGRO MILLS LTD."
         },
         {
-            "SYM": "INDSUCR",
-            "COMPANY": "INDIAN SUCROSE LTD."
+            SYM: "INDSUCR",
+            COM: "INDIAN SUCROSE LTD."
         },
         {
-            "SYM": "RELIANCE",
-            "COMPANY": "RELIANCE INDUSTRIES LTD."
+            SYM: "RELIANCE",
+            COM: "RELIANCE INDUSTRIES LTD."
         },
         {
-            "SYM": "PILITA",
-            "COMPANY": "Pil Italica Lifestyle Ltd"
+            SYM: "PILITA",
+            COM: "Pil Italica Lifestyle Ltd"
         },
         {
-            "SYM": "RAYMOND",
-            "COMPANY": "RAYMOND LTD."
+            SYM: "RAYMOND",
+            COM: "RAYMOND LTD."
         },
         {
-            "SYM": "PIDILITIND",
-            "COMPANY": "PIDILITE INDUSTRIES LTD."
+            SYM: "PIDILITIND",
+            COM: "PIDILITE INDUSTRIES LTD."
         },
         {
-            "SYM": "PIXTRANS",
-            "COMPANY": "PIX TRANSMISSIONS LTD."
+            SYM: "PIXTRANS",
+            COM: "PIX TRANSMISSIONS LTD."
         },
         {
-            "SYM": "BIRLACORPN",
-            "COMPANY": "BIRLA CORPORATION LTD."
+            SYM: "BIRLACORPN",
+            COM: "BIRLA CORPORATION LTD."
         },
         {
-            "SYM": "SURYAROSNI",
-            "COMPANY": "SURYA ROSHNI LTD."
+            SYM: "SURYAROSNI",
+            COM: "SURYA ROSHNI LTD."
         },
         {
-            "SYM": "PRIMESECU",
-            "COMPANY": "PRIME SECURITIES LTD."
+            SYM: "PRIMESECU",
+            COM: "PRIME SECURITIES LTD."
         },
         {
-            "SYM": "PRSMJOHNSN",
-            "COMPANY": "Prism Johnson Ltd"
+            SYM: "PRSMJOHNSN",
+            COM: "Prism Johnson Ltd"
         },
         {
-            "SYM": "RAIN",
-            "COMPANY": "Rain Industries Ltd"
+            SYM: "RAIN",
+            COM: "Rain Industries Ltd"
         },
         {
-            "SYM": "AMJLAND",
-            "COMPANY": "AMJ Land Holdings Ltd"
+            SYM: "AMJLAND",
+            COM: "AMJ Land Holdings Ltd"
         },
         {
-            "SYM": "PUNJCOMMU",
-            "COMPANY": "PUNJAB COMMUNICATIONS LTD.-$"
+            SYM: "PUNJCOMMU",
+            COM: "PUNJAB COMMUNICATIONS LTD."
         },
         {
-            "SYM": "RSWM",
-            "COMPANY": "RSWM LTD."
+            SYM: "RSWM",
+            COM: "RSWM LTD."
         },
         {
-            "SYM": "RAJSREESUG",
-            "COMPANY": "RAJSHREE SUGARS & CHEMICALS LTD."
+            SYM: "RAJSREESUG",
+            COM: "RAJSHREE SUGARS & CHEMICALS LTD."
         },
         {
-            "SYM": "RALLIS",
-            "COMPANY": "RALLIS INDIA LTD."
+            SYM: "RALLIS",
+            COM: "RALLIS INDIA LTD."
         },
         {
-            "SYM": "RAMANEWS",
-            "COMPANY": "SHREE RAMA NEWSPRINT LTD."
+            SYM: "RAMANEWS",
+            COM: "SHREE RAMA NEWSPRINT LTD."
         },
         {
-            "SYM": "RAMAPPR-B",
-            "COMPANY": "RAMA PAPER MILLS LTD."
+            SYM: "RAMAPPR-B",
+            COM: "RAMA PAPER MILLS LTD."
         },
         {
-            "SYM": "RAMAPETRO",
-            "COMPANY": "RAMA PETROCHEMICALS LTD."
+            SYM: "RAMAPETRO",
+            COM: "RAMA PETROCHEMICALS LTD."
         },
         {
-            "SYM": "RAPICUT",
-            "COMPANY": "RAPICUT CARBIDES LTD."
+            SYM: "RAPICUT",
+            COM: "RAPICUT CARBIDES LTD."
         },
         {
-            "SYM": "WELSPLSOL",
-            "COMPANY": "Welspun Specialty Solutions Ltd"
+            SYM: "WELSPLSOL",
+            COM: "Welspun Specialty Solutions Ltd"
         },
         {
-            "SYM": "ROLTA",
-            "COMPANY": "ROLTA INDIA LTD."
+            SYM: "ROLTA",
+            COM: "ROLTA INDIA LTD."
         },
         {
-            "SYM": "RUBFILA",
-            "COMPANY": "RUBFILA INTERNATIONAL LTD."
+            SYM: "RUBFILA",
+            COM: "RUBFILA INTERNATIONAL LTD."
         },
         {
-            "SYM": "RUCHISOYA",
-            "COMPANY": "RUCHI SOYA INDUSTRIES LTD."
+            SYM: "RUCHISOYA",
+            COM: "RUCHI SOYA INDUSTRIES LTD."
         },
         {
-            "SYM": "SALORAINTL",
-            "COMPANY": "SALORA INTERNATIONAL LTD."
+            SYM: "SALORAINTL",
+            COM: "SALORA INTERNATIONAL LTD."
         },
         {
-            "SYM": "JINDALSAW",
-            "COMPANY": "JINDAL SAW LTD."
+            SYM: "JINDALSAW",
+            COM: "JINDAL SAW LTD."
         },
         {
-            "SYM": "JKLAKSHMI",
-            "COMPANY": "JK LAKSHMI CEMENT LTD."
+            SYM: "JKLAKSHMI",
+            COM: "JK LAKSHMI CEMENT LTD."
         },
         {
-            "SYM": "SHREECEM",
-            "COMPANY": "SHREE CEMENT LTD."
+            SYM: "SHREECEM",
+            COM: "SHREE CEMENT LTD."
         },
         {
-            "SYM": "SKPMIL",
-            "COMPANY": "SHREE KRISHNA PAPER MILLS & INDUSTRIES LTD."
+            SYM: "SKPMIL",
+            COM: "SHREE KRISHNA PAPER MILLS & INDUSTRIES LTD."
         },
         {
-            "SYM": "RELINFRA",
-            "COMPANY": "RELIANCE INFRASTRUCTURE LTD."
+            SYM: "RELINFRA",
+            COM: "RELIANCE INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "TATAPOWER",
-            "COMPANY": "TATA POWER CO.LTD."
+            SYM: "TATAPOWER",
+            COM: "TATA POWER CO.LTD."
         },
         {
-            "SYM": "SPMLINFRA",
-            "COMPANY": "SPML Infra Limited"
+            SYM: "SPMLINFRA",
+            COM: "SPML Infra Limited"
         },
         {
-            "SYM": "SUNDRMFAST",
-            "COMPANY": "SUNDRAM FASTENERS LTD."
+            SYM: "SUNDRMFAST",
+            COM: "SUNDRAM FASTENERS LTD."
         },
         {
-            "SYM": "SUNFLAG",
-            "COMPANY": "SUNFLAG IRON & STEEL CO.LTD."
+            SYM: "SUNFLAG",
+            COM: "SUNFLAG IRON & STEEL CO.LTD."
         },
         {
-            "SYM": "SUPPETRO",
-            "COMPANY": "SUPREME PETROCHEM LTD."
+            SYM: "SUPPETRO",
+            COM: "SUPREME PETROCHEM LTD."
         },
         {
-            "SYM": "SWARAJENG",
-            "COMPANY": "SWARAJ ENGINES LTD."
+            SYM: "SWARAJENG",
+            COM: "SWARAJ ENGINES LTD."
         },
         {
-            "SYM": "TATAELXSI",
-            "COMPANY": "TATA ELXSI LTD."
+            SYM: "TATAELXSI",
+            COM: "TATA ELXSI LTD."
         },
         {
-            "SYM": "ACC",
-            "COMPANY": "ACC LTD."
+            SYM: "ACC",
+            COM: "ACC LTD."
         },
         {
-            "SYM": "THERMAX",
-            "COMPANY": "THERMAX LTD."
+            SYM: "THERMAX",
+            COM: "THERMAX LTD."
         },
         {
-            "SYM": "TIRUMALCHM",
-            "COMPANY": "THIRUMALAI CHEMICALS LTD."
+            SYM: "TIRUMALCHM",
+            COM: "THIRUMALAI CHEMICALS LTD."
         },
         {
-            "SYM": "THOMASCOOK",
-            "COMPANY": "THOMAS COOK (INDIA) LTD."
+            SYM: "THOMASCOOK",
+            COM: "THOMAS COOK (INDIA) LTD."
         },
         {
-            "SYM": "TIMEX",
-            "COMPANY": "TIMEX GROUP INDIA LTD.-$"
+            SYM: "TIMEX",
+            COM: "TIMEX GROUP INDIA LTD."
         },
         {
-            "SYM": "TOKYOPLAST",
-            "COMPANY": "TOKYO PLAST INTERNATIONAL LTD."
+            SYM: "TOKYOPLAST",
+            COM: "TOKYO PLAST INTERNATIONAL LTD."
         },
         {
-            "SYM": "TORNTPHARM",
-            "COMPANY": "TORRENT PHARMACEUTICALS LTD."
+            SYM: "TORNTPHARM",
+            COM: "TORRENT PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "TRANSCHEM",
-            "COMPANY": "TRANSCHEM LTD.-$"
+            SYM: "TRANSCHEM",
+            COM: "TRANSCHEM LTD."
         },
         {
-            "SYM": "AMBUJACEM",
-            "COMPANY": "AMBUJA CEMENTS LTD."
+            SYM: "AMBUJACEM",
+            COM: "AMBUJA CEMENTS LTD."
         },
         {
-            "SYM": "UTLINDS",
-            "COMPANY": "UTL Industries Limited"
+            SYM: "UTLINDS",
+            COM: "UTL Industries Limited"
         },
         {
-            "SYM": "UNIPHOS",
-            "COMPANY": "UNIPHOS ENTERPRISES LTD."
+            SYM: "UNIPHOS",
+            COM: "UNIPHOS ENTERPRISES LTD."
         },
         {
-            "SYM": "VHL",
-            "COMPANY": "VARDHMAN HOLDINGS LTD."
+            SYM: "VHL",
+            COM: "VARDHMAN HOLDINGS LTD."
         },
         {
-            "SYM": "HINDALCO",
-            "COMPANY": "HINDALCO INDUSTRIES LTD."
+            SYM: "HINDALCO",
+            COM: "HINDALCO INDUSTRIES LTD."
         },
         {
-            "SYM": "WSTCSTPAPR",
-            "COMPANY": "WEST COAST PAPER MILLS LTD."
+            SYM: "WSTCSTPAPR",
+            COM: "WEST COAST PAPER MILLS LTD."
         },
         {
-            "SYM": "HOCL",
-            "COMPANY": "HINDUSTAN ORGANIC CHEMICALS LTD."
+            SYM: "HOCL",
+            COM: "HINDUSTAN ORGANIC CHEMICALS LTD."
         },
         {
-            "SYM": "MPILCORPL",
-            "COMPANY": "MPIL CORPORATION LTD."
+            SYM: "MPILCORPL",
+            COM: "MPIL CORPORATION LTD."
         },
         {
-            "SYM": "PASUPTAC",
-            "COMPANY": "PASUPATI ACRYLON LTD."
+            SYM: "PASUPTAC",
+            COM: "PASUPATI ACRYLON LTD."
         },
         {
-            "SYM": "KORE",
-            "COMPANY": "Kore Foods Ltd"
+            SYM: "KORE",
+            COM: "Kore Foods Ltd"
         },
         {
-            "SYM": "PGHH",
-            "COMPANY": "PROCTER & GAMBLE HYGIENE & HEALTH CARE LTD."
+            SYM: "PGHH",
+            COM: "PROCTER & GAMBLE HYGIENE & HEALTH CARE LTD."
         },
         {
-            "SYM": "MUKANDLTD",
-            "COMPANY": "MUKAND LTD."
+            SYM: "MUKANDLTD",
+            COM: "MUKAND LTD."
         },
         {
-            "SYM": "AGCNET",
-            "COMPANY": "AGC Networks Limited"
+            SYM: "AGCNET",
+            COM: "AGC Networks Limited"
         },
         {
-            "SYM": "UCALFUEL",
-            "COMPANY": "UCAL FUEL SYSTEMS LTD."
+            SYM: "UCALFUEL",
+            COM: "UCAL FUEL SYSTEMS LTD."
         },
         {
-            "SYM": "HARRMALAYA",
-            "COMPANY": "HARRISONS MALAYALAM LTD."
+            SYM: "HARRMALAYA",
+            COM: "HARRISONS MALAYALAM LTD."
         },
         {
-            "SYM": "FEDERALBNK",
-            "COMPANY": "FEDERAL BANK LTD."
+            SYM: "FEDERALBNK",
+            COM: "FEDERAL BANK LTD."
         },
         {
-            "SYM": "TATASTEEL",
-            "COMPANY": "TATA STEEL LTD."
+            SYM: "TATASTEEL",
+            COM: "TATA STEEL LTD."
         },
         {
-            "SYM": "SKFINDIA",
-            "COMPANY": "SKF India Ltd"
+            SYM: "SKFINDIA",
+            COM: "SKF India Ltd"
         },
         {
-            "SYM": "ASHOKLEY",
-            "COMPANY": "ASHOK LEYLAND LTD."
+            SYM: "ASHOKLEY",
+            COM: "ASHOK LEYLAND LTD."
         },
         {
-            "SYM": "CUMMINSIND",
-            "COMPANY": "CUMMINS INDIA LTD."
+            SYM: "CUMMINSIND",
+            COM: "CUMMINS INDIA LTD."
         },
         {
-            "SYM": "TATACOMM",
-            "COMPANY": "TATA COMMUNICATIONS LTD."
+            SYM: "TATACOMM",
+            COM: "TATA COMMUNICATIONS LTD."
         },
         {
-            "SYM": "ABBOTINDIA",
-            "COMPANY": "ABBOTT INDIA LTD."
+            SYM: "ABBOTINDIA",
+            COM: "ABBOTT INDIA LTD."
         },
         {
-            "SYM": "BAJAJHLDNG",
-            "COMPANY": "BAJAJ HOLDINGS & INVESTMENT LTD."
+            SYM: "BAJAJHLDNG",
+            COM: "BAJAJ HOLDINGS & INVESTMENT LTD."
         },
         {
-            "SYM": "BHARATFORG",
-            "COMPANY": "BHARAT FORGE LTD."
+            SYM: "BHARATFORG",
+            COM: "BHARAT FORGE LTD."
         },
         {
-            "SYM": "ESCORTS",
-            "COMPANY": "ESCORTS LTD."
+            SYM: "ESCORTS",
+            COM: "ESCORTS LTD."
         },
         {
-            "SYM": "HINDMOTORS",
-            "COMPANY": "HINDUSTAN MOTORS LTD."
+            SYM: "HINDMOTORS",
+            COM: "HINDUSTAN MOTORS LTD."
         },
         {
-            "SYM": "LT",
-            "COMPANY": "LARSEN & TOUBRO LTD."
+            SYM: "LT",
+            COM: "LARSEN & TOUBRO LTD."
         },
         {
-            "SYM": "M&M",
-            "COMPANY": "MAHINDRA & MAHINDRA LTD."
+            SYM: "M&M",
+            COM: "MAHINDRA & MAHINDRA LTD."
         },
         {
-            "SYM": "BOSCHLTD",
-            "COMPANY": "BOSCH LTD."
+            SYM: "BOSCHLTD",
+            COM: "BOSCH LTD."
         },
         {
-            "SYM": "PREMIER",
-            "COMPANY": "PREMIER LTD."
+            SYM: "PREMIER",
+            COM: "PREMIER LTD."
         },
         {
-            "SYM": "BPCL",
-            "COMPANY": "BHARAT PETROLEUM CORPORATION LTD."
+            SYM: "BPCL",
+            COM: "BHARAT PETROLEUM CORPORATION LTD."
         },
         {
-            "SYM": "SIEMENS",
-            "COMPANY": "SIEMENS LTD."
+            SYM: "SIEMENS",
+            COM: "SIEMENS LTD."
         },
         {
-            "SYM": "TATAMOTORS",
-            "COMPANY": "TATA MOTORS LTD."
+            SYM: "TATAMOTORS",
+            COM: "TATA MOTORS LTD."
         },
         {
-            "SYM": "VOLTAS",
-            "COMPANY": "VOLTAS LTD."
+            SYM: "VOLTAS",
+            COM: "VOLTAS LTD."
         },
         {
-            "SYM": "GESHIP",
-            "COMPANY": "GREAT EASTERN SHIPPING CO.LTD."
+            SYM: "GESHIP",
+            COM: "GREAT EASTERN SHIPPING CO.LTD."
         },
         {
-            "SYM": "DEEPAKFERT",
-            "COMPANY": "DEEPAK FERTILISERS & PETROCHEMICALS CORPORATION LTD."
+            SYM: "DEEPAKFERT",
+            COM: "DEEPAK FERTILISERS & PETROCHEMICALS CORPORATION LTD."
         },
         {
-            "SYM": "EXCELINDUS",
-            "COMPANY": "EXCEL INDUSTRIES LTD."
+            SYM: "EXCELINDUS",
+            COM: "EXCEL INDUSTRIES LTD."
         },
         {
-            "SYM": "GRWRHITECH",
-            "COMPANY": "Garware Hi-Tech Films Ltd"
+            SYM: "GRWRHITECH",
+            COM: "Garware Hi-Tech Films Ltd"
         },
         {
-            "SYM": "GLAXO",
-            "COMPANY": "GLAXOSMITHKLINE PHARMACEUTICALS LTD."
+            SYM: "GLAXO",
+            COM: "GLAXOSMITHKLINE PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "GNFC",
-            "COMPANY": "GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LTD."
+            SYM: "GNFC",
+            COM: "GUJARAT NARMADA VALLEY FERTILIZERS & CHEMICALS LTD."
         },
         {
-            "SYM": "NOVARTIND",
-            "COMPANY": "NOVARTIS INDIA LTD."
+            SYM: "NOVARTIND",
+            COM: "NOVARTIS INDIA LTD."
         },
         {
-            "SYM": "SANOFI",
-            "COMPANY": "Sanofi India Ltd"
+            SYM: "SANOFI",
+            COM: "Sanofi India Ltd"
         },
         {
-            "SYM": "PFIZER",
-            "COMPANY": "PFIZER LTD."
+            SYM: "PFIZER",
+            COM: "PFIZER LTD."
         },
         {
-            "SYM": "GSFC",
-            "COMPANY": "GUJARAT STATE FERTILIZERS & CHEMICALS LTD."
+            SYM: "GSFC",
+            COM: "GUJARAT STATE FERTILIZERS & CHEMICALS LTD."
         },
         {
-            "SYM": "HINDUNILVR",
-            "COMPANY": "HINDUSTAN UNILEVER LTD."
+            SYM: "HINDUNILVR",
+            COM: "HINDUSTAN UNILEVER LTD."
         },
         {
-            "SYM": "AKZOINDIA",
-            "COMPANY": "Akzo Nobel India Limited"
+            SYM: "AKZOINDIA",
+            COM: "Akzo Nobel India Limited"
         },
         {
-            "SYM": "NOCIL",
-            "COMPANY": "NOCIL LTD."
+            SYM: "NOCIL",
+            COM: "NOCIL LTD."
         },
         {
-            "SYM": "TATACHEM",
-            "COMPANY": "TATA CHEMICALS LTD."
+            SYM: "TATACHEM",
+            COM: "TATA CHEMICALS LTD."
         },
         {
-            "SYM": "TNPETRO",
-            "COMPANY": "TAMILNADU PETROPRODUCTS LTD."
+            SYM: "TNPETRO",
+            COM: "TAMILNADU PETROPRODUCTS LTD."
         },
         {
-            "SYM": "ZUARIGLOB",
-            "COMPANY": "ZUARI GLOBAL LTD."
+            SYM: "ZUARIGLOB",
+            COM: "ZUARI GLOBAL LTD."
         },
         {
-            "SYM": "NESTLEIND",
-            "COMPANY": "NESTLE INDIA LTD."
+            SYM: "NESTLEIND",
+            COM: "NESTLE INDIA LTD."
         },
         {
-            "SYM": "TATACONSUM",
-            "COMPANY": "Tata Consumer Products Ltd"
+            SYM: "TATACONSUM",
+            COM: "Tata Consumer Products Ltd"
         },
         {
-            "SYM": "ASIANPAINT",
-            "COMPANY": "ASIAN PAINTS LTD."
+            SYM: "ASIANPAINT",
+            COM: "ASIAN PAINTS LTD."
         },
         {
-            "SYM": "BRITANNIA",
-            "COMPANY": "BRITANNIA INDUSTRIES LTD."
+            SYM: "BRITANNIA",
+            COM: "BRITANNIA INDUSTRIES LTD."
         },
         {
-            "SYM": "COLPAL",
-            "COMPANY": "COLGATE-PALMOLIVE (INDIA) LTD."
+            SYM: "COLPAL",
+            COM: "COLGATE-PALMOLIVE (INDIA) LTD."
         },
         {
-            "SYM": "EIHOTEL",
-            "COMPANY": "EIH LTD."
+            SYM: "EIHOTEL",
+            COM: "EIH LTD."
         },
         {
-            "SYM": "INDHOTEL",
-            "COMPANY": "INDIAN HOTELS CO.LTD."
+            SYM: "INDHOTEL",
+            COM: "INDIAN HOTELS CO.LTD."
         },
         {
-            "SYM": "CASTROLIND",
-            "COMPANY": "CASTROL INDIA LTD."
+            SYM: "CASTROLIND",
+            COM: "CASTROL INDIA LTD."
         },
         {
-            "SYM": "ITC",
-            "COMPANY": "ITC LTD."
+            SYM: "ITC",
+            COM: "ITC LTD."
         },
         {
-            "SYM": "APOLLOTYRE",
-            "COMPANY": "APOLLO TYRES LTD."
+            SYM: "APOLLOTYRE",
+            COM: "APOLLO TYRES LTD."
         },
         {
-            "SYM": "CEATLTD",
-            "COMPANY": "CEAT LTD."
+            SYM: "CEATLTD",
+            COM: "CEAT LTD."
         },
         {
-            "SYM": "MODIRUBBER",
-            "COMPANY": "MODI RUBBER LTD."
+            SYM: "MODIRUBBER",
+            COM: "MODI RUBBER LTD."
         },
         {
-            "SYM": "FINOLEXIND",
-            "COMPANY": "FINOLEX INDUSTRIES LTD."
+            SYM: "FINOLEXIND",
+            COM: "FINOLEX INDUSTRIES LTD."
         },
         {
-            "SYM": "SUNRINV",
-            "COMPANY": "SUNRISE INDUSTRIAL TRADERS LTD."
+            SYM: "SUNRINV",
+            COM: "SUNRISE INDUSTRIAL TRADERS LTD."
         },
         {
-            "SYM": "ZGOLDINV",
-            "COMPANY": "GOLD ROCK INVESTMENTS LTD."
+            SYM: "ZGOLDINV",
+            COM: "GOLD ROCK INVESTMENTS LTD."
         },
         {
-            "SYM": "PEOPLIN",
-            "COMPANY": "PEOPLES INVESTMENTS LTD."
+            SYM: "PEOPLIN",
+            COM: "PEOPLES INVESTMENTS LTD."
         },
         {
-            "SYM": "DSINVEST",
-            "COMPANY": "DALAL STREET INVESTMENTS LTD."
+            SYM: "DSINVEST",
+            COM: "DALAL STREET INVESTMENTS LTD."
         },
         {
-            "SYM": "CENTRUM",
-            "COMPANY": "CENTRUM CAPITAL LTD."
+            SYM: "CENTRUM",
+            COM: "CENTRUM CAPITAL LTD."
         },
         {
-            "SYM": "KARTKIN",
-            "COMPANY": "KARTIK INVESTMENTS TRUST LTD."
+            SYM: "KARTKIN",
+            COM: "KARTIK INVESTMENTS TRUST LTD."
         },
         {
-            "SYM": "TCIFINANCE",
-            "COMPANY": "TCI FINANCE LTD."
+            SYM: "TCIFINANCE",
+            COM: "TCI FINANCE LTD."
         },
         {
-            "SYM": "KRATOSENER",
-            "COMPANY": "KRATOS ENERGY & INFRASTRUCTURE LTD."
+            SYM: "KRATOSENER",
+            COM: "KRATOS ENERGY & INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "ANTARIKSH",
-            "COMPANY": "Antariksh Industries Ltd"
+            SYM: "ANTARIKSH",
+            COM: "Antariksh Industries Ltd"
         },
         {
-            "SYM": "IITL",
-            "COMPANY": "INDUSTRIAL INVESTMENT TRUST LTD."
+            SYM: "IITL",
+            COM: "INDUSTRIAL INVESTMENT TRUST LTD."
         },
         {
-            "SYM": "INDPRUD",
-            "COMPANY": "INDUSTRIAL & PRUDENTIAL INVESTMENTS CO.LTD."
+            SYM: "INDPRUD",
+            COM: "INDUSTRIAL & PRUDENTIAL INVESTMENTS CO.LTD."
         },
         {
-            "SYM": "TATAINVEST",
-            "COMPANY": "TATA INVESTMENT CORPORATION LTD."
+            SYM: "TATAINVEST",
+            COM: "TATA INVESTMENT CORPORATION LTD."
         },
         {
-            "SYM": "JAYBHCR",
-            "COMPANY": "JAYABHARAT CREDIT LTD.-$"
+            SYM: "JAYBHCR",
+            COM: "JAYABHARAT CREDIT LTD."
         },
         {
-            "SYM": "PRISMX",
-            "COMPANY": "Prismx Global Ventures Ltd"
+            SYM: "PRISMX",
+            COM: "Prismx Global Ventures Ltd"
         },
         {
-            "SYM": "MOTOGENFIN",
-            "COMPANY": "MOTOR & GENERAL FINANCE LTD."
+            SYM: "MOTOGENFIN",
+            COM: "MOTOR & GENERAL FINANCE LTD."
         },
         {
-            "SYM": "RAPIDIN",
-            "COMPANY": "RAPID INVESTMENTS LTD."
+            SYM: "RAPIDIN",
+            COM: "RAPID INVESTMENTS LTD."
         },
         {
-            "SYM": "WALCHPF",
-            "COMPANY": "WALCHAND PEOPLEFIRST LTD."
+            SYM: "WALCHPF",
+            COM: "WALCHAND PEOPLEFIRST LTD."
         },
         {
-            "SYM": "ZSWASTSA",
-            "COMPANY": "SWASTIK SAFE DEPOSIT & INVESTMENTS LTD."
+            SYM: "ZSWASTSA",
+            COM: "SWASTIK SAFE DEPOSIT & INVESTMENTS LTD."
         },
         {
-            "SYM": "WHBRADY",
-            "COMPANY": "W.H.BRADY & CO.LTD."
+            SYM: "WHBRADY",
+            COM: "W.H.BRADY & CO.LTD."
         },
         {
-            "SYM": "SHAILY",
-            "COMPANY": "SHAILY ENGINEERING PLASTICS LTD."
+            SYM: "SHAILY",
+            COM: "SHAILY ENGINEERING PLASTICS LTD."
         },
         {
-            "SYM": "BBTC",
-            "COMPANY": "BOMBAY BURMAH TRADING CORP.LTD."
+            SYM: "BBTC",
+            COM: "BOMBAY BURMAH TRADING CORP.LTD."
         },
         {
-            "SYM": "BOMBCYC",
-            "COMPANY": "BOMBAY CYCLE & MOTOR AGENCY LTD."
+            SYM: "BOMBCYC",
+            COM: "BOMBAY CYCLE & MOTOR AGENCY LTD."
         },
         {
-            "SYM": "GREAVESCOT",
-            "COMPANY": "GREAVES COTTON LTD."
+            SYM: "GREAVESCOT",
+            COM: "GREAVES COTTON LTD."
         },
         {
-            "SYM": "MULLER",
-            "COMPANY": "MULLER & PHIPPS (INDIA) LTD."
+            SYM: "MULLER",
+            COM: "MULLER & PHIPPS (INDIA) LTD."
         },
         {
-            "SYM": "AMALGAM",
-            "COMPANY": "AMALGAMATED ELECTRICITY CO.LTD."
+            SYM: "AMALGAM",
+            COM: "AMALGAMATED ELECTRICITY CO.LTD."
         },
         {
-            "SYM": "ANANDPROJ",
-            "COMPANY": "Anand Projects Ltd"
+            SYM: "ANANDPROJ",
+            COM: "Anand Projects Ltd"
         },
         {
-            "SYM": "INDIANVSH",
-            "COMPANY": "INDIANIVESH LTD."
+            SYM: "INDIANVSH",
+            COM: "INDIANIVESH LTD."
         },
         {
-            "SYM": "COASTCORP",
-            "COMPANY": "COASTAL CORPORATION LTD."
+            SYM: "COASTCORP",
+            COM: "COASTAL CORPORATION LTD."
         },
         {
-            "SYM": "CHOWGULSTM",
-            "COMPANY": "CHOWGULE STEAMSHIPS LTD."
+            SYM: "CHOWGULSTM",
+            COM: "CHOWGULE STEAMSHIPS LTD."
         },
         {
-            "SYM": "GLOBOFFS",
-            "COMPANY": "GLOBAL OFFSHORE SERVICES LTD.-$"
+            SYM: "GLOBOFFS",
+            COM: "GLOBAL OFFSHORE SERVICES LTD."
         },
         {
-            "SYM": "DHENUBUILD",
-            "COMPANY": "DHENU BUILDCON INFRA LTD."
+            SYM: "DHENUBUILD",
+            COM: "DHENU BUILDCON INFRA LTD."
         },
         {
-            "SYM": "ASIIL",
-            "COMPANY": "ASI Industries Ltd"
+            SYM: "ASIIL",
+            COM: "ASI Industries Ltd"
         },
         {
-            "SYM": "SAGCEM",
-            "COMPANY": "SAGAR CEMENTS LTD.-$"
+            SYM: "SAGCEM",
+            COM: "SAGAR CEMENTS LTD."
         },
         {
-            "SYM": "DECCANCE",
-            "COMPANY": "DECCAN CEMENTS LTD.-$"
+            SYM: "DECCANCE",
+            COM: "DECCAN CEMENTS LTD."
         },
         {
-            "SYM": "MANGLMCEM",
-            "COMPANY": "MANGALAM CEMENT LTD."
+            SYM: "MANGLMCEM",
+            COM: "MANGALAM CEMENT LTD."
         },
         {
-            "SYM": "NCLIND",
-            "COMPANY": "NCL INDUSTRIES LTD.-$"
+            SYM: "NCLIND",
+            COM: "NCL INDUSTRIES LTD."
         },
         {
-            "SYM": "SAURASHCEM",
-            "COMPANY": "SAURASHTRA CEMENT LTD."
+            SYM: "SAURASHCEM",
+            COM: "SAURASHTRA CEMENT LTD."
         },
         {
-            "SYM": "SHREDIGCEM",
-            "COMPANY": "SHREE DIGVIJAY CEMENT CO.LTD.-$"
+            SYM: "SHREDIGCEM",
+            COM: "SHREE DIGVIJAY CEMENT CO.LTD."
         },
         {
-            "SYM": "BOMBPOT",
-            "COMPANY": "BOMBAY POTTERIES & TILES LTD."
+            SYM: "BOMBPOT",
+            COM: "BOMBAY POTTERIES & TILES LTD."
         },
         {
-            "SYM": "BORORENEW",
-            "COMPANY": "Borosil Renewables Ltd"
+            SYM: "BORORENEW",
+            COM: "Borosil Renewables Ltd"
         },
         {
-            "SYM": "LERTHAI",
-            "COMPANY": "Lerthai Finance Ltd"
+            SYM: "LERTHAI",
+            COM: "Lerthai Finance Ltd"
         },
         {
-            "SYM": "RASSIREF",
-            "COMPANY": "RAASI REFRACTORIES LTD.-$"
+            SYM: "RASSIREF",
+            COM: "RAASI REFRACTORIES LTD."
         },
         {
-            "SYM": "TRIVENIGQ",
-            "COMPANY": "TRIVENI GLASS LTD.-$"
+            SYM: "TRIVENIGQ",
+            COM: "TRIVENI GLASS LTD."
         },
         {
-            "SYM": "NILACHAL",
-            "COMPANY": "NILACHAL REFRACTORIES LTD."
+            SYM: "NILACHAL",
+            COM: "NILACHAL REFRACTORIES LTD."
         },
         {
-            "SYM": "ANDHRAPAP",
-            "COMPANY": "Andhra Paper Ltd"
+            SYM: "ANDHRAPAP",
+            COM: "Andhra Paper Ltd"
         },
         {
-            "SYM": "BALKRISIND",
-            "COMPANY": "BALKRISHNA INDUSTRIES LTD.-$"
+            SYM: "BALKRISIND",
+            COM: "BALKRISHNA INDUSTRIES LTD."
         },
         {
-            "SYM": "ORIENTPPR",
-            "COMPANY": "ORIENT PAPER & INDUSTRIES LTD."
+            SYM: "ORIENTPPR",
+            COM: "ORIENT PAPER & INDUSTRIES LTD."
         },
         {
-            "SYM": "CITADEL",
-            "COMPANY": "CITADEL REALTY AND DEVELOPERS LTD."
+            SYM: "CITADEL",
+            COM: "CITADEL REALTY AND DEVELOPERS LTD."
         },
         {
-            "SYM": "ROLLT",
-            "COMPANY": "ROLLATAINERS LTD."
+            SYM: "ROLLT",
+            COM: "ROLLATAINERS LTD."
         },
         {
-            "SYM": "SESHAPAPER",
-            "COMPANY": "SESHASAYEE PAPER & BOARDS LTD."
+            SYM: "SESHAPAPER",
+            COM: "SESHASAYEE PAPER & BOARDS LTD."
         },
         {
-            "SYM": "SOLIDCO",
-            "COMPANY": "SOLID CONTAINERS LTD."
+            SYM: "SOLIDCO",
+            COM: "SOLID CONTAINERS LTD."
         },
         {
-            "SYM": "SHBHAWPA",
-            "COMPANY": "SHREE BHAWANI PAPER MILLS LTD."
+            SYM: "SHBHAWPA",
+            COM: "SHREE BHAWANI PAPER MILLS LTD."
         },
         {
-            "SYM": "NATHIND",
-            "COMPANY": "Nath Industries Ltd"
+            SYM: "NATHIND",
+            COM: "Nath Industries Ltd"
         },
         {
-            "SYM": "VAPIPPR",
-            "COMPANY": "VAPI PAPER MILLS LTD."
+            SYM: "VAPIPPR",
+            COM: "VAPI PAPER MILLS LTD."
         },
         {
-            "SYM": "SINTEX",
-            "COMPANY": "SINTEX INDUSTRIES LTD."
+            SYM: "SINTEX",
+            COM: "SINTEX INDUSTRIES LTD."
         },
         {
-            "SYM": "DCM",
-            "COMPANY": "DCM LTD."
+            SYM: "DCM",
+            COM: "DCM LTD."
         },
         {
-            "SYM": "ZGAEKWAR",
-            "COMPANY": "GAEKWAR MILLS LTD."
+            SYM: "ZGAEKWAR",
+            COM: "GAEKWAR MILLS LTD."
         },
         {
-            "SYM": "FORBESCO",
-            "COMPANY": "FORBES & COMPANY LTD.-$"
+            SYM: "FORBESCO",
+            COM: "FORBES & COMPANY LTD."
         },
         {
-            "SYM": "HPCOTTON",
-            "COMPANY": "H.P.COTTON TEXTILE MILLS LTD."
+            SYM: "HPCOTTON",
+            COM: "H.P.COTTON TEXTILE MILLS LTD."
         },
         {
-            "SYM": "UNITEDINT",
-            "COMPANY": "UNITED INTERACTIVE LTD."
+            SYM: "UNITEDINT",
+            COM: "UNITED INTERACTIVE LTD."
         },
         {
-            "SYM": "JAMSHRI",
-            "COMPANY": "Jamshri Realty Ltd-$"
+            SYM: "JAMSHRI",
+            COM: "Jamshri Realty Ltd"
         },
         {
-            "SYM": "KATRSPG",
-            "COMPANY": "KATARE SPINNING MILLS LTD."
+            SYM: "KATRSPG",
+            COM: "KATARE SPINNING MILLS LTD."
         },
         {
-            "SYM": "KESORAMIND",
-            "COMPANY": "KESORAM INDUSTRIES LTD."
+            SYM: "KESORAMIND",
+            COM: "KESORAM INDUSTRIES LTD."
         },
         {
-            "SYM": "LAKSHMIMIL",
-            "COMPANY": "LAKSHMI MILLS COMPANY LTD.-$"
+            SYM: "LAKSHMIMIL",
+            COM: "LAKSHMI MILLS COMPANY LTD."
         },
         {
-            "SYM": "VTL",
-            "COMPANY": "VARDHMAN TEXTILES LTD."
+            SYM: "VTL",
+            COM: "VARDHMAN TEXTILES LTD."
         },
         {
-            "SYM": "PENINLAND",
-            "COMPANY": "PENINSULA LAND LTD."
+            SYM: "PENINLAND",
+            COM: "PENINSULA LAND LTD."
         },
         {
-            "SYM": "PASUSPG",
-            "COMPANY": "PASUPATI SPG.& WVG.MILLS LTD."
+            SYM: "PASUSPG",
+            COM: "PASUPATI SPG.& WVG.MILLS LTD."
         },
         {
-            "SYM": "PHOENIXLTD",
-            "COMPANY": "The Phoenix Mills Ltd"
+            SYM: "PHOENIXLTD",
+            COM: "The Phoenix Mills Ltd"
         },
         {
-            "SYM": "MARATHON",
-            "COMPANY": "MARATHON NEXTGEN REALTY LTD."
+            SYM: "MARATHON",
+            COM: "MARATHON NEXTGEN REALTY LTD."
         },
         {
-            "SYM": "RAJABAH",
-            "COMPANY": "RAJA BAHADUR INTERNATIONAL LTD."
+            SYM: "RAJABAH",
+            COM: "RAJA BAHADUR INTERNATIONAL LTD."
         },
         {
-            "SYM": "RELCHEMQ",
-            "COMPANY": "RELIANCE CHEMOTEX INDUSTRIES LTD.-$"
+            SYM: "RELCHEMQ",
+            COM: "RELIANCE CHEMOTEX INDUSTRIES LTD."
         },
         {
-            "SYM": "RUBYMILLS",
-            "COMPANY": "RUBY MILLS LTD."
+            SYM: "RUBYMILLS",
+            COM: "RUBY MILLS LTD."
         },
         {
-            "SYM": "SIMPLXREA",
-            "COMPANY": "SIMPLEX REALTY LTD."
+            SYM: "SIMPLXREA",
+            COM: "SIMPLEX REALTY LTD."
         },
         {
-            "SYM": "SWANENERGY",
-            "COMPANY": "SWAN ENERGY LTD."
+            SYM: "SWANENERGY",
+            COM: "SWAN ENERGY LTD."
         },
         {
-            "SYM": "VICTMILL",
-            "COMPANY": "VICTORIA MILLS LTD."
+            SYM: "VICTMILL",
+            COM: "VICTORIA MILLS LTD."
         },
         {
-            "SYM": "ZSVTRADI",
-            "COMPANY": "S.V.TRADING & AGENCIES LTD."
+            SYM: "ZSVTRADI",
+            COM: "S.V.TRADING & AGENCIES LTD."
         },
         {
-            "SYM": "ZSVARAJT",
-            "COMPANY": "SVARAJ TRADING & AGENCIES LTD."
+            SYM: "ZSVARAJT",
+            COM: "SVARAJ TRADING & AGENCIES LTD."
         },
         {
-            "SYM": "SALSAIN",
-            "COMPANY": "SHREE SALASAR INVESTMENT LTD."
+            SYM: "SALSAIN",
+            COM: "SHREE SALASAR INVESTMENT LTD."
         },
         {
-            "SYM": "INDSOYA",
-            "COMPANY": "INDSOYA LTD."
+            SYM: "INDSOYA",
+            COM: "INDSOYA LTD."
         },
         {
-            "SYM": "ZODIACVEN",
-            "COMPANY": "Zodiac Ventures Limited"
+            SYM: "ZODIACVEN",
+            COM: "Zodiac Ventures Limited"
         },
         {
-            "SYM": "VEERENRGY",
-            "COMPANY": "VEER ENERGY & INFRASTRUCTURE LTD."
+            SYM: "VEERENRGY",
+            COM: "VEER ENERGY & INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "SW1",
-            "COMPANY": "SW Investments Ltd"
+            SYM: "SW1",
+            COM: "SW Investments Ltd"
         },
         {
-            "SYM": "TILAK",
-            "COMPANY": "Tilak Ventures Ltd"
+            SYM: "TILAK",
+            COM: "Tilak Ventures Ltd"
         },
         {
-            "SYM": "KKFIN",
-            "COMPANY": "K K Fincorp Limited"
+            SYM: "KKFIN",
+            COM: "K K Fincorp Limited"
         },
         {
-            "SYM": "UNIJOLL",
-            "COMPANY": "UNIJOLLY INVESTMENTS CO.LTD."
+            SYM: "UNIJOLL",
+            COM: "UNIJOLLY INVESTMENTS CO.LTD."
         },
         {
-            "SYM": "WAGEND",
-            "COMPANY": "Wagend Infra Venture Limited"
+            SYM: "WAGEND",
+            COM: "Wagend Infra Venture Limited"
         },
         {
-            "SYM": "ELCIDIN",
-            "COMPANY": "ELCID INVESTMENTS LTD."
+            SYM: "ELCIDIN",
+            COM: "ELCID INVESTMENTS LTD."
         },
         {
-            "SYM": "HEALINV",
-            "COMPANY": "HEALTHY INVESTMENTS LTD."
+            SYM: "HEALINV",
+            COM: "HEALTHY INVESTMENTS LTD."
         },
         {
-            "SYM": "SAHARA",
-            "COMPANY": "SAHARA ONE MEDIA & ENTERTAINMENT LTD.-$"
+            SYM: "SAHARA",
+            COM: "SAHARA ONE MEDIA & ENTERTAINMENT LTD."
         },
         {
-            "SYM": "SHRENTI",
-            "COMPANY": "SHREENATH INVESTMENTS CO.LTD."
+            SYM: "SHRENTI",
+            COM: "SHREENATH INVESTMENTS CO.LTD."
         },
         {
-            "SYM": "BANSWRAS",
-            "COMPANY": "BANSWARA SYNTEX LTD.-$"
+            SYM: "BANSWRAS",
+            COM: "BANSWARA SYNTEX LTD."
         },
         {
-            "SYM": "MODWOOL",
-            "COMPANY": "MODELLA WOOLLENS LTD."
+            SYM: "MODWOOL",
+            COM: "MODELLA WOOLLENS LTD."
         },
         {
-            "SYM": "MODIPON",
-            "COMPANY": "MODIPON LTD."
+            SYM: "MODIPON",
+            COM: "MODIPON LTD."
         },
         {
-            "SYM": "SHRIDINE",
-            "COMPANY": "SHRI DINESH MILLS LTD.-$"
+            SYM: "SHRIDINE",
+            COM: "SHRI DINESH MILLS LTD."
         },
         {
-            "SYM": "SRF",
-            "COMPANY": "SRF LTD."
+            SYM: "SRF",
+            COM: "SRF LTD."
         },
         {
-            "SYM": "SIYSIL",
-            "COMPANY": "SIYARAM SILK MILLS LTD.-$"
+            SYM: "SIYSIL",
+            COM: "SIYARAM SILK MILLS LTD."
         },
         {
-            "SYM": "SWADPOL",
-            "COMPANY": "SWADESHI POLYTEX LTD."
+            SYM: "SWADPOL",
+            COM: "SWADESHI POLYTEX LTD."
         },
         {
-            "SYM": "SHRAJSYNQ",
-            "COMPANY": "SHREE RAJASTHAN SYNTEX LTD.-$"
+            SYM: "SHRAJSYNQ",
+            COM: "SHREE RAJASTHAN SYNTEX LTD."
         },
         {
-            "SYM": "SHRMFGC",
-            "COMPANY": "SHREE MANUFACTURING CO.LTD."
+            SYM: "SHRMFGC",
+            COM: "SHREE MANUFACTURING CO.LTD."
         },
         {
-            "SYM": "ZSATYASL",
-            "COMPANY": "SATYAM SILK MILLS LTD."
+            SYM: "ZSATYASL",
+            COM: "SATYAM SILK MILLS LTD."
         },
         {
-            "SYM": "BBL",
-            "COMPANY": "BHARAT BIJLEE LTD.-$"
+            SYM: "BBL",
+            COM: "BHARAT BIJLEE LTD."
         },
         {
-            "SYM": "ELPROINTL",
-            "COMPANY": "ELPRO INTERNATIONAL LTD."
+            SYM: "ELPROINTL",
+            COM: "ELPRO INTERNATIONAL LTD."
         },
         {
-            "SYM": "EMCO",
-            "COMPANY": "EMCO LTD.-$"
+            SYM: "EMCO",
+            COM: "EMCO LTD."
         },
         {
-            "SYM": "GEE",
-            "COMPANY": "GEE LTD."
+            SYM: "GEE",
+            COM: "GEE LTD."
         },
         {
-            "SYM": "HIRECT",
-            "COMPANY": "HIND RECTIFIERS LTD."
+            SYM: "HIRECT",
+            COM: "HIND RECTIFIERS LTD."
         },
         {
-            "SYM": "NIPPOBATRY",
-            "COMPANY": "INDO-NATIONAL LTD."
+            SYM: "NIPPOBATRY",
+            COM: "INDO-NATIONAL LTD."
         },
         {
-            "SYM": "ZENSARTECH",
-            "COMPANY": "ZENSAR TECHNOLOGIES LTD."
+            SYM: "ZENSARTECH",
+            COM: "ZENSAR TECHNOLOGIES LTD."
         },
         {
-            "SYM": "JYOTI",
-            "COMPANY": "JYOTI LTD.-$"
+            SYM: "JYOTI",
+            COM: "JYOTI LTD."
         },
         {
-            "SYM": "JSLINDL",
-            "COMPANY": "JSL INDUSTRIES LTD."
+            SYM: "JSLINDL",
+            COM: "JSL INDUSTRIES LTD."
         },
         {
-            "SYM": "KAYCEEI",
-            "COMPANY": "KAYCEE INDUSTRIES LTD."
+            SYM: "KAYCEEI",
+            COM: "KAYCEE INDUSTRIES LTD."
         },
         {
-            "SYM": "INDOKEM",
-            "COMPANY": "INDOKEM LTD."
+            SYM: "INDOKEM",
+            COM: "INDOKEM LTD."
         },
         {
-            "SYM": "PANAENERG",
-            "COMPANY": "PANASONIC ENERGY INDIA COMPANY LTD.-$"
+            SYM: "PANAENERG",
+            COM: "PANASONIC ENERGY INDIA COMPANY LTD."
         },
         {
-            "SYM": "NELCO",
-            "COMPANY": "NELCO LTD."
+            SYM: "NELCO",
+            COM: "NELCO LTD."
         },
         {
-            "SYM": "PERMAGN",
-            "COMPANY": "PERMANENT MAGNETS LTD.-$"
+            SYM: "PERMAGN",
+            COM: "PERMANENT MAGNETS LTD."
         },
         {
-            "SYM": "HIGHENE",
-            "COMPANY": "HIGH ENERGY BATTERIES (INDIA) LTD."
+            SYM: "HIGHENE",
+            COM: "HIGH ENERGY BATTERIES (INDIA) LTD."
         },
         {
-            "SYM": "STDBAT",
-            "COMPANY": "STANDARD BATTERIES LTD."
+            SYM: "STDBAT",
+            COM: "STANDARD BATTERIES LTD."
         },
         {
-            "SYM": "UNIVCABLES",
-            "COMPANY": "UNIVERSAL CABLES LTD."
+            SYM: "UNIVCABLES",
+            COM: "UNIVERSAL CABLES LTD."
         },
         {
-            "SYM": "WSIND",
-            "COMPANY": "W.S.INDUSTRIES (INDIA) LTD.-$"
+            SYM: "WSIND",
+            COM: "W.S.INDUSTRIES (INDIA) LTD."
         },
         {
-            "SYM": "DLTNCBL",
-            "COMPANY": "DELTON CABLES LTD."
+            SYM: "DLTNCBL",
+            COM: "DELTON CABLES LTD."
         },
         {
-            "SYM": "LAKSELEC",
-            "COMPANY": "LAKSHMI ELECTRICAL CONTROL SYSTEMS LTD."
+            SYM: "LAKSELEC",
+            COM: "LAKSHMI ELECTRICAL CONTROL SYSTEMS LTD."
         },
         {
-            "SYM": "MODULEX",
-            "COMPANY": "Modulex Construction Technologies Ltd"
+            SYM: "MODULEX",
+            COM: "Modulex Construction Technologies Ltd"
         },
         {
-            "SYM": "DELTAMAGNT",
-            "COMPANY": "Delta Manufacturing Ltd"
+            SYM: "DELTAMAGNT",
+            COM: "Delta Manufacturing Ltd"
         },
         {
-            "SYM": "PAZEL",
-            "COMPANY": "Pazel International Ltd"
+            SYM: "PAZEL",
+            COM: "Pazel International Ltd"
         },
         {
-            "SYM": "CONFINT",
-            "COMPANY": "Confidence Finance And Trading Limited"
+            SYM: "CONFINT",
+            COM: "Confidence Finance And Trading Limited"
         },
         {
-            "SYM": "RELTD",
-            "COMPANY": "Ravindra Energy Ltd"
+            SYM: "RELTD",
+            COM: "Ravindra Energy Ltd"
         },
         {
-            "SYM": "GDTRAGN",
-            "COMPANY": "G.D.TRADING & AGENCIES LTD."
+            SYM: "GDTRAGN",
+            COM: "G.D.TRADING & AGENCIES LTD."
         },
         {
-            "SYM": "ZMULTIPU",
-            "COMPANY": "MULTIPURPOSE TRADING & AGENCIES LTD."
+            SYM: "ZMULTIPU",
+            COM: "MULTIPURPOSE TRADING & AGENCIES LTD."
         },
         {
-            "SYM": "RIDHISYN",
-            "COMPANY": "RIDHI SYNTHETICS LTD."
+            SYM: "RIDHISYN",
+            COM: "RIDHI SYNTHETICS LTD."
         },
         {
-            "SYM": "SOFTBPO",
-            "COMPANY": "SOFTBPO GLOBAL SERVICES LTD."
+            SYM: "SOFTBPO",
+            COM: "SOFTBPO GLOBAL SERVICES LTD."
         },
         {
-            "SYM": "NYSSACORP",
-            "COMPANY": "Nyssa Corporation Limited"
+            SYM: "NYSSACORP",
+            COM: "Nyssa Corporation Limited"
         },
         {
-            "SYM": "FLOMIC",
-            "COMPANY": "Flomic Global Logistics Ltd"
+            SYM: "FLOMIC",
+            COM: "Flomic Global Logistics Ltd"
         },
         {
-            "SYM": "KRISHNA",
-            "COMPANY": "Krishna Ventures Limited"
+            SYM: "KRISHNA",
+            COM: "Krishna Ventures Limited"
         },
         {
-            "SYM": "GANHOLD",
-            "COMPANY": "GANESH HOLDINGS LTD."
+            SYM: "GANHOLD",
+            COM: "GANESH HOLDINGS LTD."
         },
         {
-            "SYM": "SJCORP",
-            "COMPANY": "SJ CORPORATION LTD."
+            SYM: "SJCORP",
+            COM: "SJ CORPORATION LTD."
         },
         {
-            "SYM": "UNIABEXAL",
-            "COMPANY": "UNI ABEX ALLOY PRODUCTS LTD."
+            SYM: "UNIABEXAL",
+            COM: "UNI ABEX ALLOY PRODUCTS LTD."
         },
         {
-            "SYM": "SARDAEN",
-            "COMPANY": "SARDA ENERGY & MINERALS LTD.-$"
+            SYM: "SARDAEN",
+            COM: "SARDA ENERGY & MINERALS LTD."
         },
         {
-            "SYM": "BGWTATO",
-            "COMPANY": "BHAGWATI AUTOCAST LTD."
+            SYM: "BGWTATO",
+            COM: "BHAGWATI AUTOCAST LTD."
         },
         {
-            "SYM": "UNIVPRIM",
-            "COMPANY": "UNIVERSAL PRIME ALUMINIUM LTD."
+            SYM: "UNIVPRIM",
+            COM: "UNIVERSAL PRIME ALUMINIUM LTD."
         },
         {
-            "SYM": "GALADA",
-            "COMPANY": "GALADA POWER & TELECOMMUNICATION LTD."
+            SYM: "GALADA",
+            COM: "GALADA POWER & TELECOMMUNICATION LTD."
         },
         {
-            "SYM": "STRIPMT",
-            "COMPANY": "STEEL STRIPS LTD."
+            SYM: "STRIPMT",
+            COM: "STEEL STRIPS LTD."
         },
         {
-            "SYM": "IBRIGST",
-            "COMPANY": "INDIAN BRIGHT STEEL CO.LTD."
+            SYM: "IBRIGST",
+            COM: "INDIAN BRIGHT STEEL CO.LTD."
         },
         {
-            "SYM": "INDIANHUME",
-            "COMPANY": "INDIAN HUME PIPE CO.LTD."
+            SYM: "INDIANHUME",
+            COM: "INDIAN HUME PIPE CO.LTD."
         },
         {
-            "SYM": "INLCM",
-            "COMPANY": "INDIAN LINK CHAIN MANUFACTURES LTD."
+            SYM: "INLCM",
+            COM: "INDIAN LINK CHAIN MANUFACTURES LTD."
         },
         {
-            "SYM": "INVPRECQ",
-            "COMPANY": "INVESTMENT & PRECISION CASTINGS LTD."
+            SYM: "INVPRECQ",
+            COM: "INVESTMENT & PRECISION CASTINGS LTD."
         },
         {
-            "SYM": "INFORTEC",
-            "COMPANY": "INFORMED TECHNOLOGIES INDIA LTD."
+            SYM: "INFORTEC",
+            COM: "INFORMED TECHNOLOGIES INDIA LTD."
         },
         {
-            "SYM": "KAIRA",
-            "COMPANY": "KAIRA CAN CO.LTD."
+            SYM: "KAIRA",
+            COM: "KAIRA CAN CO.LTD."
         },
         {
-            "SYM": "ORIENTABRA",
-            "COMPANY": "ORIENT ABRASIVES LTD.-$"
+            SYM: "ORIENTABRA",
+            COM: "ORIENT ABRASIVES LTD."
         },
         {
-            "SYM": "NATIONSTD",
-            "COMPANY": "NATIONAL STANDARD (INDIA) LTD."
+            SYM: "NATIONSTD",
+            COM: "NATIONAL STANDARD (INDIA) LTD."
         },
         {
-            "SYM": "DUNCANENG",
-            "COMPANY": "Duncan Engineering Ltd-$"
+            SYM: "DUNCANENG",
+            COM: "Duncan Engineering Ltd"
         },
         {
-            "SYM": "SANDUMA",
-            "COMPANY": "SANDUR MANGANESE & IRON ORES LTD."
+            SYM: "SANDUMA",
+            COM: "SANDUR MANGANESE & IRON ORES LTD."
         },
         {
-            "SYM": "STOVACQ",
-            "COMPANY": "STOVEC INDUSTRIES LTD."
+            SYM: "STOVACQ",
+            COM: "STOVEC INDUSTRIES LTD."
         },
         {
-            "SYM": "TATAYODOGA",
-            "COMPANY": "TAYO ROLLS LTD.-$"
+            SYM: "TATAYODOGA",
+            COM: "TAYO ROLLS LTD."
         },
         {
-            "SYM": "TINPLATE",
-            "COMPANY": "TINPLATE COMPANY OF INDIA LTD."
+            SYM: "TINPLATE",
+            COM: "TINPLATE COMPANY OF INDIA LTD."
         },
         {
-            "SYM": "CHOLAHLDNG",
-            "COMPANY": "Cholamandalam Financial Holdings Ltd"
+            SYM: "CHOLAHLDNG",
+            COM: "Cholamandalam Financial Holdings Ltd"
         },
         {
-            "SYM": "ZWELCAST",
-            "COMPANY": "WELCAST STEELS LTD."
+            SYM: "ZWELCAST",
+            COM: "WELCAST STEELS LTD."
         },
         {
-            "SYM": "WMINIMT",
-            "COMPANY": "WESTERN MINISTIL LTD."
+            SYM: "WMINIMT",
+            COM: "WESTERN MINISTIL LTD."
         },
         {
-            "SYM": "AUTOAXLES",
-            "COMPANY": "AUTOMOTIVE AXLES LTD."
+            SYM: "AUTOAXLES",
+            COM: "AUTOMOTIVE AXLES LTD."
         },
         {
-            "SYM": "ACGL",
-            "COMPANY": "AUTOMOBILE CORPORATION OF GOA LTD.-$"
+            SYM: "ACGL",
+            COM: "AUTOMOBILE CORPORATION OF GOA LTD."
         },
         {
-            "SYM": "SETCO",
-            "COMPANY": "SETCO AUTOMOTIVE LTD."
+            SYM: "SETCO",
+            COM: "SETCO AUTOMOTIVE LTD."
         },
         {
-            "SYM": "SCOOTER",
-            "COMPANY": "SCOOTERS INDIA LTD."
+            SYM: "SCOOTER",
+            COM: "SCOOTERS INDIA LTD."
         },
         {
-            "SYM": "TALBROAUTO",
-            "COMPANY": "TALBROS AUTOMOTIVE COMPONENTS LTD."
+            SYM: "TALBROAUTO",
+            COM: "TALBROS AUTOMOTIVE COMPONENTS LTD."
         },
         {
-            "SYM": "ZFSTEERING",
-            "COMPANY": "Z.F.STEERING GEAR (INDIA) LTD.-$"
+            SYM: "ZFSTEERING",
+            COM: "Z.F.STEERING GEAR (INDIA) LTD."
         },
         {
-            "SYM": "SMLISUZU",
-            "COMPANY": "SML ISUZU LIMITED"
+            SYM: "SMLISUZU",
+            COM: "SML ISUZU LIMITED"
         },
         {
-            "SYM": "TIL",
-            "COMPANY": "TIL LTD."
+            SYM: "TIL",
+            COM: "TIL LTD."
         },
         {
-            "SYM": "EICHERMOT",
-            "COMPANY": "EICHER MOTORS LTD."
+            SYM: "EICHERMOT",
+            COM: "EICHER MOTORS LTD."
         },
         {
-            "SYM": "JAINEX",
-            "COMPANY": "JAINEX AAMCOL LTD."
+            SYM: "JAINEX",
+            COM: "JAINEX AAMCOL LTD."
         },
         {
-            "SYM": "ALFREDHE",
-            "COMPANY": "ALFRED HERBERT (INDIA) LTD."
+            SYM: "ALFREDHE",
+            COM: "ALFRED HERBERT (INDIA) LTD."
         },
         {
-            "SYM": "VELJAN",
-            "COMPANY": "Veljan Denison Limited"
+            SYM: "VELJAN",
+            COM: "Veljan Denison Limited"
         },
         {
-            "SYM": "DYNAMATECH",
-            "COMPANY": "DYNAMATIC TECHNOLOGIES LTD.-$"
+            SYM: "DYNAMATECH",
+            COM: "DYNAMATIC TECHNOLOGIES LTD."
         },
         {
-            "SYM": "GGDANDE",
-            "COMPANY": "G.G.DANDEKAR MACHINE WORKS LTD."
+            SYM: "GGDANDE",
+            COM: "G.G.DANDEKAR MACHINE WORKS LTD."
         },
         {
-            "SYM": "GMM",
-            "COMPANY": "GMM PFAUDLER LTD."
+            SYM: "GMM",
+            COM: "GMM PFAUDLER LTD."
         },
         {
-            "SYM": "KIRLPNU",
-            "COMPANY": "KIRLOSKAR PNEUMATIC CO.LTD."
+            SYM: "KIRLPNU",
+            COM: "KIRLOSKAR PNEUMATIC CO.LTD."
         },
         {
-            "SYM": "TULIVE",
-            "COMPANY": "Tulive Developers Limited"
+            SYM: "TULIVE",
+            COM: "Tulive Developers Limited"
         },
         {
-            "SYM": "KPT",
-            "COMPANY": "KPT Industries Ltd"
+            SYM: "KPT",
+            COM: "KPT Industries Ltd"
         },
         {
-            "SYM": "LYNMC",
-            "COMPANY": "LYNX MACHINERY & COMMERCIALS LTD."
+            SYM: "LYNMC",
+            COM: "LYNX MACHINERY & COMMERCIALS LTD."
         },
         {
-            "SYM": "MANUGRAPH",
-            "COMPANY": "MANUGRAPH INDIA LTD.-$"
+            SYM: "MANUGRAPH",
+            COM: "MANUGRAPH INDIA LTD."
         },
         {
-            "SYM": "MIRCH",
-            "COMPANY": "Mirch Technologies (India) Ltd"
+            SYM: "MIRCH",
+            COM: "Mirch Technologies (India) Ltd"
         },
         {
-            "SYM": "NESCO",
-            "COMPANY": "NESCO LTD."
+            SYM: "NESCO",
+            COM: "NESCO LTD."
         },
         {
-            "SYM": "INTEGRAEN",
-            "COMPANY": "INTEGRA ENGINEERING INDIA LTD."
+            SYM: "INTEGRAEN",
+            COM: "INTEGRA ENGINEERING INDIA LTD."
         },
         {
-            "SYM": "REVATHI",
-            "COMPANY": "REVATHI EQUIPMENT LTD.-$"
+            SYM: "REVATHI",
+            COM: "REVATHI EQUIPMENT LTD."
         },
         {
-            "SYM": "TEXINFRA",
-            "COMPANY": "TEXMACO INFRASTRUCTURE & HOLDINGS LTD."
+            SYM: "TEXINFRA",
+            COM: "TEXMACO INFRASTRUCTURE & HOLDINGS LTD."
         },
         {
-            "SYM": "WENDT",
-            "COMPANY": "WENDT (INDIA) LTD."
+            SYM: "WENDT",
+            COM: "WENDT (INDIA) LTD."
         },
         {
-            "SYM": "SINDUVA",
-            "COMPANY": "SINDU VALLEY TECHNOLOGIES LTD."
+            SYM: "SINDUVA",
+            COM: "SINDU VALLEY TECHNOLOGIES LTD."
         },
         {
-            "SYM": "RESPONIND",
-            "COMPANY": "RESPONSIVE INDUSTRIES LTD."
+            SYM: "RESPONIND",
+            COM: "RESPONSIVE INDUSTRIES LTD."
         },
         {
-            "SYM": "SHYMINV",
-            "COMPANY": "SHYAMKAMAL INVESTMENTS LTD."
+            SYM: "SHYMINV",
+            COM: "SHYAMKAMAL INVESTMENTS LTD."
         },
         {
-            "SYM": "MAHACORP",
-            "COMPANY": "MAHARASHTRA CORPORATION LTD."
+            SYM: "MAHACORP",
+            COM: "MAHARASHTRA CORPORATION LTD."
         },
         {
-            "SYM": "DOLAT",
-            "COMPANY": "DOLAT INVESTMENTS LTD."
+            SYM: "DOLAT",
+            COM: "DOLAT INVESTMENTS LTD."
         },
         {
-            "SYM": "WESTLIFE",
-            "COMPANY": "WESTLIFE DEVELOPMENT LTD."
+            SYM: "WESTLIFE",
+            COM: "WESTLIFE DEVELOPMENT LTD."
         },
         {
-            "SYM": "ZEEL",
-            "COMPANY": "ZEE ENTERTAINMENT ENTERPRISES LTD."
+            SYM: "ZEEL",
+            COM: "ZEE ENTERTAINMENT ENTERPRISES LTD."
         },
         {
-            "SYM": "GOLDCORP",
-            "COMPANY": "Goldcrest Corporation Limited"
+            SYM: "GOLDCORP",
+            COM: "Goldcrest Corporation Limited"
         },
         {
-            "SYM": "ZKOVALIN",
-            "COMPANY": "KOVALAM INVESTMENT & TRADING CO.LTD."
+            SYM: "ZKOVALIN",
+            COM: "KOVALAM INVESTMENT & TRADING CO.LTD."
         },
         {
-            "SYM": "SVPGLOB",
-            "COMPANY": "SVP GLOBAL VENTURES LTD."
+            SYM: "SVPGLOB",
+            COM: "SVP GLOBAL VENTURES LTD."
         },
         {
-            "SYM": "MULTIIN",
-            "COMPANY": "MULTIPLUS HOLDINGS LTD."
+            SYM: "MULTIIN",
+            COM: "MULTIPLUS HOLDINGS LTD."
         },
         {
-            "SYM": "SKYLMILAR",
-            "COMPANY": "SKYLINE MILLARS LTD."
+            SYM: "SKYLMILAR",
+            COM: "SKYLINE MILLARS LTD."
         },
         {
-            "SYM": "REMIPRO",
-            "COMPANY": "REMI PROCESS PLANT & MACHINERY LTD."
+            SYM: "REMIPRO",
+            COM: "REMI PROCESS PLANT & MACHINERY LTD."
         },
         {
-            "SYM": "BIMETAL",
-            "COMPANY": "BIMETAL BEARINGS LTD.-$"
+            SYM: "BIMETAL",
+            COM: "BIMETAL BEARINGS LTD."
         },
         {
-            "SYM": "TAPARIA",
-            "COMPANY": "TAPARIA TOOLS LTD."
+            SYM: "TAPARIA",
+            COM: "TAPARIA TOOLS LTD."
         },
         {
-            "SYM": "BHARATGEAR",
-            "COMPANY": "BHARAT GEARS LTD."
+            SYM: "BHARATGEAR",
+            COM: "BHARAT GEARS LTD."
         },
         {
-            "SYM": "BRADYM",
-            "COMPANY": "BRADY & MORRIS ENGINEERING CO.LTD."
+            SYM: "BRADYM",
+            COM: "BRADY & MORRIS ENGINEERING CO.LTD."
         },
         {
-            "SYM": "LATIMMETAL",
-            "COMPANY": "La Tim Metal & Industries Ltd"
+            SYM: "LATIMMETAL",
+            COM: "La Tim Metal & Industries Ltd"
         },
         {
-            "SYM": "ELECON",
-            "COMPANY": "ELECON ENGINEERING CO.LTD."
+            SYM: "ELECON",
+            COM: "ELECON ENGINEERING CO.LTD."
         },
         {
-            "SYM": "DECANBRG",
-            "COMPANY": "DECCAN BEARINGS LTD."
+            SYM: "DECANBRG",
+            COM: "DECCAN BEARINGS LTD."
         },
         {
-            "SYM": "GRAUWEIL",
-            "COMPANY": "GRAUER & WEIL (INDIA) LTD.-$"
+            SYM: "GRAUWEIL",
+            COM: "GRAUER & WEIL (INDIA) LTD."
         },
         {
-            "SYM": "GAJRA",
-            "COMPANY": "GAJRA BEVEL GEARS LTD.-$"
+            SYM: "GAJRA",
+            COM: "GAJRA BEVEL GEARS LTD."
         },
         {
-            "SYM": "HIMTEK",
-            "COMPANY": "Him Teknoforge Ltd"
+            SYM: "HIMTEK",
+            COM: "Him Teknoforge Ltd"
         },
         {
-            "SYM": "GABRIEL",
-            "COMPANY": "GABRIEL INDIA LTD.-$"
+            SYM: "GABRIEL",
+            COM: "GABRIEL INDIA LTD."
         },
         {
-            "SYM": "HERCULES",
-            "COMPANY": "HERCULES HOISTS LTD."
+            SYM: "HERCULES",
+            COM: "HERCULES HOISTS LTD."
         },
         {
-            "SYM": "HINDEVER",
-            "COMPANY": "HINDUSTAN EVEREST TOOLS LTD."
+            SYM: "HINDEVER",
+            COM: "HINDUSTAN EVEREST TOOLS LTD."
         },
         {
-            "SYM": "IFBIND",
-            "COMPANY": "IFB INDUSTRIES LTD."
+            SYM: "IFBIND",
+            COM: "IFB INDUSTRIES LTD."
         },
         {
-            "SYM": "SINGER",
-            "COMPANY": "SINGER INDIA LTD."
+            SYM: "SINGER",
+            COM: "SINGER INDIA LTD."
         },
         {
-            "SYM": "INTLCOMBQ",
-            "COMPANY": "INTERNATIONAL COMBUSTION (INDIA) LTD."
+            SYM: "INTLCOMBQ",
+            COM: "INTERNATIONAL COMBUSTION (INDIA) LTD."
         },
         {
-            "SYM": "FMGOETZE",
-            "COMPANY": "FEDERAL-MOGUL GOETZE (INDIA) LTD."
+            SYM: "FMGOETZE",
+            COM: "FEDERAL-MOGUL GOETZE (INDIA) LTD."
         },
         {
-            "SYM": "JOSTS",
-            "COMPANY": "JOST&#39;S ENGINEERING CO.LTD."
+            SYM: "JOSTS",
+            COM: "JOST&#39;S ENGINEERING CO.LTD."
         },
         {
-            "SYM": "SCHAEFFLER",
-            "COMPANY": "Schaeffler India Ltd"
+            SYM: "SCHAEFFLER",
+            COM: "Schaeffler India Ltd"
         },
         {
-            "SYM": "RANEHOLDIN",
-            "COMPANY": "RANE HOLDINGS LTD."
+            SYM: "RANEHOLDIN",
+            COM: "RANE HOLDINGS LTD."
         },
         {
-            "SYM": "ROLCOEN",
-            "COMPANY": "ROLCON ENGINEERING CO.LTD."
+            SYM: "ROLCOEN",
+            COM: "ROLCON ENGINEERING CO.LTD."
         },
         {
-            "SYM": "SNL",
-            "COMPANY": "SNL BEARINGS LTD."
+            SYM: "SNL",
+            COM: "SNL BEARINGS LTD."
         },
         {
-            "SYM": "JAIPAN",
-            "COMPANY": "JAIPAN INDUSTRIES LTD."
+            SYM: "JAIPAN",
+            COM: "JAIPAN INDUSTRIES LTD."
         },
         {
-            "SYM": "MANCREDIT",
-            "COMPANY": "MANGAL CREDIT AND FINCORP LTD."
+            SYM: "MANCREDIT",
+            COM: "MANGAL CREDIT AND FINCORP LTD."
         },
         {
-            "SYM": "TRF",
-            "COMPANY": "TRF LTD.-$"
+            SYM: "TRF",
+            COM: "TRF LTD."
         },
         {
-            "SYM": "WPIL",
-            "COMPANY": "WPIL LTD."
+            SYM: "WPIL",
+            COM: "WPIL LTD."
         },
         {
-            "SYM": "KENNAMET",
-            "COMPANY": "KENNAMETAL INDIA LTD.-$"
+            SYM: "KENNAMET",
+            COM: "KENNAMETAL INDIA LTD."
         },
         {
-            "SYM": "HINDHARD",
-            "COMPANY": "Hindustan Hardy Ltd"
+            SYM: "HINDHARD",
+            COM: "Hindustan Hardy Ltd"
         },
         {
-            "SYM": "TRITONV",
-            "COMPANY": "TRITON VALVES LTD."
+            SYM: "TRITONV",
+            COM: "TRITON VALVES LTD."
         },
         {
-            "SYM": "SUDAI",
-            "COMPANY": "SUDAL INDUSTRIES LTD."
+            SYM: "SUDAI",
+            COM: "SUDAL INDUSTRIES LTD."
         },
         {
-            "SYM": "PRAKASH",
-            "COMPANY": "PRAKASH INDUSTRIES LTD."
+            SYM: "PRAKASH",
+            COM: "PRAKASH INDUSTRIES LTD."
         },
         {
-            "SYM": "HVL",
-            "COMPANY": "Hariyana Ventures Ltd"
+            SYM: "HVL",
+            COM: "Hariyana Ventures Ltd"
         },
         {
-            "SYM": "ZPRBHSTE",
-            "COMPANY": "PRABHU STEEL INDUSTRIES LTD."
+            SYM: "ZPRBHSTE",
+            COM: "PRABHU STEEL INDUSTRIES LTD."
         },
         {
-            "SYM": "ARSHIYA",
-            "COMPANY": "Arshiya Limited"
+            SYM: "ARSHIYA",
+            COM: "Arshiya Limited"
         },
         {
-            "SYM": "GRINDWELL",
-            "COMPANY": "GRINDWELL NORTON LTD.-$"
+            SYM: "GRINDWELL",
+            COM: "GRINDWELL NORTON LTD."
         },
         {
-            "SYM": "LAKPRE",
-            "COMPANY": "LAKSHMI PRECISION SCREWS LTD."
+            SYM: "LAKPRE",
+            COM: "LAKSHMI PRECISION SCREWS LTD."
         },
         {
-            "SYM": "STANROS",
-            "COMPANY": "STANROSE MAFATLAL INVESTMENTS AND FINANCE LTD."
+            SYM: "STANROS",
+            COM: "STANROSE MAFATLAL INVESTMENTS AND FINANCE LTD."
         },
         {
-            "SYM": "GENESYS",
-            "COMPANY": "GENESYS INTERNATIONAL CORPORATION LTD."
+            SYM: "GENESYS",
+            COM: "GENESYS INTERNATIONAL CORPORATION LTD."
         },
         {
-            "SYM": "ALNATRD",
-            "COMPANY": "ALNA TRADING & EXPORTS LTD."
+            SYM: "ALNATRD",
+            COM: "ALNA TRADING & EXPORTS LTD."
         },
         {
-            "SYM": "PANKAJPIYUS",
-            "COMPANY": "Pankaj Piyush Trade & Investment Ltd"
+            SYM: "PANKAJPIYUS",
+            COM: "Pankaj Piyush Trade & Investment Ltd"
         },
         {
-            "SYM": "PARNAXLAB",
-            "COMPANY": "PARNAX LAB LTD."
+            SYM: "PARNAXLAB",
+            COM: "PARNAX LAB LTD."
         },
         {
-            "SYM": "INTELLCAP",
-            "COMPANY": "INTELLIVATE CAPITAL VENTURES LTD."
+            SYM: "INTELLCAP",
+            COM: "INTELLIVATE CAPITAL VENTURES LTD."
         },
         {
-            "SYM": "VIVIDHA",
-            "COMPANY": "VISAGAR POLYTEX LTD."
+            SYM: "VIVIDHA",
+            COM: "VISAGAR POLYTEX LTD."
         },
         {
-            "SYM": "ISHWATR",
-            "COMPANY": "ISHWARSHAKTI HOLDINGS & TRADERS LTD."
+            SYM: "ISHWATR",
+            COM: "ISHWARSHAKTI HOLDINGS & TRADERS LTD."
         },
         {
-            "SYM": "TERRAFORM",
-            "COMPANY": "TERRAFORM MAGNUM LTD."
+            SYM: "TERRAFORM",
+            COM: "TERRAFORM MAGNUM LTD."
         },
         {
-            "SYM": "APIS",
-            "COMPANY": "APIS INDIA LTD."
+            SYM: "APIS",
+            COM: "APIS INDIA LTD."
         },
         {
-            "SYM": "ZKHATAUE",
-            "COMPANY": "KHATAU EXIM LTD."
+            SYM: "ZKHATAUE",
+            COM: "KHATAU EXIM LTD."
         },
         {
-            "SYM": "EMERGENT",
-            "COMPANY": "Emergent Industrial Solutions Ltd"
+            SYM: "EMERGENT",
+            COM: "Emergent Industrial Solutions Ltd"
         },
         {
-            "SYM": "KANANIIND",
-            "COMPANY": "KANANI INDUSTRIES LTD."
+            SYM: "KANANIIND",
+            COM: "KANANI INDUSTRIES LTD."
         },
         {
-            "SYM": "GCKL",
-            "COMPANY": "Galaxy Cloud Kitchens Ltd-$"
+            SYM: "GCKL",
+            COM: "Galaxy Cloud Kitchens Ltd"
         },
         {
-            "SYM": "ZSARVAMA",
-            "COMPANY": "SARVAMANGAL MERCANTILE CO.LTD."
+            SYM: "ZSARVAMA",
+            COM: "SARVAMANGAL MERCANTILE CO.LTD."
         },
         {
-            "SYM": "ASL",
-            "COMPANY": "Arihant Superstructures Limited"
+            SYM: "ASL",
+            COM: "Arihant Superstructures Limited"
         },
         {
-            "SYM": "VIKSHEN",
-            "COMPANY": "VIKSIT ENGINEERING LTD."
+            SYM: "VIKSHEN",
+            COM: "VIKSIT ENGINEERING LTD."
         },
         {
-            "SYM": "BLISSGVS",
-            "COMPANY": "BLISS GVS PHARMA LTD."
+            SYM: "BLISSGVS",
+            COM: "BLISS GVS PHARMA LTD."
         },
         {
-            "SYM": "INEOSSTYRO",
-            "COMPANY": "INEOS Styrolution India Ltd"
+            SYM: "INEOSSTYRO",
+            COM: "INEOS Styrolution India Ltd"
         },
         {
-            "SYM": "ALEMBICLTD",
-            "COMPANY": "ALEMBIC LTD."
+            SYM: "ALEMBICLTD",
+            COM: "ALEMBIC LTD."
         },
         {
-            "SYM": "AMNPLST",
-            "COMPANY": "AMINES & PLASTICIZERS LTD."
+            SYM: "AMNPLST",
+            COM: "AMINES & PLASTICIZERS LTD."
         },
         {
-            "SYM": "ANUHPHR",
-            "COMPANY": "ANUH PHARMA LTD."
+            SYM: "ANUHPHR",
+            COM: "ANUH PHARMA LTD."
         },
         {
-            "SYM": "MODISNME",
-            "COMPANY": "MODISON METALS LTD.-$"
+            SYM: "MODISNME",
+            COM: "MODISON METALS LTD."
         },
         {
-            "SYM": "BAYERCROP",
-            "COMPANY": "BAYER CROPSCIENCE LTD."
+            SYM: "BAYERCROP",
+            COM: "BAYER CROPSCIENCE LTD."
         },
         {
-            "SYM": "SASHWAT",
-            "COMPANY": "Sashwat Technocrats Limited"
+            SYM: "SASHWAT",
+            COM: "Sashwat Technocrats Limited"
         },
         {
-            "SYM": "CHEMOPH",
-            "COMPANY": "CHEMO PHARMA LABORATORIES LTD."
+            SYM: "CHEMOPH",
+            COM: "CHEMO PHARMA LABORATORIES LTD."
         },
         {
-            "SYM": "CLNINDIA",
-            "COMPANY": "CLARIANT CHEMICALS (INDIA) LTD."
+            SYM: "CLNINDIA",
+            COM: "CLARIANT CHEMICALS (INDIA) LTD."
         },
         {
-            "SYM": "COROMANDEL",
-            "COMPANY": "COROMANDEL INTERNATIONAL LTD."
+            SYM: "COROMANDEL",
+            COM: "COROMANDEL INTERNATIONAL LTD."
         },
         {
-            "SYM": "DEEPAKNI",
-            "COMPANY": "DEEPAK NITRITE LTD.-$"
+            SYM: "DEEPAKNI",
+            COM: "DEEPAK NITRITE LTD."
         },
         {
-            "SYM": "DHARAMSI",
-            "COMPANY": "DHARAMSI MORARJI CHEMICAL CO.LTD."
+            SYM: "DHARAMSI",
+            COM: "DHARAMSI MORARJI CHEMICAL CO.LTD."
         },
         {
-            "SYM": "FERMENTA",
-            "COMPANY": "Fermenta Biotech Ltd"
+            SYM: "FERMENTA",
+            COM: "Fermenta Biotech Ltd"
         },
         {
-            "SYM": "GOCLCORP",
-            "COMPANY": "GOCL Corporation Ltd-$"
+            SYM: "GOCLCORP",
+            COM: "GOCL Corporation Ltd"
         },
         {
-            "SYM": "JAYCH",
-            "COMPANY": "JAYSHREE CHEMICALS LTD."
+            SYM: "JAYCH",
+            COM: "JAYSHREE CHEMICALS LTD."
         },
         {
-            "SYM": "JLMORI",
-            "COMPANY": "J.L.MORISON (INDIA) LTD."
+            SYM: "JLMORI",
+            COM: "J.L.MORISON (INDIA) LTD."
         },
         {
-            "SYM": "KANORICHEM",
-            "COMPANY": "KANORIA CHEMICALS & INDUSTRIES LTD."
+            SYM: "KANORICHEM",
+            COM: "KANORIA CHEMICALS & INDUSTRIES LTD."
         },
         {
-            "SYM": "KELENRG",
-            "COMPANY": "KELTECH ENERGIES LTD."
+            SYM: "KELENRG",
+            COM: "KELTECH ENERGIES LTD."
         },
         {
-            "SYM": "KEMP",
-            "COMPANY": "KEMP & COMPANY LTD."
+            SYM: "KEMP",
+            COM: "KEMP & COMPANY LTD."
         },
         {
-            "SYM": "NITTAGELA",
-            "COMPANY": "NITTA GELATIN INDIA LTD.-$"
+            SYM: "NITTAGELA",
+            COM: "NITTA GELATIN INDIA LTD."
         },
         {
-            "SYM": "MPAGI",
-            "COMPANY": "M.P.AGRO INDUSTRIES LTD."
+            SYM: "MPAGI",
+            COM: "M.P.AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "ORIENTCQ",
-            "COMPANY": "ORIENTAL CARBON & CHEMICALS LTD.-$"
+            SYM: "ORIENTCQ",
+            COM: "ORIENTAL CARBON & CHEMICALS LTD."
         },
         {
-            "SYM": "PHILIPCARB",
-            "COMPANY": "PHILLIPS CARBON BLACK LTD."
+            SYM: "PHILIPCARB",
+            COM: "PHILLIPS CARBON BLACK LTD."
         },
         {
-            "SYM": "AMAL",
-            "COMPANY": "AMAL LTD."
+            SYM: "AMAL",
+            COM: "AMAL LTD."
         },
         {
-            "SYM": "POLYCHEM",
-            "COMPANY": "POLYCHEM LTD."
+            SYM: "POLYCHEM",
+            COM: "POLYCHEM LTD."
         },
         {
-            "SYM": "PUNJABCHEM",
-            "COMPANY": "PUNJAB CHEMICALS AND CROP PROTECTION LTD.-$"
+            SYM: "PUNJABCHEM",
+            COM: "PUNJAB CHEMICALS AND CROP PROTECTION LTD."
         },
         {
-            "SYM": "GUJCMDS",
-            "COMPANY": "GUJCHEM DISTILLERS INDIA LTD."
+            SYM: "GUJCMDS",
+            COM: "GUJCHEM DISTILLERS INDIA LTD."
         },
         {
-            "SYM": "SADHNANIQ",
-            "COMPANY": "SADHANA NITROCHEM LTD."
+            SYM: "SADHNANIQ",
+            COM: "SADHANA NITROCHEM LTD."
         },
         {
-            "SYM": "SUDARSCHEM",
-            "COMPANY": "SUDARSHAN CHEMICAL INDUSTRIES LTD."
+            SYM: "SUDARSCHEM",
+            COM: "SUDARSHAN CHEMICAL INDUSTRIES LTD."
         },
         {
-            "SYM": "ULTRAMAR",
-            "COMPANY": "ULTRAMARINE & PIGMENTS LTD.-$"
+            SYM: "ULTRAMAR",
+            COM: "ULTRAMARINE & PIGMENTS LTD."
         },
         {
-            "SYM": "TRANSPEK",
-            "COMPANY": "TRANSPEK INDUSTRY LTD.-$"
+            SYM: "TRANSPEK",
+            COM: "TRANSPEK INDUSTRY LTD."
         },
         {
-            "SYM": "UNICHEMLAB",
-            "COMPANY": "UNICHEM LABORATORIES LTD."
+            SYM: "UNICHEMLAB",
+            COM: "UNICHEM LABORATORIES LTD."
         },
         {
-            "SYM": "MYSORPETRO",
-            "COMPANY": "MYSORE PETRO CHEMICALS LTD.-$"
+            SYM: "MYSORPETRO",
+            COM: "MYSORE PETRO CHEMICALS LTD."
         },
         {
-            "SYM": "ALKYLAMINE",
-            "COMPANY": "ALKYL AMINES CHEMICALS LTD.-$"
+            SYM: "ALKYLAMINE",
+            COM: "ALKYL AMINES CHEMICALS LTD."
         },
         {
-            "SYM": "TUTIALKA",
-            "COMPANY": "Tuticorin Alkali Chemicals And Fertilizers Ltd"
+            SYM: "TUTIALKA",
+            COM: "Tuticorin Alkali Chemicals And Fertilizers Ltd"
         },
         {
-            "SYM": "ASTRAZEN",
-            "COMPANY": "ASTRAZENECA PHARMA INDIA LTD."
+            SYM: "ASTRAZEN",
+            COM: "ASTRAZENECA PHARMA INDIA LTD."
         },
         {
-            "SYM": "PACL",
-            "COMPANY": "PUNJAB ALKALIES & CHEMICALS LTD."
+            SYM: "PACL",
+            COM: "PUNJAB ALKALIES & CHEMICALS LTD."
         },
         {
-            "SYM": "TANFACIND",
-            "COMPANY": "TANFAC INDUSTRIES LTD.-$"
+            SYM: "TANFACIND",
+            COM: "TANFAC INDUSTRIES LTD."
         },
         {
-            "SYM": "GUJPETR",
-            "COMPANY": "GUJARAT PETROSYNTHESE LTD."
+            SYM: "GUJPETR",
+            COM: "GUJARAT PETROSYNTHESE LTD."
         },
         {
-            "SYM": "SWADEIN",
-            "COMPANY": "SWADESHI INDUSTRIES LEASING CO.LTD."
+            SYM: "SWADEIN",
+            COM: "SWADESHI INDUSTRIES LEASING CO.LTD."
         },
         {
-            "SYM": "MASCH",
-            "COMPANY": "MASTER CHEMICALS LTD."
+            SYM: "MASCH",
+            COM: "MASTER CHEMICALS LTD."
         },
         {
-            "SYM": "GUJTHEM",
-            "COMPANY": "GUJARAT THEMIS BIOSYN LTD."
+            SYM: "GUJTHEM",
+            COM: "GUJARAT THEMIS BIOSYN LTD."
         },
         {
-            "SYM": "JAYSYN",
-            "COMPANY": "JAYSYNTH DYESTUFF (INDIA) LTD."
+            SYM: "JAYSYN",
+            COM: "JAYSYNTH DYESTUFF (INDIA) LTD."
         },
         {
-            "SYM": "MAKERSL",
-            "COMPANY": "MAKERS LABORATORIES LTD.-$"
+            SYM: "MAKERSL",
+            COM: "MAKERS LABORATORIES LTD."
         },
         {
-            "SYM": "CONTCHM",
-            "COMPANY": "CONTINENTAL CHEMICALS LTD."
+            SYM: "CONTCHM",
+            COM: "CONTINENTAL CHEMICALS LTD."
         },
         {
-            "SYM": "JBCHEPHARM",
-            "COMPANY": "J.B.CHEMICALS & PHARMACEUTICALS LTD."
+            SYM: "JBCHEPHARM",
+            COM: "J.B.CHEMICALS & PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "IGLFXPL-B",
-            "COMPANY": "INDO GULF INDUSTRIES LTD."
+            SYM: "IGLFXPL-B",
+            COM: "INDO GULF INDUSTRIES LTD."
         },
         {
-            "SYM": "ADVPETR-B",
-            "COMPANY": "ADVANCE PETROCHEMICALS LTD."
+            SYM: "ADVPETR-B",
+            COM: "ADVANCE PETROCHEMICALS LTD."
         },
         {
-            "SYM": "RAJSPTR",
-            "COMPANY": "RAJASTHAN PETRO SYNTHETICS LTD."
+            SYM: "RAJSPTR",
+            COM: "RAJASTHAN PETRO SYNTHETICS LTD."
         },
         {
-            "SYM": "BLUECHIPT",
-            "COMPANY": "BLUE CHIP TEX INDUSTRIES LTD."
+            SYM: "BLUECHIPT",
+            COM: "BLUE CHIP TEX INDUSTRIES LTD."
         },
         {
-            "SYM": "JAGAJITIND",
-            "COMPANY": "JAGATJIT INDUSTRIES LTD."
+            SYM: "JAGAJITIND",
+            COM: "JAGATJIT INDUSTRIES LTD."
         },
         {
-            "SYM": "KESARENT",
-            "COMPANY": "KESAR ENTERPRISES LTD.-$"
+            SYM: "KESARENT",
+            COM: "KESAR ENTERPRISES LTD."
         },
         {
-            "SYM": "TI",
-            "COMPANY": "TILAKNAGAR INDUSTRIES LTD.-$"
+            SYM: "TI",
+            COM: "TILAKNAGAR INDUSTRIES LTD."
         },
         {
-            "SYM": "EMERALL",
-            "COMPANY": "Emerald Leisures Ltd"
+            SYM: "EMERALL",
+            COM: "Emerald Leisures Ltd"
         },
         {
-            "SYM": "RAVALSUGAR",
-            "COMPANY": "RAVALGAON SUGAR FARM LTD."
+            SYM: "RAVALSUGAR",
+            COM: "RAVALGAON SUGAR FARM LTD."
         },
         {
-            "SYM": "SAKHTISUG",
-            "COMPANY": "SAKTHI SUGARS LTD."
+            SYM: "SAKHTISUG",
+            COM: "SAKTHI SUGARS LTD."
         },
         {
-            "SYM": "WALCHANNAG",
-            "COMPANY": "WALCHANDNAGAR INDUSTRIES LTD."
+            SYM: "WALCHANNAG",
+            COM: "WALCHANDNAGAR INDUSTRIES LTD."
         },
         {
-            "SYM": "KHODAY",
-            "COMPANY": "KHODAY INDIA LTD.-$"
+            SYM: "KHODAY",
+            COM: "KHODAY INDIA LTD."
         },
         {
-            "SYM": "IFBAGRO",
-            "COMPANY": "IFB AGRO INDUSTRIES LTD."
+            SYM: "IFBAGRO",
+            COM: "IFB AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "DHARSUGAR",
-            "COMPANY": "DHARANI SUGARS & CHEMICALS LTD."
+            SYM: "DHARSUGAR",
+            COM: "DHARANI SUGARS & CHEMICALS LTD."
         },
         {
-            "SYM": "KFBL",
-            "COMPANY": "KOTHARI FERMENTATION & BIOCHEM LTD."
+            SYM: "KFBL",
+            COM: "KOTHARI FERMENTATION & BIOCHEM LTD."
         },
         {
-            "SYM": "CAPRO",
-            "COMPANY": "CAPROLACTAM CHEMICALS LTD."
+            SYM: "CAPRO",
+            COM: "CAPROLACTAM CHEMICALS LTD."
         },
         {
-            "SYM": "GMBREW",
-            "COMPANY": "G.M.BREWERIES LTD."
+            SYM: "GMBREW",
+            COM: "G.M.BREWERIES LTD."
         },
         {
-            "SYM": "RANASUG",
-            "COMPANY": "RANA SUGARS LTD."
+            SYM: "RANASUG",
+            COM: "RANA SUGARS LTD."
         },
         {
-            "SYM": "PICCASUG",
-            "COMPANY": "PICCADILY SUGAR & ALLIED INDUSTRIES LTD."
+            SYM: "PICCASUG",
+            COM: "PICCADILY SUGAR & ALLIED INDUSTRIES LTD."
         },
         {
-            "SYM": "RIGASUG",
-            "COMPANY": "RIGA SUGAR COMPANY LTD.-$"
+            SYM: "RIGASUG",
+            COM: "RIGA SUGAR COMPANY LTD."
         },
         {
-            "SYM": "SDBL",
-            "COMPANY": "SOM DISTILLERIES & BREWERIES LTD."
+            SYM: "SDBL",
+            COM: "SOM DISTILLERIES & BREWERIES LTD."
         },
         {
-            "SYM": "CJGEL",
-            "COMPANY": "C.J.GELATINE PRODUCTS LTD."
+            SYM: "CJGEL",
+            COM: "C.J.GELATINE PRODUCTS LTD."
         },
         {
-            "SYM": "MOUNTSHIQ",
-            "COMPANY": "MOUNT SHIVALIK INDUSTRIES LTD.-$"
+            SYM: "MOUNTSHIQ",
+            COM: "MOUNT SHIVALIK INDUSTRIES LTD."
         },
         {
-            "SYM": "AMRITCORP",
-            "COMPANY": "AMRIT CORP.LTD.-$"
+            SYM: "AMRITCORP",
+            COM: "AMRIT CORP.LTD."
         },
         {
-            "SYM": "ASALCBR",
-            "COMPANY": "ASSOCIATED ALCOHOLS & BREWERIES LTD."
+            SYM: "ASALCBR",
+            COM: "ASSOCIATED ALCOHOLS & BREWERIES LTD."
         },
         {
-            "SYM": "CORAGRO",
-            "COMPANY": "COROMANDEL AGRO PRODUCTS & OILS LTD."
+            SYM: "CORAGRO",
+            COM: "COROMANDEL AGRO PRODUCTS & OILS LTD."
         },
         {
-            "SYM": "FOODSIN",
-            "COMPANY": "FOODS & INNS LTD."
+            SYM: "FOODSIN",
+            COM: "FOODS & INNS LTD."
         },
         {
-            "SYM": "IVP",
-            "COMPANY": "IVP LTD."
+            SYM: "IVP",
+            COM: "IVP LTD."
         },
         {
-            "SYM": "KLRFM",
-            "COMPANY": "Kovilpatti Lakshmi Roller Flour Mills Ltd"
+            SYM: "KLRFM",
+            COM: "Kovilpatti Lakshmi Roller Flour Mills Ltd"
         },
         {
-            "SYM": "OLYOI",
-            "COMPANY": "OLYMPIC OIL INDUSTRIES LTD."
+            SYM: "OLYOI",
+            COM: "OLYMPIC OIL INDUSTRIES LTD."
         },
         {
-            "SYM": "MLKFOOD",
-            "COMPANY": "MILKFOOD LTD."
+            SYM: "MLKFOOD",
+            COM: "MILKFOOD LTD."
         },
         {
-            "SYM": "POLSON",
-            "COMPANY": "POLSON LTD."
+            SYM: "POLSON",
+            COM: "POLSON LTD."
         },
         {
-            "SYM": "SAGRSOY-B",
-            "COMPANY": "SAGAR SOYA PRODUCTS LTD."
+            SYM: "SAGRSOY-B",
+            COM: "SAGAR SOYA PRODUCTS LTD."
         },
         {
-            "SYM": "WIPRO",
-            "COMPANY": "WIPRO LTD."
+            SYM: "WIPRO",
+            COM: "WIPRO LTD."
         },
         {
-            "SYM": "ORIBEVER",
-            "COMPANY": "ORIENT BEVERAGES LTD."
+            SYM: "ORIBEVER",
+            COM: "ORIENT BEVERAGES LTD."
         },
         {
-            "SYM": "DHANUKA",
-            "COMPANY": "DHANUKA AGRITECH LTD."
+            SYM: "DHANUKA",
+            COM: "DHANUKA AGRITECH LTD."
         },
         {
-            "SYM": "TTKHEALTH",
-            "COMPANY": "TTK HEALTHCARE LTD.-$"
+            SYM: "TTKHEALTH",
+            COM: "TTK HEALTHCARE LTD."
         },
         {
-            "SYM": "TGVSL",
-            "COMPANY": "TGV Sraac Ltd"
+            SYM: "TGVSL",
+            COM: "TGV Sraac Ltd"
         },
         {
-            "SYM": "LIMECHM",
-            "COMPANY": "LIME CHEMICALS LTD."
+            SYM: "LIMECHM",
+            COM: "LIME CHEMICALS LTD."
         },
         {
-            "SYM": "KANPRPLA",
-            "COMPANY": "KANPUR PLASTIPACK LTD."
+            SYM: "KANPRPLA",
+            COM: "KANPUR PLASTIPACK LTD."
         },
         {
-            "SYM": "TAINWALCHM",
-            "COMPANY": "TAINWALA CHEMICALS & PLASTICS (INDIA) LTD."
+            SYM: "TAINWALCHM",
+            COM: "TAINWALA CHEMICALS & PLASTICS (INDIA) LTD."
         },
         {
-            "SYM": "JAGSNPHARM",
-            "COMPANY": "JAGSONPAL PHARMACEUTICALS LTD."
+            SYM: "JAGSNPHARM",
+            COM: "JAGSONPAL PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "KHAICHEM",
-            "COMPANY": "KHAITAN CHEMICALS & FERTILIZERS LTD."
+            SYM: "KHAICHEM",
+            COM: "KHAITAN CHEMICALS & FERTILIZERS LTD."
         },
         {
-            "SYM": "UNTTEMI",
-            "COMPANY": "UNITED LEASING & INDUSTRIES LTD."
+            SYM: "UNTTEMI",
+            COM: "UNITED LEASING & INDUSTRIES LTD."
         },
         {
-            "SYM": "GILLETTE",
-            "COMPANY": "GILLETTE INDIA LTD."
+            SYM: "GILLETTE",
+            COM: "GILLETTE INDIA LTD."
         },
         {
-            "SYM": "WIREFABR",
-            "COMPANY": "WIRES & FABRIKS (SA) LTD."
+            SYM: "WIREFABR",
+            COM: "WIRES & FABRIKS (SA) LTD."
         },
         {
-            "SYM": "ANSALHSG",
-            "COMPANY": "Ansal Housing Ltd-$"
+            SYM: "ANSALHSG",
+            COM: "Ansal Housing Ltd"
         },
         {
-            "SYM": "MCCHRLS-B",
-            "COMPANY": "MAC CHARLES (INDIA) LTD."
+            SYM: "MCCHRLS-B",
+            COM: "MAC CHARLES (INDIA) LTD."
         },
         {
-            "SYM": "ADDIND",
-            "COMPANY": "ADDI INDUSTRIES LTD.-$"
+            SYM: "ADDIND",
+            COM: "ADDI INDUSTRIES LTD."
         },
         {
-            "SYM": "PIONRINV",
-            "COMPANY": "PIONEER INVESTCORP LTD."
+            SYM: "PIONRINV",
+            COM: "PIONEER INVESTCORP LTD."
         },
         {
-            "SYM": "ASHNOOR",
-            "COMPANY": "ASHNOOR TEXTILE MILLS LTD."
+            SYM: "ASHNOOR",
+            COM: "ASHNOOR TEXTILE MILLS LTD."
         },
         {
-            "SYM": "UNITECH",
-            "COMPANY": "UNITECH LTD."
+            SYM: "UNITECH",
+            COM: "UNITECH LTD."
         },
         {
-            "SYM": "VIPIND",
-            "COMPANY": "V.I.P.INDUSTRIES LTD.-$"
+            SYM: "VIPIND",
+            COM: "V.I.P.INDUSTRIES LTD."
         },
         {
-            "SYM": "DHRUVES",
-            "COMPANY": "DHRUV ESTATES LTD."
+            SYM: "DHRUVES",
+            COM: "DHRUV ESTATES LTD."
         },
         {
-            "SYM": "SCHABLON",
-            "COMPANY": "SCHABLONA INDIA LTD."
+            SYM: "SCHABLON",
+            COM: "SCHABLONA INDIA LTD."
         },
         {
-            "SYM": "FIBERWEB",
-            "COMPANY": "FIBERWEB (INDIA) LTD."
+            SYM: "FIBERWEB",
+            COM: "FIBERWEB (INDIA) LTD."
         },
         {
-            "SYM": "LKPFIN",
-            "COMPANY": "LKP Finance Limited"
+            SYM: "LKPFIN",
+            COM: "LKP Finance Limited"
         },
         {
-            "SYM": "EASTBUILD",
-            "COMPANY": "EAST BUILDTECH LTD."
+            SYM: "EASTBUILD",
+            COM: "EAST BUILDTECH LTD."
         },
         {
-            "SYM": "MNPLFIN",
-            "COMPANY": "MANIPAL FINANCE CORPORATION LTD."
+            SYM: "MNPLFIN",
+            COM: "MANIPAL FINANCE CORPORATION LTD."
         },
         {
-            "SYM": "BAJAJST",
-            "COMPANY": "BAJAJ STEEL INDUSTRIES LTD."
+            SYM: "BAJAJST",
+            COM: "BAJAJ STEEL INDUSTRIES LTD."
         },
         {
-            "SYM": "KIDUJA",
-            "COMPANY": "KIDUJA INDIA LTD."
+            SYM: "KIDUJA",
+            COM: "KIDUJA INDIA LTD."
         },
         {
-            "SYM": "KEYCORP",
-            "COMPANY": "KEY CORP LTD."
+            SYM: "KEYCORP",
+            COM: "KEY CORP LTD."
         },
         {
-            "SYM": "SHIKHARLETR",
-            "COMPANY": "SHIKHAR LEASING & TRADING LTD."
+            SYM: "SHIKHARLETR",
+            COM: "SHIKHAR LEASING & TRADING LTD."
         },
         {
-            "SYM": "GUJHOTE",
-            "COMPANY": "GUJARAT HOTELS LTD."
+            SYM: "GUJHOTE",
+            COM: "GUJARAT HOTELS LTD."
         },
         {
-            "SYM": "RAJATH",
-            "COMPANY": "Rajath Finance Limited"
+            SYM: "RAJATH",
+            COM: "Rajath Finance Limited"
         },
         {
-            "SYM": "RASRESOR",
-            "COMPANY": "RAS RESORTS & APART HOTELS LTD."
+            SYM: "RASRESOR",
+            COM: "RAS RESORTS & APART HOTELS LTD."
         },
         {
-            "SYM": "PARMCOS-B",
-            "COMPANY": "PARAMOUNT COSMETICS (INDIA) LTD."
+            SYM: "PARMCOS-B",
+            COM: "PARAMOUNT COSMETICS (INDIA) LTD."
         },
         {
-            "SYM": "JINDHOT",
-            "COMPANY": "JINDAL HOTELS LTD."
+            SYM: "JINDHOT",
+            COM: "JINDAL HOTELS LTD."
         },
         {
-            "SYM": "JPTRLES",
-            "COMPANY": "JUPITER INDUSTRIES & LEASING LTD."
+            SYM: "JPTRLES",
+            COM: "JUPITER INDUSTRIES & LEASING LTD."
         },
         {
-            "SYM": "SIMMOND",
-            "COMPANY": "SIMMONDS MARSHALL LTD."
+            SYM: "SIMMOND",
+            COM: "SIMMONDS MARSHALL LTD."
         },
         {
-            "SYM": "BNALTD",
-            "COMPANY": "B & A LTD."
+            SYM: "BNALTD",
+            COM: "B & A LTD."
         },
         {
-            "SYM": "LEDOTEA",
-            "COMPANY": "LEDO TEA CO.LTD."
+            SYM: "LEDOTEA",
+            COM: "LEDO TEA CO.LTD."
         },
         {
-            "SYM": "HAWKINCOOK",
-            "COMPANY": "HAWKINS COOKERS LTD.-$"
+            SYM: "HAWKINCOOK",
+            COM: "HAWKINS COOKERS LTD."
         },
         {
-            "SYM": "WARRENTEA",
-            "COMPANY": "WARREN TEA LTD.-$"
+            SYM: "WARRENTEA",
+            COM: "WARREN TEA LTD."
         },
         {
-            "SYM": "COCHMAL",
-            "COMPANY": "COCHIN MALABAR ESTATES & INDUSTRIES LTD."
+            SYM: "COCHMAL",
+            COM: "COCHIN MALABAR ESTATES & INDUSTRIES LTD."
         },
         {
-            "SYM": "BESTEAST",
-            "COMPANY": "BEST EASTERN HOTELS LTD."
+            SYM: "BESTEAST",
+            COM: "BEST EASTERN HOTELS LTD."
         },
         {
-            "SYM": "NEAGI",
-            "COMPANY": "NEELAMALAI AGRO INDUSTRIES LTD."
+            SYM: "NEAGI",
+            COM: "NEELAMALAI AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "ISTLTD",
-            "COMPANY": "IST LTD."
+            SYM: "ISTLTD",
+            COM: "IST LTD."
         },
         {
-            "SYM": "COSMOFILMS",
-            "COMPANY": "COSMO FILMS LTD."
+            SYM: "COSMOFILMS",
+            COM: "COSMO FILMS LTD."
         },
         {
-            "SYM": "NEWMKTADV",
-            "COMPANY": "NEW MARKETS ADVISORY LTD."
+            SYM: "NEWMKTADV",
+            COM: "NEW MARKETS ADVISORY LTD."
         },
         {
-            "SYM": "APOLLOHOSP",
-            "COMPANY": "APOLLO HOSPITALS ENTERPRISE LTD."
+            SYM: "APOLLOHOSP",
+            COM: "APOLLO HOSPITALS ENTERPRISE LTD."
         },
         {
-            "SYM": "NITINCAST",
-            "COMPANY": "Nitin Castings Ltd"
+            SYM: "NITINCAST",
+            COM: "Nitin Castings Ltd"
         },
         {
-            "SYM": "SMIFS",
-            "COMPANY": "SMIFS CAPITAL MARKETS LTD."
+            SYM: "SMIFS",
+            COM: "SMIFS CAPITAL MARKETS LTD."
         },
         {
-            "SYM": "EVERESTIND",
-            "COMPANY": "EVEREST INDUSTRIES LTD."
+            SYM: "EVERESTIND",
+            COM: "EVEREST INDUSTRIES LTD."
         },
         {
-            "SYM": "IRONWOOD",
-            "COMPANY": "Ironwood Education Ltd"
+            SYM: "IRONWOOD",
+            COM: "Ironwood Education Ltd"
         },
         {
-            "SYM": "MSRINDIA",
-            "COMPANY": "MSR INDIA LTD."
+            SYM: "MSRINDIA",
+            COM: "MSR INDIA LTD."
         },
         {
-            "SYM": "NORTHPR",
-            "COMPANY": "NORTHERN PROJECTS LTD."
+            SYM: "NORTHPR",
+            COM: "NORTHERN PROJECTS LTD."
         },
         {
-            "SYM": "JOYREALTY",
-            "COMPANY": "Joy Realty Limited"
+            SYM: "JOYREALTY",
+            COM: "Joy Realty Limited"
         },
         {
-            "SYM": "AYMSYNTEX",
-            "COMPANY": "AYM Syntex Ltd"
+            SYM: "AYMSYNTEX",
+            COM: "AYM Syntex Ltd"
         },
         {
-            "SYM": "PANCARBON",
-            "COMPANY": "PANASONIC CARBON INDIA CO.LTD.-$"
+            SYM: "PANCARBON",
+            COM: "PANASONIC CARBON INDIA CO.LTD."
         },
         {
-            "SYM": "FINKURVE",
-            "COMPANY": "Finkurve Financial Services Ltd"
+            SYM: "FINKURVE",
+            COM: "Finkurve Financial Services Ltd"
         },
         {
-            "SYM": "HBLEAS",
-            "COMPANY": "HB LEASING & FINANCE CO.LTD."
+            SYM: "HBLEAS",
+            COM: "HB LEASING & FINANCE CO.LTD."
         },
         {
-            "SYM": "SHRICON",
-            "COMPANY": "SHRICON INDUSTRIES LTD."
+            SYM: "SHRICON",
+            COM: "SHRICON INDUSTRIES LTD."
         },
         {
-            "SYM": "STRLGUA",
-            "COMPANY": "STERLING GUARANTY & FINANCE LTD."
+            SYM: "STRLGUA",
+            COM: "STERLING GUARANTY & FINANCE LTD."
         },
         {
-            "SYM": "SULABEN",
-            "COMPANY": "SULABH ENGINEERS & SERVICES LTD."
+            SYM: "SULABEN",
+            COM: "SULABH ENGINEERS & SERVICES LTD."
         },
         {
-            "SYM": "FRONTCAP",
-            "COMPANY": "Frontier Capital Ltd"
+            SYM: "FRONTCAP",
+            COM: "Frontier Capital Ltd"
         },
         {
-            "SYM": "NAVNETEDUL*",
-            "COMPANY": "Navneet Education Limited"
+            SYM: "NAVNETEDUL*",
+            COM: "Navneet Education Limited"
         },
         {
-            "SYM": "KEDIACN",
-            "COMPANY": "KEDIA CONSTRUCTION CO.LTD."
+            SYM: "KEDIACN",
+            COM: "KEDIA CONSTRUCTION CO.LTD."
         },
         {
-            "SYM": "SATRAPROP",
-            "COMPANY": "SATRA PROPERTIES (INDIA) LTD."
+            SYM: "SATRAPROP",
+            COM: "SATRA PROPERTIES (INDIA) LTD."
         },
         {
-            "SYM": "TRANOCE",
-            "COMPANY": "TRANSOCEANIC PROPERTIES LTD."
+            SYM: "TRANOCE",
+            COM: "TRANSOCEANIC PROPERTIES LTD."
         },
         {
-            "SYM": "AUSOMENT",
-            "COMPANY": "AuSom Enterprise Limited"
+            SYM: "AUSOMENT",
+            COM: "AuSom Enterprise Limited"
         },
         {
-            "SYM": "THAKRAL",
-            "COMPANY": "THAKRAL SERVICES (INDIA) LTD."
+            SYM: "THAKRAL",
+            COM: "THAKRAL SERVICES (INDIA) LTD."
         },
         {
-            "SYM": "RUCHINFRA",
-            "COMPANY": "RUCHI INFRASTRUCTURE LTD."
+            SYM: "RUCHINFRA",
+            COM: "RUCHI INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "VJTFEDU",
-            "COMPANY": "VJTF EDUSERVICES LTD."
+            SYM: "VJTFEDU",
+            COM: "VJTF EDUSERVICES LTD."
         },
         {
-            "SYM": "VOLLF",
-            "COMPANY": "VOLTAIRE LEASING & FINANCE LTD."
+            SYM: "VOLLF",
+            COM: "VOLTAIRE LEASING & FINANCE LTD."
         },
         {
-            "SYM": "NETLINK",
-            "COMPANY": "NETLINK SOLUTIONS (INDIA) LTD."
+            SYM: "NETLINK",
+            COM: "NETLINK SOLUTIONS (INDIA) LTD."
         },
         {
-            "SYM": "ZLEENCON",
-            "COMPANY": "LEENA CONSULTANCY LTD."
+            SYM: "ZLEENCON",
+            COM: "LEENA CONSULTANCY LTD."
         },
         {
-            "SYM": "LANCORHOL",
-            "COMPANY": "LANCOR HOLDINGS LTD."
+            SYM: "LANCORHOL",
+            COM: "LANCOR HOLDINGS LTD."
         },
         {
-            "SYM": "INDINFO",
-            "COMPANY": "INDIAN INFOTECH & SOFTWARE LTD."
+            SYM: "INDINFO",
+            COM: "INDIAN INFOTECH & SOFTWARE LTD."
         },
         {
-            "SYM": "BANASFN",
-            "COMPANY": "BANAS FINANCE LTD."
+            SYM: "BANASFN",
+            COM: "BANAS FINANCE LTD."
         },
         {
-            "SYM": "VISAKAIND",
-            "COMPANY": "VISAKA INDUSTRIES LTD."
+            SYM: "VISAKAIND",
+            COM: "VISAKA INDUSTRIES LTD."
         },
         {
-            "SYM": "INFOMEDIA",
-            "COMPANY": "INFOMEDIA PRESS LTD."
+            SYM: "INFOMEDIA",
+            COM: "INFOMEDIA PRESS LTD."
         },
         {
-            "SYM": "HATHWAYB",
-            "COMPANY": "HATHWAY BHAWANI CABLETEL & DATACOM LTD."
+            SYM: "HATHWAYB",
+            COM: "HATHWAY BHAWANI CABLETEL & DATACOM LTD."
         },
         {
-            "SYM": "PRESSMN",
-            "COMPANY": "Pressman Advertising Limited"
+            SYM: "PRESSMN",
+            COM: "Pressman Advertising Limited"
         },
         {
-            "SYM": "GUFICBIO",
-            "COMPANY": "GUFIC BIOSCIENCES LTD."
+            SYM: "GUFICBIO",
+            COM: "GUFIC BIOSCIENCES LTD."
         },
         {
-            "SYM": "PHOTON",
-            "COMPANY": "PHOTON CAPITAL ADVISORS LTD."
+            SYM: "PHOTON",
+            COM: "PHOTON CAPITAL ADVISORS LTD."
         },
         {
-            "SYM": "OSWALEA",
-            "COMPANY": "OSWAL LEASING LTD."
+            SYM: "OSWALEA",
+            COM: "OSWAL LEASING LTD."
         },
         {
-            "SYM": "GRPLTD",
-            "COMPANY": "GRP LTD."
+            SYM: "GRPLTD",
+            COM: "GRP LTD."
         },
         {
-            "SYM": "INDAG",
-            "COMPANY": "INDAG RUBBER LTD.-$"
+            SYM: "INDAG",
+            COM: "INDAG RUBBER LTD."
         },
         {
-            "SYM": "MMRUBBR-B",
-            "COMPANY": "MM RUBBER COMPANY LTD."
+            SYM: "MMRUBBR-B",
+            COM: "MM RUBBER COMPANY LTD."
         },
         {
-            "SYM": "PTL",
-            "COMPANY": "PTL ENTERPRISES LTD.-$"
+            SYM: "PTL",
+            COM: "PTL ENTERPRISES LTD."
         },
         {
-            "SYM": "TVSSRICHAK",
-            "COMPANY": "TVS SRICHAKRA LTD.-$"
+            SYM: "TVSSRICHAK",
+            COM: "TVS SRICHAKRA LTD."
         },
         {
-            "SYM": "SEL",
-            "COMPANY": "Sanathnagar Enterprises Limited"
+            SYM: "SEL",
+            COM: "Sanathnagar Enterprises Limited"
         },
         {
-            "SYM": "BENARAS",
-            "COMPANY": "BENARES HOTELS LTD."
+            SYM: "BENARAS",
+            COM: "BENARES HOTELS LTD."
         },
         {
-            "SYM": "BHAGWOX",
-            "COMPANY": "BHAGWATI OXYGEN LTD."
+            SYM: "BHAGWOX",
+            COM: "BHAGWATI OXYGEN LTD."
         },
         {
-            "SYM": "BOMOXY-B1",
-            "COMPANY": "Bombay Oxygen Investments Ltd"
+            SYM: "BOMOXY-B1",
+            COM: "Bombay Oxygen Investments Ltd"
         },
         {
-            "SYM": "CRAVATEX",
-            "COMPANY": "CRAVATEX LTD."
+            SYM: "CRAVATEX",
+            COM: "CRAVATEX LTD."
         },
         {
-            "SYM": "BERGEPAINT",
-            "COMPANY": "BERGER PAINTS INDIA LTD."
+            SYM: "BERGEPAINT",
+            COM: "BERGER PAINTS INDIA LTD."
         },
         {
-            "SYM": "CAPRIHANS",
-            "COMPANY": "CAPRIHANS INDIA LTD.-$"
+            SYM: "CAPRIHANS",
+            COM: "CAPRIHANS INDIA LTD."
         },
         {
-            "SYM": "GRAPHITE",
-            "COMPANY": "GRAPHITE INDIA LTD."
+            SYM: "GRAPHITE",
+            COM: "GRAPHITE INDIA LTD."
         },
         {
-            "SYM": "ITDCEM",
-            "COMPANY": "ITD CEMENTATION INDIA LTD."
+            SYM: "ITDCEM",
+            COM: "ITD CEMENTATION INDIA LTD."
         },
         {
-            "SYM": "EMPIND",
-            "COMPANY": "EMPIRE INDUSTRIES LTD."
+            SYM: "EMPIND",
+            COM: "EMPIRE INDUSTRIES LTD."
         },
         {
-            "SYM": "GRAVISSHO",
-            "COMPANY": "GRAVISS HOSPITALITY LTD."
+            SYM: "GRAVISSHO",
+            COM: "GRAVISS HOSPITALITY LTD."
         },
         {
-            "SYM": "GARFIBRES",
-            "COMPANY": "Garware Technical Fibres Ltd"
+            SYM: "GARFIBRES",
+            COM: "Garware Technical Fibres Ltd"
         },
         {
-            "SYM": "GARWAMAR",
-            "COMPANY": "GARWARE MARINE INDUSTRIES LTD."
+            SYM: "GARWAMAR",
+            COM: "GARWARE MARINE INDUSTRIES LTD."
         },
         {
-            "SYM": "GOACARBON",
-            "COMPANY": "GOA CARBON LTD.-$"
+            SYM: "GOACARBON",
+            COM: "GOA CARBON LTD."
         },
         {
-            "SYM": "HARDCAS",
-            "COMPANY": "HARDCASTLE & WAUD MFG.CO.LTD."
+            SYM: "HARDCAS",
+            COM: "HARDCASTLE & WAUD MFG.CO.LTD."
         },
         {
-            "SYM": "HEG",
-            "COMPANY": "HEG LTD."
+            SYM: "HEG",
+            COM: "HEG LTD."
         },
         {
-            "SYM": "HINDCOMPOS",
-            "COMPANY": "HINDUSTAN COMPOSITES LTD."
+            SYM: "HINDCOMPOS",
+            COM: "HINDUSTAN COMPOSITES LTD."
         },
         {
-            "SYM": "ZHINDHSG",
-            "COMPANY": "HINDUSTAN HOUSING CO.LTD."
+            SYM: "ZHINDHSG",
+            COM: "HINDUSTAN HOUSING CO.LTD."
         },
         {
-            "SYM": "HIL",
-            "COMPANY": "HIL LTD."
+            SYM: "HIL",
+            COM: "HIL LTD."
         },
         {
-            "SYM": "INDIANCARD",
-            "COMPANY": "INDIAN CARD CLOTHING CO.LTD."
+            SYM: "INDIANCARD",
+            COM: "INDIAN CARD CLOTHING CO.LTD."
         },
         {
-            "SYM": "INTLCONV",
-            "COMPANY": "INTERNATIONAL CONVEYORS LTD."
+            SYM: "INTLCONV",
+            COM: "INTERNATIONAL CONVEYORS LTD."
         },
         {
-            "SYM": "JAYSHREETEA",
-            "COMPANY": "JAY SHREE TEA & INDUSTRIES LTD."
+            SYM: "JAYSHREETEA",
+            COM: "JAY SHREE TEA & INDUSTRIES LTD."
         },
         {
-            "SYM": "MODRNSH",
-            "COMPANY": "MODERN SHARES & STOCKBROKERS LTD."
+            SYM: "MODRNSH",
+            COM: "MODERN SHARES & STOCKBROKERS LTD."
         },
         {
-            "SYM": "OSEASPR",
-            "COMPANY": "OSEASPRE CONSULTANTS LTD."
+            SYM: "OSEASPR",
+            COM: "OSEASPRE CONSULTANTS LTD."
         },
         {
-            "SYM": "HUHTAMAKI",
-            "COMPANY": "Huhtamaki India Ltd"
+            SYM: "HUHTAMAKI",
+            COM: "Huhtamaki India Ltd"
         },
         {
-            "SYM": "PREMSYN",
-            "COMPANY": "PREMIER SYNTHETICS LTD."
+            SYM: "PREMSYN",
+            COM: "PREMIER SYNTHETICS LTD."
         },
         {
-            "SYM": "RJSHAH",
-            "COMPANY": "R.J.SHAH & CO.LTD."
+            SYM: "RJSHAH",
+            COM: "R.J.SHAH & CO.LTD."
         },
         {
-            "SYM": "SHAHCON",
-            "COMPANY": "SHAH CONSTRUCTION CO.LTD."
+            SYM: "SHAHCON",
+            COM: "SHAH CONSTRUCTION CO.LTD."
         },
         {
-            "SYM": "SHALPAINTS",
-            "COMPANY": "SHALIMAR PAINTS LTD.-$"
+            SYM: "SHALPAINTS",
+            COM: "SHALIMAR PAINTS LTD."
         },
         {
-            "SYM": "SINNAR",
-            "COMPANY": "SINNAR BIDI UDYOG LTD."
+            SYM: "SINNAR",
+            COM: "SINNAR BIDI UDYOG LTD."
         },
         {
-            "SYM": "HINDMILL",
-            "COMPANY": "HINDOOSTAN MILLS LTD."
+            SYM: "HINDMILL",
+            COM: "HINDOOSTAN MILLS LTD."
         },
         {
-            "SYM": "ZSOUTGAS",
-            "COMPANY": "SOUTHERN GAS LTD."
+            SYM: "ZSOUTGAS",
+            COM: "SOUTHERN GAS LTD."
         },
         {
-            "SYM": "TECHCON",
-            "COMPANY": "TECHNOJET CONSULTANTS LTD."
+            SYM: "TECHCON",
+            COM: "TECHNOJET CONSULTANTS LTD."
         },
         {
-            "SYM": "SUPREMEIND",
-            "COMPANY": "SUPREME INDUSTRIES LTD."
+            SYM: "SUPREMEIND",
+            COM: "SUPREME INDUSTRIES LTD."
         },
         {
-            "SYM": "THACKER",
-            "COMPANY": "THACKER & CO.LTD."
+            SYM: "THACKER",
+            COM: "THACKER & CO.LTD."
         },
         {
-            "SYM": "TRADWIN",
-            "COMPANY": "TRADE WINGS LTD."
+            SYM: "TRADWIN",
+            COM: "TRADE WINGS LTD."
         },
         {
-            "SYM": "VSTIND",
-            "COMPANY": "VST INDUSTRIES LTD."
+            SYM: "VSTIND",
+            COM: "VST INDUSTRIES LTD."
         },
         {
-            "SYM": "SWASTIVI",
-            "COMPANY": "SWASTI VINAYAKA SYNTHETICS LTD."
+            SYM: "SWASTIVI",
+            COM: "SWASTI VINAYAKA SYNTHETICS LTD."
         },
         {
-            "SYM": "MADHUSE",
-            "COMPANY": "MADHUSUDAN SECURITIES LTD."
+            SYM: "MADHUSE",
+            COM: "MADHUSUDAN SECURITIES LTD."
         },
         {
-            "SYM": "YAMNINV",
-            "COMPANY": "YAMINI INVESTMENTS COMPANY LTD."
+            SYM: "YAMNINV",
+            COM: "YAMINI INVESTMENTS COMPANY LTD."
         },
         {
-            "SYM": "PREMCAP",
-            "COMPANY": "PREMIER CAPITAL SERVICES LTD."
+            SYM: "PREMCAP",
+            COM: "PREMIER CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "JINDRILL",
-            "COMPANY": "JINDAL DRILLING & INDUSTRIES LTD."
+            SYM: "JINDRILL",
+            COM: "JINDAL DRILLING & INDUSTRIES LTD."
         },
         {
-            "SYM": "KUSUMEL",
-            "COMPANY": "KUSAM ELECTRICAL INDUSTRIES LTD."
+            SYM: "KUSUMEL",
+            COM: "KUSAM ELECTRICAL INDUSTRIES LTD."
         },
         {
-            "SYM": "JUMBFNL",
-            "COMPANY": "JUMBO FINANCE LTD."
+            SYM: "JUMBFNL",
+            COM: "JUMBO FINANCE LTD."
         },
         {
-            "SYM": "SAKTHIFIN",
-            "COMPANY": "SAKTHI FINANCE LTD."
+            SYM: "SAKTHIFIN",
+            COM: "SAKTHI FINANCE LTD."
         },
         {
-            "SYM": "DHFL",
-            "COMPANY": "DEWAN HOUSING FINANCE CORPORATION LTD."
+            SYM: "DHFL",
+            COM: "DEWAN HOUSING FINANCE CORPORATION LTD."
         },
         {
-            "SYM": "WEIZFIN",
-            "COMPANY": "WEIZMANN FINCORP LTD."
+            SYM: "WEIZFIN",
+            COM: "WEIZMANN FINCORP LTD."
         },
         {
-            "SYM": "SATINDLTD",
-            "COMPANY": "SAT INDUSTRIES LTD.-$"
+            SYM: "SATINDLTD",
+            COM: "SAT INDUSTRIES LTD."
         },
         {
-            "SYM": "TVOLCON",
-            "COMPANY": "TIVOLI CONSTRUCTION LTD."
+            SYM: "TVOLCON",
+            COM: "TIVOLI CONSTRUCTION LTD."
         },
         {
-            "SYM": "SHIVTEX",
-            "COMPANY": "SHIVA TEXYARN LTD."
+            SYM: "SHIVTEX",
+            COM: "SHIVA TEXYARN LTD."
         },
         {
-            "SYM": "VBDESAI",
-            "COMPANY": "V.B.DESAI FINANCIAL SERVICES LTD."
+            SYM: "VBDESAI",
+            COM: "V.B.DESAI FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "QUADRANT",
-            "COMPANY": "Quadrant Televentures Limited-$"
+            SYM: "QUADRANT",
+            COM: "Quadrant Televentures Limited"
         },
         {
-            "SYM": "1STCUS",
-            "COMPANY": "FIRST CUSTODIAN FUND (INDIA) LTD."
+            SYM: "1STCUS",
+            COM: "FIRST CUSTODIAN FUND (INDIA) LTD."
         },
         {
-            "SYM": "KAMANWALA",
-            "COMPANY": "KAMANWALA HOUSING CONSTRUCTION LTD."
+            SYM: "KAMANWALA",
+            COM: "KAMANWALA HOUSING CONSTRUCTION LTD."
         },
         {
-            "SYM": "BAJRFIN",
-            "COMPANY": "BAJRANG FINANCE LTD."
+            SYM: "BAJRFIN",
+            COM: "BAJRANG FINANCE LTD."
         },
         {
-            "SYM": "ASYAINFO",
-            "COMPANY": "Asya Infosoft Limited"
+            SYM: "ASYAINFO",
+            COM: "Asya Infosoft Limited"
         },
         {
-            "SYM": "WSFIN",
-            "COMPANY": "WALL STREET FINANCE LTD."
+            SYM: "WSFIN",
+            COM: "WALL STREET FINANCE LTD."
         },
         {
-            "SYM": "REMITR",
-            "COMPANY": "REMI SECURITIES LTD."
+            SYM: "REMITR",
+            COM: "REMI SECURITIES LTD."
         },
         {
-            "SYM": "ANJANIFOODS",
-            "COMPANY": "Anjani Foods Ltd"
+            SYM: "ANJANIFOODS",
+            COM: "Anjani Foods Ltd"
         },
         {
-            "SYM": "RKDAGRRTL",
-            "COMPANY": "RKD Agri & Retail Ltd"
+            SYM: "RKDAGRRTL",
+            COM: "RKD Agri & Retail Ltd"
         },
         {
-            "SYM": "PARSHWANA",
-            "COMPANY": "PARSHWANATH CORPORATION LTD."
+            SYM: "PARSHWANA",
+            COM: "PARSHWANATH CORPORATION LTD."
         },
         {
-            "SYM": "SURYAKR",
-            "COMPANY": "SURYAKRIPA FINANCE LTD."
+            SYM: "SURYAKR",
+            COM: "SURYAKRIPA FINANCE LTD."
         },
         {
-            "SYM": "MILLENNIUM",
-            "COMPANY": "Millennium Online Solutions ( India ) Ltd"
+            SYM: "MILLENNIUM",
+            COM: "Millennium Online Solutions ( India ) Ltd"
         },
         {
-            "SYM": "CANFINHOME",
-            "COMPANY": "CAN FIN HOMES LTD."
+            SYM: "CANFINHOME",
+            COM: "CAN FIN HOMES LTD."
         },
         {
-            "SYM": "MUNCAPM",
-            "COMPANY": "MUNOTH CAPITAL MARKET LTD."
+            SYM: "MUNCAPM",
+            COM: "MUNOTH CAPITAL MARKET LTD."
         },
         {
-            "SYM": "IVC",
-            "COMPANY": "IL&FS INVESTMENT MANAGERS LTD."
+            SYM: "IVC",
+            COM: "IL&FS INVESTMENT MANAGERS LTD."
         },
         {
-            "SYM": "SRTRANSFIN",
-            "COMPANY": "SHRIRAM TRANSPORT FINANCE CO.LTD."
+            SYM: "SRTRANSFIN",
+            COM: "SHRIRAM TRANSPORT FINANCE CO.LTD."
         },
         {
-            "SYM": "CHOLAFIN",
-            "COMPANY": "Cholamandalam Investment and Finance Company Ltd"
+            SYM: "CHOLAFIN",
+            COM: "Cholamandalam Investment and Finance Company Ltd"
         },
         {
-            "SYM": "SAGARSYST",
-            "COMPANY": "SAGAR SYSTECH LTD."
+            SYM: "SAGARSYST",
+            COM: "SAGAR SYSTECH LTD."
         },
         {
-            "SYM": "IDINFO",
-            "COMPANY": "ID Info Business Services Ltd"
+            SYM: "IDINFO",
+            COM: "ID Info Business Services Ltd"
         },
         {
-            "SYM": "VLSFINANCE",
-            "COMPANY": "VLS FINANCE LTD."
+            SYM: "VLSFINANCE",
+            COM: "VLS FINANCE LTD."
         },
         {
-            "SYM": "INDCEMCAP",
-            "COMPANY": "INDIA CEMENTS CAPITAL LTD."
+            SYM: "INDCEMCAP",
+            COM: "INDIA CEMENTS CAPITAL LTD."
         },
         {
-            "SYM": "ADMANUM",
-            "COMPANY": "AD-MANUM FINANCE LTD."
+            SYM: "ADMANUM",
+            COM: "AD-MANUM FINANCE LTD."
         },
         {
-            "SYM": "MEGLON",
-            "COMPANY": "MEGLON INFRA-REAL (INDIA) LTD."
+            SYM: "MEGLON",
+            COM: "MEGLON INFRA-REAL (INDIA) LTD."
         },
         {
-            "SYM": "MEHIF",
-            "COMPANY": "MEHTA INTEGRATED FINANCE LTD."
+            SYM: "MEHIF",
+            COM: "MEHTA INTEGRATED FINANCE LTD."
         },
         {
-            "SYM": "VIDEOIND",
-            "COMPANY": "VIDEOCON INDUSTRIES LTD."
+            SYM: "VIDEOIND",
+            COM: "VIDEOCON INDUSTRIES LTD."
         },
         {
-            "SYM": "INTRGLB",
-            "COMPANY": "INTER GLOBE FINANCE LTD."
+            SYM: "INTRGLB",
+            COM: "INTER GLOBE FINANCE LTD."
         },
         {
-            "SYM": "MCLTD",
-            "COMPANY": "Munoth Communication Ltd"
+            SYM: "MCLTD",
+            COM: "Munoth Communication Ltd"
         },
         {
-            "SYM": "SHRISTI",
-            "COMPANY": "SHRISTI INFRASTRUCTURE DEVELOPMENT CORPORATION LTD."
+            SYM: "SHRISTI",
+            COM: "SHRISTI INFRASTRUCTURE DEVELOPMENT CORPORATION LTD."
         },
         {
-            "SYM": "CREST",
-            "COMPANY": "CREST VENTURES LIMITED"
+            SYM: "CREST",
+            COM: "CREST VENTURES LIMITED"
         },
         {
-            "SYM": "VAKRANGEE",
-            "COMPANY": "Vakrangee Limited-$"
+            SYM: "VAKRANGEE",
+            COM: "Vakrangee Limited"
         },
         {
-            "SYM": "GUJCRED",
-            "COMPANY": "GUJARAT CREDIT CORPORATION LTD."
+            SYM: "GUJCRED",
+            COM: "GUJARAT CREDIT CORPORATION LTD."
         },
         {
-            "SYM": "SYLPH",
-            "COMPANY": "SYLPH TECHNOLOGIES LTD."
+            SYM: "SYLPH",
+            COM: "SYLPH TECHNOLOGIES LTD."
         },
         {
-            "SYM": "DHARFIN",
-            "COMPANY": "DHARANI FINANCE LTD."
+            SYM: "DHARFIN",
+            COM: "DHARANI FINANCE LTD."
         },
         {
-            "SYM": "ALEXANDER",
-            "COMPANY": "Alexander Stamps And Coin Ltd"
+            SYM: "ALEXANDER",
+            COM: "Alexander Stamps And Coin Ltd"
         },
         {
-            "SYM": "INDBANK",
-            "COMPANY": "INDBANK MERCHANT BANKING SERVICES LTD."
+            SYM: "INDBANK",
+            COM: "INDBANK MERCHANT BANKING SERVICES LTD."
         },
         {
-            "SYM": "BHARAT",
-            "COMPANY": "BHARAT BHUSHAN SHARE & COMMODITY BROKERS LTD."
+            SYM: "BHARAT",
+            COM: "BHARAT BHUSHAN SHARE & COMMODITY BROKERS LTD."
         },
         {
-            "SYM": "CAPITALT",
-            "COMPANY": "CAPITAL TRUST LTD."
+            SYM: "CAPITALT",
+            COM: "CAPITAL TRUST LTD."
         },
         {
-            "SYM": "USHAKIRA",
-            "COMPANY": "USHAKIRAN FINANCE LTD."
+            SYM: "USHAKIRA",
+            COM: "USHAKIRAN FINANCE LTD."
         },
         {
-            "SYM": "VIVOBIOT",
-            "COMPANY": "VIVO BIO TECH LTD."
+            SYM: "VIVOBIOT",
+            COM: "VIVO BIO TECH LTD."
         },
         {
-            "SYM": "VEERHEALTH",
-            "COMPANY": "Veerhealth Care Limited"
+            SYM: "VEERHEALTH",
+            COM: "Veerhealth Care Limited"
         },
         {
-            "SYM": "PANINDIAC",
-            "COMPANY": "PAN INDIA CORPORATION LTD."
+            SYM: "PANINDIAC",
+            COM: "PAN INDIA CORPORATION LTD."
         },
         {
-            "SYM": "SAHARAHOUS",
-            "COMPANY": "SAHARA HOUSINGFINA CORPORATION LTD."
+            SYM: "SAHARAHOUS",
+            COM: "SAHARA HOUSINGFINA CORPORATION LTD."
         },
         {
-            "SYM": "NDASEC",
-            "COMPANY": "NDA SECURITIES LTD."
+            SYM: "NDASEC",
+            COM: "NDA SECURITIES LTD."
         },
         {
-            "SYM": "SUPRATRE",
-            "COMPANY": "Supra Trends Limited"
+            SYM: "SUPRATRE",
+            COM: "Supra Trends Limited"
         },
         {
-            "SYM": "GSBFIN",
-            "COMPANY": "GSB FINANCE LTD."
+            SYM: "GSBFIN",
+            COM: "GSB FINANCE LTD."
         },
         {
-            "SYM": "MORARKFI",
-            "COMPANY": "MORARKA FINANCE LTD."
+            SYM: "MORARKFI",
+            COM: "MORARKA FINANCE LTD."
         },
         {
-            "SYM": "MONARCH",
-            "COMPANY": "Monarch Networth Capital Ltd"
+            SYM: "MONARCH",
+            COM: "Monarch Networth Capital Ltd"
         },
         {
-            "SYM": "PROFINC",
-            "COMPANY": "PRO FIN CAPITAL SERVICES LTD."
+            SYM: "PROFINC",
+            COM: "PRO FIN CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "TIMESGTY",
-            "COMPANY": "TIMES GUARANTY LTD."
+            SYM: "TIMESGTY",
+            COM: "TIMES GUARANTY LTD."
         },
         {
-            "SYM": "SODFC",
-            "COMPANY": "SOM DATT FINANCE CORPORATION LTD."
+            SYM: "SODFC",
+            COM: "SOM DATT FINANCE CORPORATION LTD."
         },
         {
-            "SYM": "SAVFI",
-            "COMPANY": "SAVANI FINANCIALS LTD."
+            SYM: "SAVFI",
+            COM: "SAVANI FINANCIALS LTD."
         },
         {
-            "SYM": "REGTRUS",
-            "COMPANY": "REGENCY TRUST LTD."
+            SYM: "REGTRUS",
+            COM: "REGENCY TRUST LTD."
         },
         {
-            "SYM": "AVONMORE",
-            "COMPANY": "Avonmore Capital & Management Services Limited"
+            SYM: "AVONMORE",
+            COM: "Avonmore Capital & Management Services Limited"
         },
         {
-            "SYM": "LIBORDFIN",
-            "COMPANY": "Libord Finance Ltd"
+            SYM: "LIBORDFIN",
+            COM: "Libord Finance Ltd"
         },
         {
-            "SYM": "PALSOFT",
-            "COMPANY": "PALSOFT INFOSYSTEMS LTD."
+            SYM: "PALSOFT",
+            COM: "PALSOFT INFOSYSTEMS LTD."
         },
         {
-            "SYM": "YASHMGM",
-            "COMPANY": "YASH MANAGEMENT & SATELLITE LTD."
+            SYM: "YASHMGM",
+            COM: "YASH MANAGEMENT & SATELLITE LTD."
         },
         {
-            "SYM": "ARIHCAPM",
-            "COMPANY": "ARIHANT CAPITAL MARKETS LTD."
+            SYM: "ARIHCAPM",
+            COM: "ARIHANT CAPITAL MARKETS LTD."
         },
         {
-            "SYM": "ISLCONSUL",
-            "COMPANY": "ISL CONSULTING LTD."
+            SYM: "ISLCONSUL",
+            COM: "ISL CONSULTING LTD."
         },
         {
-            "SYM": "DCMFINSERV",
-            "COMPANY": "DCM FINANCIAL SERVICES LTD."
+            SYM: "DCMFINSERV",
+            COM: "DCM FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "JIKIND",
-            "COMPANY": "JIK INDUSTRIES LTD."
+            SYM: "JIKIND",
+            COM: "JIK INDUSTRIES LTD."
         },
         {
-            "SYM": "IMCAP",
-            "COMPANY": "IM+ Capitals Limited"
+            SYM: "IMCAP",
+            COM: "IM+ Capitals Limited"
         },
         {
-            "SYM": "SAMBHAAV",
-            "COMPANY": "SAMBHAAV MEDIA LTD."
+            SYM: "SAMBHAAV",
+            COM: "SAMBHAAV MEDIA LTD."
         },
         {
-            "SYM": "DUGARHOU",
-            "COMPANY": "DUGAR HOUSING DEVELOPMENTS LTD."
+            SYM: "DUGARHOU",
+            COM: "DUGAR HOUSING DEVELOPMENTS LTD."
         },
         {
-            "SYM": "SUGALDAM",
-            "COMPANY": "SUGAL & DAMANI SHARE BROKERS LTD."
+            SYM: "SUGALDAM",
+            COM: "SUGAL & DAMANI SHARE BROKERS LTD."
         },
         {
-            "SYM": "NETTLINX",
-            "COMPANY": "NETTLINX LTD."
+            SYM: "NETTLINX",
+            COM: "NETTLINX LTD."
         },
         {
-            "SYM": "SCANSTL",
-            "COMPANY": "Scan Steels Limited"
+            SYM: "SCANSTL",
+            COM: "Scan Steels Limited"
         },
         {
-            "SYM": "GICHSGFIN",
-            "COMPANY": "GIC HOUSING FINANCE LTD."
+            SYM: "GICHSGFIN",
+            COM: "GIC HOUSING FINANCE LTD."
         },
         {
-            "SYM": "MATHEWE",
-            "COMPANY": "MATHEW EASOW RESEARCH SECURITIES LTD."
+            SYM: "MATHEWE",
+            COM: "MATHEW EASOW RESEARCH SECURITIES LTD."
         },
         {
-            "SYM": "AJCON",
-            "COMPANY": "AJCON GLOBAL SERVICES LTD."
+            SYM: "AJCON",
+            COM: "AJCON GLOBAL SERVICES LTD."
         },
         {
-            "SYM": "CHRTEDCA",
-            "COMPANY": "CHARTERED CAPITAL & INVESTMENT LTD."
+            SYM: "CHRTEDCA",
+            COM: "CHARTERED CAPITAL & INVESTMENT LTD."
         },
         {
-            "SYM": "STANCAP",
-            "COMPANY": "STANDARD CAPITAL MARKETS LTD."
+            SYM: "STANCAP",
+            COM: "STANDARD CAPITAL MARKETS LTD."
         },
         {
-            "SYM": "PARSHINV",
-            "COMPANY": "PARSHARTI INVESTMENT LTD."
+            SYM: "PARSHINV",
+            COM: "PARSHARTI INVESTMENT LTD."
         },
         {
-            "SYM": "CUBIFIN",
-            "COMPANY": "CUBICAL FINANCIAL SERVICES LTD."
+            SYM: "CUBIFIN",
+            COM: "CUBICAL FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "RELICTEC",
-            "COMPANY": "RELIC TECHNOLOGIES LTD."
+            SYM: "RELICTEC",
+            COM: "RELIC TECHNOLOGIES LTD."
         },
         {
-            "SYM": "NIMBSPROJ",
-            "COMPANY": "NIMBUS PROJECTS LTD."
+            SYM: "NIMBSPROJ",
+            COM: "NIMBUS PROJECTS LTD."
         },
         {
-            "SYM": "ESCORTSFIN",
-            "COMPANY": "ESCORTS FINANCE LTD."
+            SYM: "ESCORTSFIN",
+            COM: "ESCORTS FINANCE LTD."
         },
         {
-            "SYM": "BALFC",
-            "COMPANY": "BAID LEASING AND FINANCE CO.LTD."
+            SYM: "BALFC",
+            COM: "BAID LEASING AND FINANCE CO.LTD."
         },
         {
-            "SYM": "VIPUL",
-            "COMPANY": "VIPUL LTD."
+            SYM: "VIPUL",
+            COM: "VIPUL LTD."
         },
         {
-            "SYM": "KZLFIN",
-            "COMPANY": "K.Z.LEASING & FINANCE LTD."
+            SYM: "KZLFIN",
+            COM: "K.Z.LEASING & FINANCE LTD."
         },
         {
-            "SYM": "TRCFIN",
-            "COMPANY": "TRC FINANCIAL SERVICES LTD."
+            SYM: "TRCFIN",
+            COM: "TRC FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "MEHSECU",
-            "COMPANY": "MEHTA SECURITIES LTD."
+            SYM: "MEHSECU",
+            COM: "MEHTA SECURITIES LTD."
         },
         {
-            "SYM": "UGROCAP",
-            "COMPANY": "Ugro Capital Ltd"
+            SYM: "UGROCAP",
+            COM: "Ugro Capital Ltd"
         },
         {
-            "SYM": "SAHLIBHFI",
-            "COMPANY": "SHALIBHADRA FINANCE LTD."
+            SYM: "SAHLIBHFI",
+            COM: "SHALIBHADRA FINANCE LTD."
         },
         {
-            "SYM": "ABIRAFN",
-            "COMPANY": "ABIRAMI FINANCIAL SERVICES (INDIA) LTD."
+            SYM: "ABIRAFN",
+            COM: "ABIRAMI FINANCIAL SERVICES (INDIA) LTD."
         },
         {
-            "SYM": "MANSIFIN",
-            "COMPANY": "MANSI FINANCE (CHENNAI) LTD."
+            SYM: "MANSIFIN",
+            COM: "MANSI FINANCE (CHENNAI) LTD."
         },
         {
-            "SYM": "SEVENHILL",
-            "COMPANY": "Seven Hill Industries Limited"
+            SYM: "SEVENHILL",
+            COM: "Seven Hill Industries Limited"
         },
         {
-            "SYM": "UPASAFN",
-            "COMPANY": "UPASANA FINANCE LTD."
+            SYM: "UPASAFN",
+            COM: "UPASANA FINANCE LTD."
         },
         {
-            "SYM": "MUTHTFN",
-            "COMPANY": "MUTHOOT CAPITAL SERVICES LTD."
+            SYM: "MUTHTFN",
+            COM: "MUTHOOT CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "MASTERTR",
-            "COMPANY": "MASTER TRUST LTD."
+            SYM: "MASTERTR",
+            COM: "MASTER TRUST LTD."
         },
         {
-            "SYM": "ZNILKENG",
-            "COMPANY": "NILKANTH ENGINEERING LTD."
+            SYM: "ZNILKENG",
+            COM: "NILKANTH ENGINEERING LTD."
         },
         {
-            "SYM": "AMANITRA",
-            "COMPANY": "AMANI TRADING & EXPORTS LTD."
+            SYM: "AMANITRA",
+            COM: "AMANI TRADING & EXPORTS LTD."
         },
         {
-            "SYM": "TEATIME",
-            "COMPANY": "TEA TIME LTD."
+            SYM: "TEATIME",
+            COM: "TEA TIME LTD."
         },
         {
-            "SYM": "SOBME",
-            "COMPANY": "SOBHAGYA MERCHANTILE LTD."
+            SYM: "SOBME",
+            COM: "SOBHAGYA MERCHANTILE LTD."
         },
         {
-            "SYM": "CNIRESLTD",
-            "COMPANY": "CNI RESEARCH LTD."
+            SYM: "CNIRESLTD",
+            COM: "CNI RESEARCH LTD."
         },
         {
-            "SYM": "ZSARACOM",
-            "COMPANY": "SARASWATI COMMERCIAL (INDIA) LTD."
+            SYM: "ZSARACOM",
+            COM: "SARASWATI COMMERCIAL (INDIA) LTD."
         },
         {
-            "SYM": "WINROC",
-            "COMPANY": "WINRO COMMERCIAL (INDIA) LTD."
+            SYM: "WINROC",
+            COM: "WINRO COMMERCIAL (INDIA) LTD."
         },
         {
-            "SYM": "NDMETAL",
-            "COMPANY": "N.D.METAL INDUSTRIES LTD."
+            SYM: "NDMETAL",
+            COM: "N.D.METAL INDUSTRIES LTD."
         },
         {
-            "SYM": "INERTIAST",
-            "COMPANY": "INERTIA STEEL LTD."
+            SYM: "INERTIAST",
+            COM: "INERTIA STEEL LTD."
         },
         {
-            "SYM": "PHTRADING",
-            "COMPANY": "PH TRADING LTD."
+            SYM: "PHTRADING",
+            COM: "PH TRADING LTD."
         },
         {
-            "SYM": "KAPILCO",
-            "COMPANY": "KAPIL COTEX LTD."
+            SYM: "KAPILCO",
+            COM: "KAPIL COTEX LTD."
         },
         {
-            "SYM": "ASWTR",
-            "COMPANY": "AASWA TRADING & EXPORTS LTD."
+            SYM: "ASWTR",
+            COM: "AASWA TRADING & EXPORTS LTD."
         },
         {
-            "SYM": "ROYALIND",
-            "COMPANY": "Royal India Corporation Limited"
+            SYM: "ROYALIND",
+            COM: "Royal India Corporation Limited"
         },
         {
-            "SYM": "LUHARUKA",
-            "COMPANY": "Luharuka Media & Infra Ltd"
+            SYM: "LUHARUKA",
+            COM: "Luharuka Media & Infra Ltd"
         },
         {
-            "SYM": "SHYAM",
-            "COMPANY": "VENTURA GUARANTY LTD."
+            SYM: "SHYAM",
+            COM: "VENTURA GUARANTY LTD."
         },
         {
-            "SYM": "ZSANMCOM",
-            "COMPANY": "SANMITRA COMMERCIAL LTD."
+            SYM: "ZSANMCOM",
+            COM: "SANMITRA COMMERCIAL LTD."
         },
         {
-            "SYM": "AYOME",
-            "COMPANY": "AYOKI MERCANTILE LTD."
+            SYM: "AYOME",
+            COM: "AYOKI MERCANTILE LTD."
         },
         {
-            "SYM": "VISVEN",
-            "COMPANY": "Vishvprabha Ventures Ltd"
+            SYM: "VISVEN",
+            COM: "Vishvprabha Ventures Ltd"
         },
         {
-            "SYM": "MRUTR",
-            "COMPANY": "MRUGESH TRADING LTD."
+            SYM: "MRUTR",
+            COM: "MRUGESH TRADING LTD."
         },
         {
-            "SYM": "DECNGOLD",
-            "COMPANY": "DECCAN GOLD MINES LTD."
+            SYM: "DECNGOLD",
+            COM: "DECCAN GOLD MINES LTD."
         },
         {
-            "SYM": "UPL",
-            "COMPANY": "UPL Limited"
+            SYM: "UPL",
+            COM: "UPL Limited"
         },
         {
-            "SYM": "ANSHNCO",
-            "COMPANY": "ANSHUNI COMMERCIALS LTD."
+            SYM: "ANSHNCO",
+            COM: "ANSHUNI COMMERCIALS LTD."
         },
         {
-            "SYM": "CRANESSOFT",
-            "COMPANY": "CRANES SOFTWARE INTERNATIONAL LTD."
+            SYM: "CRANESSOFT",
+            COM: "CRANES SOFTWARE INTERNATIONAL LTD."
         },
         {
-            "SYM": "PUNITCO",
-            "COMPANY": "PUNIT COMMERCIALS LTD."
+            SYM: "PUNITCO",
+            COM: "PUNIT COMMERCIALS LTD."
         },
         {
-            "SYM": "TRIPR",
-            "COMPANY": "TRIOCHEM PRODUCTS LTD."
+            SYM: "TRIPR",
+            COM: "TRIOCHEM PRODUCTS LTD."
         },
         {
-            "SYM": "AVIVA",
-            "COMPANY": "AVIVA INDUSTRIES LTD."
+            SYM: "AVIVA",
+            COM: "AVIVA INDUSTRIES LTD."
         },
         {
-            "SYM": "TWIROST",
-            "COMPANY": "TWIN ROSES TRADES & AGENCIES LTD."
+            SYM: "TWIROST",
+            COM: "TWIN ROSES TRADES & AGENCIES LTD."
         },
         {
-            "SYM": "SIGNETIND",
-            "COMPANY": "Signet Industries Limited"
+            SYM: "SIGNETIND",
+            COM: "Signet Industries Limited"
         },
         {
-            "SYM": "SPECMKT",
-            "COMPANY": "SPECULAR MARKETING & FINANCING LTD."
+            SYM: "SPECMKT",
+            COM: "SPECULAR MARKETING & FINANCING LTD."
         },
         {
-            "SYM": "TERRAREAL",
-            "COMPANY": "Terraform Realstate Limited"
+            SYM: "TERRAREAL",
+            COM: "Terraform Realstate Limited"
         },
         {
-            "SYM": "SECURKLOUD",
-            "COMPANY": "Securekloud Technologies Ltd"
+            SYM: "SECURKLOUD",
+            COM: "Securekloud Technologies Ltd"
         },
         {
-            "SYM": "ABANSENT",
-            "COMPANY": "Abans Enterprises Ltd"
+            SYM: "ABANSENT",
+            COM: "Abans Enterprises Ltd"
         },
         {
-            "SYM": "CAPRICORN",
-            "COMPANY": "CAPRICORN SYSTEMS GLOBAL SOLUTIONS LTD."
+            SYM: "CAPRICORN",
+            COM: "CAPRICORN SYSTEMS GLOBAL SOLUTIONS LTD."
         },
         {
-            "SYM": "VAMA",
-            "COMPANY": "VAMA INDUSTRIES LTD."
+            SYM: "VAMA",
+            COM: "VAMA INDUSTRIES LTD."
         },
         {
-            "SYM": "SUNTECK",
-            "COMPANY": "SUNTECK REALTY LTD."
+            SYM: "SUNTECK",
+            COM: "SUNTECK REALTY LTD."
         },
         {
-            "SYM": "BENTCOM",
-            "COMPANY": "BENTLEY COMMERCIAL ENTERPRISES LTD."
+            SYM: "BENTCOM",
+            COM: "BENTLEY COMMERCIAL ENTERPRISES LTD."
         },
         {
-            "SYM": "SILVERO",
-            "COMPANY": "SILVER OAK COMMERCIAL LTD."
+            SYM: "SILVERO",
+            COM: "SILVER OAK COMMERCIAL LTD."
         },
         {
-            "SYM": "CLASELE",
-            "COMPANY": "CLASSIC ELECTRICALS LTD."
+            SYM: "CLASELE",
+            COM: "CLASSIC ELECTRICALS LTD."
         },
         {
-            "SYM": "STEPHANOTIS",
-            "COMPANY": "Stephanotis Finance Ltd"
+            SYM: "STEPHANOTIS",
+            COM: "Stephanotis Finance Ltd"
         },
         {
-            "SYM": "PRISMMEDI",
-            "COMPANY": "PRISM MEDICO AND PHARMACY LTD."
+            SYM: "PRISMMEDI",
+            COM: "PRISM MEDICO AND PHARMACY LTD."
         },
         {
-            "SYM": "SPVGLOBAL",
-            "COMPANY": "SPV Global Trading Ltd"
+            SYM: "SPVGLOBAL",
+            COM: "SPV Global Trading Ltd"
         },
         {
-            "SYM": "VERITAS",
-            "COMPANY": "VERITAS (INDIA) LTD."
+            SYM: "VERITAS",
+            COM: "VERITAS (INDIA) LTD."
         },
         {
-            "SYM": "JAICORPLTD",
-            "COMPANY": "JAI CORP LTD."
+            SYM: "JAICORPLTD",
+            COM: "JAI CORP LTD."
         },
         {
-            "SYM": "ZNIVITRD",
-            "COMPANY": "NIVI TRADING LTD."
+            SYM: "ZNIVITRD",
+            COM: "NIVI TRADING LTD."
         },
         {
-            "SYM": "ASHCAP",
-            "COMPANY": "ASHIRWAD CAPITAL LTD."
+            SYM: "ASHCAP",
+            COM: "ASHIRWAD CAPITAL LTD."
         },
         {
-            "SYM": "SVARTCORP",
-            "COMPANY": "Swasti Vinayaka Art And Heritage Corporation Ltd"
+            SYM: "SVARTCORP",
+            COM: "Swasti Vinayaka Art And Heritage Corporation Ltd"
         },
         {
-            "SYM": "BAJGLOB",
-            "COMPANY": "BAJAJ GLOBAL LTD."
+            SYM: "BAJGLOB",
+            COM: "BAJAJ GLOBAL LTD."
         },
         {
-            "SYM": "MMWL",
-            "COMPANY": "MEDIA MATRIX WORLDWIDE LTD."
+            SYM: "MMWL",
+            COM: "MEDIA MATRIX WORLDWIDE LTD."
         },
         {
-            "SYM": "TASHIND",
-            "COMPANY": "TASHI INDIA LTD."
+            SYM: "TASHIND",
+            COM: "TASHI INDIA LTD."
         },
         {
-            "SYM": "AUTOINT",
-            "COMPANY": "AUTORIDERS INTERNATIONAL LTD."
+            SYM: "AUTOINT",
+            COM: "AUTORIDERS INTERNATIONAL LTD."
         },
         {
-            "SYM": "NNTL",
-            "COMPANY": "N2N Technologies Limited"
+            SYM: "NNTL",
+            COM: "N2N Technologies Limited"
         },
         {
-            "SYM": "ZSPEEDCO",
-            "COMPANY": "SPEEDAGE COMMERCIALS LTD."
+            SYM: "ZSPEEDCO",
+            COM: "SPEEDAGE COMMERCIALS LTD."
         },
         {
-            "SYM": "BHAGYNAGAR",
-            "COMPANY": "BHAGYANAGAR INDIA LTD."
+            SYM: "BHAGYNAGAR",
+            COM: "BHAGYANAGAR INDIA LTD."
         },
         {
-            "SYM": "SHANTAI",
-            "COMPANY": "Shantai Industries Ltd"
+            SYM: "SHANTAI",
+            COM: "Shantai Industries Ltd"
         },
         {
-            "SYM": "CHMBBRW",
-            "COMPANY": "CHAMBAL BREWERIES & DISTILLERIES LTD."
+            SYM: "CHMBBRW",
+            COM: "CHAMBAL BREWERIES & DISTILLERIES LTD."
         },
         {
-            "SYM": "ZMANSOON",
-            "COMPANY": "MANSOON TRADING CO.LTD."
+            SYM: "ZMANSOON",
+            COM: "MANSOON TRADING CO.LTD."
         },
         {
-            "SYM": "KRL",
-            "COMPANY": "Kintech Renewables Ltd"
+            SYM: "KRL",
+            COM: "Kintech Renewables Ltd"
         },
         {
-            "SYM": "MAHSHRE",
-            "COMPANY": "MAHASHREE TRADING LTD."
+            SYM: "MAHSHRE",
+            COM: "MAHASHREE TRADING LTD."
         },
         {
-            "SYM": "CESL",
-            "COMPANY": "CES Limited"
+            SYM: "CESL",
+            COM: "CES Limited"
         },
         {
-            "SYM": "ARAVALIS",
-            "COMPANY": "ARAVALI SECURITIES & FINANCE LTD."
+            SYM: "ARAVALIS",
+            COM: "ARAVALI SECURITIES & FINANCE LTD."
         },
         {
-            "SYM": "YASTF",
-            "COMPANY": "YASH TRADING & FINANCE LTD."
+            SYM: "YASTF",
+            COM: "YASH TRADING & FINANCE LTD."
         },
         {
-            "SYM": "SWORDEDGE",
-            "COMPANY": "Sword-Edge Commercials Limited"
+            SYM: "SWORDEDGE",
+            COM: "Sword-Edge Commercials Limited"
         },
         {
-            "SYM": "ZSHERAPR",
-            "COMPANY": "SHERATON PROPERTIES & FINANCE LTD."
+            SYM: "ZSHERAPR",
+            COM: "SHERATON PROPERTIES & FINANCE LTD."
         },
         {
-            "SYM": "MAGANTR",
-            "COMPANY": "MAGNANIMOUS TRADE & FINANCE LTD."
+            SYM: "MAGANTR",
+            COM: "MAGNANIMOUS TRADE & FINANCE LTD."
         },
         {
-            "SYM": "CRESSAN",
-            "COMPANY": "CRESSANDA SOLUTIONS LTD."
+            SYM: "CRESSAN",
+            COM: "CRESSANDA SOLUTIONS LTD."
         },
         {
-            "SYM": "STARTECK",
-            "COMPANY": "Starteck Finance Ltd"
+            SYM: "STARTECK",
+            COM: "Starteck Finance Ltd"
         },
         {
-            "SYM": "SHARDUL",
-            "COMPANY": "SHARDUL SECURITIES LTD."
+            SYM: "SHARDUL",
+            COM: "SHARDUL SECURITIES LTD."
         },
         {
-            "SYM": "KAPASHI",
-            "COMPANY": "KAPASHI COMMERCIALS LTD."
+            SYM: "KAPASHI",
+            COM: "KAPASHI COMMERCIALS LTD."
         },
         {
-            "SYM": "BENGALS",
-            "COMPANY": "BENGAL STEEL INDUSTRIES LTD."
+            SYM: "BENGALS",
+            COM: "BENGAL STEEL INDUSTRIES LTD."
         },
         {
-            "SYM": "UNIWSEC",
-            "COMPANY": "UNIWORTH SECURITIES LTD."
+            SYM: "UNIWSEC",
+            COM: "UNIWORTH SECURITIES LTD."
         },
         {
-            "SYM": "MERCTRD",
-            "COMPANY": "MERCURY TRADE LINKS LTD."
+            SYM: "MERCTRD",
+            COM: "MERCURY TRADE LINKS LTD."
         },
         {
-            "SYM": "NIRAVCOM",
-            "COMPANY": "NIRAV COMMERCIALS LTD."
+            SYM: "NIRAVCOM",
+            COM: "NIRAV COMMERCIALS LTD."
         },
         {
-            "SYM": "ASUTENT",
-            "COMPANY": "ASUTOSH ENTERPRISES LTD."
+            SYM: "ASUTENT",
+            COM: "ASUTOSH ENTERPRISES LTD."
         },
         {
-            "SYM": "APOLLOFI",
-            "COMPANY": "APOLLO FINVEST (INDIA) LTD."
+            SYM: "APOLLOFI",
+            COM: "APOLLO FINVEST (INDIA) LTD."
         },
         {
-            "SYM": "ENBETRD",
-            "COMPANY": "ENBEE TRADE & FINANCE LTD."
+            SYM: "ENBETRD",
+            COM: "ENBEE TRADE & FINANCE LTD."
         },
         {
-            "SYM": "GANONPRO",
-            "COMPANY": "Ganon Products Ltd"
+            SYM: "GANONPRO",
+            COM: "Ganon Products Ltd"
         },
         {
-            "SYM": "DEVITRD",
-            "COMPANY": "DEVINSU TRADING LTD."
+            SYM: "DEVITRD",
+            COM: "DEVINSU TRADING LTD."
         },
         {
-            "SYM": "SHRJAGP",
-            "COMPANY": "SHRI JAGDAMBA POLYMERS LTD."
+            SYM: "SHRJAGP",
+            COM: "SHRI JAGDAMBA POLYMERS LTD."
         },
         {
-            "SYM": "LLOYDSME",
-            "COMPANY": "LLOYDS METALS AND ENERGY LTD."
+            SYM: "LLOYDSME",
+            COM: "LLOYDS METALS AND ENERGY LTD."
         },
         {
-            "SYM": "PUNCTRD",
-            "COMPANY": "PUNCTUAL TRADING LTD."
+            SYM: "PUNCTRD",
+            COM: "PUNCTUAL TRADING LTD."
         },
         {
-            "SYM": "SHRGLTR",
-            "COMPANY": "SHREE GLOBAL TRADEFIN LTD."
+            SYM: "SHRGLTR",
+            COM: "SHREE GLOBAL TRADEFIN LTD."
         },
         {
-            "SYM": "BETXIND",
-            "COMPANY": "BETEX INDIA LTD."
+            SYM: "BETXIND",
+            COM: "BETEX INDIA LTD."
         },
         {
-            "SYM": "GYTRIPA",
-            "COMPANY": "GAYATRI TISSUE & PAPERS LTD."
+            SYM: "GYTRIPA",
+            COM: "GAYATRI TISSUE & PAPERS LTD."
         },
         {
-            "SYM": "POLYTEX",
-            "COMPANY": "POLYTEX INDIA LTD."
+            SYM: "POLYTEX",
+            COM: "POLYTEX INDIA LTD."
         },
         {
-            "SYM": "DHANCOT",
-            "COMPANY": "DHANLAXMI COTEX LTD."
+            SYM: "DHANCOT",
+            COM: "DHANLAXMI COTEX LTD."
         },
         {
-            "SYM": "OASISEC",
-            "COMPANY": "OASIS SECURITIES LTD."
+            SYM: "OASISEC",
+            COM: "OASIS SECURITIES LTD."
         },
         {
-            "SYM": "GARNETINT",
-            "COMPANY": "GARNET INTERNATIONAL LTD."
+            SYM: "GARNETINT",
+            COM: "GARNET INTERNATIONAL LTD."
         },
         {
-            "SYM": "SHALPRO",
-            "COMPANY": "SHALIMAR PRODUCTIONS LTD."
+            SYM: "SHALPRO",
+            COM: "SHALIMAR PRODUCTIONS LTD."
         },
         {
-            "SYM": "VARUNME",
-            "COMPANY": "VARUN MERCANTILE LTD."
+            SYM: "VARUNME",
+            COM: "VARUN MERCANTILE LTD."
         },
         {
-            "SYM": "DONEAR",
-            "COMPANY": "DONEAR INDUSTRIES LTD.-$"
+            SYM: "DONEAR",
+            COM: "DONEAR INDUSTRIES LTD."
         },
         {
-            "SYM": "NEPTEXP",
-            "COMPANY": "NEPTUNE EXPORTS LTD."
+            SYM: "NEPTEXP",
+            COM: "NEPTUNE EXPORTS LTD."
         },
         {
-            "SYM": "SUPER",
-            "COMPANY": "SUPER SALES INDIA LTD.-$"
+            SYM: "SUPER",
+            COM: "SUPER SALES INDIA LTD."
         },
         {
-            "SYM": "SEQUENT",
-            "COMPANY": "SEQUENT SCIENTIFIC LTD."
+            SYM: "SEQUENT",
+            COM: "SEQUENT SCIENTIFIC LTD."
         },
         {
-            "SYM": "STCINDIA",
-            "COMPANY": "STATE TRADING CORPORATION OF INDIA LTD."
+            SYM: "STCINDIA",
+            COM: "STATE TRADING CORPORATION OF INDIA LTD."
         },
         {
-            "SYM": "ZENITHEXPO",
-            "COMPANY": "ZENITH EXPORTS LTD."
+            SYM: "ZENITHEXPO",
+            COM: "ZENITH EXPORTS LTD."
         },
         {
-            "SYM": "RTEXPO",
-            "COMPANY": "R.T.EXPORTS LTD.-$"
+            SYM: "RTEXPO",
+            COM: "R.T.EXPORTS LTD."
         },
         {
-            "SYM": "AVANTI",
-            "COMPANY": "AVANTI FEEDS LTD.-$"
+            SYM: "AVANTI",
+            COM: "AVANTI FEEDS LTD."
         },
         {
-            "SYM": "ZODJRDMKJ",
-            "COMPANY": "ZODIAC-JRD-MKJ LTD."
+            SYM: "ZODJRDMKJ",
+            COM: "ZODIAC-JRD-MKJ LTD."
         },
         {
-            "SYM": "SITAENT",
-            "COMPANY": "SITA ENTERPRISES LTD."
+            SYM: "SITAENT",
+            COM: "SITA ENTERPRISES LTD."
         },
         {
-            "SYM": "PULSRIN",
-            "COMPANY": "PULSAR INTERNATIONAL LTD."
+            SYM: "PULSRIN",
+            COM: "PULSAR INTERNATIONAL LTD."
         },
         {
-            "SYM": "UNIMOVR",
-            "COMPANY": "UNIMODE OVERSEAS LTD."
+            SYM: "UNIMOVR",
+            COM: "UNIMODE OVERSEAS LTD."
         },
         {
-            "SYM": "KEYFINSER",
-            "COMPANY": "Keynote Financial Services Ltd"
+            SYM: "KEYFINSER",
+            COM: "Keynote Financial Services Ltd"
         },
         {
-            "SYM": "ADANIENT",
-            "COMPANY": "ADANI ENTERPRISES LTD."
+            SYM: "ADANIENT",
+            COM: "ADANI ENTERPRISES LTD."
         },
         {
-            "SYM": "MACINTR",
-            "COMPANY": "MACRO (INTERNATIONAL) EXPORTS LTD."
+            SYM: "MACINTR",
+            COM: "MACRO (INTERNATIONAL) EXPORTS LTD."
         },
         {
-            "SYM": "HARIAEXPO",
-            "COMPANY": "HARIA EXPORTS LTD.-$"
+            SYM: "HARIAEXPO",
+            COM: "HARIA EXPORTS LTD."
         },
         {
-            "SYM": "BHANDHOS",
-            "COMPANY": "BHANDARI HOSIERY EXPORTS LTD."
+            SYM: "BHANDHOS",
+            COM: "BHANDARI HOSIERY EXPORTS LTD."
         },
         {
-            "SYM": "RLF",
-            "COMPANY": "RLF LTD."
+            SYM: "RLF",
+            COM: "RLF LTD."
         },
         {
-            "SYM": "REGENTRP",
-            "COMPANY": "Regent Enterprises Ltd"
+            SYM: "REGENTRP",
+            COM: "Regent Enterprises Ltd"
         },
         {
-            "SYM": "ORBTEXP",
-            "COMPANY": "ORBIT EXPORTS LTD."
+            SYM: "ORBTEXP",
+            COM: "ORBIT EXPORTS LTD."
         },
         {
-            "SYM": "SAVERA",
-            "COMPANY": "SAVERA INDUSTRIES LTD."
+            SYM: "SAVERA",
+            COM: "SAVERA INDUSTRIES LTD."
         },
         {
-            "SYM": "VBCFERROQ",
-            "COMPANY": "VBC FERRO ALLOYS LTD.-$"
+            SYM: "VBCFERROQ",
+            COM: "VBC FERRO ALLOYS LTD."
         },
         {
-            "SYM": "TATASTLLP",
-            "COMPANY": "Tata Steel Long Products Ltd"
+            SYM: "TATASTLLP",
+            COM: "Tata Steel Long Products Ltd"
         },
         {
-            "SYM": "NBVENTURES*",
-            "COMPANY": "NAVA BHARAT VENTURES LTD."
+            SYM: "NBVENTURES*",
+            COM: "NAVA BHARAT VENTURES LTD."
         },
         {
-            "SYM": "ZHINUDYP",
-            "COMPANY": "HINDUSTHAN UDYOG LTD."
+            SYM: "ZHINUDYP",
+            COM: "HINDUSTHAN UDYOG LTD."
         },
         {
-            "SYM": "REMIEDEL",
-            "COMPANY": "Remi Edelstahl Tubulars Limited"
+            SYM: "REMIEDEL",
+            COM: "Remi Edelstahl Tubulars Limited"
         },
         {
-            "SYM": "GSAUTO",
-            "COMPANY": "G.S.AUTO INTERNATIONAL LTD."
+            SYM: "GSAUTO",
+            COM: "G.S.AUTO INTERNATIONAL LTD."
         },
         {
-            "SYM": "TRANSFRE",
-            "COMPANY": "TRANS-FREIGHT CONTAINERS LTD."
+            SYM: "TRANSFRE",
+            COM: "TRANS-FREIGHT CONTAINERS LTD."
         },
         {
-            "SYM": "SHBCLQ",
-            "COMPANY": "SHIVALIK BIMETAL CONTROLS LTD."
+            SYM: "SHBCLQ",
+            COM: "SHIVALIK BIMETAL CONTROLS LTD."
         },
         {
-            "SYM": "GANDHITUBE",
-            "COMPANY": "GANDHI SPECIAL TUBES LTD.-$"
+            SYM: "GANDHITUBE",
+            COM: "GANDHI SPECIAL TUBES LTD."
         },
         {
-            "SYM": "AMFORG",
-            "COMPANY": "AMFORGE INDUSTRIES LTD."
+            SYM: "AMFORG",
+            COM: "AMFORGE INDUSTRIES LTD."
         },
         {
-            "SYM": "ABCGAS",
-            "COMPANY": "ABC GAS (INTERNATIONAL) LTD."
+            SYM: "ABCGAS",
+            COM: "ABC GAS (INTERNATIONAL) LTD."
         },
         {
-            "SYM": "ORICON",
-            "COMPANY": "ORICON ENTERPRISES LTD.-$"
+            SYM: "ORICON",
+            COM: "ORICON ENTERPRISES LTD."
         },
         {
-            "SYM": "ACROW",
-            "COMPANY": "ACROW INDIA LTD."
+            SYM: "ACROW",
+            COM: "ACROW INDIA LTD."
         },
         {
-            "SYM": "STLSTRINF",
-            "COMPANY": "STEEL STRIPS INFRASTRUCTURES LTD."
+            SYM: "STLSTRINF",
+            COM: "STEEL STRIPS INFRASTRUCTURES LTD."
         },
         {
-            "SYM": "UTTAMSTL",
-            "COMPANY": "UTTAM GALVA STEELS LTD."
+            SYM: "UTTAMSTL",
+            COM: "UTTAM GALVA STEELS LTD."
         },
         {
-            "SYM": "PENIND",
-            "COMPANY": "PENNAR INDUSTRIES LTD.-$"
+            SYM: "PENIND",
+            COM: "PENNAR INDUSTRIES LTD."
         },
         {
-            "SYM": "JYOTISTRUC",
-            "COMPANY": "JYOTI STRUCTURES LTD."
+            SYM: "JYOTISTRUC",
+            COM: "JYOTI STRUCTURES LTD."
         },
         {
-            "SYM": "JAYUSH",
-            "COMPANY": "JAY USHIN LTD."
+            SYM: "JAYUSH",
+            COM: "JAY USHIN LTD."
         },
         {
-            "SYM": "SSWL",
-            "COMPANY": "STEEL STRIPS WHEELS LTD.-$"
+            SYM: "SSWL",
+            COM: "STEEL STRIPS WHEELS LTD."
         },
         {
-            "SYM": "MANINDS",
-            "COMPANY": "MAN INDUSTRIES (INDIA) LTD.-$"
+            SYM: "MANINDS",
+            COM: "MAN INDUSTRIES (INDIA) LTD."
         },
         {
-            "SYM": "IMEC",
-            "COMPANY": "Imec Services Ltd"
+            SYM: "IMEC",
+            COM: "Imec Services Ltd"
         },
         {
-            "SYM": "MDRNSTL",
-            "COMPANY": "MODERN STEELS LTD.-$"
+            SYM: "MDRNSTL",
+            COM: "MODERN STEELS LTD."
         },
         {
-            "SYM": "TERRASCOPE",
-            "COMPANY": "Terrascope Ventures Ltd"
+            SYM: "TERRASCOPE",
+            COM: "Terrascope Ventures Ltd"
         },
         {
-            "SYM": "SYNTHFO",
-            "COMPANY": "SYNTHIKO FOILS LTD."
+            SYM: "SYNTHFO",
+            COM: "SYNTHIKO FOILS LTD."
         },
         {
-            "SYM": "GOLKONDA",
-            "COMPANY": "Golkonda Aluminium Extrusions Ltd-$"
+            SYM: "GOLKONDA",
+            COM: "Golkonda Aluminium Extrusions Ltd"
         },
         {
-            "SYM": "METALFORGE",
-            "COMPANY": "Metalyst Forgings Limited"
+            SYM: "METALFORGE",
+            COM: "Metalyst Forgings Limited"
         },
         {
-            "SYM": "GUJTLRM",
-            "COMPANY": "GUJARAT TOOLROOM LTD."
+            SYM: "GUJTLRM",
+            COM: "GUJARAT TOOLROOM LTD."
         },
         {
-            "SYM": "GRANDFONRY",
-            "COMPANY": "GRAND FOUNDRY LTD."
+            SYM: "GRANDFONRY",
+            COM: "GRAND FOUNDRY LTD."
         },
         {
-            "SYM": "AJMERA",
-            "COMPANY": "AJMERA REALTY & INFRA INDIA LTD."
+            SYM: "AJMERA",
+            COM: "AJMERA REALTY & INFRA INDIA LTD."
         },
         {
-            "SYM": "COCHINM",
-            "COMPANY": "COCHIN MINERALS & RUTILE LTD.-$"
+            SYM: "COCHINM",
+            COM: "COCHIN MINERALS & RUTILE LTD."
         },
         {
-            "SYM": "ISWL",
-            "COMPANY": "INDIA STEEL WORKS LTD."
+            SYM: "ISWL",
+            COM: "INDIA STEEL WORKS LTD."
         },
         {
-            "SYM": "RJKMRFR",
-            "COMPANY": "RAJKUMAR FORGE LTD."
+            SYM: "RJKMRFR",
+            COM: "RAJKUMAR FORGE LTD."
         },
         {
-            "SYM": "CARBORUNIV",
-            "COMPANY": "CARBORUNDUM UNIVERSAL LTD."
+            SYM: "CARBORUNIV",
+            COM: "CARBORUNDUM UNIVERSAL LTD."
         },
         {
-            "SYM": "MMTC",
-            "COMPANY": "MMTC LTD."
+            SYM: "MMTC",
+            COM: "MMTC LTD."
         },
         {
-            "SYM": "VALLABHSQ",
-            "COMPANY": "VALLABH STEELS LTD.-$"
+            SYM: "VALLABHSQ",
+            COM: "VALLABH STEELS LTD."
         },
         {
-            "SYM": "ASHIS",
-            "COMPANY": "ASHIANA ISPAT LTD."
+            SYM: "ASHIS",
+            COM: "ASHIANA ISPAT LTD."
         },
         {
-            "SYM": "SMPL",
-            "COMPANY": "Splendid Metal Products Ltd"
+            SYM: "SMPL",
+            COM: "Splendid Metal Products Ltd"
         },
         {
-            "SYM": "SMFIL",
-            "COMPANY": "Smiths & Founders (India) Limited"
+            SYM: "SMFIL",
+            COM: "Smiths & Founders (India) Limited"
         },
         {
-            "SYM": "BLOIN",
-            "COMPANY": "BLOOM INDUSTRIES LTD."
+            SYM: "BLOIN",
+            COM: "BLOOM INDUSTRIES LTD."
         },
         {
-            "SYM": "MAITRI",
-            "COMPANY": "Maitri Enterprises Ltd"
+            SYM: "MAITRI",
+            COM: "Maitri Enterprises Ltd"
         },
         {
-            "SYM": "TATAMETALI",
-            "COMPANY": "TATA METALIKS LTD."
+            SYM: "TATAMETALI",
+            COM: "TATA METALIKS LTD."
         },
         {
-            "SYM": "JSWISPL",
-            "COMPANY": "JSW Ispat Special Products Ltd"
+            SYM: "JSWISPL",
+            COM: "JSW Ispat Special Products Ltd"
         },
         {
-            "SYM": "ELANGO",
-            "COMPANY": "ELANGO INDUSTRIES LTD."
+            SYM: "ELANGO",
+            COM: "ELANGO INDUSTRIES LTD."
         },
         {
-            "SYM": "KANSHST",
-            "COMPANY": "KANISHK STEEL INDUSTRIES LTD."
+            SYM: "KANSHST",
+            COM: "KANISHK STEEL INDUSTRIES LTD."
         },
         {
-            "SYM": "MAHALXSE",
-            "COMPANY": "MAHALAXMI SEAMLESS LTD.-$"
+            SYM: "MAHALXSE",
+            COM: "MAHALAXMI SEAMLESS LTD."
         },
         {
-            "SYM": "SIMPLEXCAS",
-            "COMPANY": "SIMPLEX CASTINGS LTD."
+            SYM: "SIMPLEXCAS",
+            COM: "SIMPLEX CASTINGS LTD."
         },
         {
-            "SYM": "SSWRL",
-            "COMPANY": "SHREE STEEL WIRE ROPES LTD."
+            SYM: "SSWRL",
+            COM: "SHREE STEEL WIRE ROPES LTD."
         },
         {
-            "SYM": "MEWATZI",
-            "COMPANY": "MEWAT ZINC LTD."
+            SYM: "MEWATZI",
+            COM: "MEWAT ZINC LTD."
         },
         {
-            "SYM": "SOUTHMG",
-            "COMPANY": "SOUTHERN MAGNESIUM & CHEMICALS LTD."
+            SYM: "SOUTHMG",
+            COM: "SOUTHERN MAGNESIUM & CHEMICALS LTD."
         },
         {
-            "SYM": "BAROEXT",
-            "COMPANY": "BARODA EXTRUSION LTD."
+            SYM: "BAROEXT",
+            COM: "BARODA EXTRUSION LTD."
         },
         {
-            "SYM": "GUJCONT",
-            "COMPANY": "GUJARAT CONTAINERS LTD."
+            SYM: "GUJCONT",
+            COM: "GUJARAT CONTAINERS LTD."
         },
         {
-            "SYM": "KALYANIFRG",
-            "COMPANY": "KALYANI FORGE LTD."
+            SYM: "KALYANIFRG",
+            COM: "KALYANI FORGE LTD."
         },
         {
-            "SYM": "PANCHMAHQ",
-            "COMPANY": "PANCHMAHAL STEEL LTD."
+            SYM: "PANCHMAHQ",
+            COM: "PANCHMAHAL STEEL LTD."
         },
         {
-            "SYM": "ADITYA",
-            "COMPANY": "ADITYA ISPAT LTD."
+            SYM: "ADITYA",
+            COM: "ADITYA ISPAT LTD."
         },
         {
-            "SYM": "SRIND",
-            "COMPANY": "S.R.INDUSTRIES LTD."
+            SYM: "SRIND",
+            COM: "S.R.INDUSTRIES LTD."
         },
         {
-            "SYM": "STEELCAS",
-            "COMPANY": "STEELCAST LTD."
+            SYM: "STEELCAS",
+            COM: "STEELCAST LTD."
         },
         {
-            "SYM": "PITTIENG",
-            "COMPANY": "Pitti Engineering Ltd-$"
+            SYM: "PITTIENG",
+            COM: "Pitti Engineering Ltd"
         },
         {
-            "SYM": "GLITTEKG",
-            "COMPANY": "GLITTEK GRANITES LTD."
+            SYM: "GLITTEKG",
+            COM: "GLITTEK GRANITES LTD."
         },
         {
-            "SYM": "PRADPME",
-            "COMPANY": "PRADEEP METALS LTD."
+            SYM: "PRADPME",
+            COM: "PRADEEP METALS LTD."
         },
         {
-            "SYM": "GNRL",
-            "COMPANY": "Gujarat Natural Resources Limited"
+            SYM: "GNRL",
+            COM: "Gujarat Natural Resources Limited"
         },
         {
-            "SYM": "TNSTLTU",
-            "COMPANY": "TAMILNADU STEEL TUBES LTD."
+            SYM: "TNSTLTU",
+            COM: "TAMILNADU STEEL TUBES LTD."
         },
         {
-            "SYM": "SHRDAIS",
-            "COMPANY": "SHARDA ISPAT LTD."
+            SYM: "SHRDAIS",
+            COM: "SHARDA ISPAT LTD."
         },
         {
-            "SYM": "MAHASTEEL",
-            "COMPANY": "MAHAMAYA STEEL INDUSTRIES LTD."
+            SYM: "MAHASTEEL",
+            COM: "MAHAMAYA STEEL INDUSTRIES LTD."
         },
         {
-            "SYM": "REALSTR",
-            "COMPANY": "REAL STRIPS LTD.-$"
+            SYM: "REALSTR",
+            COM: "REAL STRIPS LTD."
         },
         {
-            "SYM": "NOVIS",
-            "COMPANY": "NOVA IRON & STEEL LTD."
+            SYM: "NOVIS",
+            COM: "NOVA IRON & STEEL LTD."
         },
         {
-            "SYM": "FFPL",
-            "COMPANY": "FOUNDRY FUEL PRODUCTS LTD."
+            SYM: "FFPL",
+            COM: "FOUNDRY FUEL PRODUCTS LTD."
         },
         {
-            "SYM": "HINDCOPPER",
-            "COMPANY": "HINDUSTAN COPPER LTD."
+            SYM: "HINDCOPPER",
+            COM: "HINDUSTAN COPPER LTD."
         },
         {
-            "SYM": "SRIPIPES",
-            "COMPANY": "Srikalahasthi Pipes Limited"
+            SYM: "SRIPIPES",
+            COM: "Srikalahasthi Pipes Limited"
         },
         {
-            "SYM": "AXELPOLY",
-            "COMPANY": "AXEL POLYMERS LTD."
+            SYM: "AXELPOLY",
+            COM: "AXEL POLYMERS LTD."
         },
         {
-            "SYM": "NLCINDIA",
-            "COMPANY": "NLC India Ltd"
+            SYM: "NLCINDIA",
+            COM: "NLC India Ltd"
         },
         {
-            "SYM": "SPECTRA",
-            "COMPANY": "SPECTRA INDUSTRIES LTD."
+            SYM: "SPECTRA",
+            COM: "SPECTRA INDUSTRIES LTD."
         },
         {
-            "SYM": "JMTAUTOLTD",
-            "COMPANY": "JMT AUTO LTD."
+            SYM: "JMTAUTOLTD",
+            COM: "JMT AUTO LTD."
         },
         {
-            "SYM": "KAJARIR",
-            "COMPANY": "KIC METALIKS LTD."
+            SYM: "KAJARIR",
+            COM: "KIC METALIKS LTD."
         },
         {
-            "SYM": "SOLIDSTON",
-            "COMPANY": "SOLID STONE COMPANY LTD."
+            SYM: "SOLIDSTON",
+            COM: "SOLID STONE COMPANY LTD."
         },
         {
-            "SYM": "SHILGRAVQ",
-            "COMPANY": "SHILP GRAVURES LTD.-$"
+            SYM: "SHILGRAVQ",
+            COM: "SHILP GRAVURES LTD."
         },
         {
-            "SYM": "WHITEORG",
-            "COMPANY": "White Organic Agro Ltd"
+            SYM: "WHITEORG",
+            COM: "White Organic Agro Ltd"
         },
         {
-            "SYM": "MFSINTRCRP",
-            "COMPANY": "MFS INTERCORP LTD."
+            SYM: "MFSINTRCRP",
+            COM: "MFS INTERCORP LTD."
         },
         {
-            "SYM": "HIMGRANI",
-            "COMPANY": "HIMALAYA GRANITES LTD.-$"
+            SYM: "HIMGRANI",
+            COM: "HIMALAYA GRANITES LTD."
         },
         {
-            "SYM": "AROGRANITE",
-            "COMPANY": "ARO GRANITE INDUSTRIES LTD.-$"
+            SYM: "AROGRANITE",
+            COM: "ARO GRANITE INDUSTRIES LTD."
         },
         {
-            "SYM": "HIMFIBP",
-            "COMPANY": "HIMACHAL FIBRES LTD."
+            SYM: "HIMFIBP",
+            COM: "HIMACHAL FIBRES LTD."
         },
         {
-            "SYM": "RAJKSYN",
-            "COMPANY": "RAJKAMAL SYNTHETICS LTD."
+            SYM: "RAJKSYN",
+            COM: "RAJKAMAL SYNTHETICS LTD."
         },
         {
-            "SYM": "DEEPAKSP",
-            "COMPANY": "DEEPAK SPINNERS LTD.-$"
+            SYM: "DEEPAKSP",
+            COM: "DEEPAK SPINNERS LTD."
         },
         {
-            "SYM": "JBFIND",
-            "COMPANY": "JBF INDUSTRIES LTD."
+            SYM: "JBFIND",
+            COM: "JBF INDUSTRIES LTD."
         },
         {
-            "SYM": "LOYALTEX",
-            "COMPANY": "LOYAL TEXTILE MILLS LTD.-$"
+            SYM: "LOYALTEX",
+            COM: "LOYAL TEXTILE MILLS LTD."
         },
         {
-            "SYM": "HIMATSEIDE",
-            "COMPANY": "HIMATSINGKA SEIDE LTD."
+            SYM: "HIMATSEIDE",
+            COM: "HIMATSINGKA SEIDE LTD."
         },
         {
-            "SYM": "BSL",
-            "COMPANY": "BSL LTD."
+            SYM: "BSL",
+            COM: "BSL LTD."
         },
         {
-            "SYM": "EVERTEX",
-            "COMPANY": "Evergreen Textiles Limited"
+            SYM: "EVERTEX",
+            COM: "Evergreen Textiles Limited"
         },
         {
-            "SYM": "PBMPOLY",
-            "COMPANY": "PBM POLYTEX LTD.-$"
+            SYM: "PBMPOLY",
+            COM: "PBM POLYTEX LTD."
         },
         {
-            "SYM": "ADINATH",
-            "COMPANY": "ADINATH TEXTILES LTD."
+            SYM: "ADINATH",
+            COM: "ADINATH TEXTILES LTD."
         },
         {
-            "SYM": "KONARKSY",
-            "COMPANY": "KONARK SYNTHETIC LTD."
+            SYM: "KONARKSY",
+            COM: "KONARK SYNTHETIC LTD."
         },
         {
-            "SYM": "SURYALA",
-            "COMPANY": "SURYALATA SPINNING MILLS LTD.-$"
+            SYM: "SURYALA",
+            COM: "SURYALATA SPINNING MILLS LTD."
         },
         {
-            "SYM": "SURYVANSP",
-            "COMPANY": "SURYAVANSHI SPINNING MILLS LTD.-$"
+            SYM: "SURYVANSP",
+            COM: "SURYAVANSHI SPINNING MILLS LTD."
         },
         {
-            "SYM": "TTL",
-            "COMPANY": "T T LTD.-$"
+            SYM: "TTL",
+            COM: "T T LTD."
         },
         {
-            "SYM": "WELSPUNIND",
-            "COMPANY": "WELSPUN INDIA LTD."
+            SYM: "WELSPUNIND",
+            COM: "WELSPUN INDIA LTD."
         },
         {
-            "SYM": "INDIANACRY",
-            "COMPANY": "INDIAN ACRYLICS LTD."
+            SYM: "INDIANACRY",
+            COM: "INDIAN ACRYLICS LTD."
         },
         {
-            "SYM": "GANECOS",
-            "COMPANY": "GANESHA ECOSPHERE LTD."
+            SYM: "GANECOS",
+            COM: "GANESHA ECOSPHERE LTD."
         },
         {
-            "SYM": "CEETAIN",
-            "COMPANY": "CEETA INDUSTRIES LTD."
+            SYM: "CEETAIN",
+            COM: "CEETA INDUSTRIES LTD."
         },
         {
-            "SYM": "VARDMNPOLY",
-            "COMPANY": "VARDHMAN POLYTEX LTD."
+            SYM: "VARDMNPOLY",
+            COM: "VARDHMAN POLYTEX LTD."
         },
         {
-            "SYM": "BLACKROSE",
-            "COMPANY": "BLACK ROSE INDUSTRIES LTD."
+            SYM: "BLACKROSE",
+            COM: "BLACK ROSE INDUSTRIES LTD."
         },
         {
-            "SYM": "STCORP",
-            "COMPANY": "S&T CORPORATION LTD."
+            SYM: "STCORP",
+            COM: "S&T CORPORATION LTD."
         },
         {
-            "SYM": "SUMEETINDS",
-            "COMPANY": "SUMEET INDUSTRIES LTD.-$"
+            SYM: "SUMEETINDS",
+            COM: "SUMEET INDUSTRIES LTD."
         },
         {
-            "SYM": "BINNY",
-            "COMPANY": "BINNY LTD."
+            SYM: "BINNY",
+            COM: "BINNY LTD."
         },
         {
-            "SYM": "RAMGOPOLY",
-            "COMPANY": "RAMGOPAL POLYTEX LTD."
+            SYM: "RAMGOPOLY",
+            COM: "RAMGOPAL POLYTEX LTD."
         },
         {
-            "SYM": "SANGAMIND",
-            "COMPANY": "SANGAM (INDIA) LTD."
+            SYM: "SANGAMIND",
+            COM: "SANGAM (INDIA) LTD."
         },
         {
-            "SYM": "TTLEL",
-            "COMPANY": "TTL Enterprises Ltd"
+            SYM: "TTLEL",
+            COM: "TTL Enterprises Ltd"
         },
         {
-            "SYM": "IKAB",
-            "COMPANY": "IKAB SECURITIES & INVESTMENT LTD."
+            SYM: "IKAB",
+            COM: "IKAB SECURITIES & INVESTMENT LTD."
         },
         {
-            "SYM": "KUSHIND",
-            "COMPANY": "Kush Industries Ltd"
+            SYM: "KUSHIND",
+            COM: "Kush Industries Ltd"
         },
         {
-            "SYM": "SRECR",
-            "COMPANY": "SREECHEM RESINS LTD."
+            SYM: "SRECR",
+            COM: "SREECHEM RESINS LTD."
         },
         {
-            "SYM": "SURBHIN",
-            "COMPANY": "SURBHI INDUSTRIES LTD."
+            SYM: "SURBHIN",
+            COM: "SURBHI INDUSTRIES LTD."
         },
         {
-            "SYM": "SEASONST",
-            "COMPANY": "SEASONS TEXTILES LTD.-$"
+            SYM: "SEASONST",
+            COM: "SEASONS TEXTILES LTD."
         },
         {
-            "SYM": "ZENIFIB",
-            "COMPANY": "ZENITH FIBRES LTD.-$"
+            SYM: "ZENIFIB",
+            COM: "ZENITH FIBRES LTD."
         },
         {
-            "SYM": "BHILSPIN",
-            "COMPANY": "BHILWARA SPINNERS LTD."
+            SYM: "BHILSPIN",
+            COM: "BHILWARA SPINNERS LTD."
         },
         {
-            "SYM": "AARVEEDEN",
-            "COMPANY": "AARVEE DENIMS & EXPORTS LTD."
+            SYM: "AARVEEDEN",
+            COM: "AARVEE DENIMS & EXPORTS LTD."
         },
         {
-            "SYM": "SANTETX",
-            "COMPANY": "SANRHEA TECHNICAL TEXTILES LTD."
+            SYM: "SANTETX",
+            COM: "SANRHEA TECHNICAL TEXTILES LTD."
         },
         {
-            "SYM": "ASHIMASYN",
-            "COMPANY": "ASHIMA LTD."
+            SYM: "ASHIMASYN",
+            COM: "ASHIMA LTD."
         },
         {
-            "SYM": "PIONEEREMB",
-            "COMPANY": "PIONEER EMBROIDERIES LTD.-$"
+            SYM: "PIONEEREMB",
+            COM: "PIONEER EMBROIDERIES LTD."
         },
         {
-            "SYM": "VIPPYSP",
-            "COMPANY": "VIPPY SPINPRO LTD."
+            SYM: "VIPPYSP",
+            COM: "VIPPY SPINPRO LTD."
         },
         {
-            "SYM": "JAIHINDS",
-            "COMPANY": "JAIHIND SYNTHETICS LTD."
+            SYM: "JAIHINDS",
+            COM: "JAIHIND SYNTHETICS LTD."
         },
         {
-            "SYM": "RAGHUSYN",
-            "COMPANY": "RAGHUVIR SYNTHETICS LTD."
+            SYM: "RAGHUSYN",
+            COM: "RAGHUVIR SYNTHETICS LTD."
         },
         {
-            "SYM": "JATTAINDUS",
-            "COMPANY": "JATTASHANKAR INDUSTIES LTD."
+            SYM: "JATTAINDUS",
+            COM: "JATTASHANKAR INDUSTIES LTD."
         },
         {
-            "SYM": "KAMADGIRI",
-            "COMPANY": "KAMADGIRI FASHION LTD.-$"
+            SYM: "KAMADGIRI",
+            COM: "KAMADGIRI FASHION LTD."
         },
         {
-            "SYM": "OMNITEX",
-            "COMPANY": "OMNITEX INDUSTRIES (INDIA) LTD."
+            SYM: "OMNITEX",
+            COM: "OMNITEX INDUSTRIES (INDIA) LTD."
         },
         {
-            "SYM": "PATSPINLTD",
-            "COMPANY": "PATSPIN INDIA LTD."
+            SYM: "PATSPINLTD",
+            COM: "PATSPIN INDIA LTD."
         },
         {
-            "SYM": "ONEGLOBAL",
-            "COMPANY": "One Global Service Provider Ltd"
+            SYM: "ONEGLOBAL",
+            COM: "One Global Service Provider Ltd"
         },
         {
-            "SYM": "NEOINFRA",
-            "COMPANY": "NEO INFRACON LTD."
+            SYM: "NEOINFRA",
+            COM: "NEO INFRACON LTD."
         },
         {
-            "SYM": "GENESIS",
-            "COMPANY": "Genesis Ibrc India Ltd"
+            SYM: "GENESIS",
+            COM: "Genesis Ibrc India Ltd"
         },
         {
-            "SYM": "PREMIERPOL",
-            "COMPANY": "PREMIER POLYFILM LTD."
+            SYM: "PREMIERPOL",
+            COM: "PREMIER POLYFILM LTD."
         },
         {
-            "SYM": "EVERLON",
-            "COMPANY": "EVERLON SYNTHETICS LTD."
+            SYM: "EVERLON",
+            COM: "EVERLON SYNTHETICS LTD."
         },
         {
-            "SYM": "KRRAIL",
-            "COMPANY": "K&R Rail Engineering Ltd"
+            SYM: "KRRAIL",
+            COM: "K&R Rail Engineering Ltd"
         },
         {
-            "SYM": "YARNSYN",
-            "COMPANY": "YARN SYNDICATE LTD."
+            SYM: "YARNSYN",
+            COM: "YARN SYNDICATE LTD."
         },
         {
-            "SYM": "GUJCOTEX",
-            "COMPANY": "GUJARAT COTEX LTD."
+            SYM: "GUJCOTEX",
+            COM: "GUJARAT COTEX LTD."
         },
         {
-            "SYM": "AJIL",
-            "COMPANY": "Atlas Jewellery India Limited"
+            SYM: "AJIL",
+            COM: "Atlas Jewellery India Limited"
         },
         {
-            "SYM": "GARWSYN",
-            "COMPANY": "GARWARE SYNTHETICS LTD."
+            SYM: "GARWSYN",
+            COM: "GARWARE SYNTHETICS LTD."
         },
         {
-            "SYM": "SHARDFI",
-            "COMPANY": "SHARAD FIBRES & YARN PROCESSORS LTD."
+            SYM: "SHARDFI",
+            COM: "SHARAD FIBRES & YARN PROCESSORS LTD."
         },
         {
-            "SYM": "SARUPINDUS",
-            "COMPANY": "SARUP INDUSTRIES LTD.-$"
+            SYM: "SARUPINDUS",
+            COM: "SARUP INDUSTRIES LTD."
         },
         {
-            "SYM": "MANORG",
-            "COMPANY": "Mangalam Organics Limited"
+            SYM: "MANORG",
+            COM: "Mangalam Organics Limited"
         },
         {
-            "SYM": "HINDADH",
-            "COMPANY": "HINDUSTAN ADHESIVES LTD."
+            SYM: "HINDADH",
+            COM: "HINDUSTAN ADHESIVES LTD."
         },
         {
-            "SYM": "BPTEX",
-            "COMPANY": "Blue Pearl Texspin Limited"
+            SYM: "BPTEX",
+            COM: "Blue Pearl Texspin Limited"
         },
         {
-            "SYM": "SRIKPRIND",
-            "COMPANY": "SRI KPR INDUSTRIES LTD."
+            SYM: "SRIKPRIND",
+            COM: "SRI KPR INDUSTRIES LTD."
         },
         {
-            "SYM": "JYOTIRES",
-            "COMPANY": "JYOTI RESINS & ADHESIVES LTD."
+            SYM: "JYOTIRES",
+            COM: "JYOTI RESINS & ADHESIVES LTD."
         },
         {
-            "SYM": "MHLXMIRU",
-            "COMPANY": "MAHALAXMI RUBTECH LTD."
+            SYM: "MHLXMIRU",
+            COM: "MAHALAXMI RUBTECH LTD."
         },
         {
-            "SYM": "SOUTLAT",
-            "COMPANY": "SOUTHERN LATEX LTD."
+            SYM: "SOUTLAT",
+            COM: "SOUTHERN LATEX LTD."
         },
         {
-            "SYM": "OSWAYRN",
-            "COMPANY": "OSWAL YARNS LTD."
+            SYM: "OSWAYRN",
+            COM: "OSWAL YARNS LTD."
         },
         {
-            "SYM": "WINSOMTX",
-            "COMPANY": "WINSOME TEXTILE INDUSTRIES LTD.-$"
+            SYM: "WINSOMTX",
+            COM: "WINSOME TEXTILE INDUSTRIES LTD."
         },
         {
-            "SYM": "ASAHIIND",
-            "COMPANY": "Asahi Industries Limited"
+            SYM: "ASAHIIND",
+            COM: "Asahi Industries Limited"
         },
         {
-            "SYM": "THAMBBI",
-            "COMPANY": "THAMBBI MODERN SPINNING MILLS LTD."
+            SYM: "THAMBBI",
+            COM: "THAMBBI MODERN SPINNING MILLS LTD."
         },
         {
-            "SYM": "MODINSU",
-            "COMPANY": "MODERN INSULATORS LTD."
+            SYM: "MODINSU",
+            COM: "MODERN INSULATORS LTD."
         },
         {
-            "SYM": "ASAHIINDIA",
-            "COMPANY": "ASAHI INDIA GLASS LTD."
+            SYM: "ASAHIINDIA",
+            COM: "ASAHI INDIA GLASS LTD."
         },
         {
-            "SYM": "MURUDCERA",
-            "COMPANY": "MURUDESHWAR CERAMICS LTD."
+            SYM: "MURUDCERA",
+            COM: "MURUDESHWAR CERAMICS LTD."
         },
         {
-            "SYM": "SAINTGOBAIN",
-            "COMPANY": "SAINT-GOBAIN SEKURIT INDIA LTD."
+            SYM: "SAINTGOBAIN",
+            COM: "SAINT-GOBAIN SEKURIT INDIA LTD."
         },
         {
-            "SYM": "ANANTRAJ",
-            "COMPANY": "Anant Raj Limited-$"
+            SYM: "ANANTRAJ",
+            COM: "Anant Raj Limited"
         },
         {
-            "SYM": "MADHUDIN",
-            "COMPANY": "MADHUSUDAN INDUSTRIES LTD."
+            SYM: "MADHUDIN",
+            COM: "MADHUSUDAN INDUSTRIES LTD."
         },
         {
-            "SYM": "RESTILE",
-            "COMPANY": "RESTILE CERAMICS LTD."
+            SYM: "RESTILE",
+            COM: "RESTILE CERAMICS LTD."
         },
         {
-            "SYM": "MADHAV",
-            "COMPANY": "MADHAV MARBLES & GRANITES LTD."
+            SYM: "MADHAV",
+            COM: "MADHAV MARBLES & GRANITES LTD."
         },
         {
-            "SYM": "RAMASIGNS",
-            "COMPANY": "Ramasigns Industries Ltd"
+            SYM: "RAMASIGNS",
+            COM: "Ramasigns Industries Ltd"
         },
         {
-            "SYM": "HINDNATGLS",
-            "COMPANY": "HINDUSTHAN NATIONAL GLASS & INDUSTRIES LTD.-$"
+            SYM: "HINDNATGLS",
+            COM: "HINDUSTHAN NATIONAL GLASS & INDUSTRIES LTD."
         },
         {
-            "SYM": "HALDYNGL",
-            "COMPANY": "Haldyn Glass Ltd-$"
+            SYM: "HALDYNGL",
+            COM: "Haldyn Glass Ltd"
         },
         {
-            "SYM": "DUROPLY",
-            "COMPANY": "Duroply Industries Ltd"
+            SYM: "DUROPLY",
+            COM: "Duroply Industries Ltd"
         },
         {
-            "SYM": "MANGTIMBER",
-            "COMPANY": "MANGALAM TIMBER PRODUCTS LTD."
+            SYM: "MANGTIMBER",
+            COM: "MANGALAM TIMBER PRODUCTS LTD."
         },
         {
-            "SYM": "SHREYANIND",
-            "COMPANY": "SHREYANS INDUSTRIES LTD.-$"
+            SYM: "SHREYANIND",
+            COM: "SHREYANS INDUSTRIES LTD."
         },
         {
-            "SYM": "AGIOPAPER",
-            "COMPANY": "AGIO PAPER & INDUSTRIES LTD.-$"
+            SYM: "AGIOPAPER",
+            COM: "AGIO PAPER & INDUSTRIES LTD."
         },
         {
-            "SYM": "STARPAPER",
-            "COMPANY": "STAR PAPER MILLS LTD."
+            SYM: "STARPAPER",
+            COM: "STAR PAPER MILLS LTD."
         },
         {
-            "SYM": "YASHPAKKA",
-            "COMPANY": "Yash Pakka Ltd-$"
+            SYM: "YASHPAKKA",
+            COM: "Yash Pakka Ltd"
         },
         {
-            "SYM": "SARDAPPR",
-            "COMPANY": "SARDA PAPERS LTD."
+            SYM: "SARDAPPR",
+            COM: "SARDA PAPERS LTD."
         },
         {
-            "SYM": "NATPLY",
-            "COMPANY": "NATIONAL PLYWOOD INDUSTRIES LTD."
+            SYM: "NATPLY",
+            COM: "NATIONAL PLYWOOD INDUSTRIES LTD."
         },
         {
-            "SYM": "ARROWGREEN",
-            "COMPANY": "Arrow Greentech Ltd"
+            SYM: "ARROWGREEN",
+            COM: "Arrow Greentech Ltd"
         },
         {
-            "SYM": "VISHNU",
-            "COMPANY": "VISHNU CHEMICALS LTD."
+            SYM: "VISHNU",
+            COM: "VISHNU CHEMICALS LTD."
         },
         {
-            "SYM": "JUMBO",
-            "COMPANY": "JUMBO BAG LTD."
+            SYM: "JUMBO",
+            COM: "JUMBO BAG LTD."
         },
         {
-            "SYM": "NRAGRINDQ",
-            "COMPANY": "N.R.AGARWAL INDUSTRIES LTD."
+            SYM: "NRAGRINDQ",
+            COM: "N.R.AGARWAL INDUSTRIES LTD."
         },
         {
-            "SYM": "SRPML",
-            "COMPANY": "SHREE RAJESHWARANAND PAPER MILLS LTD."
+            SYM: "SRPML",
+            COM: "SHREE RAJESHWARANAND PAPER MILLS LTD."
         },
         {
-            "SYM": "3PLAND",
-            "COMPANY": "3P Land Holdings Ltd"
+            SYM: "3PLAND",
+            COM: "3P Land Holdings Ltd"
         },
         {
-            "SYM": "SANPA",
-            "COMPANY": "SANGAL PAPERS LTD."
+            SYM: "SANPA",
+            COM: "SANGAL PAPERS LTD."
         },
         {
-            "SYM": "VENTURA",
-            "COMPANY": "VENTURA TEXTILES LTD."
+            SYM: "VENTURA",
+            COM: "VENTURA TEXTILES LTD."
         },
         {
-            "SYM": "SHKARTP",
-            "COMPANY": "SHREE KARTHIK PAPERS LTD."
+            SYM: "SHKARTP",
+            COM: "SHREE KARTHIK PAPERS LTD."
         },
         {
-            "SYM": "STHINPA",
-            "COMPANY": "SOUTH INDIA PAPER MILLS LTD."
+            SYM: "STHINPA",
+            COM: "SOUTH INDIA PAPER MILLS LTD."
         },
         {
-            "SYM": "SCANDENT",
-            "COMPANY": "Scandent Imaging Limited"
+            SYM: "SCANDENT",
+            COM: "Scandent Imaging Limited"
         },
         {
-            "SYM": "VINDHYATEL",
-            "COMPANY": "VINDHYA TELELINKS LTD."
+            SYM: "VINDHYATEL",
+            COM: "VINDHYA TELELINKS LTD."
         },
         {
-            "SYM": "RIR",
-            "COMPANY": "RUTTONSHA INTERNATIONAL RECTIFIER LTD."
+            SYM: "RIR",
+            COM: "RUTTONSHA INTERNATIONAL RECTIFIER LTD."
         },
         {
-            "SYM": "ADORWELD",
-            "COMPANY": "ADOR WELDING LTD."
+            SYM: "ADORWELD",
+            COM: "ADOR WELDING LTD."
         },
         {
-            "SYM": "IDM",
-            "COMPANY": "INTERNATIONAL DATA MANAGEMENT LTD."
+            SYM: "IDM",
+            COM: "INTERNATIONAL DATA MANAGEMENT LTD."
         },
         {
-            "SYM": "SALZER",
-            "COMPANY": "SALZER ELECTRONICS LTD.-$"
+            SYM: "SALZER",
+            COM: "SALZER ELECTRONICS LTD."
         },
         {
-            "SYM": "JETKINGQ",
-            "COMPANY": "JETKING INFOTRAIN LTD."
+            SYM: "JETKINGQ",
+            COM: "JETKING INFOTRAIN LTD."
         },
         {
-            "SYM": "INDAGIV",
-            "COMPANY": "IND-AGIV COMMERCE LTD."
+            SYM: "INDAGIV",
+            COM: "IND-AGIV COMMERCE LTD."
         },
         {
-            "SYM": "APLAB",
-            "COMPANY": "APLAB LTD.-$"
+            SYM: "APLAB",
+            COM: "APLAB LTD."
         },
         {
-            "SYM": "PCS",
-            "COMPANY": "PCS TECHNOLOGY LTD."
+            SYM: "PCS",
+            COM: "PCS TECHNOLOGY LTD."
         },
         {
-            "SYM": "USHAMART",
-            "COMPANY": "USHA MARTIN LTD."
+            SYM: "USHAMART",
+            COM: "USHA MARTIN LTD."
         },
         {
-            "SYM": "SPELS",
-            "COMPANY": "SPEL SEMICONDUCTOR LTD."
+            SYM: "SPELS",
+            COM: "SPEL SEMICONDUCTOR LTD."
         },
         {
-            "SYM": "SUBROS",
-            "COMPANY": "SUBROS LTD."
+            SYM: "SUBROS",
+            COM: "SUBROS LTD."
         },
         {
-            "SYM": "KLKELEC",
-            "COMPANY": "KLK Electrical Ltd"
+            SYM: "KLKELEC",
+            COM: "KLK Electrical Ltd"
         },
         {
-            "SYM": "PERVASIVE",
-            "COMPANY": "Pervasive Commodities Ltd"
+            SYM: "PERVASIVE",
+            COM: "Pervasive Commodities Ltd"
         },
         {
-            "SYM": "HONAUT",
-            "COMPANY": "HONEYWELL AUTOMATION INDIA LTD."
+            SYM: "HONAUT",
+            COM: "HONEYWELL AUTOMATION INDIA LTD."
         },
         {
-            "SYM": "SWITCHTE",
-            "COMPANY": "SWITCHING TECHNOLOGIES GUNTHER LTD."
+            SYM: "SWITCHTE",
+            COM: "SWITCHING TECHNOLOGIES GUNTHER LTD."
         },
         {
-            "SYM": "LUMAXIND",
-            "COMPANY": "LUMAX INDUSTRIES LTD."
+            SYM: "LUMAXIND",
+            COM: "LUMAX INDUSTRIES LTD."
         },
         {
-            "SYM": "DIGISPICE",
-            "COMPANY": "Digispice Technologies Ltd-$"
+            SYM: "DIGISPICE",
+            COM: "Digispice Technologies Ltd"
         },
         {
-            "SYM": "PAEL",
-            "COMPANY": "PAE LTD."
+            SYM: "PAEL",
+            COM: "PAE LTD."
         },
         {
-            "SYM": "CALCOM",
-            "COMPANY": "CALCOM VISION LTD."
+            SYM: "CALCOM",
+            COM: "CALCOM VISION LTD."
         },
         {
-            "SYM": "DYNAVSN",
-            "COMPANY": "DYNAVISION LTD."
+            SYM: "DYNAVSN",
+            COM: "DYNAVISION LTD."
         },
         {
-            "SYM": "BCCFUBA",
-            "COMPANY": "BCC FUBA INDIA LTD."
+            SYM: "BCCFUBA",
+            COM: "BCC FUBA INDIA LTD."
         },
         {
-            "SYM": "PRECISIO",
-            "COMPANY": "PRECISION ELECTRONICS LTD."
+            SYM: "PRECISIO",
+            COM: "PRECISION ELECTRONICS LTD."
         },
         {
-            "SYM": "FINELINE",
-            "COMPANY": "FINE-LINE CIRCUITS LTD."
+            SYM: "FINELINE",
+            COM: "FINE-LINE CIRCUITS LTD."
         },
         {
-            "SYM": "HBLPOWER",
-            "COMPANY": "HBL POWER SYSTEMS LTD.-$"
+            SYM: "HBLPOWER",
+            COM: "HBL POWER SYSTEMS LTD."
         },
         {
-            "SYM": "S&SPOWER",
-            "COMPANY": "S&S POWER SWITCHGEAR LTD."
+            SYM: "S&SPOWER",
+            COM: "S&S POWER SWITCHGEAR LTD."
         },
         {
-            "SYM": "GUJARATPOLY",
-            "COMPANY": "Gujarat Poly Electronics Ltd"
+            SYM: "GUJARATPOLY",
+            COM: "Gujarat Poly Electronics Ltd"
         },
         {
-            "SYM": "GIPCL",
-            "COMPANY": "GUJARAT INDUSTRIES POWER CO.LTD."
+            SYM: "GIPCL",
+            COM: "GUJARAT INDUSTRIES POWER CO.LTD."
         },
         {
-            "SYM": "SAVINFOCO",
-            "COMPANY": "SAVANT INFOCOMM LTD."
+            SYM: "SAVINFOCO",
+            COM: "SAVANT INFOCOMM LTD."
         },
         {
-            "SYM": "CMI",
-            "COMPANY": "CMI LTD."
+            SYM: "CMI",
+            COM: "CMI LTD."
         },
         {
-            "SYM": "MOTHERSUMI",
-            "COMPANY": "MOTHERSON SUMI SYSTEMS LTD."
+            SYM: "MOTHERSUMI",
+            COM: "MOTHERSON SUMI SYSTEMS LTD."
         },
         {
-            "SYM": "MINDTECK",
-            "COMPANY": "MINDTECK (INDIA) LTD."
+            SYM: "MINDTECK",
+            COM: "MINDTECK (INDIA) LTD."
         },
         {
-            "SYM": "HAVELLS",
-            "COMPANY": "HAVELLS INDIA LTD."
+            SYM: "HAVELLS",
+            COM: "HAVELLS INDIA LTD."
         },
         {
-            "SYM": "ACIIN",
-            "COMPANY": "ACI INFOCOM LTD."
+            SYM: "ACIIN",
+            COM: "ACI INFOCOM LTD."
         },
         {
-            "SYM": "SBECSYS",
-            "COMPANY": "SBEC SYSTEMS (INDIA) LTD."
+            SYM: "SBECSYS",
+            COM: "SBEC SYSTEMS (INDIA) LTD."
         },
         {
-            "SYM": "INCAP",
-            "COMPANY": "INCAP LTD."
+            SYM: "INCAP",
+            COM: "INCAP LTD."
         },
         {
-            "SYM": "GUJINTRX",
-            "COMPANY": "GUJARAT INTRUX LTD.-$"
+            SYM: "GUJINTRX",
+            COM: "GUJARAT INTRUX LTD."
         },
         {
-            "SYM": "IGARASHI",
-            "COMPANY": "IGARASHI MOTORS INDIA LTD."
+            SYM: "IGARASHI",
+            COM: "IGARASHI MOTORS INDIA LTD."
         },
         {
-            "SYM": "SYMPHONY",
-            "COMPANY": "Symphony Limited"
+            SYM: "SYMPHONY",
+            COM: "Symphony Limited"
         },
         {
-            "SYM": "VINTRON",
-            "COMPANY": "VINTRON INFORMATICS LTD."
+            SYM: "VINTRON",
+            COM: "VINTRON INFORMATICS LTD."
         },
         {
-            "SYM": "PANELEC",
-            "COMPANY": "PAN ELECTRONICS INDIA LTD."
+            SYM: "PANELEC",
+            COM: "PAN ELECTRONICS INDIA LTD."
         },
         {
-            "SYM": "VXLINSTR",
-            "COMPANY": "VXL INSTRUMENTS LTD."
+            SYM: "VXLINSTR",
+            COM: "VXL INSTRUMENTS LTD."
         },
         {
-            "SYM": "SHYAMTEL",
-            "COMPANY": "SHYAM TELECOM LTD."
+            SYM: "SHYAMTEL",
+            COM: "SHYAM TELECOM LTD."
         },
         {
-            "SYM": "LEENEE",
-            "COMPANY": "LEE & NEE SOFTWARES (EXPORTS) LTD."
+            SYM: "LEENEE",
+            COM: "LEE & NEE SOFTWARES (EXPORTS) LTD."
         },
         {
-            "SYM": "PATELSAI",
-            "COMPANY": "PATELS AIRTEMP (INDIA) LTD."
+            SYM: "PATELSAI",
+            COM: "PATELS AIRTEMP (INDIA) LTD."
         },
         {
-            "SYM": "BUTTERFLY",
-            "COMPANY": "Butterfly Gandhimathi Appliances Ltd"
+            SYM: "BUTTERFLY",
+            COM: "Butterfly Gandhimathi Appliances Ltd"
         },
         {
-            "SYM": "ATHENAGLO",
-            "COMPANY": "Athena Global Technologies Ltd-$"
+            SYM: "ATHENAGLO",
+            COM: "Athena Global Technologies Ltd"
         },
         {
-            "SYM": "DUTRON",
-            "COMPANY": "DUTRON POLYMERS LTD.-$"
+            SYM: "DUTRON",
+            COM: "DUTRON POLYMERS LTD."
         },
         {
-            "SYM": "RSSOFTWARE",
-            "COMPANY": "R.S.SOFTWARE INDIA LTD."
+            SYM: "RSSOFTWARE",
+            COM: "R.S.SOFTWARE INDIA LTD."
         },
         {
-            "SYM": "MAGNAELQ",
-            "COMPANY": "MAGNA ELECTRO CASTINGS LTD.-$"
+            SYM: "MAGNAELQ",
+            COM: "MAGNA ELECTRO CASTINGS LTD."
         },
         {
-            "SYM": "MARSONS",
-            "COMPANY": "MARSONS LIMITED"
+            SYM: "MARSONS",
+            COM: "MARSONS LIMITED"
         },
         {
-            "SYM": "ELNET",
-            "COMPANY": "ELNET TECHNOLOGIES LTD.-$"
+            SYM: "ELNET",
+            COM: "ELNET TECHNOLOGIES LTD."
         },
         {
-            "SYM": "ACCEL",
-            "COMPANY": "Accel Ltd"
+            SYM: "ACCEL",
+            COM: "Accel Ltd"
         },
         {
-            "SYM": "WEBELSOLAR",
-            "COMPANY": "WEBSOL ENERGY SYSTEM LTD."
+            SYM: "WEBELSOLAR",
+            COM: "WEBSOL ENERGY SYSTEM LTD."
         },
         {
-            "SYM": "ROTO",
-            "COMPANY": "ROTO PUMPS LTD."
+            SYM: "ROTO",
+            COM: "ROTO PUMPS LTD."
         },
         {
-            "SYM": "TTKPRESTIG",
-            "COMPANY": "TTK PRESTIGE LTD."
+            SYM: "TTKPRESTIG",
+            COM: "TTK PRESTIGE LTD."
         },
         {
-            "SYM": "DHINDIA",
-            "COMPANY": "D&H India Ltd-$"
+            SYM: "DHINDIA",
+            COM: "D&H India Ltd"
         },
         {
-            "SYM": "RAJGLOWIR",
-            "COMPANY": "RAJRATAN GLOBAL WIRE LTD."
+            SYM: "RAJGLOWIR",
+            COM: "RAJRATAN GLOBAL WIRE LTD."
         },
         {
-            "SYM": "SURANAT&P",
-            "COMPANY": "Surana Telecom And Power Limited"
+            SYM: "SURANAT&P",
+            COM: "Surana Telecom And Power Limited"
         },
         {
-            "SYM": "ONWARDTEC",
-            "COMPANY": "ONWARD TECHNOLOGIES LTD."
+            SYM: "ONWARDTEC",
+            COM: "ONWARD TECHNOLOGIES LTD."
         },
         {
-            "SYM": "CENTUM",
-            "COMPANY": "CENTUM ELECTRONICS LTD."
+            SYM: "CENTUM",
+            COM: "CENTUM ELECTRONICS LTD."
         },
         {
-            "SYM": "ALFATRAN",
-            "COMPANY": "ALFA TRANSFORMERS LTD."
+            SYM: "ALFATRAN",
+            COM: "ALFA TRANSFORMERS LTD."
         },
         {
-            "SYM": "STARLITE",
-            "COMPANY": "STARLITE COMPONENTS LTD."
+            SYM: "STARLITE",
+            COM: "STARLITE COMPONENTS LTD."
         },
         {
-            "SYM": "NHCFOODS",
-            "COMPANY": "NHC FOODS LTD."
+            SYM: "NHCFOODS",
+            COM: "NHC FOODS LTD."
         },
         {
-            "SYM": "TRIGYN",
-            "COMPANY": "TRIGYN TECHNOLOGIES LTD."
+            SYM: "TRIGYN",
+            COM: "TRIGYN TECHNOLOGIES LTD."
         },
         {
-            "SYM": "KEI",
-            "COMPANY": "KEI INDUSTRIES LTD."
+            SYM: "KEI",
+            COM: "KEI INDUSTRIES LTD."
         },
         {
-            "SYM": "INDLMETER",
-            "COMPANY": "IMP POWERS LTD."
+            SYM: "INDLMETER",
+            COM: "IMP POWERS LTD."
         },
         {
-            "SYM": "KEERTHI",
-            "COMPANY": "KEERTHI INDUSTRIES LTD."
+            SYM: "KEERTHI",
+            COM: "KEERTHI INDUSTRIES LTD."
         },
         {
-            "SYM": "GSCLCEMENT",
-            "COMPANY": "GUJARAT SIDHEE CEMENT LTD."
+            SYM: "GSCLCEMENT",
+            COM: "GUJARAT SIDHEE CEMENT LTD."
         },
         {
-            "SYM": "SURAJ",
-            "COMPANY": "SURAJ PRODUCTS LTD."
+            SYM: "SURAJ",
+            COM: "SURAJ PRODUCTS LTD."
         },
         {
-            "SYM": "APCL",
-            "COMPANY": "ANJANI PORTLAND CEMENT LTD.-$"
+            SYM: "APCL",
+            COM: "ANJANI PORTLAND CEMENT LTD."
         },
         {
-            "SYM": "MODINATUR",
-            "COMPANY": "Modi Naturals Limited"
+            SYM: "MODINATUR",
+            COM: "Modi Naturals Limited"
         },
         {
-            "SYM": "PRSNTIN",
-            "COMPANY": "PRASHANT INDIA LTD."
+            SYM: "PRSNTIN",
+            COM: "PRASHANT INDIA LTD."
         },
         {
-            "SYM": "SHAHFOOD",
-            "COMPANY": "SHAH FOODS LTD."
+            SYM: "SHAHFOOD",
+            COM: "SHAH FOODS LTD."
         },
         {
-            "SYM": "ZKHANDEN",
-            "COMPANY": "KHANDELWAL EXTRACTION LTD."
+            SYM: "ZKHANDEN",
+            COM: "KHANDELWAL EXTRACTION LTD."
         },
         {
-            "SYM": "TASTYBIT",
-            "COMPANY": "TASTY BITE EATABLES LTD."
+            SYM: "TASTYBIT",
+            COM: "TASTY BITE EATABLES LTD."
         },
         {
-            "SYM": "RITESHIN",
-            "COMPANY": "RITESH INTERNATIONAL LTD."
+            SYM: "RITESHIN",
+            COM: "RITESH INTERNATIONAL LTD."
         },
         {
-            "SYM": "AVTNPL",
-            "COMPANY": "AVT NATURAL PRODUCTS LTD."
+            SYM: "AVTNPL",
+            COM: "AVT NATURAL PRODUCTS LTD."
         },
         {
-            "SYM": "HNDFDS",
-            "COMPANY": "HINDUSTAN FOODS LTD."
+            SYM: "HNDFDS",
+            COM: "HINDUSTAN FOODS LTD."
         },
         {
-            "SYM": "NAHARINDUS",
-            "COMPANY": "NAHAR INDUSTRIAL ENTERPRISES LTD.-$"
+            SYM: "NAHARINDUS",
+            COM: "NAHAR INDUSTRIAL ENTERPRISES LTD."
         },
         {
-            "SYM": "VADILENT",
-            "COMPANY": "VADILAL ENTERPRISES LTD."
+            SYM: "VADILENT",
+            COM: "VADILAL ENTERPRISES LTD."
         },
         {
-            "SYM": "VADILALIND",
-            "COMPANY": "VADILAL INDUSTRIES LTD.-$"
+            SYM: "VADILALIND",
+            COM: "VADILAL INDUSTRIES LTD."
         },
         {
-            "SYM": "ASHAI",
-            "COMPANY": "ASHIANA AGRO INDUSTRIES LTD."
+            SYM: "ASHAI",
+            COM: "ASHIANA AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "ADFFOODS",
-            "COMPANY": "ADF FOODS LTD.-$"
+            SYM: "ADFFOODS",
+            COM: "ADF FOODS LTD."
         },
         {
-            "SYM": "RGRL",
-            "COMPANY": "Retro Green Revolution Ltd"
+            SYM: "RGRL",
+            COM: "Retro Green Revolution Ltd"
         },
         {
-            "SYM": "WILLIMFI",
-            "COMPANY": "WILLIAMSON FINANCIAL SERVICES LTD."
+            SYM: "WILLIMFI",
+            COM: "WILLIAMSON FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "AJANTSOY",
-            "COMPANY": "AJANTA SOYA LTD."
+            SYM: "AJANTSOY",
+            COM: "AJANTA SOYA LTD."
         },
         {
-            "SYM": "WILLAMAGOR",
-            "COMPANY": "WILLIAMSON MAGOR & COMPANY LTD."
+            SYM: "WILLAMAGOR",
+            COM: "WILLIAMSON MAGOR & COMPANY LTD."
         },
         {
-            "SYM": "RICHIRICH",
-            "COMPANY": "Richirich Inventures Limited"
+            SYM: "RICHIRICH",
+            COM: "Richirich Inventures Limited"
         },
         {
-            "SYM": "SIEL",
-            "COMPANY": "Superior Industrial Enterprises Limited"
+            SYM: "SIEL",
+            COM: "Superior Industrial Enterprises Limited"
         },
         {
-            "SYM": "SPTRSHI",
-            "COMPANY": "SAPTARISHI AGRO INDUSTRIES LTD."
+            SYM: "SPTRSHI",
+            COM: "SAPTARISHI AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "SRDAPRT",
-            "COMPANY": "SARDA PROTEINS LTD."
+            SYM: "SRDAPRT",
+            COM: "SARDA PROTEINS LTD."
         },
         {
-            "SYM": "SANWARIA",
-            "COMPANY": "Sanwaria Consumer Ltd-$"
+            SYM: "SANWARIA",
+            COM: "Sanwaria Consumer Ltd"
         },
         {
-            "SYM": "PRIMAGR",
-            "COMPANY": "PRIMA AGRO LTD."
+            SYM: "PRIMAGR",
+            COM: "PRIMA AGRO LTD."
         },
         {
-            "SYM": "MADHURIND",
-            "COMPANY": "MADHUR INDUSTRIES LTD."
+            SYM: "MADHURIND",
+            COM: "MADHUR INDUSTRIES LTD."
         },
         {
-            "SYM": "TARAI",
-            "COMPANY": "TARAI FOODS LTD."
+            SYM: "TARAI",
+            COM: "TARAI FOODS LTD."
         },
         {
-            "SYM": "MODAIRY",
-            "COMPANY": "MODERN DAIRIES LTD."
+            SYM: "MODAIRY",
+            COM: "MODERN DAIRIES LTD."
         },
         {
-            "SYM": "BAMBINO",
-            "COMPANY": "BAMBINO AGRO INDUSTRIES LTD."
+            SYM: "BAMBINO",
+            COM: "BAMBINO AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "PRIMIND",
-            "COMPANY": "PRIME INDUSTRIES LTD."
+            SYM: "PRIMIND",
+            COM: "PRIME INDUSTRIES LTD."
         },
         {
-            "SYM": "VIKASWSP",
-            "COMPANY": "VIKAS WSP LTD."
+            SYM: "VIKASWSP",
+            COM: "VIKAS WSP LTD."
         },
         {
-            "SYM": "JATALIA",
-            "COMPANY": "Jatalia Global Ventures Ltd"
+            SYM: "JATALIA",
+            COM: "Jatalia Global Ventures Ltd"
         },
         {
-            "SYM": "VSFPROJ",
-            "COMPANY": "VSF PROJECTS LTD."
+            SYM: "VSFPROJ",
+            COM: "VSF PROJECTS LTD."
         },
         {
-            "SYM": "BANSTEA",
-            "COMPANY": "BANSISONS TEA INDUSTRIES LTD."
+            SYM: "BANSTEA",
+            COM: "BANSISONS TEA INDUSTRIES LTD."
         },
         {
-            "SYM": "POONADAL",
-            "COMPANY": "POONA DAL & OIL INDUSTRIES LTD."
+            SYM: "POONADAL",
+            COM: "POONA DAL & OIL INDUSTRIES LTD."
         },
         {
-            "SYM": "TRANSFD",
-            "COMPANY": "TRANSGLOBE FOODS LTD."
+            SYM: "TRANSFD",
+            COM: "TRANSGLOBE FOODS LTD."
         },
         {
-            "SYM": "ANIKINDS",
-            "COMPANY": "ANIK INDUSTRIES LTD."
+            SYM: "ANIKINDS",
+            COM: "ANIK INDUSTRIES LTD."
         },
         {
-            "SYM": "SHINDL",
-            "COMPANY": "SHARAT INDUSTRIES LTD."
+            SYM: "SHINDL",
+            COM: "SHARAT INDUSTRIES LTD."
         },
         {
-            "SYM": "DATIWARE",
-            "COMPANY": "Datiware Maritime Infra Ltd"
+            SYM: "DATIWARE",
+            COM: "Datiware Maritime Infra Ltd"
         },
         {
-            "SYM": "KMGMILK",
-            "COMPANY": "KMG MILK FOOD LTD."
+            SYM: "KMGMILK",
+            COM: "KMG MILK FOOD LTD."
         },
         {
-            "SYM": "KSE",
-            "COMPANY": "KSE LTD.-$"
+            SYM: "KSE",
+            COM: "KSE LTD."
         },
         {
-            "SYM": "PIONAGR",
-            "COMPANY": "PIONEER AGRO EXTRACTS LTD."
+            SYM: "PIONAGR",
+            COM: "PIONEER AGRO EXTRACTS LTD."
         },
         {
-            "SYM": "NARBADA",
-            "COMPANY": "NARBADA GEMS AND JEWELLERY LTD."
+            SYM: "NARBADA",
+            COM: "NARBADA GEMS AND JEWELLERY LTD."
         },
         {
-            "SYM": "VIRATCRA",
-            "COMPANY": "VIRAT CRANE INDUSTRIES LTD."
+            SYM: "VIRATCRA",
+            COM: "VIRAT CRANE INDUSTRIES LTD."
         },
         {
-            "SYM": "IBINFO",
-            "COMPANY": "IB INFOTECH ENTERPRISES LTD."
+            SYM: "IBINFO",
+            COM: "IB INFOTECH ENTERPRISES LTD."
         },
         {
-            "SYM": "AMBARPIL",
-            "COMPANY": "Ambar Protein Industries Ltd"
+            SYM: "AMBARPIL",
+            COM: "Ambar Protein Industries Ltd"
         },
         {
-            "SYM": "CHORDIA",
-            "COMPANY": "CHORDIA FOOD PRODUCTS LTD."
+            SYM: "CHORDIA",
+            COM: "CHORDIA FOOD PRODUCTS LTD."
         },
         {
-            "SYM": "CIANAGRO",
-            "COMPANY": "CIAN Agro Industries & Infrastructure Ltd"
+            SYM: "CIANAGRO",
+            COM: "CIAN Agro Industries & Infrastructure Ltd"
         },
         {
-            "SYM": "TAIIND",
-            "COMPANY": "TAI INDUSTRIES LTD.-$"
+            SYM: "TAIIND",
+            COM: "TAI INDUSTRIES LTD."
         },
         {
-            "SYM": "NKIND",
-            "COMPANY": "N.K.INDUSTRIES LTD."
+            SYM: "NKIND",
+            COM: "N.K.INDUSTRIES LTD."
         },
         {
-            "SYM": "BKV",
-            "COMPANY": "BKV INDUSTRIES LTD."
+            SYM: "BKV",
+            COM: "BKV INDUSTRIES LTD."
         },
         {
-            "SYM": "NCCBLUE",
-            "COMPANY": "NCC BLUE WATER PRODUCTS LTD."
+            SYM: "NCCBLUE",
+            COM: "NCC BLUE WATER PRODUCTS LTD."
         },
         {
-            "SYM": "ASIANTNE",
-            "COMPANY": "ASIAN TEA & EXPORTS LTD.-$"
+            SYM: "ASIANTNE",
+            COM: "ASIAN TEA & EXPORTS LTD."
         },
         {
-            "SYM": "HERITGFOOD",
-            "COMPANY": "Heritage Foods Limited"
+            SYM: "HERITGFOOD",
+            COM: "Heritage Foods Limited"
         },
         {
-            "SYM": "SIMRAN",
-            "COMPANY": "SIMRAN FARMS LTD."
+            SYM: "SIMRAN",
+            COM: "SIMRAN FARMS LTD."
         },
         {
-            "SYM": "DFM",
-            "COMPANY": "DFM FOODS LTD."
+            SYM: "DFM",
+            COM: "DFM FOODS LTD."
         },
         {
-            "SYM": "CCL",
-            "COMPANY": "CCL PRODUCTS (INDIA) LTD."
+            SYM: "CCL",
+            COM: "CCL PRODUCTS (INDIA) LTD."
         },
         {
-            "SYM": "KELLTONTEC",
-            "COMPANY": "Kellton Tech Solutions Ltd."
+            SYM: "KELLTONTEC",
+            COM: "Kellton Tech Solutions Ltd."
         },
         {
-            "SYM": "SURFI",
-            "COMPANY": "SURYO FOODS & INDUSTRIES LTD."
+            SYM: "SURFI",
+            COM: "SURYO FOODS & INDUSTRIES LTD."
         },
         {
-            "SYM": "INTEGFD",
-            "COMPANY": "INTEGRATED PROTEINS LTD."
+            SYM: "INTEGFD",
+            COM: "INTEGRATED PROTEINS LTD."
         },
         {
-            "SYM": "MAHAANF",
-            "COMPANY": "MAHAAN FOODS LTD."
+            SYM: "MAHAANF",
+            COM: "MAHAAN FOODS LTD."
         },
         {
-            "SYM": "RICOAUTO",
-            "COMPANY": "RICO AUTO INDUSTRIES LTD."
+            SYM: "RICOAUTO",
+            COM: "RICO AUTO INDUSTRIES LTD."
         },
         {
-            "SYM": "OMAXAUTO",
-            "COMPANY": "OMAX AUTOS LTD."
+            SYM: "OMAXAUTO",
+            COM: "OMAX AUTOS LTD."
         },
         {
-            "SYM": "MUNJALSHOW",
-            "COMPANY": "MUNJAL SHOWA LTD."
+            SYM: "MUNJALSHOW",
+            COM: "MUNJAL SHOWA LTD."
         },
         {
-            "SYM": "JAMNAAUTO",
-            "COMPANY": "JAMNA AUTO INDUSTRIES LTD."
+            SYM: "JAMNAAUTO",
+            COM: "JAMNA AUTO INDUSTRIES LTD."
         },
         {
-            "SYM": "SUNCLAYLTD",
-            "COMPANY": "SUNDARAM-CLAYTON LTD."
+            SYM: "SUNCLAYLTD",
+            COM: "SUNDARAM-CLAYTON LTD."
         },
         {
-            "SYM": "JTEKTINDIA",
-            "COMPANY": "Jtekt India Ltd"
+            SYM: "JTEKTINDIA",
+            COM: "Jtekt India Ltd"
         },
         {
-            "SYM": "MUNJALAU",
-            "COMPANY": "MUNJAL AUTO INDUSTRIES LTD."
+            SYM: "MUNJALAU",
+            COM: "MUNJAL AUTO INDUSTRIES LTD."
         },
         {
-            "SYM": "JAYBARMARU",
-            "COMPANY": "JAY BHARAT MARUTI LTD."
+            SYM: "JAYBARMARU",
+            COM: "JAY BHARAT MARUTI LTD."
         },
         {
-            "SYM": "RACLGEAR",
-            "COMPANY": "RACL Geartech Ltd"
+            SYM: "RACLGEAR",
+            COM: "RACL Geartech Ltd"
         },
         {
-            "SYM": "SAMKRG",
-            "COMPANY": "SAMKRG PISTONS & RINGS LTD.-$"
+            SYM: "SAMKRG",
+            COM: "SAMKRG PISTONS & RINGS LTD."
         },
         {
-            "SYM": "ECSTSTL",
-            "COMPANY": "EAST COAST STEEL LTD."
+            SYM: "ECSTSTL",
+            COM: "EAST COAST STEEL LTD."
         },
         {
-            "SYM": "SICAL",
-            "COMPANY": "SICAL LOGISTICS LTD."
+            SYM: "SICAL",
+            COM: "SICAL LOGISTICS LTD."
         },
         {
-            "SYM": "RATNAMANI",
-            "COMPANY": "RATNAMANI METALS & TUBES LTD.-$"
+            SYM: "RATNAMANI",
+            COM: "RATNAMANI METALS & TUBES LTD."
         },
         {
-            "SYM": "VESUVIUS",
-            "COMPANY": "VESUVIUS INDIA LTD."
+            SYM: "VESUVIUS",
+            COM: "VESUVIUS INDIA LTD."
         },
         {
-            "SYM": "ASAL",
-            "COMPANY": "AUTOMOTIVE STAMPINGS & ASSEMBLIES LTD."
+            SYM: "ASAL",
+            COM: "AUTOMOTIVE STAMPINGS & ASSEMBLIES LTD."
         },
         {
-            "SYM": "ARCEEIN",
-            "COMPANY": "ARCEE INDUSTRIES LTD."
+            SYM: "ARCEEIN",
+            COM: "ARCEE INDUSTRIES LTD."
         },
         {
-            "SYM": "ABCINDQ",
-            "COMPANY": "ABC INDIA LTD.-$"
+            SYM: "ABCINDQ",
+            COM: "ABC INDIA LTD."
         },
         {
-            "SYM": "BALTE",
-            "COMPANY": "BALURGHAT TECHNOLOGIES LTD."
+            SYM: "BALTE",
+            COM: "BALURGHAT TECHNOLOGIES LTD."
         },
         {
-            "SYM": "COARO",
-            "COMPANY": "COASTAL ROADWAYS LTD."
+            SYM: "COARO",
+            COM: "COASTAL ROADWAYS LTD."
         },
         {
-            "SYM": "SIBARAUT",
-            "COMPANY": "SIBAR AUTO PARTS LTD."
+            SYM: "SIBARAUT",
+            COM: "SIBAR AUTO PARTS LTD."
         },
         {
-            "SYM": "SHREYAS",
-            "COMPANY": "SHREYAS SHIPPING & LOGISTICS LTD."
+            SYM: "SHREYAS",
+            COM: "SHREYAS SHIPPING & LOGISTICS LTD."
         },
         {
-            "SYM": "STARLOG",
-            "COMPANY": "Starlog Enterprises Ltd"
+            SYM: "STARLOG",
+            COM: "Starlog Enterprises Ltd"
         },
         {
-            "SYM": "SHVSUIT",
-            "COMPANY": "SHIVA SUITINGS LTD."
+            SYM: "SHVSUIT",
+            COM: "SHIVA SUITINGS LTD."
         },
         {
-            "SYM": "EUROTEXIND",
-            "COMPANY": "EUROTEX INDUSTRIES & EXPORTS LTD."
+            SYM: "EUROTEXIND",
+            COM: "EUROTEX INDUSTRIES & EXPORTS LTD."
         },
         {
-            "SYM": "ICIL",
-            "COMPANY": "INDO COUNT INDUSTRIES LTD."
+            SYM: "ICIL",
+            COM: "INDO COUNT INDUSTRIES LTD."
         },
         {
-            "SYM": "MARALOVER",
-            "COMPANY": "MARAL OVERSEAS LTD."
+            SYM: "MARALOVER",
+            COM: "MARAL OVERSEAS LTD."
         },
         {
-            "SYM": "SOMATEX",
-            "COMPANY": "SOMA TEXTILES & INDUSTRIES LTD."
+            SYM: "SOMATEX",
+            COM: "SOMA TEXTILES & INDUSTRIES LTD."
         },
         {
-            "SYM": "SOURCEIND",
-            "COMPANY": "SOURCE INDUSTRIES (INDIA) LTD."
+            SYM: "SOURCEIND",
+            COM: "SOURCE INDUSTRIES (INDIA) LTD."
         },
         {
-            "SYM": "KAKTEX",
-            "COMPANY": "KAKATIYA TEXTILES LTD."
+            SYM: "KAKTEX",
+            COM: "KAKATIYA TEXTILES LTD."
         },
         {
-            "SYM": "OCTAVE",
-            "COMPANY": "Perfect-Octave Media Projects Ltd"
+            SYM: "OCTAVE",
+            COM: "Perfect-Octave Media Projects Ltd"
         },
         {
-            "SYM": "TRIDENT",
-            "COMPANY": "TRIDENT LTD."
+            SYM: "TRIDENT",
+            COM: "TRIDENT LTD."
         },
         {
-            "SYM": "HISARSP",
-            "COMPANY": "HISAR SPINNING MILLS LTD."
+            SYM: "HISARSP",
+            COM: "HISAR SPINNING MILLS LTD."
         },
         {
-            "SYM": "ALOKTEXT",
-            "COMPANY": "ALOK INDUSTRIES LTD."
+            SYM: "ALOKTEXT",
+            COM: "ALOK INDUSTRIES LTD."
         },
         {
-            "SYM": "PASARI",
-            "COMPANY": "PASARI SPINNING MILLS LTD."
+            SYM: "PASARI",
+            COM: "PASARI SPINNING MILLS LTD."
         },
         {
-            "SYM": "SPENTEX",
-            "COMPANY": "SPENTEX INDUSTRIES LTD."
+            SYM: "SPENTEX",
+            COM: "SPENTEX INDUSTRIES LTD."
         },
         {
-            "SYM": "AMARJOTHI",
-            "COMPANY": "AMARJOTHI SPINNING MILLS LTD."
+            SYM: "AMARJOTHI",
+            COM: "AMARJOTHI SPINNING MILLS LTD."
         },
         {
-            "SYM": "OLYMPTX",
-            "COMPANY": "OLYMPIA INDUSTRIES LTD."
+            SYM: "OLYMPTX",
+            COM: "OLYMPIA INDUSTRIES LTD."
         },
         {
-            "SYM": "NAGREEKEXP",
-            "COMPANY": "NAGREEKA EXPORTS LTD.-$"
+            SYM: "NAGREEKEXP",
+            COM: "NAGREEKA EXPORTS LTD."
         },
         {
-            "SYM": "SUDTIND-B",
-            "COMPANY": "SUDITI INDUSTRIES LTD."
+            SYM: "SUDTIND-B",
+            COM: "SUDITI INDUSTRIES LTD."
         },
         {
-            "SYM": "SBFL",
-            "COMPANY": "Shree Bhavya Fabrics Ltd"
+            SYM: "SBFL",
+            COM: "Shree Bhavya Fabrics Ltd"
         },
         {
-            "SYM": "GEMSPIN",
-            "COMPANY": "GEM SPINNERS INDIA LTD."
+            SYM: "GEMSPIN",
+            COM: "GEM SPINNERS INDIA LTD."
         },
         {
-            "SYM": "EUREKAI",
-            "COMPANY": "EUREKA INDUSTRIES LTD."
+            SYM: "EUREKAI",
+            COM: "EUREKA INDUSTRIES LTD."
         },
         {
-            "SYM": "ADITYASP",
-            "COMPANY": "ADITYA SPINNERS LTD."
+            SYM: "ADITYASP",
+            COM: "ADITYA SPINNERS LTD."
         },
         {
-            "SYM": "PRIMEURB",
-            "COMPANY": "PRIME URBAN DEVELOPMENT INDIA LTD."
+            SYM: "PRIMEURB",
+            COM: "PRIME URBAN DEVELOPMENT INDIA LTD."
         },
         {
-            "SYM": "DHANFAB",
-            "COMPANY": "DHANLAXMI FABRICS LTD."
+            SYM: "DHANFAB",
+            COM: "DHANLAXMI FABRICS LTD."
         },
         {
-            "SYM": "SLSTLQ",
-            "COMPANY": "SRI LAKSHMI SARASWATHI TEXTILES (ARNI) LTD.-$"
+            SYM: "SLSTLQ",
+            COM: "SRI LAKSHMI SARASWATHI TEXTILES (ARNI) LTD."
         },
         {
-            "SYM": "ZODIACLOTH",
-            "COMPANY": "ZODIAC CLOTHING CO.LTD."
+            SYM: "ZODIACLOTH",
+            COM: "ZODIAC CLOTHING CO.LTD."
         },
         {
-            "SYM": "SRMCL",
-            "COMPANY": "SRI RAMAKRISHNA MILLS (COIMBATORE) LTD.-$"
+            SYM: "SRMCL",
+            COM: "SRI RAMAKRISHNA MILLS (COIMBATORE) LTD."
         },
         {
-            "SYM": "SUPERSPIN",
-            "COMPANY": "SUPER SPINNING MILLS LTD."
+            SYM: "SUPERSPIN",
+            COM: "SUPER SPINNING MILLS LTD."
         },
         {
-            "SYM": "SEASONF",
-            "COMPANY": "SEASONS FURNISHINGS LTD."
+            SYM: "SEASONF",
+            COM: "SEASONS FURNISHINGS LTD."
         },
         {
-            "SYM": "UNITEDTE",
-            "COMPANY": "UNITED TEXTILES LTD."
+            SYM: "UNITEDTE",
+            COM: "UNITED TEXTILES LTD."
         },
         {
-            "SYM": "SILINV",
-            "COMPANY": "SIL INVESTMENTS LTD."
+            SYM: "SILINV",
+            COM: "SIL INVESTMENTS LTD."
         },
         {
-            "SYM": "SURYALAXMI",
-            "COMPANY": "SURYALAKSHMI COTTON MILLS LTD."
+            SYM: "SURYALAXMI",
+            COM: "SURYALAKSHMI COTTON MILLS LTD."
         },
         {
-            "SYM": "SAMTEX",
-            "COMPANY": "SAMTEX FASHIONS LTD.-$"
+            SYM: "SAMTEX",
+            COM: "SAMTEX FASHIONS LTD."
         },
         {
-            "SYM": "CITYMAN",
-            "COMPANY": "CITYMAN LTD."
+            SYM: "CITYMAN",
+            COM: "CITYMAN LTD."
         },
         {
-            "SYM": "DHANROTO",
-            "COMPANY": "DHANALAXMI ROTO SPINNERS LTD."
+            SYM: "DHANROTO",
+            COM: "DHANALAXMI ROTO SPINNERS LTD."
         },
         {
-            "SYM": "DAMOINDUS",
-            "COMPANY": "DAMODAR INDUSTRIES LTD.-$"
+            SYM: "DAMOINDUS",
+            COM: "DAMODAR INDUSTRIES LTD."
         },
         {
-            "SYM": "SANBLUE",
-            "COMPANY": "SANBLUE CORPORATION LTD."
+            SYM: "SANBLUE",
+            COM: "SANBLUE CORPORATION LTD."
         },
         {
-            "SYM": "UNIROYAL",
-            "COMPANY": "UNIROYAL INDUSTRIES LTD."
+            SYM: "UNIROYAL",
+            COM: "UNIROYAL INDUSTRIES LTD."
         },
         {
-            "SYM": "TATIAGLOB",
-            "COMPANY": "TATIA GLOBAL VENNTURE LTD."
+            SYM: "TATIAGLOB",
+            COM: "TATIA GLOBAL VENNTURE LTD."
         },
         {
-            "SYM": "SUNILTX",
-            "COMPANY": "SUNIL INDUSTRIES LTD."
+            SYM: "SUNILTX",
+            COM: "SUNIL INDUSTRIES LTD."
         },
         {
-            "SYM": "SRINACHA",
-            "COMPANY": "SRI NACHAMMAI COTTON MILLS LTD.-$"
+            SYM: "SRINACHA",
+            COM: "SRI NACHAMMAI COTTON MILLS LTD."
         },
         {
-            "SYM": "SAMBANDAM",
-            "COMPANY": "SAMBANDAM SPINNING MILLS LTD.-$"
+            SYM: "SAMBANDAM",
+            COM: "SAMBANDAM SPINNING MILLS LTD."
         },
         {
-            "SYM": "KANDAGIRI",
-            "COMPANY": "KANDAGIRI SPINNING MILLS LTD.-$"
+            SYM: "KANDAGIRI",
+            COM: "KANDAGIRI SPINNING MILLS LTD."
         },
         {
-            "SYM": "CHITRTX",
-            "COMPANY": "CHITRADURGA SPINTEX LTD."
+            SYM: "CHITRTX",
+            COM: "CHITRADURGA SPINTEX LTD."
         },
         {
-            "SYM": "KITEX",
-            "COMPANY": "KITEX GARMENTS LTD."
+            SYM: "KITEX",
+            COM: "KITEX GARMENTS LTD."
         },
         {
-            "SYM": "CRANEX",
-            "COMPANY": "CRANEX LTD."
+            SYM: "CRANEX",
+            COM: "CRANEX LTD."
         },
         {
-            "SYM": "BATLIBOI",
-            "COMPANY": "BATLIBOI LTD.-$"
+            SYM: "BATLIBOI",
+            COM: "BATLIBOI LTD."
         },
         {
-            "SYM": "AUSTENG",
-            "COMPANY": "AUSTIN ENGINEERING CO.LTD."
+            SYM: "AUSTENG",
+            COM: "AUSTIN ENGINEERING CO.LTD."
         },
         {
-            "SYM": "UNIDT",
-            "COMPANY": "UNITED DRILLING TOOLS LTD."
+            SYM: "UNIDT",
+            COM: "UNITED DRILLING TOOLS LTD."
         },
         {
-            "SYM": "FLUIDOM",
-            "COMPANY": "FLUIDOMAT LTD."
+            SYM: "FLUIDOM",
+            COM: "FLUIDOMAT LTD."
         },
         {
-            "SYM": "EMAINDIA",
-            "COMPANY": "EMA INDIA LTD."
+            SYM: "EMAINDIA",
+            COM: "EMA INDIA LTD."
         },
         {
-            "SYM": "WINDMACHIN",
-            "COMPANY": "WINDSOR MACHINES LTD."
+            SYM: "WINDMACHIN",
+            COM: "WINDSOR MACHINES LTD."
         },
         {
-            "SYM": "SHANTIGEAR",
-            "COMPANY": "SHANTHI GEARS LTD."
+            SYM: "SHANTIGEAR",
+            COM: "SHANTHI GEARS LTD."
         },
         {
-            "SYM": "MIVENMACH",
-            "COMPANY": "MIVEN MACHINE TOOLS LTD."
+            SYM: "MIVENMACH",
+            COM: "MIVEN MACHINE TOOLS LTD."
         },
         {
-            "SYM": "HONDAPOWER",
-            "COMPANY": "Honda India Power Products Ltd"
+            SYM: "HONDAPOWER",
+            COM: "Honda India Power Products Ltd"
         },
         {
-            "SYM": "HITECHGEAR",
-            "COMPANY": "The Hi-Tech Gears Ltd"
+            SYM: "HITECHGEAR",
+            COM: "The Hi-Tech Gears Ltd"
         },
         {
-            "SYM": "ELGIEQUIP",
-            "COMPANY": "ELGI EQUIPMENTS LTD."
+            SYM: "ELGIEQUIP",
+            COM: "ELGI EQUIPMENTS LTD."
         },
         {
-            "SYM": "UVDRHOR",
-            "COMPANY": "UNITED VAN DER HORST LTD."
+            SYM: "UVDRHOR",
+            COM: "UNITED VAN DER HORST LTD."
         },
         {
-            "SYM": "KLBRENG-B",
-            "COMPANY": "KILBURN ENGINEERING LTD."
+            SYM: "KLBRENG-B",
+            COM: "KILBURN ENGINEERING LTD."
         },
         {
-            "SYM": "BIRLAPREC",
-            "COMPANY": "BIRLA PRECISION TECHNOLOGIES LTD."
+            SYM: "BIRLAPREC",
+            COM: "BIRLA PRECISION TECHNOLOGIES LTD."
         },
         {
-            "SYM": "YUKEN",
-            "COMPANY": "YUKEN INDIA LTD.-$"
+            SYM: "YUKEN",
+            COM: "YUKEN INDIA LTD."
         },
         {
-            "SYM": "TIMKEN",
-            "COMPANY": "TIMKEN INDIA LTD."
+            SYM: "TIMKEN",
+            COM: "TIMKEN INDIA LTD."
         },
         {
-            "SYM": "VOITHPAPR",
-            "COMPANY": "VOITH PAPER FABRICS INDIA LTD.-$"
+            SYM: "VOITHPAPR",
+            COM: "VOITH PAPER FABRICS INDIA LTD."
         },
         {
-            "SYM": "ARTSONEN",
-            "COMPANY": "ARTSON ENGINEERING LTD."
+            SYM: "ARTSONEN",
+            COM: "ARTSON ENGINEERING LTD."
         },
         {
-            "SYM": "SOLIMAC",
-            "COMPANY": "SOLITAIRE MACHINE TOOLS LTD."
+            SYM: "SOLIMAC",
+            COM: "SOLITAIRE MACHINE TOOLS LTD."
         },
         {
-            "SYM": "DIAPOWER",
-            "COMPANY": "Diamond Power Infrastructure Limited-$"
+            SYM: "DIAPOWER",
+            COM: "Diamond Power Infrastructure Limited"
         },
         {
-            "SYM": "INDSILHYD",
-            "COMPANY": "INDSIL HYDRO POWER AND MANGANESE LTD.-$"
+            SYM: "INDSILHYD",
+            COM: "INDSIL HYDRO POWER AND MANGANESE LTD."
         },
         {
-            "SYM": "TMTIND-B1",
-            "COMPANY": "TMT (INDIA) LTD."
+            SYM: "TMTIND-B1",
+            COM: "TMT (INDIA) LTD."
         },
         {
-            "SYM": "ITL",
-            "COMPANY": "ITL INDUSTRIES LTD.-$"
+            SYM: "ITL",
+            COM: "ITL INDUSTRIES LTD."
         },
         {
-            "SYM": "FRONTSP",
-            "COMPANY": "FRONTIER SPRINGS LTD."
+            SYM: "FRONTSP",
+            COM: "FRONTIER SPRINGS LTD."
         },
         {
-            "SYM": "PRAJIND",
-            "COMPANY": "PRAJ INDUSTRIES LTD."
+            SYM: "PRAJIND",
+            COM: "PRAJ INDUSTRIES LTD."
         },
         {
-            "SYM": "RASANDIK",
-            "COMPANY": "RASANDIK ENGINEERING INDUSTRIES INDIA LTD.-$"
+            SYM: "RASANDIK",
+            COM: "RASANDIK ENGINEERING INDUSTRIES INDIA LTD."
         },
         {
-            "SYM": "YOGISUNG",
-            "COMPANY": "YOGI SUNG-WON (INDIA) LTD."
+            SYM: "YOGISUNG",
+            COM: "YOGI SUNG-WON (INDIA) LTD."
         },
         {
-            "SYM": "HLEGLAS",
-            "COMPANY": "HLE Glascoat Ltd"
+            SYM: "HLEGLAS",
+            COM: "HLE Glascoat Ltd"
         },
         {
-            "SYM": "GUJAPOLLO",
-            "COMPANY": "GUJARAT APOLLO INDUSTRIES LTD."
+            SYM: "GUJAPOLLO",
+            COM: "GUJARAT APOLLO INDUSTRIES LTD."
         },
         {
-            "SYM": "TANAA",
-            "COMPANY": "TANEJA AEROSPACE & AVIATION LTD.-$"
+            SYM: "TANAA",
+            COM: "TANEJA AEROSPACE & AVIATION LTD."
         },
         {
-            "SYM": "CONART",
-            "COMPANY": "CONART ENGINEERS LTD.-$"
+            SYM: "CONART",
+            COM: "CONART ENGINEERS LTD."
         },
         {
-            "SYM": "SHIVAGR",
-            "COMPANY": "SHIVAGRICO IMPLEMENTS LTD."
+            SYM: "SHIVAGR",
+            COM: "SHIVAGRICO IMPLEMENTS LTD."
         },
         {
-            "SYM": "MMFL",
-            "COMPANY": "M.M.FORGINGS LTD.-$"
+            SYM: "MMFL",
+            COM: "M.M.FORGINGS LTD."
         },
         {
-            "SYM": "IYKOTHITE",
-            "COMPANY": "IYKOT HITECH TOOLROOM LTD."
+            SYM: "IYKOTHITE",
+            COM: "IYKOT HITECH TOOLROOM LTD."
         },
         {
-            "SYM": "MAYURUNIQ",
-            "COMPANY": "MAYUR UNIQUOTERS LTD.-$"
+            SYM: "MAYURUNIQ",
+            COM: "MAYUR UNIQUOTERS LTD."
         },
         {
-            "SYM": "CENLUB",
-            "COMPANY": "CENLUB INDUSTRIES LTD."
+            SYM: "CENLUB",
+            COM: "CENLUB INDUSTRIES LTD."
         },
         {
-            "SYM": "RAJOOENG",
-            "COMPANY": "RAJOO ENGINEERS LTD.-$"
+            SYM: "RAJOOENG",
+            COM: "RAJOO ENGINEERS LTD."
         },
         {
-            "SYM": "JMCPROJECT",
-            "COMPANY": "JMC PROJECTS (INDIA) LTD.-$"
+            SYM: "JMCPROJECT",
+            COM: "JMC PROJECTS (INDIA) LTD."
         },
         {
-            "SYM": "VJLAXMIE",
-            "COMPANY": "VEEJAY LAKSHMI ENGINEERING WORKS LTD.-$"
+            SYM: "VJLAXMIE",
+            COM: "VEEJAY LAKSHMI ENGINEERING WORKS LTD."
         },
         {
-            "SYM": "AHMDSTE",
-            "COMPANY": "AHMEDABAD STEELCRAFT LTD."
+            SYM: "AHMDSTE",
+            COM: "AHMEDABAD STEELCRAFT LTD."
         },
         {
-            "SYM": "GET&D",
-            "COMPANY": "GE T&D India Ltd"
+            SYM: "GET&D",
+            COM: "GE T&D India Ltd"
         },
         {
-            "SYM": "RAMRAT",
-            "COMPANY": "RAM RATNA WIRES LTD.-$"
+            SYM: "RAMRAT",
+            COM: "RAM RATNA WIRES LTD."
         },
         {
-            "SYM": "JAYNECOIND",
-            "COMPANY": "JAYASWAL NECO INDUSTRIES LTD."
+            SYM: "JAYNECOIND",
+            COM: "JAYASWAL NECO INDUSTRIES LTD."
         },
         {
-            "SYM": "KALPATPOWR",
-            "COMPANY": "KALPATARU POWER TRANSMISSION LTD."
+            SYM: "KALPATPOWR",
+            COM: "KALPATARU POWER TRANSMISSION LTD."
         },
         {
-            "SYM": "NMSRESRC",
-            "COMPANY": "NMS Resources Global Ltd"
+            SYM: "NMSRESRC",
+            COM: "NMS Resources Global Ltd"
         },
         {
-            "SYM": "CHANDNI",
-            "COMPANY": "Chandni Textiles Engineering Ind. Ltd"
+            SYM: "CHANDNI",
+            COM: "Chandni Textiles Engineering Ind. Ltd"
         },
         {
-            "SYM": "TIGLOB",
-            "COMPANY": "T & I GLOBAL LTD."
+            SYM: "TIGLOB",
+            COM: "T & I GLOBAL LTD."
         },
         {
-            "SYM": "CONTROLPR",
-            "COMPANY": "CONTROL PRINT LTD.-$"
+            SYM: "CONTROLPR",
+            COM: "CONTROL PRINT LTD."
         },
         {
-            "SYM": "BEMHY",
-            "COMPANY": "BEMCO HYDRAULICS LTD."
+            SYM: "BEMHY",
+            COM: "BEMCO HYDRAULICS LTD."
         },
         {
-            "SYM": "ANSALBU",
-            "COMPANY": "ANSAL BUILDWELL LTD.-$"
+            SYM: "ANSALBU",
+            COM: "ANSAL BUILDWELL LTD."
         },
         {
-            "SYM": "WEIZMANIND",
-            "COMPANY": "WEIZMANN LTD."
+            SYM: "WEIZMANIND",
+            COM: "WEIZMANN LTD."
         },
         {
-            "SYM": "BNRSEC",
-            "COMPANY": "B.N.RATHI SECURITIES LTD."
+            SYM: "BNRSEC",
+            COM: "B.N.RATHI SECURITIES LTD."
         },
         {
-            "SYM": "RISHITECH",
-            "COMPANY": "RISHI TECHTEX LTD."
+            SYM: "RISHITECH",
+            COM: "RISHI TECHTEX LTD."
         },
         {
-            "SYM": "SINCLAIR",
-            "COMPANY": "SINCLAIRS HOTELS LTD.-$"
+            SYM: "SINCLAIR",
+            COM: "SINCLAIRS HOTELS LTD."
         },
         {
-            "SYM": "SAFARIND",
-            "COMPANY": "SAFARI INDUSTRIES (INDIA) LTD."
+            SYM: "SAFARIND",
+            COM: "SAFARI INDUSTRIES (INDIA) LTD."
         },
         {
-            "SYM": "ZBINTXPP",
-            "COMPANY": "BINAYAK TEX PROCESSORS LTD."
+            SYM: "ZBINTXPP",
+            COM: "BINAYAK TEX PROCESSORS LTD."
         },
         {
-            "SYM": "JJFINCOR",
-            "COMPANY": "J.J.FINANCE CORPORATION LTD."
+            SYM: "JJFINCOR",
+            COM: "J.J.FINANCE CORPORATION LTD."
         },
         {
-            "SYM": "COSMOFE",
-            "COMPANY": "COSMO FERRITES LTD.-$"
+            SYM: "COSMOFE",
+            COM: "COSMO FERRITES LTD."
         },
         {
-            "SYM": "ZPPOLYSA",
-            "COMPANY": "PLANTER POLYSACKS LTD."
+            SYM: "ZPPOLYSA",
+            COM: "PLANTER POLYSACKS LTD."
         },
         {
-            "SYM": "FUTURSEC",
-            "COMPANY": "FUTURISTIC SECURITIES LTD."
+            SYM: "FUTURSEC",
+            COM: "FUTURISTIC SECURITIES LTD."
         },
         {
-            "SYM": "SANCTRN",
-            "COMPANY": "SANCO TRANS LTD."
+            SYM: "SANCTRN",
+            COM: "SANCO TRANS LTD."
         },
         {
-            "SYM": "ADORMUL",
-            "COMPANY": "ADOR MULTIPRODUCTS LTD."
+            SYM: "ADORMUL",
+            COM: "ADOR MULTIPRODUCTS LTD."
         },
         {
-            "SYM": "EIHAHOTELS",
-            "COMPANY": "EIH ASSOCIATED HOTELS LTD.-$"
+            SYM: "EIHAHOTELS",
+            COM: "EIH ASSOCIATED HOTELS LTD."
         },
         {
-            "SYM": "MEDICAPQ",
-            "COMPANY": "MEDI-CAPS LTD.-$"
+            SYM: "MEDICAPQ",
+            COM: "MEDI-CAPS LTD."
         },
         {
-            "SYM": "OTCO",
-            "COMPANY": "OTCO INTERNATIONAL LTD."
+            SYM: "OTCO",
+            COM: "OTCO INTERNATIONAL LTD."
         },
         {
-            "SYM": "MORGANITE",
-            "COMPANY": "MORGANITE CRUCIBLE (INDIA) LTD."
+            SYM: "MORGANITE",
+            COM: "MORGANITE CRUCIBLE (INDIA) LTD."
         },
         {
-            "SYM": "SIPIND",
-            "COMPANY": "SIP INDUSTRIES LTD."
+            SYM: "SIPIND",
+            COM: "SIP INDUSTRIES LTD."
         },
         {
-            "SYM": "BAPACK",
-            "COMPANY": "B&A Packaging India Limited"
+            SYM: "BAPACK",
+            COM: "B&A Packaging India Limited"
         },
         {
-            "SYM": "ABAN",
-            "COMPANY": "ABAN OFFSHORE LTD."
+            SYM: "ABAN",
+            COM: "ABAN OFFSHORE LTD."
         },
         {
-            "SYM": "KOKUYOCMLN",
-            "COMPANY": "KOKUYO CAMLIN LTD.-$"
+            SYM: "KOKUYOCMLN",
+            COM: "KOKUYO CAMLIN LTD."
         },
         {
-            "SYM": "SRMENERGY",
-            "COMPANY": "SRM ENERGY LTD."
+            SYM: "SRMENERGY",
+            COM: "SRM ENERGY LTD."
         },
         {
-            "SYM": "BHARATSE",
-            "COMPANY": "BHARAT SEATS LTD.-$"
+            SYM: "BHARATSE",
+            COM: "BHARAT SEATS LTD."
         },
         {
-            "SYM": "CONTPTR",
-            "COMPANY": "CONTINENTAL PETROLEUMS LTD."
+            SYM: "CONTPTR",
+            COM: "CONTINENTAL PETROLEUMS LTD."
         },
         {
-            "SYM": "NBFOOT",
-            "COMPANY": "NB FOOTWEAR LTD."
+            SYM: "NBFOOT",
+            COM: "NB FOOTWEAR LTD."
         },
         {
-            "SYM": "MACPLASQ",
-            "COMPANY": "MACHINO PLASTICS LTD.-$"
+            SYM: "MACPLASQ",
+            COM: "MACHINO PLASTICS LTD."
         },
         {
-            "SYM": "PEARLPOLY",
-            "COMPANY": "PEARL POLYMERS LTD."
+            SYM: "PEARLPOLY",
+            COM: "PEARL POLYMERS LTD."
         },
         {
-            "SYM": "VENKYS",
-            "COMPANY": "VENKY&#39;S (INDIA) LTD."
+            SYM: "VENKYS",
+            COM: "VENKY&#39;S (INDIA) LTD."
         },
         {
-            "SYM": "ADVANIHOTR",
-            "COMPANY": "ADVANI HOTELS & RESORTS (INDIA) LTD."
+            SYM: "ADVANIHOTR",
+            COM: "ADVANI HOTELS & RESORTS (INDIA) LTD."
         },
         {
-            "SYM": "GVFILM",
-            "COMPANY": "GV FILMS LTD."
+            SYM: "GVFILM",
+            COM: "GV FILMS LTD."
         },
         {
-            "SYM": "SUPERHOUSE",
-            "COMPANY": "SUPERHOUSE LTD."
+            SYM: "SUPERHOUSE",
+            COM: "SUPERHOUSE LTD."
         },
         {
-            "SYM": "RAMAVISION",
-            "COMPANY": "RAMA VISION LTD."
+            SYM: "RAMAVISION",
+            COM: "RAMA VISION LTD."
         },
         {
-            "SYM": "TCPLPACK",
-            "COMPANY": "TCPL PACKAGING LTD.-$"
+            SYM: "TCPLPACK",
+            COM: "TCPL PACKAGING LTD."
         },
         {
-            "SYM": "PURITY",
-            "COMPANY": "PURITY FLEX PACK LTD."
+            SYM: "PURITY",
+            COM: "PURITY FLEX PACK LTD."
         },
         {
-            "SYM": "BALMLAWRIE",
-            "COMPANY": "BALMER LAWRIE & CO.LTD."
+            SYM: "BALMLAWRIE",
+            COM: "BALMER LAWRIE & CO.LTD."
         },
         {
-            "SYM": "KOVAI",
-            "COMPANY": "KOVAI MEDICAL CENTER & HOSPITAL LTD."
+            SYM: "KOVAI",
+            COM: "KOVAI MEDICAL CENTER & HOSPITAL LTD."
         },
         {
-            "SYM": "ELDEHSG",
-            "COMPANY": "ELDECO HOUSING & INDUSTRIES LTD."
+            SYM: "ELDEHSG",
+            COM: "ELDECO HOUSING & INDUSTRIES LTD."
         },
         {
-            "SYM": "MICROSE",
-            "COMPANY": "MICROSE INDIA LTD."
+            SYM: "MICROSE",
+            COM: "MICROSE INDIA LTD."
         },
         {
-            "SYM": "STDSHOE",
-            "COMPANY": "STANDARD SHOE SOLE AND MOULD (INDIA) LTD."
+            SYM: "STDSHOE",
+            COM: "STANDARD SHOE SOLE AND MOULD (INDIA) LTD."
         },
         {
-            "SYM": "DCMSHRIRAM",
-            "COMPANY": "DCM Shriram Limited"
+            SYM: "DCMSHRIRAM",
+            COM: "DCM Shriram Limited"
         },
         {
-            "SYM": "DCMSRMIND",
-            "COMPANY": "DCM SHRIRAM INDUSTRIES LTD.-$"
+            SYM: "DCMSRMIND",
+            COM: "DCM SHRIRAM INDUSTRIES LTD."
         },
         {
-            "SYM": "MAWANASUG",
-            "COMPANY": "MAWANA SUGARS LTD."
+            SYM: "MAWANASUG",
+            COM: "MAWANA SUGARS LTD."
         },
         {
-            "SYM": "MINID",
-            "COMPANY": "MINI DIAMONDS (INDIA) LTD."
+            SYM: "MINID",
+            COM: "MINI DIAMONDS (INDIA) LTD."
         },
         {
-            "SYM": "MAHAPEXLTD",
-            "COMPANY": "MAHA RASHTRA APEX CORPORATION LTD."
+            SYM: "MAHAPEXLTD",
+            COM: "MAHA RASHTRA APEX CORPORATION LTD."
         },
         {
-            "SYM": "NILKAMAL",
-            "COMPANY": "NILKAMAL LTD."
+            SYM: "NILKAMAL",
+            COM: "NILKAMAL LTD."
         },
         {
-            "SYM": "NAHARPOLY",
-            "COMPANY": "NAHAR POLYFILMS LTD."
+            SYM: "NAHARPOLY",
+            COM: "NAHAR POLYFILMS LTD."
         },
         {
-            "SYM": "3MINDIA",
-            "COMPANY": "3M INDIA LTD."
+            SYM: "3MINDIA",
+            COM: "3M INDIA LTD."
         },
         {
-            "SYM": "JCHAC",
-            "COMPANY": "Johnson Controls-Hitachi Air Conditioning India Ltd"
+            SYM: "JCHAC",
+            COM: "Johnson Controls-Hitachi Air Conditioning India Ltd"
         },
         {
-            "SYM": "JMFINANCIL",
-            "COMPANY": "JM FINANCIAL LTD.-$"
+            SYM: "JMFINANCIL",
+            COM: "JM FINANCIAL LTD."
         },
         {
-            "SYM": "ADCINDIA",
-            "COMPANY": "ADC India Communications Limited-$"
+            SYM: "ADCINDIA",
+            COM: "ADC India Communications Limited"
         },
         {
-            "SYM": "TNTELE",
-            "COMPANY": "TAMILNADU TELECOMMUNICATIONS LTD."
+            SYM: "TNTELE",
+            COM: "TAMILNADU TELECOMMUNICATIONS LTD."
         },
         {
-            "SYM": "SUNRAJDI",
-            "COMPANY": "SUNRAJ DIAMOND EXPORTS LTD."
+            SYM: "SUNRAJDI",
+            COM: "SUNRAJ DIAMOND EXPORTS LTD."
         },
         {
-            "SYM": "RIIL",
-            "COMPANY": "RELIANCE INDUSTRIAL INFRASTRUCTURE LTD."
+            SYM: "RIIL",
+            COM: "RELIANCE INDUSTRIAL INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "SHARP",
-            "COMPANY": "SHARP INDIA LTD."
+            SYM: "SHARP",
+            COM: "SHARP INDIA LTD."
         },
         {
-            "SYM": "LINDEINDIA",
-            "COMPANY": "Linde India Limited"
+            SYM: "LINDEINDIA",
+            COM: "Linde India Limited"
         },
         {
-            "SYM": "INDBNK",
-            "COMPANY": "IND BANK HOUSING LTD."
+            SYM: "INDBNK",
+            COM: "IND BANK HOUSING LTD."
         },
         {
-            "SYM": "LOTUSCHO",
-            "COMPANY": "LOTUS CHOCOLATE CO.LTD."
+            SYM: "LOTUSCHO",
+            COM: "LOTUS CHOCOLATE CO.LTD."
         },
         {
-            "SYM": "PACIFICI",
-            "COMPANY": "PACIFIC INDUSTRIES LTD."
+            SYM: "PACIFICI",
+            COM: "PACIFIC INDUSTRIES LTD."
         },
         {
-            "SYM": "CMMHOSP",
-            "COMPANY": "CHENNAI MEENAKSHI MULTISPECIALITY HOSPITAL LTD.-$"
+            SYM: "CMMHOSP",
+            COM: "CHENNAI MEENAKSHI MULTISPECIALITY HOSPITAL LTD."
         },
         {
-            "SYM": "UNIOFFICE",
-            "COMPANY": "UNIVERSAL OFFICE AUTOMATION LTD."
+            SYM: "UNIOFFICE",
+            COM: "UNIVERSAL OFFICE AUTOMATION LTD."
         },
         {
-            "SYM": "APMIN",
-            "COMPANY": "APM INDUSTRIES LTD.-$"
+            SYM: "APMIN",
+            COM: "APM INDUSTRIES LTD."
         },
         {
-            "SYM": "PRECWIRE",
-            "COMPANY": "PRECISION WIRES INDIA LTD."
+            SYM: "PRECWIRE",
+            COM: "PRECISION WIRES INDIA LTD."
         },
         {
-            "SYM": "KRYPTONQ",
-            "COMPANY": "KRYPTON INDUSTRIES LTD."
+            SYM: "KRYPTONQ",
+            COM: "KRYPTON INDUSTRIES LTD."
         },
         {
-            "SYM": "SWISSMLTRY",
-            "COMPANY": "Swiss Military Consumer Goods Ltd"
+            SYM: "SWISSMLTRY",
+            COM: "Swiss Military Consumer Goods Ltd"
         },
         {
-            "SYM": "MARBU",
-            "COMPANY": "MARTIN BURN LTD."
+            SYM: "MARBU",
+            COM: "MARTIN BURN LTD."
         },
         {
-            "SYM": "FEL",
-            "COMPANY": "Future Enterprises Ltd"
+            SYM: "FEL",
+            COM: "Future Enterprises Ltd"
         },
         {
-            "SYM": "INDTONER",
-            "COMPANY": "INDIAN TONERS & DEVELOPERS LTD.-$"
+            SYM: "INDTONER",
+            COM: "INDIAN TONERS & DEVELOPERS LTD."
         },
         {
-            "SYM": "KUNSTOFF",
-            "COMPANY": "KUNSTSTOFFE INDUSTRIES LTD."
+            SYM: "KUNSTOFF",
+            COM: "KUNSTSTOFFE INDUSTRIES LTD."
         },
         {
-            "SYM": "SCI",
-            "COMPANY": "SHIPPING CORPORATION OF INDIA LTD."
+            SYM: "SCI",
+            COM: "SHIPPING CORPORATION OF INDIA LTD."
         },
         {
-            "SYM": "SIKA",
-            "COMPANY": "SIKA INTERPLANT SYSTEMS LTD."
+            SYM: "SIKA",
+            COM: "SIKA INTERPLANT SYSTEMS LTD."
         },
         {
-            "SYM": "ITI",
-            "COMPANY": "ITI LTD."
+            SYM: "ITI",
+            COM: "ITI LTD."
         },
         {
-            "SYM": "DREDGECORP",
-            "COMPANY": "DREDGING CORPORATION OF INDIA LTD."
+            SYM: "DREDGECORP",
+            COM: "DREDGING CORPORATION OF INDIA LTD."
         },
         {
-            "SYM": "PHRMASI",
-            "COMPANY": "PHAARMASIA LTD."
+            SYM: "PHRMASI",
+            COM: "PHAARMASIA LTD."
         },
         {
-            "SYM": "PODDAR",
-            "COMPANY": "Poddar Housing and Development Ltd"
+            SYM: "PODDAR",
+            COM: "Poddar Housing and Development Ltd"
         },
         {
-            "SYM": "NFL",
-            "COMPANY": "NATIONAL FERTILIZERS LTD."
+            SYM: "NFL",
+            COM: "NATIONAL FERTILIZERS LTD."
         },
         {
-            "SYM": "IPRINGLTD",
-            "COMPANY": "IP RINGS LTD.-$"
+            SYM: "IPRINGLTD",
+            COM: "IP RINGS LTD."
         },
         {
-            "SYM": "PIIND",
-            "COMPANY": "PI Industries Ltd"
+            SYM: "PIIND",
+            COM: "PI Industries Ltd"
         },
         {
-            "SYM": "PLASTIBLEN",
-            "COMPANY": "PLASTIBLENDS INDIA LTD.-$"
+            SYM: "PLASTIBLEN",
+            COM: "PLASTIBLENDS INDIA LTD."
         },
         {
-            "SYM": "REDEXPR",
-            "COMPANY": "REDEX PROTECH LTD."
+            SYM: "REDEXPR",
+            COM: "REDEX PROTECH LTD."
         },
         {
-            "SYM": "KKPLASTICK",
-            "COMPANY": "Kkalpana Plastick Limited"
+            SYM: "KKPLASTICK",
+            COM: "Kkalpana Plastick Limited"
         },
         {
-            "SYM": "WATERBASE",
-            "COMPANY": "WATERBASE LTD."
+            SYM: "WATERBASE",
+            COM: "WATERBASE LTD."
         },
         {
-            "SYM": "FLEXFO",
-            "COMPANY": "FLEX FOODS LTD.-$"
+            SYM: "FLEXFO",
+            COM: "FLEX FOODS LTD."
         },
         {
-            "SYM": "GOLKUNDIA",
-            "COMPANY": "GOLKUNDA DIAMONDS & JEWELLERY LTD."
+            SYM: "GOLKUNDIA",
+            COM: "GOLKUNDA DIAMONDS & JEWELLERY LTD."
         },
         {
-            "SYM": "APCOTEXIND",
-            "COMPANY": "APCOTEX INDUSTRIES LTD."
+            SYM: "APCOTEXIND",
+            COM: "APCOTEX INDUSTRIES LTD."
         },
         {
-            "SYM": "FORTISMLR",
-            "COMPANY": "Fortis Malar Hospitals Limited"
+            SYM: "FORTISMLR",
+            COM: "Fortis Malar Hospitals Limited"
         },
         {
-            "SYM": "MASTEK",
-            "COMPANY": "MASTEK LTD."
+            SYM: "MASTEK",
+            COM: "MASTEK LTD."
         },
         {
-            "SYM": "EIMCOELECO",
-            "COMPANY": "EIMCO ELECON (INDIA) LTD."
+            SYM: "EIMCOELECO",
+            COM: "EIMCO ELECON (INDIA) LTD."
         },
         {
-            "SYM": "SAYAJIHOTL",
-            "COMPANY": "SAYAJI HOTELS LTD."
+            SYM: "SAYAJIHOTL",
+            COM: "SAYAJI HOTELS LTD."
         },
         {
-            "SYM": "JMGCORP",
-            "COMPANY": "JMG CORPORATION LTD."
+            SYM: "JMGCORP",
+            COM: "JMG CORPORATION LTD."
         },
         {
-            "SYM": "ASHIANA",
-            "COMPANY": "ASHIANA HOUSING LTD.-$"
+            SYM: "ASHIANA",
+            COM: "ASHIANA HOUSING LTD."
         },
         {
-            "SYM": "SVAMSOF",
-            "COMPANY": "SVAM SOFTWARE LTD."
+            SYM: "SVAMSOF",
+            COM: "SVAM SOFTWARE LTD."
         },
         {
-            "SYM": "ECOBOAR",
-            "COMPANY": "ECOBOARD INDUSTRIES LTD."
+            SYM: "ECOBOAR",
+            COM: "ECOBOARD INDUSTRIES LTD."
         },
         {
-            "SYM": "DVL",
-            "COMPANY": "Dhunseri Ventures Ltd-$"
+            SYM: "DVL",
+            COM: "Dhunseri Ventures Ltd"
         },
         {
-            "SYM": "IOSYSTEM",
-            "COMPANY": "IO SYSTEM LTD."
+            SYM: "IOSYSTEM",
+            COM: "IO SYSTEM LTD."
         },
         {
-            "SYM": "MAHEPC",
-            "COMPANY": "Mahindra EPC Irrigation Ltd"
+            SYM: "MAHEPC",
+            COM: "Mahindra EPC Irrigation Ltd"
         },
         {
-            "SYM": "SREINFRA",
-            "COMPANY": "SREI INFRASTRUCTURE FINANCE LTD."
+            SYM: "SREINFRA",
+            COM: "SREI INFRASTRUCTURE FINANCE LTD."
         },
         {
-            "SYM": "MITSHI",
-            "COMPANY": "Mitshi India Ltd"
+            SYM: "MITSHI",
+            COM: "Mitshi India Ltd"
         },
         {
-            "SYM": "SHUKJEW",
-            "COMPANY": "SHUKRA JEWELLERS LTD."
+            SYM: "SHUKJEW",
+            COM: "SHUKRA JEWELLERS LTD."
         },
         {
-            "SYM": "MAZDALTD",
-            "COMPANY": "MAZDA LTD.-$"
+            SYM: "MAZDALTD",
+            COM: "MAZDA LTD."
         },
         {
-            "SYM": "VICEROY",
-            "COMPANY": "VICEROY HOTELS LTD."
+            SYM: "VICEROY",
+            COM: "VICEROY HOTELS LTD."
         },
         {
-            "SYM": "SOVERDIA",
-            "COMPANY": "SOVEREIGN DIAMONDS LTD."
+            SYM: "SOVERDIA",
+            COM: "SOVEREIGN DIAMONDS LTD."
         },
         {
-            "SYM": "MENONBE",
-            "COMPANY": "MENON BEARINGS LTD.-$"
+            SYM: "MENONBE",
+            COM: "MENON BEARINGS LTD."
         },
         {
-            "SYM": "MUKATPIP",
-            "COMPANY": "MUKAT PIPES LTD.-$"
+            SYM: "MUKATPIP",
+            COM: "MUKAT PIPES LTD."
         },
         {
-            "SYM": "GUJRAFIA",
-            "COMPANY": "GUJARAT RAFFIA INDUSTRIES LTD."
+            SYM: "GUJRAFIA",
+            COM: "GUJARAT RAFFIA INDUSTRIES LTD."
         },
         {
-            "SYM": "SIMPLEXINF",
-            "COMPANY": "SIMPLEX INFRASTRUCTURES LTD."
+            SYM: "SIMPLEXINF",
+            COM: "SIMPLEX INFRASTRUCTURES LTD."
         },
         {
-            "SYM": "INNOVTEC",
-            "COMPANY": "INNOVATIVE TECH PACK LTD."
+            SYM: "INNOVTEC",
+            COM: "INNOVATIVE TECH PACK LTD."
         },
         {
-            "SYM": "SUPTANERY",
-            "COMPANY": "Super Tannery Limited"
+            SYM: "SUPTANERY",
+            COM: "Super Tannery Limited"
         },
         {
-            "SYM": "CONSTRONIC",
-            "COMPANY": "Constronics Infra Ltd"
+            SYM: "CONSTRONIC",
+            COM: "Constronics Infra Ltd"
         },
         {
-            "SYM": "AXTEL",
-            "COMPANY": "AXTEL INDUSTRIES LTD."
+            SYM: "AXTEL",
+            COM: "AXTEL INDUSTRIES LTD."
         },
         {
-            "SYM": "PIFL",
-            "COMPANY": "Pacheli Industrial Finance Ltd"
+            SYM: "PIFL",
+            COM: "Pacheli Industrial Finance Ltd"
         },
         {
-            "SYM": "PRECISION",
-            "COMPANY": "PRECISION CONTAINEURS LTD."
+            SYM: "PRECISION",
+            COM: "PRECISION CONTAINEURS LTD."
         },
         {
-            "SYM": "VRWODAR",
-            "COMPANY": "V R WOODART LTD."
+            SYM: "VRWODAR",
+            COM: "V R WOODART LTD."
         },
         {
-            "SYM": "APIL",
-            "COMPANY": "Avi Products India Ltd"
+            SYM: "APIL",
+            COM: "Avi Products India Ltd"
         },
         {
-            "SYM": "MAGMA",
-            "COMPANY": "MAGMA FINCORP LTD."
+            SYM: "MAGMA",
+            COM: "MAGMA FINCORP LTD."
         },
         {
-            "SYM": "HINFLUR",
-            "COMPANY": "HINDUSTAN FLUOROCARBONS LTD."
+            SYM: "HINFLUR",
+            COM: "HINDUSTAN FLUOROCARBONS LTD."
         },
         {
-            "SYM": "KINGFA",
-            "COMPANY": "Kingfa Science & Technology (India) Ltd-$"
+            SYM: "KINGFA",
+            COM: "Kingfa Science & Technology (India) Ltd"
         },
         {
-            "SYM": "PATIDAR",
-            "COMPANY": "Patidar Buildcon Limited"
+            SYM: "PATIDAR",
+            COM: "Patidar Buildcon Limited"
         },
         {
-            "SYM": "RAMAPHO",
-            "COMPANY": "RAMA PHOSPHATES LTD."
+            SYM: "RAMAPHO",
+            COM: "RAMA PHOSPHATES LTD."
         },
         {
-            "SYM": "VENLONENT",
-            "COMPANY": "VENLON ENTERPRISES LTD."
+            SYM: "VENLONENT",
+            COM: "VENLON ENTERPRISES LTD."
         },
         {
-            "SYM": "POLYPLEX",
-            "COMPANY": "POLYPLEX CORPORATION LTD."
+            SYM: "POLYPLEX",
+            COM: "POLYPLEX CORPORATION LTD."
         },
         {
-            "SYM": "ALBERTDA",
-            "COMPANY": "ALBERT DAVID LTD.-$"
+            SYM: "ALBERTDA",
+            COM: "ALBERT DAVID LTD."
         },
         {
-            "SYM": "HARLETH",
-            "COMPANY": "HARYANA LEATHER CHEMICALS LTD."
+            SYM: "HARLETH",
+            COM: "HARYANA LEATHER CHEMICALS LTD."
         },
         {
-            "SYM": "ACRYSIL",
-            "COMPANY": "ACRYSIL LTD."
+            SYM: "ACRYSIL",
+            COM: "ACRYSIL LTD."
         },
         {
-            "SYM": "KABRAEXTRU",
-            "COMPANY": "KABRA EXTRUSIONTECHNIK LTD."
+            SYM: "KABRAEXTRU",
+            COM: "KABRA EXTRUSIONTECHNIK LTD."
         },
         {
-            "SYM": "VINYLINDIA",
-            "COMPANY": "VINYL CHEMICALS (INDIA) LTD."
+            SYM: "VINYLINDIA",
+            COM: "VINYL CHEMICALS (INDIA) LTD."
         },
         {
-            "SYM": "PCCOSMA",
-            "COMPANY": "PEE CEE COSMA SOPE LTD."
+            SYM: "PCCOSMA",
+            COM: "PEE CEE COSMA SOPE LTD."
         },
         {
-            "SYM": "TCMLMTD",
-            "COMPANY": "TCM LTD."
+            SYM: "TCMLMTD",
+            COM: "TCM LTD."
         },
         {
-            "SYM": "IOLCP",
-            "COMPANY": "IOL CHEMICALS & PHARMACEUTICALS LTD."
+            SYM: "IOLCP",
+            COM: "IOL CHEMICALS & PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "VINATIORGA",
-            "COMPANY": "VINATI ORGANICS LTD.-$"
+            SYM: "VINATIORGA",
+            COM: "VINATI ORGANICS LTD."
         },
         {
-            "SYM": "LACTOSE",
-            "COMPANY": "LACTOSE (INDIA) LTD."
+            SYM: "LACTOSE",
+            COM: "LACTOSE (INDIA) LTD."
         },
         {
-            "SYM": "AARTIIND",
-            "COMPANY": "AARTI INDUSTRIES LTD."
+            SYM: "AARTIIND",
+            COM: "AARTI INDUSTRIES LTD."
         },
         {
-            "SYM": "WANBURY",
-            "COMPANY": "WANBURY LTD."
+            SYM: "WANBURY",
+            COM: "WANBURY LTD."
         },
         {
-            "SYM": "RESONANCE",
-            "COMPANY": "RESONANCE SPECIALTIES LTD.-$"
+            SYM: "RESONANCE",
+            COM: "RESONANCE SPECIALTIES LTD."
         },
         {
-            "SYM": "GAEL",
-            "COMPANY": "GUJARAT AMBUJA EXPORTS LTD."
+            SYM: "GAEL",
+            COM: "GUJARAT AMBUJA EXPORTS LTD."
         },
         {
-            "SYM": "RCF",
-            "COMPANY": "RASHTRIYA CHEMICALS & FERTILIZERS LTD."
+            SYM: "RCF",
+            COM: "RASHTRIYA CHEMICALS & FERTILIZERS LTD."
         },
         {
-            "SYM": "KOPRAN",
-            "COMPANY": "KOPRAN LTD."
+            SYM: "KOPRAN",
+            COM: "KOPRAN LTD."
         },
         {
-            "SYM": "AIMCOPEST",
-            "COMPANY": "AIMCO PESTICIDES LTD."
+            SYM: "AIMCOPEST",
+            COM: "AIMCO PESTICIDES LTD."
         },
         {
-            "SYM": "GUJTERC",
-            "COMPANY": "GUJARAT TERCE LABORATORIES LTD."
+            SYM: "GUJTERC",
+            COM: "GUJARAT TERCE LABORATORIES LTD."
         },
         {
-            "SYM": "KABRADG",
-            "COMPANY": "KABRA DRUGS LTD."
+            SYM: "KABRADG",
+            COM: "KABRA DRUGS LTD."
         },
         {
-            "SYM": "SEYAIND",
-            "COMPANY": "SEYA INDUSTRIES LTD."
+            SYM: "SEYAIND",
+            COM: "SEYA INDUSTRIES LTD."
         },
         {
-            "SYM": "JAYAGROGN",
-            "COMPANY": "JAYANT AGRO-ORGANICS LTD."
+            SYM: "JAYAGROGN",
+            COM: "JAYANT AGRO-ORGANICS LTD."
         },
         {
-            "SYM": "BCLIL",
-            "COMPANY": "BCL Industries Ltd-$"
+            SYM: "BCLIL",
+            COM: "BCL Industries Ltd"
         },
         {
-            "SYM": "SHHARICH",
-            "COMPANY": "SHREE HARI CHEMICALS EXPORT LTD."
+            SYM: "SHHARICH",
+            COM: "SHREE HARI CHEMICALS EXPORT LTD."
         },
         {
-            "SYM": "INDOBORAX",
-            "COMPANY": "INDO BORAX & CHEMICALS LTD.-$"
+            SYM: "INDOBORAX",
+            COM: "INDO BORAX & CHEMICALS LTD."
         },
         {
-            "SYM": "AARTIDRUGS",
-            "COMPANY": "AARTI DRUGS LTD."
+            SYM: "AARTIDRUGS",
+            COM: "AARTI DRUGS LTD."
         },
         {
-            "SYM": "BODALCHEM",
-            "COMPANY": "BODAL CHEMICALS LTD."
+            SYM: "BODALCHEM",
+            COM: "BODAL CHEMICALS LTD."
         },
         {
-            "SYM": "ORCHIDPHAR",
-            "COMPANY": "Orchid Pharma Ltd"
+            SYM: "ORCHIDPHAR",
+            COM: "Orchid Pharma Ltd"
         },
         {
-            "SYM": "VIMTALABS",
-            "COMPANY": "VIMTA LABS LTD.-$"
+            SYM: "VIMTALABS",
+            COM: "VIMTA LABS LTD."
         },
         {
-            "SYM": "BIOFILCHEM",
-            "COMPANY": "BIOFIL CHEMICALS & PHARMACEUTICALS LTD."
+            SYM: "BIOFILCHEM",
+            COM: "BIOFIL CHEMICALS & PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "ISHITADR",
-            "COMPANY": "ISHITA DRUGS & INDUSTRIES LTD."
+            SYM: "ISHITADR",
+            COM: "ISHITA DRUGS & INDUSTRIES LTD."
         },
         {
-            "SYM": "MARKSANS",
-            "COMPANY": "MARKSANS PHARMA LTD."
+            SYM: "MARKSANS",
+            COM: "MARKSANS PHARMA LTD."
         },
         {
-            "SYM": "UNIVSTAR",
-            "COMPANY": "UNIVERSAL STARCH-CHEM ALLIED LTD."
+            SYM: "UNIVSTAR",
+            COM: "UNIVERSAL STARCH-CHEM ALLIED LTD."
         },
         {
-            "SYM": "AREYDRG",
-            "COMPANY": "AAREY DRUGS & PHARMACEUTICALS LTD."
+            SYM: "AREYDRG",
+            COM: "AAREY DRUGS & PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "NORRIS",
-            "COMPANY": "NORRIS MEDICINES LTD."
+            SYM: "NORRIS",
+            COM: "NORRIS MEDICINES LTD."
         },
         {
-            "SYM": "ASINPET",
-            "COMPANY": "ASIAN PETROPRODUCTS & EXPORTS LTD."
+            SYM: "ASINPET",
+            COM: "ASIAN PETROPRODUCTS & EXPORTS LTD."
         },
         {
-            "SYM": "CAMEXLTD",
-            "COMPANY": "CAMEX LTD."
+            SYM: "CAMEXLTD",
+            COM: "CAMEX LTD."
         },
         {
-            "SYM": "EVEXIA",
-            "COMPANY": "Evexia Lifecare Ltd"
+            SYM: "EVEXIA",
+            COM: "Evexia Lifecare Ltd"
         },
         {
-            "SYM": "INDOEURO",
-            "COMPANY": "INDO EURO INDCHEM LTD."
+            SYM: "INDOEURO",
+            COM: "INDO EURO INDCHEM LTD."
         },
         {
-            "SYM": "SYNCOMF",
-            "COMPANY": "SYNCOM FORMULATIONS (INDIA) LTD.-$"
+            SYM: "SYNCOMF",
+            COM: "SYNCOM FORMULATIONS (INDIA) LTD."
         },
         {
-            "SYM": "RIDDHI",
-            "COMPANY": "RIDDHI SIDDHI GLUCO BIOLS LTD.-$"
+            SYM: "RIDDHI",
+            COM: "RIDDHI SIDDHI GLUCO BIOLS LTD."
         },
         {
-            "SYM": "SVCIND",
-            "COMPANY": "SVC INDUSTRIES Ltd"
+            SYM: "SVCIND",
+            COM: "SVC INDUSTRIES Ltd"
         },
         {
-            "SYM": "IPCALAB",
-            "COMPANY": "IPCA LABORATORIES LTD."
+            SYM: "IPCALAB",
+            COM: "IPCA LABORATORIES LTD."
         },
         {
-            "SYM": "KILITCH",
-            "COMPANY": "KILITCH DRUGS (INDIA) LTD."
+            SYM: "KILITCH",
+            COM: "KILITCH DRUGS (INDIA) LTD."
         },
         {
-            "SYM": "CORALAB",
-            "COMPANY": "CORAL LABORATORIES LTD."
+            SYM: "CORALAB",
+            COM: "CORAL LABORATORIES LTD."
         },
         {
-            "SYM": "TULASEEBIOE",
-            "COMPANY": "TULASEE BIO-ETHANOL LTD."
+            SYM: "TULASEEBIOE",
+            COM: "TULASEE BIO-ETHANOL LTD."
         },
         {
-            "SYM": "KREBSBIO",
-            "COMPANY": "KREBS BIOCHEMICALS & INDUSTRIES LTD.-$"
+            SYM: "KREBSBIO",
+            COM: "KREBS BIOCHEMICALS & INDUSTRIES LTD."
         },
         {
-            "SYM": "KMCSHIL",
-            "COMPANY": "KMC SPECIALITY HOSPITALS (INDIA) LTD."
+            SYM: "KMCSHIL",
+            COM: "KMC SPECIALITY HOSPITALS (INDIA) LTD."
         },
         {
-            "SYM": "LAFFANSQ",
-            "COMPANY": "LAFFANS PETROCHEMICALS LTD.-$"
+            SYM: "LAFFANSQ",
+            COM: "LAFFANS PETROCHEMICALS LTD."
         },
         {
-            "SYM": "BHASKAGR",
-            "COMPANY": "BHASKAR AGROCHEMICALS LTD."
+            SYM: "BHASKAGR",
+            COM: "BHASKAR AGROCHEMICALS LTD."
         },
         {
-            "SYM": "SUKHJITS",
-            "COMPANY": "SUKHJIT STARCH & CHEMICALS LTD.-$"
+            SYM: "SUKHJITS",
+            COM: "SUKHJIT STARCH & CHEMICALS LTD."
         },
         {
-            "SYM": "NEULANDLAB",
-            "COMPANY": "NEULAND LABORATORIES LTD."
+            SYM: "NEULANDLAB",
+            COM: "NEULAND LABORATORIES LTD."
         },
         {
-            "SYM": "GAYATRIBI",
-            "COMPANY": "GAYATRI BIOORGANICS LTD."
+            SYM: "GAYATRIBI",
+            COM: "GAYATRI BIOORGANICS LTD."
         },
         {
-            "SYM": "PODARPIGQ",
-            "COMPANY": "PODDAR PIGMENTS LTD.-$"
+            SYM: "PODARPIGQ",
+            COM: "PODDAR PIGMENTS LTD."
         },
         {
-            "SYM": "PHARMAID",
-            "COMPANY": "PHARMAIDS PHARMACEUTICALS LTD."
+            SYM: "PHARMAID",
+            COM: "PHARMAIDS PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "VIVIDIND",
-            "COMPANY": "VIVID GLOBAL INDUSTRIES LTD."
+            SYM: "VIVIDIND",
+            COM: "VIVID GLOBAL INDUSTRIES LTD."
         },
         {
-            "SYM": "PRIYALT",
-            "COMPANY": "PRIYA LTD.-$"
+            SYM: "PRIYALT",
+            COM: "PRIYA LTD."
         },
         {
-            "SYM": "TIRUSTA",
-            "COMPANY": "TIRUPATI STARCH & CHEMICALS LTD."
+            SYM: "TIRUSTA",
+            COM: "TIRUPATI STARCH & CHEMICALS LTD."
         },
         {
-            "SYM": "HEMORGANIC",
-            "COMPANY": "Hemo Organic Limited"
+            SYM: "HEMORGANIC",
+            COM: "Hemo Organic Limited"
         },
         {
-            "SYM": "JDORGOCHEM",
-            "COMPANY": "JD ORGOCHEM LTD."
+            SYM: "JDORGOCHEM",
+            COM: "JD ORGOCHEM LTD."
         },
         {
-            "SYM": "ASHOKALC",
-            "COMPANY": "ASHOK ALCO-CHEM LTD."
+            SYM: "ASHOKALC",
+            COM: "ASHOK ALCO-CHEM LTD."
         },
         {
-            "SYM": "AKSCHEM",
-            "COMPANY": "AKSHARCHEM (INDIA) LTD.-$"
+            SYM: "AKSCHEM",
+            COM: "AKSHARCHEM (INDIA) LTD."
         },
         {
-            "SYM": "KAMRLAB",
-            "COMPANY": "KAMRON LABORATORIES LTD."
+            SYM: "KAMRLAB",
+            COM: "KAMRON LABORATORIES LTD."
         },
         {
-            "SYM": "BERLDRG",
-            "COMPANY": "BERYL DRUGS LTD."
+            SYM: "BERLDRG",
+            COM: "BERYL DRUGS LTD."
         },
         {
-            "SYM": "ISTRNETWK",
-            "COMPANY": "iStreet Network Limited"
+            SYM: "ISTRNETWK",
+            COM: "iStreet Network Limited"
         },
         {
-            "SYM": "GAGAN",
-            "COMPANY": "GAGAN GASES LTD."
+            SYM: "GAGAN",
+            COM: "GAGAN GASES LTD."
         },
         {
-            "SYM": "PARKERAC",
-            "COMPANY": "PARKER AGROCHEM EXPORTS LTD.-$"
+            SYM: "PARKERAC",
+            COM: "PARKER AGROCHEM EXPORTS LTD."
         },
         {
-            "SYM": "SHUKRAPHAR",
-            "COMPANY": "Shukra Pharmaceuticals Ltd"
+            SYM: "SHUKRAPHAR",
+            COM: "Shukra Pharmaceuticals Ltd"
         },
         {
-            "SYM": "ALUFLUOR",
-            "COMPANY": "ALUFLUORIDE LTD."
+            SYM: "ALUFLUOR",
+            COM: "ALUFLUORIDE LTD."
         },
         {
-            "SYM": "ARCHITORG",
-            "COMPANY": "ARCHIT ORGANOSYS LTD."
+            SYM: "ARCHITORG",
+            COM: "ARCHIT ORGANOSYS LTD."
         },
         {
-            "SYM": "SIKOZY",
-            "COMPANY": "Sikozy Realtors Limited"
+            SYM: "SIKOZY",
+            COM: "Sikozy Realtors Limited"
         },
         {
-            "SYM": "INDOAMIN",
-            "COMPANY": "INDO AMINES LTD.-$"
+            SYM: "INDOAMIN",
+            COM: "INDO AMINES LTD."
         },
         {
-            "SYM": "NATCAPSUQ",
-            "COMPANY": "NATURAL CAPSULES LTD."
+            SYM: "NATCAPSUQ",
+            COM: "NATURAL CAPSULES LTD."
         },
         {
-            "SYM": "BIBCL",
-            "COMPANY": "BHARAT IMMUNOLOGICALS & BIOLOGICALS CORPORATION LTD.-$"
+            SYM: "BIBCL",
+            COM: "BHARAT IMMUNOLOGICALS & BIOLOGICALS CORPORATION LTD."
         },
         {
-            "SYM": "SOTL",
-            "COMPANY": "SAVITA OIL TECHNOLOGIES LTD."
+            SYM: "SOTL",
+            COM: "SAVITA OIL TECHNOLOGIES LTD."
         },
         {
-            "SYM": "HESTERBIO",
-            "COMPANY": "HESTER BIOSCIENCES LTD."
+            SYM: "HESTERBIO",
+            COM: "HESTER BIOSCIENCES LTD."
         },
         {
-            "SYM": "KABSON",
-            "COMPANY": "KABSONS INDUSTRIES LTD."
+            SYM: "KABSON",
+            COM: "KABSONS INDUSTRIES LTD."
         },
         {
-            "SYM": "BASANTGL",
-            "COMPANY": "BASANT AGRO TECH (INDIA) LTD.-$"
+            SYM: "BASANTGL",
+            COM: "BASANT AGRO TECH (INDIA) LTD."
         },
         {
-            "SYM": "SANDUPHQ",
-            "COMPANY": "SANDU PHARMACEUTICALS LTD."
+            SYM: "SANDUPHQ",
+            COM: "SANDU PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "NACLIND",
-            "COMPANY": "NACL Industries Ltd"
+            SYM: "NACLIND",
+            COM: "NACL Industries Ltd"
         },
         {
-            "SYM": "VISTAPH",
-            "COMPANY": "VISTA PHARMACEUTICALS LTD."
+            SYM: "VISTAPH",
+            COM: "VISTA PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "SUNPHARMA",
-            "COMPANY": "SUN PHARMACEUTICAL INDUSTRIES LTD."
+            SYM: "SUNPHARMA",
+            COM: "SUN PHARMACEUTICAL INDUSTRIES LTD."
         },
         {
-            "SYM": "TITANBIO",
-            "COMPANY": "TITAN BIOTECH LTD."
+            SYM: "TITANBIO",
+            COM: "TITAN BIOTECH LTD."
         },
         {
-            "SYM": "BIJHANS",
-            "COMPANY": "BIJOY HANS LTD."
+            SYM: "BIJHANS",
+            COM: "BIJOY HANS LTD."
         },
         {
-            "SYM": "SDL",
-            "COMPANY": "Span Divergent Ltd-$"
+            SYM: "SDL",
+            COM: "Span Divergent Ltd"
         },
         {
-            "SYM": "JENBURPH",
-            "COMPANY": "JENBURKT PHARMACEUTICALS LTD."
+            SYM: "JENBURPH",
+            COM: "JENBURKT PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "HIKAL",
-            "COMPANY": "HIKAL LTD."
+            SYM: "HIKAL",
+            COM: "HIKAL LTD."
         },
         {
-            "SYM": "CAPPL",
-            "COMPANY": "CAPLIN POINT LABORATORIES LTD."
+            SYM: "CAPPL",
+            COM: "CAPLIN POINT LABORATORIES LTD."
         },
         {
-            "SYM": "FISCHER",
-            "COMPANY": "FISCHER CHEMIC LTD."
+            SYM: "FISCHER",
+            COM: "FISCHER CHEMIC LTD."
         },
         {
-            "SYM": "LINKPH",
-            "COMPANY": "LINK PHARMA CHEM LTD."
+            SYM: "LINKPH",
+            COM: "LINK PHARMA CHEM LTD."
         },
         {
-            "SYM": "DECIPHER",
-            "COMPANY": "Decipher Labs Ltd"
+            SYM: "DECIPHER",
+            COM: "Decipher Labs Ltd"
         },
         {
-            "SYM": "EMMESSA",
-            "COMPANY": "EMMESSAR BIOTECH & NUTRITION LTD."
+            SYM: "EMMESSA",
+            COM: "EMMESSAR BIOTECH & NUTRITION LTD."
         },
         {
-            "SYM": "NGLFINE",
-            "COMPANY": "NGL FINE-CHEM LTD."
+            SYM: "NGLFINE",
+            COM: "NGL FINE-CHEM LTD."
         },
         {
-            "SYM": "EVERESTO",
-            "COMPANY": "EVEREST ORGANICS LTD."
+            SYM: "EVERESTO",
+            COM: "EVEREST ORGANICS LTD."
         },
         {
-            "SYM": "AUROPHARMA",
-            "COMPANY": "AUROBINDO PHARMA LTD."
+            SYM: "AUROPHARMA",
+            COM: "AUROBINDO PHARMA LTD."
         },
         {
-            "SYM": "PHYTO",
-            "COMPANY": "PHYTO CHEM (INDIA) LTD."
+            SYM: "PHYTO",
+            COM: "PHYTO CHEM (INDIA) LTD."
         },
         {
-            "SYM": "NATCOPHARM",
-            "COMPANY": "NATCO PHARMA LTD."
+            SYM: "NATCOPHARM",
+            COM: "NATCO PHARMA LTD."
         },
         {
-            "SYM": "DYNAMIND",
-            "COMPANY": "DYNAMIC INDUSTRIES LTD.-$"
+            SYM: "DYNAMIND",
+            COM: "DYNAMIC INDUSTRIES LTD."
         },
         {
-            "SYM": "PANAMAPET",
-            "COMPANY": "PANAMA PETROCHEM LTD."
+            SYM: "PANAMAPET",
+            COM: "PANAMA PETROCHEM LTD."
         },
         {
-            "SYM": "BALPHARMA",
-            "COMPANY": "BAL PHARMA LTD."
+            SYM: "BALPHARMA",
+            COM: "BAL PHARMA LTD."
         },
         {
-            "SYM": "BDH",
-            "COMPANY": "BDH INDUSTRIES LTD."
+            SYM: "BDH",
+            COM: "BDH INDUSTRIES LTD."
         },
         {
-            "SYM": "JAUSPOL",
-            "COMPANY": "JAUSS POLYMERS LTD."
+            SYM: "JAUSPOL",
+            COM: "JAUSS POLYMERS LTD."
         },
         {
-            "SYM": "GLOBUSCON",
-            "COMPANY": "Globus Constructors & Developers Limited"
+            SYM: "GLOBUSCON",
+            COM: "Globus Constructors & Developers Limited"
         },
         {
-            "SYM": "CUBEXTUB",
-            "COMPANY": "CUBEX TUBINGS LTD."
+            SYM: "CUBEXTUB",
+            COM: "CUBEX TUBINGS LTD."
         },
         {
-            "SYM": "POLYCHMP",
-            "COMPANY": "POLYMECHPLAST MACHINES LTD."
+            SYM: "POLYCHMP",
+            COM: "POLYMECHPLAST MACHINES LTD."
         },
         {
-            "SYM": "STELLANT",
-            "COMPANY": "STELLANT SECURITIES (INDIA) LTD."
+            SYM: "STELLANT",
+            COM: "STELLANT SECURITIES (INDIA) LTD."
         },
         {
-            "SYM": "GALXBRG",
-            "COMPANY": "GALAXY BEARINGS LTD."
+            SYM: "GALXBRG",
+            COM: "GALAXY BEARINGS LTD."
         },
         {
-            "SYM": "SCAGRO",
-            "COMPANY": "SC Agrotech Ltd"
+            SYM: "SCAGRO",
+            COM: "SC Agrotech Ltd"
         },
         {
-            "SYM": "RALEGRA",
-            "COMPANY": "RAVILEELA GRANITES LTD."
+            SYM: "RALEGRA",
+            COM: "RAVILEELA GRANITES LTD."
         },
         {
-            "SYM": "UNRYLMA",
-            "COMPANY": "UNIROYAL MARINE EXPORTS LTD."
+            SYM: "UNRYLMA",
+            COM: "UNIROYAL MARINE EXPORTS LTD."
         },
         {
-            "SYM": "KARANWO",
-            "COMPANY": "KARAN WOO-SIN LTD."
+            SYM: "KARANWO",
+            COM: "KARAN WOO-SIN LTD."
         },
         {
-            "SYM": "SHERVANI",
-            "COMPANY": "SHERVANI INDUSTRIAL SYNDICATE LTD."
+            SYM: "SHERVANI",
+            COM: "SHERVANI INDUSTRIAL SYNDICATE LTD."
         },
         {
-            "SYM": "ARHNTTO",
-            "COMPANY": "ARIHANT TOURNESOL LTD."
+            SYM: "ARHNTTO",
+            COM: "ARIHANT TOURNESOL LTD."
         },
         {
-            "SYM": "SUPERTEX",
-            "COMPANY": "SUPERTEX INDUSTRIES LTD."
+            SYM: "SUPERTEX",
+            COM: "SUPERTEX INDUSTRIES LTD."
         },
         {
-            "SYM": "SHETR",
-            "COMPANY": "SHETRON LTD."
+            SYM: "SHETR",
+            COM: "SHETRON LTD."
         },
         {
-            "SYM": "TRABI",
-            "COMPANY": "TRANSGENE BIOTEK LTD."
+            SYM: "TRABI",
+            COM: "TRANSGENE BIOTEK LTD."
         },
         {
-            "SYM": "MPL",
-            "COMPANY": "MPL Plastics Limited"
+            SYM: "MPL",
+            COM: "MPL Plastics Limited"
         },
         {
-            "SYM": "NIKHILAD",
-            "COMPANY": "NIKHIL ADHESIVES LTD.-$"
+            SYM: "NIKHILAD",
+            COM: "NIKHIL ADHESIVES LTD."
         },
         {
-            "SYM": "SPENTA",
-            "COMPANY": "SPENTA INTERNATIONAL LTD."
+            SYM: "SPENTA",
+            COM: "SPENTA INTERNATIONAL LTD."
         },
         {
-            "SYM": "MULTIBASE",
-            "COMPANY": "MULTIBASE INDIA LTD."
+            SYM: "MULTIBASE",
+            COM: "MULTIBASE INDIA LTD."
         },
         {
-            "SYM": "ANDREWYU",
-            "COMPANY": "ANDREW YULE & COMPANY LTD."
+            SYM: "ANDREWYU",
+            COM: "ANDREW YULE & COMPANY LTD."
         },
         {
-            "SYM": "LUDLOWJUT",
-            "COMPANY": "LUDLOW JUTE & SPECIALITIES LTD."
+            SYM: "LUDLOWJUT",
+            COM: "LUDLOW JUTE & SPECIALITIES LTD."
         },
         {
-            "SYM": "ASHRAM",
-            "COMPANY": "ASHRAM ONLINE.COM LTD."
+            SYM: "ASHRAM",
+            COM: "ASHRAM ONLINE.COM LTD."
         },
         {
-            "SYM": "ROYALCU",
-            "COMPANY": "ROYAL CUSHION VINYL PRODUCTS LTD.-$"
+            SYM: "ROYALCU",
+            COM: "ROYAL CUSHION VINYL PRODUCTS LTD."
         },
         {
-            "SYM": "NOGMIND",
-            "COMPANY": "NEOGEM INDIA LTD."
+            SYM: "NOGMIND",
+            COM: "NEOGEM INDIA LTD."
         },
         {
-            "SYM": "SURJIND",
-            "COMPANY": "SURAJ INDUSTRIES LTD."
+            SYM: "SURJIND",
+            COM: "SURAJ INDUSTRIES LTD."
         },
         {
-            "SYM": "HITECHCORP",
-            "COMPANY": "Hitech Corporation Ltd-$"
+            SYM: "HITECHCORP",
+            COM: "Hitech Corporation Ltd"
         },
         {
-            "SYM": "BLOOM",
-            "COMPANY": "BLOOM DEKOR LTD.-$"
+            SYM: "BLOOM",
+            COM: "BLOOM DEKOR LTD."
         },
         {
-            "SYM": "FILATEX",
-            "COMPANY": "FILATEX INDIA LTD.-$"
+            SYM: "FILATEX",
+            COM: "FILATEX INDIA LTD."
         },
         {
-            "SYM": "STDSFAC",
-            "COMPANY": "STANDARD SURFACTANTS LTD."
+            SYM: "STDSFAC",
+            COM: "STANDARD SURFACTANTS LTD."
         },
         {
-            "SYM": "MERCATOR",
-            "COMPANY": "MERCATOR LTD.-$"
+            SYM: "MERCATOR",
+            COM: "MERCATOR LTD."
         },
         {
-            "SYM": "MORGAN",
-            "COMPANY": "MORGAN VENTURES LTD."
+            SYM: "MORGAN",
+            COM: "MORGAN VENTURES LTD."
         },
         {
-            "SYM": "AMRAPLIN",
-            "COMPANY": "AMRAPALI INDUSTRIES LTD."
+            SYM: "AMRAPLIN",
+            COM: "AMRAPALI INDUSTRIES LTD."
         },
         {
-            "SYM": "PREMEXPLQ",
-            "COMPANY": "PREMIER EXPLOSIVES LTD."
+            SYM: "PREMEXPLQ",
+            COM: "PREMIER EXPLOSIVES LTD."
         },
         {
-            "SYM": "MIDEASTP",
-            "COMPANY": "MID EAST PORTFOLIO MANAGEMENT LTD."
+            SYM: "MIDEASTP",
+            COM: "MID EAST PORTFOLIO MANAGEMENT LTD."
         },
         {
-            "SYM": "MOLDTEK",
-            "COMPANY": "MOLD-TEK TECHNOLOGIES LTD."
+            SYM: "MOLDTEK",
+            COM: "MOLD-TEK TECHNOLOGIES LTD."
         },
         {
-            "SYM": "CRSTCHM",
-            "COMPANY": "CRESTCHEM LTD."
+            SYM: "CRSTCHM",
+            COM: "CRESTCHEM LTD."
         },
         {
-            "SYM": "MPHASIS",
-            "COMPANY": "MPHASIS LTD."
+            SYM: "MPHASIS",
+            COM: "MPHASIS LTD."
         },
         {
-            "SYM": "MEDINOV",
-            "COMPANY": "MEDINOVA DIAGNOSTIC SERVICES LTD."
+            SYM: "MEDINOV",
+            COM: "MEDINOVA DIAGNOSTIC SERVICES LTD."
         },
         {
-            "SYM": "DIVSHKT",
-            "COMPANY": "DIVYASHAKTI GRANITES LTD."
+            SYM: "DIVSHKT",
+            COM: "DIVYASHAKTI GRANITES LTD."
         },
         {
-            "SYM": "ORIENTLTD",
-            "COMPANY": "ORIENT PRESS LTD."
+            SYM: "ORIENTLTD",
+            COM: "ORIENT PRESS LTD."
         },
         {
-            "SYM": "SHREYASI",
-            "COMPANY": "SHREYAS INTERMEDIATES LTD."
+            SYM: "SHREYASI",
+            COM: "SHREYAS INTERMEDIATES LTD."
         },
         {
-            "SYM": "PARTIND",
-            "COMPANY": "Parth Industries Limited"
+            SYM: "PARTIND",
+            COM: "Parth Industries Limited"
         },
         {
-            "SYM": "DUROPACK",
-            "COMPANY": "DUROPACK LTD."
+            SYM: "DUROPACK",
+            COM: "DUROPACK LTD."
         },
         {
-            "SYM": "SWARNSAR",
-            "COMPANY": "Swarnsarita Gems Ltd"
+            SYM: "SWARNSAR",
+            COM: "Swarnsarita Gems Ltd"
         },
         {
-            "SYM": "GANESHHOUC",
-            "COMPANY": "GANESH HOUSING CORPORATION LTD.-$"
+            SYM: "GANESHHOUC",
+            COM: "GANESH HOUSING CORPORATION LTD."
         },
         {
-            "SYM": "NMDC",
-            "COMPANY": "NMDC LTD."
+            SYM: "NMDC",
+            COM: "NMDC LTD."
         },
         {
-            "SYM": "CINDHO",
-            "COMPANY": "CINDRELLA HOTELS LTD.-$"
+            SYM: "CINDHO",
+            COM: "CINDRELLA HOTELS LTD."
         },
         {
-            "SYM": "PATINTLOG",
-            "COMPANY": "PATEL INTEGRATED LOGISTICS LTD.-$"
+            SYM: "PATINTLOG",
+            COM: "PATEL INTEGRATED LOGISTICS LTD."
         },
         {
-            "SYM": "ALPHAGEO",
-            "COMPANY": "ALPHAGEO (INDIA) LTD.-$"
+            SYM: "ALPHAGEO",
+            COM: "ALPHAGEO (INDIA) LTD."
         },
         {
-            "SYM": "RPIL",
-            "COMPANY": "RITESH PROPERTIES & INDUSTRIES LTD."
+            SYM: "RPIL",
+            COM: "RITESH PROPERTIES & INDUSTRIES LTD."
         },
         {
-            "SYM": "KKALPANAIND",
-            "COMPANY": "Kkalpana Industries (India) Ltd"
+            SYM: "KKALPANAIND",
+            COM: "Kkalpana Industries (India) Ltd"
         },
         {
-            "SYM": "OKPLA",
-            "COMPANY": "OK PLAY INDIA LTD."
+            SYM: "OKPLA",
+            COM: "OK PLAY INDIA LTD."
         },
         {
-            "SYM": "KRITIIND",
-            "COMPANY": "KRITI INDUSTRIES (INDIA) LTD.-$"
+            SYM: "KRITIIND",
+            COM: "KRITI INDUSTRIES (INDIA) LTD."
         },
         {
-            "SYM": "WELTI",
-            "COMPANY": "WELTERMAN INTERNATIONAL LTD."
+            SYM: "WELTI",
+            COM: "WELTERMAN INTERNATIONAL LTD."
         },
         {
-            "SYM": "ASMTEC",
-            "COMPANY": "ASM TECHNOLOGIES LTD."
+            SYM: "ASMTEC",
+            COM: "ASM TECHNOLOGIES LTD."
         },
         {
-            "SYM": "PERFEPA",
-            "COMPANY": "PERFECTPAC LTD."
+            SYM: "PERFEPA",
+            COM: "PERFECTPAC LTD."
         },
         {
-            "SYM": "VISIONCINE",
-            "COMPANY": "VISION CINEMAS LTD."
+            SYM: "VISIONCINE",
+            COM: "VISION CINEMAS LTD."
         },
         {
-            "SYM": "INDRANIB",
-            "COMPANY": "INDRAYANI BIOTECH LTD."
+            SYM: "INDRANIB",
+            COM: "INDRAYANI BIOTECH LTD."
         },
         {
-            "SYM": "EUROLED",
-            "COMPANY": "EURO LEDER FASHION LTD."
+            SYM: "EUROLED",
+            COM: "EURO LEDER FASHION LTD."
         },
         {
-            "SYM": "WINSOMBR",
-            "COMPANY": "WINSOME BREWERIES LTD."
+            SYM: "WINSOMBR",
+            COM: "WINSOME BREWERIES LTD."
         },
         {
-            "SYM": "ELEFLOR",
-            "COMPANY": "ELEGANT FLORICULTURE & AGROTECH (INDIA) LTD."
+            SYM: "ELEFLOR",
+            COM: "ELEGANT FLORICULTURE & AGROTECH (INDIA) LTD."
         },
         {
-            "SYM": "SAENTER",
-            "COMPANY": "SOUTH ASIAN ENTERPRISES LTD."
+            SYM: "SAENTER",
+            COM: "SOUTH ASIAN ENTERPRISES LTD."
         },
         {
-            "SYM": "SKYIND",
-            "COMPANY": "SKY INDUSTRIES LTD.-$"
+            SYM: "SKYIND",
+            COM: "SKY INDUSTRIES LTD."
         },
         {
-            "SYM": "PHOENXINTL",
-            "COMPANY": "PHOENIX INTERNATIONAL LTD."
+            SYM: "PHOENXINTL",
+            COM: "PHOENIX INTERNATIONAL LTD."
         },
         {
-            "SYM": "AARVINFRA",
-            "COMPANY": "AARV Infratel Ltd"
+            SYM: "AARVINFRA",
+            COM: "AARV Infratel Ltd"
         },
         {
-            "SYM": "RISHIROOP",
-            "COMPANY": "Rishiroop Ltd"
+            SYM: "RISHIROOP",
+            COM: "Rishiroop Ltd"
         },
         {
-            "SYM": "PROMACT",
-            "COMPANY": "Promact Impex Ltd"
+            SYM: "PROMACT",
+            COM: "Promact Impex Ltd"
         },
         {
-            "SYM": "STRGRENWO",
-            "COMPANY": "STERLING GREEN WOODS LTD."
+            SYM: "STRGRENWO",
+            COM: "STERLING GREEN WOODS LTD."
         },
         {
-            "SYM": "DOLPHMED",
-            "COMPANY": "DOLPHIN MEDICAL SERVICES LTD."
+            SYM: "DOLPHMED",
+            COM: "DOLPHIN MEDICAL SERVICES LTD."
         },
         {
-            "SYM": "SYSTMTXC",
-            "COMPANY": "SYSTEMATIX CORPORATE SERVICES LTD."
+            SYM: "SYSTMTXC",
+            COM: "SYSTEMATIX CORPORATE SERVICES LTD."
         },
         {
-            "SYM": "ALPINEHOU",
-            "COMPANY": "ALPINE HOUSING DEVELOPMENT CORPORATION LTD."
+            SYM: "ALPINEHOU",
+            COM: "ALPINE HOUSING DEVELOPMENT CORPORATION LTD."
         },
         {
-            "SYM": "SANGHIIND",
-            "COMPANY": "SANGHI INDUSTRIES LTD."
+            SYM: "SANGHIIND",
+            COM: "SANGHI INDUSTRIES LTD."
         },
         {
-            "SYM": "WWALUM",
-            "COMPANY": "Worldwide Aluminium Ltd"
+            SYM: "WWALUM",
+            COM: "Worldwide Aluminium Ltd"
         },
         {
-            "SYM": "SFPIL",
-            "COMPANY": "Square Four Projects India Limited"
+            SYM: "SFPIL",
+            COM: "Square Four Projects India Limited"
         },
         {
-            "SYM": "SCANPGEOM",
-            "COMPANY": "SCANPOINT GEOMATICS LTD."
+            SYM: "SCANPGEOM",
+            COM: "SCANPOINT GEOMATICS LTD."
         },
         {
-            "SYM": "CHOKSILA",
-            "COMPANY": "CHOKSI LABORATORIES LTD."
+            SYM: "CHOKSILA",
+            COM: "CHOKSI LABORATORIES LTD."
         },
         {
-            "SYM": "CCHHL",
-            "COMPANY": "Country Club Hospitality & Holidays Ltd"
+            SYM: "CCHHL",
+            COM: "Country Club Hospitality & Holidays Ltd"
         },
         {
-            "SYM": "SALGUTI",
-            "COMPANY": "SALGUTI INDUSTRIES LTD."
+            SYM: "SALGUTI",
+            COM: "SALGUTI INDUSTRIES LTD."
         },
         {
-            "SYM": "LONTE",
-            "COMPANY": "LONGVIEW TEA COMPANY LTD."
+            SYM: "LONTE",
+            COM: "LONGVIEW TEA COMPANY LTD."
         },
         {
-            "SYM": "MIDWEST",
-            "COMPANY": "MIDWEST GOLD LTD."
+            SYM: "MIDWEST",
+            COM: "MIDWEST GOLD LTD."
         },
         {
-            "SYM": "ENTRINT",
-            "COMPANY": "ENTERPRISE INTERNATIONAL LTD."
+            SYM: "ENTRINT",
+            COM: "ENTERPRISE INTERNATIONAL LTD."
         },
         {
-            "SYM": "TECHIN",
-            "COMPANY": "TECHINDIA NIRMAN LIMITED"
+            SYM: "TECHIN",
+            COM: "TECHINDIA NIRMAN LIMITED"
         },
         {
-            "SYM": "TPLPLAST",
-            "COMPANY": "TPL PLASTECH LTD."
+            SYM: "TPLPLAST",
+            COM: "TPL PLASTECH LTD."
         },
         {
-            "SYM": "WIMPLAST",
-            "COMPANY": "WIM PLAST LTD.-$"
+            SYM: "WIMPLAST",
+            COM: "WIM PLAST LTD."
         },
         {
-            "SYM": "PHOTOQUP",
-            "COMPANY": "PHOTOQUIP INDIA LTD."
+            SYM: "PHOTOQUP",
+            COM: "PHOTOQUIP INDIA LTD."
         },
         {
-            "SYM": "LIBERTSHOE",
-            "COMPANY": "LIBERTY SHOES LTD."
+            SYM: "LIBERTSHOE",
+            COM: "LIBERTY SHOES LTD."
         },
         {
-            "SYM": "LIPPISYS",
-            "COMPANY": "LIPPI SYSTEMS LTD.-$"
+            SYM: "LIPPISYS",
+            COM: "LIPPI SYSTEMS LTD."
         },
         {
-            "SYM": "ELECTHERM",
-            "COMPANY": "ELECTROTHERM (INDIA) LTD."
+            SYM: "ELECTHERM",
+            COM: "ELECTROTHERM (INDIA) LTD."
         },
         {
-            "SYM": "BLUEDART",
-            "COMPANY": "BLUE DART EXPRESS LTD."
+            SYM: "BLUEDART",
+            COM: "BLUE DART EXPRESS LTD."
         },
         {
-            "SYM": "EXPOGAS",
-            "COMPANY": "EXPO GAS CONTAINERS LTD."
+            SYM: "EXPOGAS",
+            COM: "EXPO GAS CONTAINERS LTD."
         },
         {
-            "SYM": "NATPLAS",
-            "COMPANY": "NATIONAL PLASTIC INDUSTRIES LTD."
+            SYM: "NATPLAS",
+            COM: "NATIONAL PLASTIC INDUSTRIES LTD."
         },
         {
-            "SYM": "MFLINDIA",
-            "COMPANY": "MFL INDIA LTD."
+            SYM: "MFLINDIA",
+            COM: "MFL INDIA LTD."
         },
         {
-            "SYM": "AJWAFUN",
-            "COMPANY": "AJWA FUN WORLD & RESORT LTD."
+            SYM: "AJWAFUN",
+            COM: "AJWA FUN WORLD & RESORT LTD."
         },
         {
-            "SYM": "TEXELIN",
-            "COMPANY": "TEXEL INDUSTRIES LTD."
+            SYM: "TEXELIN",
+            COM: "TEXEL INDUSTRIES LTD."
         },
         {
-            "SYM": "RAYALEMA",
-            "COMPANY": "ROYALE MANOR HOTELS & INDUSTRIES LTD."
+            SYM: "RAYALEMA",
+            COM: "ROYALE MANOR HOTELS & INDUSTRIES LTD."
         },
         {
-            "SYM": "MIRZAINT",
-            "COMPANY": "MIRZA INTERNATIONAL LTD."
+            SYM: "MIRZAINT",
+            COM: "MIRZA INTERNATIONAL LTD."
         },
         {
-            "SYM": "TFCILTD",
-            "COMPANY": "TOURISM FINANCE CORPORATION OF INDIA LTD."
+            SYM: "TFCILTD",
+            COM: "TOURISM FINANCE CORPORATION OF INDIA LTD."
         },
         {
-            "SYM": "THAKDEV",
-            "COMPANY": "THAKKERS DEVELOPERS LTD."
+            SYM: "THAKDEV",
+            COM: "THAKKERS DEVELOPERS LTD."
         },
         {
-            "SYM": "ARENTERP",
-            "COMPANY": "RAJDARSHAN INDUSTRIES LTD."
+            SYM: "ARENTERP",
+            COM: "RAJDARSHAN INDUSTRIES LTD."
         },
         {
-            "SYM": "BIL",
-            "COMPANY": "BHARTIYA INTERNATIONAL LTD."
+            SYM: "BIL",
+            COM: "BHARTIYA INTERNATIONAL LTD."
         },
         {
-            "SYM": "KAMATHOTEL",
-            "COMPANY": "KAMAT HOTELS (INDIA) LTD."
+            SYM: "KAMATHOTEL",
+            COM: "KAMAT HOTELS (INDIA) LTD."
         },
         {
-            "SYM": "DALALSTCOM",
-            "COMPANY": "DSJ COMMUNICATIONS LTD."
+            SYM: "DALALSTCOM",
+            COM: "DSJ COMMUNICATIONS LTD."
         },
         {
-            "SYM": "HOTELRUGBY",
-            "COMPANY": "HOTEL RUGBY LTD."
+            SYM: "HOTELRUGBY",
+            COM: "HOTEL RUGBY LTD."
         },
         {
-            "SYM": "POLOHOT",
-            "COMPANY": "POLO HOTELS LTD."
+            SYM: "POLOHOT",
+            COM: "POLO HOTELS LTD."
         },
         {
-            "SYM": "ECOPLAST",
-            "COMPANY": "ECOPLAST LTD.-$"
+            SYM: "ECOPLAST",
+            COM: "ECOPLAST LTD."
         },
         {
-            "SYM": "ELEMARB",
-            "COMPANY": "ELEGANT MARBLES & GRANI INDUSTRIES LTD."
+            SYM: "ELEMARB",
+            COM: "ELEGANT MARBLES & GRANI INDUSTRIES LTD."
         },
         {
-            "SYM": "ADARSHPL",
-            "COMPANY": "ADARSH PLANT PROTECT LTD."
+            SYM: "ADARSHPL",
+            COM: "ADARSH PLANT PROTECT LTD."
         },
         {
-            "SYM": "GOPALA",
-            "COMPANY": "GOPALA POLYPLAST LTD."
+            SYM: "GOPALA",
+            COM: "GOPALA POLYPLAST LTD."
         },
         {
-            "SYM": "NICCOPAR",
-            "COMPANY": "NICCO PARKS & RESORTS LTD.-$"
+            SYM: "NICCOPAR",
+            COM: "NICCO PARKS & RESORTS LTD."
         },
         {
-            "SYM": "NTCIND",
-            "COMPANY": "NTC INDUSTRIES LTD."
+            SYM: "NTCIND",
+            COM: "NTC INDUSTRIES LTD."
         },
         {
-            "SYM": "SANDESH",
-            "COMPANY": "SANDESH LTD."
+            SYM: "SANDESH",
+            COM: "SANDESH LTD."
         },
         {
-            "SYM": "GARNET",
-            "COMPANY": "GARNET CONSTRUCTION LTD."
+            SYM: "GARNET",
+            COM: "GARNET CONSTRUCTION LTD."
         },
         {
-            "SYM": "GOLDIAM",
-            "COMPANY": "GOLDIAM INTERNATIONAL LTD."
+            SYM: "GOLDIAM",
+            COM: "GOLDIAM INTERNATIONAL LTD."
         },
         {
-            "SYM": "BRIGHTBR",
-            "COMPANY": "BRIGHT BROTHERS LTD.-$"
+            SYM: "BRIGHTBR",
+            COM: "BRIGHT BROTHERS LTD."
         },
         {
-            "SYM": "CORPOCO",
-            "COMPANY": "CORPORATE COURIER AND CARGO LTD."
+            SYM: "CORPOCO",
+            COM: "CORPORATE COURIER AND CARGO LTD."
         },
         {
-            "SYM": "SHAWGELTIN",
-            "COMPANY": "NARMADA GELATINES LTD."
+            SYM: "SHAWGELTIN",
+            COM: "NARMADA GELATINES LTD."
         },
         {
-            "SYM": "PGFOILQ",
-            "COMPANY": "PG FOILS LTD."
+            SYM: "PGFOILQ",
+            COM: "PG FOILS LTD."
         },
         {
-            "SYM": "GRATEXI",
-            "COMPANY": "GRATEX INDUSTRIES LTD."
+            SYM: "GRATEXI",
+            COM: "GRATEX INDUSTRIES LTD."
         },
         {
-            "SYM": "VELHO",
-            "COMPANY": "VELAN HOTELS LTD."
+            SYM: "VELHO",
+            COM: "VELAN HOTELS LTD."
         },
         {
-            "SYM": "HOWARHO",
-            "COMPANY": "HOWARD HOTELS LTD."
+            SYM: "HOWARHO",
+            COM: "HOWARD HOTELS LTD."
         },
         {
-            "SYM": "VALIANT",
-            "COMPANY": "VALIANT COMMUNICATIONS LTD.-$"
+            SYM: "VALIANT",
+            COM: "VALIANT COMMUNICATIONS LTD."
         },
         {
-            "SYM": "DRAGARWQ",
-            "COMPANY": "DR.AGARWALS EYE HOSPITAL LTD.-$"
+            SYM: "DRAGARWQ",
+            COM: "DR.AGARWALS EYE HOSPITAL LTD."
         },
         {
-            "SYM": "MHSGRMS",
-            "COMPANY": "MAHASAGAR TRAVELS LTD."
+            SYM: "MHSGRMS",
+            COM: "MAHASAGAR TRAVELS LTD."
         },
         {
-            "SYM": "GREENPLY",
-            "COMPANY": "GREENPLY INDUSTRIES LTD."
+            SYM: "GREENPLY",
+            COM: "GREENPLY INDUSTRIES LTD."
         },
         {
-            "SYM": "UNQTYMI",
-            "COMPANY": "UNION QUALITY PLASTICS LTD."
+            SYM: "UNQTYMI",
+            COM: "UNION QUALITY PLASTICS LTD."
         },
         {
-            "SYM": "SEAMECLTD",
-            "COMPANY": "SEAMEC LTD."
+            SYM: "SEAMECLTD",
+            COM: "SEAMEC LTD."
         },
         {
-            "SYM": "RAGHUNAT",
-            "COMPANY": "RAGHUNATH INTERNATIONAL LTD."
+            SYM: "RAGHUNAT",
+            COM: "RAGHUNATH INTERNATIONAL LTD."
         },
         {
-            "SYM": "CHEVIOT",
-            "COMPANY": "CHEVIOT CO.LTD.-$"
+            SYM: "CHEVIOT",
+            COM: "CHEVIOT CO.LTD."
         },
         {
-            "SYM": "DAICHI",
-            "COMPANY": "DAI-ICHI KARKARIA LTD.-$"
+            SYM: "DAICHI",
+            COM: "DAI-ICHI KARKARIA LTD."
         },
         {
-            "SYM": "RAJINFRA",
-            "COMPANY": "Rajeswari Infrastructure Limited"
+            SYM: "RAJINFRA",
+            COM: "Rajeswari Infrastructure Limited"
         },
         {
-            "SYM": "SPICEISL",
-            "COMPANY": "SPICE ISLANDS APPARELS LTD.-$"
+            SYM: "SPICEISL",
+            COM: "SPICE ISLANDS APPARELS LTD."
         },
         {
-            "SYM": "CONFIPET",
-            "COMPANY": "CONFIDENCE PETROLEUM INDIA LTD."
+            SYM: "CONFIPET",
+            COM: "CONFIDENCE PETROLEUM INDIA LTD."
         },
         {
-            "SYM": "SIPL",
-            "COMPANY": "SHELTER INFRA PROJECTS LTD.-$"
+            SYM: "SIPL",
+            COM: "SHELTER INFRA PROJECTS LTD."
         },
         {
-            "SYM": "ASHSI",
-            "COMPANY": "ASHIRWAD STEELS & INDUSTRIES LTD."
+            SYM: "ASHSI",
+            COM: "ASHIRWAD STEELS & INDUSTRIES LTD."
         },
         {
-            "SYM": "BANARBEADS",
-            "COMPANY": "BANARAS BEADS LTD."
+            SYM: "BANARBEADS",
+            COM: "BANARAS BEADS LTD."
         },
         {
-            "SYM": "AREXMIS",
-            "COMPANY": "AREX INDUSTRIES LTD."
+            SYM: "AREXMIS",
+            COM: "AREX INDUSTRIES LTD."
         },
         {
-            "SYM": "BI",
-            "COMPANY": "BILCARE LTD.-$"
+            SYM: "BI",
+            COM: "BILCARE LTD."
         },
         {
-            "SYM": "ISFL",
-            "COMPANY": "ISF LIMITED"
+            SYM: "ISFL",
+            COM: "ISF LIMITED"
         },
         {
-            "SYM": "RISHILASE",
-            "COMPANY": "RISHI LASER LTD."
+            SYM: "RISHILASE",
+            COM: "RISHI LASER LTD."
         },
         {
-            "SYM": "JAINCO",
-            "COMPANY": "JAINCO PROJECTS (INDIA) LTD."
+            SYM: "JAINCO",
+            COM: "JAINCO PROJECTS (INDIA) LTD."
         },
         {
-            "SYM": "INTECCAP",
-            "COMPANY": "INTEC CAPITAL LTD."
+            SYM: "INTECCAP",
+            COM: "INTEC CAPITAL LTD."
         },
         {
-            "SYM": "63MOONS",
-            "COMPANY": "63 Moons Technologies Ltd"
+            SYM: "63MOONS",
+            COM: "63 Moons Technologies Ltd"
         },
         {
-            "SYM": "SARLAPOLY",
-            "COMPANY": "SARLA PERFORMANCE FIBERS LTD.-$"
+            SYM: "SARLAPOLY",
+            COM: "SARLA PERFORMANCE FIBERS LTD."
         },
         {
-            "SYM": "INDOCRED",
-            "COMPANY": "INDO CREDIT CAPITAL LTD."
+            SYM: "INDOCRED",
+            COM: "INDO CREDIT CAPITAL LTD."
         },
         {
-            "SYM": "MKTCREAT",
-            "COMPANY": "MARKET CREATORS LTD."
+            SYM: "MKTCREAT",
+            COM: "MARKET CREATORS LTD."
         },
         {
-            "SYM": "HFIL",
-            "COMPANY": "Himalaya Food International Ltd"
+            SYM: "HFIL",
+            COM: "Himalaya Food International Ltd"
         },
         {
-            "SYM": "SONALAD",
-            "COMPANY": "SONAL ADHESIVES LTD."
+            SYM: "SONALAD",
+            COM: "SONAL ADHESIVES LTD."
         },
         {
-            "SYM": "PADMAIND",
-            "COMPANY": "Padmanabh Industries Limited"
+            SYM: "PADMAIND",
+            COM: "Padmanabh Industries Limited"
         },
         {
-            "SYM": "21STCENMGM",
-            "COMPANY": "TWENTYFIRST CENTURY MANAGEMENT SERVICES LTD."
+            SYM: "21STCENMGM",
+            COM: "TWENTYFIRST CENTURY MANAGEMENT SERVICES LTD."
         },
         {
-            "SYM": "HRYNSHP",
-            "COMPANY": "HARIYANA SHIP BREAKERS LTD.-$"
+            SYM: "HRYNSHP",
+            COM: "HARIYANA SHIP BREAKERS LTD."
         },
         {
-            "SYM": "ARUNIS",
-            "COMPANY": "Arunis Abode Ltd"
+            SYM: "ARUNIS",
+            COM: "Arunis Abode Ltd"
         },
         {
-            "SYM": "TYROON",
-            "COMPANY": "TYROON TEA CO.LTD."
+            SYM: "TYROON",
+            COM: "TYROON TEA CO.LTD."
         },
         {
-            "SYM": "LAOPALA",
-            "COMPANY": "LA OPALA RG LTD."
+            SYM: "LAOPALA",
+            COM: "LA OPALA RG LTD."
         },
         {
-            "SYM": "STYLAMIND",
-            "COMPANY": "Stylam Industries Limited"
+            SYM: "STYLAMIND",
+            COM: "Stylam Industries Limited"
         },
         {
-            "SYM": "VENUSREM",
-            "COMPANY": "VENUS REMEDIES LTD."
+            SYM: "VENUSREM",
+            COM: "VENUS REMEDIES LTD."
         },
         {
-            "SYM": "WOODSVILA",
-            "COMPANY": "WOODSVILLA LTD."
+            SYM: "WOODSVILA",
+            COM: "WOODSVILLA LTD."
         },
         {
-            "SYM": "TRANSFIN",
-            "COMPANY": "TRANS FINANCIAL RESOURCES LTD."
+            SYM: "TRANSFIN",
+            COM: "TRANS FINANCIAL RESOURCES LTD."
         },
         {
-            "SYM": "GUJCRAFT",
-            "COMPANY": "GUJARAT CRAFT INDUSTRIES LTD."
+            SYM: "GUJCRAFT",
+            COM: "GUJARAT CRAFT INDUSTRIES LTD."
         },
         {
-            "SYM": "HEERAISP",
-            "COMPANY": "HEERA ISPAT LTD."
+            SYM: "HEERAISP",
+            COM: "HEERA ISPAT LTD."
         },
         {
-            "SYM": "DHOOTIN",
-            "COMPANY": "DHOOT INDUSTRIAL FINANCE LTD."
+            SYM: "DHOOTIN",
+            COM: "DHOOT INDUSTRIAL FINANCE LTD."
         },
         {
-            "SYM": "CRIMSON",
-            "COMPANY": "Crimson Metal Engineering Company Ltd"
+            SYM: "CRIMSON",
+            COM: "Crimson Metal Engineering Company Ltd"
         },
         {
-            "SYM": "SHBAJRG",
-            "COMPANY": "Shri Bajrang Alliance Ltd"
+            SYM: "SHBAJRG",
+            COM: "Shri Bajrang Alliance Ltd"
         },
         {
-            "SYM": "ASHOKRE",
-            "COMPANY": "ASHOKA REFINERIES LTD."
+            SYM: "ASHOKRE",
+            COM: "ASHOKA REFINERIES LTD."
         },
         {
-            "SYM": "URJAGLOBA",
-            "COMPANY": "URJA GLOBAL LTD."
+            SYM: "URJAGLOBA",
+            COM: "URJA GLOBAL LTD."
         },
         {
-            "SYM": "ASHAPURMIN",
-            "COMPANY": "ASHAPURA MINECHEM LTD."
+            SYM: "ASHAPURMIN",
+            COM: "ASHAPURA MINECHEM LTD."
         },
         {
-            "SYM": "SHREEPAC",
-            "COMPANY": "SHREE PACETRONIX LTD."
+            SYM: "SHREEPAC",
+            COM: "SHREE PACETRONIX LTD."
         },
         {
-            "SYM": "GUJALKALI",
-            "COMPANY": "GUJARAT ALKALIES & CHEMICALS LTD."
+            SYM: "GUJALKALI",
+            COM: "GUJARAT ALKALIES & CHEMICALS LTD."
         },
         {
-            "SYM": "INDIACEM",
-            "COMPANY": "INDIA CEMENTS LTD."
+            SYM: "INDIACEM",
+            COM: "INDIA CEMENTS LTD."
         },
         {
-            "SYM": "JKTYRE",
-            "COMPANY": "JK TYRE & INDUSTRIES LTD."
+            SYM: "JKTYRE",
+            COM: "JK TYRE & INDUSTRIES LTD."
         },
         {
-            "SYM": "MANGCHEFER",
-            "COMPANY": "MANGALORE CHEMICALS & FERTILIZERS LTD."
+            SYM: "MANGCHEFER",
+            COM: "MANGALORE CHEMICALS & FERTILIZERS LTD."
         },
         {
-            "SYM": "SIL",
-            "COMPANY": "STANDARD INDUSTRIES LTD."
+            SYM: "SIL",
+            COM: "STANDARD INDUSTRIES LTD."
         },
         {
-            "SYM": "JUBLPHARMA",
-            "COMPANY": "Jubilant Pharmova Ltd"
+            SYM: "JUBLPHARMA",
+            COM: "Jubilant Pharmova Ltd"
         },
         {
-            "SYM": "THEINVEST",
-            "COMPANY": "The Investment Trust Of India Ltd"
+            SYM: "THEINVEST",
+            COM: "The Investment Trust Of India Ltd"
         },
         {
-            "SYM": "SAMYAKINT",
-            "COMPANY": "SAMYAK INTERNATIONAL LTD."
+            SYM: "SAMYAKINT",
+            COM: "SAMYAK INTERNATIONAL LTD."
         },
         {
-            "SYM": "SANTOSHF",
-            "COMPANY": "SANTOSH FINE-FAB LTD."
+            SYM: "SANTOSHF",
+            COM: "SANTOSH FINE-FAB LTD."
         },
         {
-            "SYM": "SREEJAYA",
-            "COMPANY": "SREE JAYALAKSHMI AUTOSPIN LTD."
+            SYM: "SREEJAYA",
+            COM: "SREE JAYALAKSHMI AUTOSPIN LTD."
         },
         {
-            "SYM": "ACKNIT",
-            "COMPANY": "ACKNIT INDUSTRIES LTD."
+            SYM: "ACKNIT",
+            COM: "ACKNIT INDUSTRIES LTD."
         },
         {
-            "SYM": "TITANSEC",
-            "COMPANY": "TITAN SECURITIES LTD."
+            SYM: "TITANSEC",
+            COM: "TITAN SECURITIES LTD."
         },
         {
-            "SYM": "MOHOTAIND",
-            "COMPANY": "Mohota Industries Ltd"
+            SYM: "MOHOTAIND",
+            COM: "Mohota Industries Ltd"
         },
         {
-            "SYM": "REALECO",
-            "COMPANY": "Real Eco-Energy Ltd"
+            SYM: "REALECO",
+            COM: "Real Eco-Energy Ltd"
         },
         {
-            "SYM": "HRMNYCP",
-            "COMPANY": "HARMONY CAPITAL SERVICES LTD."
+            SYM: "HRMNYCP",
+            COM: "HARMONY CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "VIVANZA",
-            "COMPANY": "Vivanza Biosciences Ltd"
+            SYM: "VIVANZA",
+            COM: "Vivanza Biosciences Ltd"
         },
         {
-            "SYM": "YASHRAJC",
-            "COMPANY": "YASHRAJ CONTAINEURS LTD."
+            SYM: "YASHRAJC",
+            COM: "YASHRAJ CONTAINEURS LTD."
         },
         {
-            "SYM": "LORDSHOTL",
-            "COMPANY": "Lords Ishwar Hotels Limited"
+            SYM: "LORDSHOTL",
+            COM: "Lords Ishwar Hotels Limited"
         },
         {
-            "SYM": "CSLFINANCE",
-            "COMPANY": "CSL Finance Ltd"
+            SYM: "CSLFINANCE",
+            COM: "CSL Finance Ltd"
         },
         {
-            "SYM": "SANGHVIMOV",
-            "COMPANY": "SANGHVI MOVERS LTD."
+            SYM: "SANGHVIMOV",
+            COM: "SANGHVI MOVERS LTD."
         },
         {
-            "SYM": "SELAN",
-            "COMPANY": "SELAN EXPLORATION TECHNOLOGY LTD.-$"
+            SYM: "SELAN",
+            COM: "SELAN EXPLORATION TECHNOLOGY LTD."
         },
         {
-            "SYM": "FRSHTRP*",
-            "COMPANY": "FRESHTROP FRUITS LTD."
+            SYM: "FRSHTRP*",
+            COM: "FRESHTROP FRUITS LTD."
         },
         {
-            "SYM": "FAZE3Q",
-            "COMPANY": "FAZE THREE LTD.-$"
+            SYM: "FAZE3Q",
+            COM: "FAZE THREE LTD."
         },
         {
-            "SYM": "PRADHIN",
-            "COMPANY": "Pradhin Ltd"
+            SYM: "PRADHIN",
+            COM: "Pradhin Ltd"
         },
         {
-            "SYM": "ANUPAM",
-            "COMPANY": "Anupam Finserv Ltd"
+            SYM: "ANUPAM",
+            COM: "Anupam Finserv Ltd"
         },
         {
-            "SYM": "RAJPACK",
-            "COMPANY": "RAJ PACKAGING INDUSTRIES LTD."
+            SYM: "RAJPACK",
+            COM: "RAJ PACKAGING INDUSTRIES LTD."
         },
         {
-            "SYM": "PRIVISCL",
-            "COMPANY": "Privi Speciality Chemicals Ltd"
+            SYM: "PRIVISCL",
+            COM: "Privi Speciality Chemicals Ltd"
         },
         {
-            "SYM": "NATRAJPR",
-            "COMPANY": "NATRAJ PROTEINS LTD."
+            SYM: "NATRAJPR",
+            COM: "NATRAJ PROTEINS LTD."
         },
         {
-            "SYM": "SAMRATPH",
-            "COMPANY": "SAMRAT PHARMACHEM LTD.-$"
+            SYM: "SAMRATPH",
+            COM: "SAMRAT PHARMACHEM LTD."
         },
         {
-            "SYM": "NPRFIN",
-            "COMPANY": "NPR FINANCE LTD."
+            SYM: "NPRFIN",
+            COM: "NPR FINANCE LTD."
         },
         {
-            "SYM": "NILE",
-            "COMPANY": "NILE LTD."
+            SYM: "NILE",
+            COM: "NILE LTD."
         },
         {
-            "SYM": "UDAICEMENT",
-            "COMPANY": "UDAIPUR CEMENT WORKS LTD."
+            SYM: "UDAICEMENT",
+            COM: "UDAIPUR CEMENT WORKS LTD."
         },
         {
-            "SYM": "AMCOIND",
-            "COMPANY": "AMCO INDIA LTD.-$"
+            SYM: "AMCOIND",
+            COM: "AMCO INDIA LTD."
         },
         {
-            "SYM": "OPTIEMUS",
-            "COMPANY": "Optiemus Infracom Ltd"
+            SYM: "OPTIEMUS",
+            COM: "Optiemus Infracom Ltd"
         },
         {
-            "SYM": "KREONFIN",
-            "COMPANY": "KREON FINNANCIAL SERVICES LTD."
+            SYM: "KREONFIN",
+            COM: "KREON FINNANCIAL SERVICES LTD."
         },
         {
-            "SYM": "GYANDEV",
-            "COMPANY": "GYAN DEVELOPERS & BUILDERS LTD."
+            SYM: "GYANDEV",
+            COM: "GYAN DEVELOPERS & BUILDERS LTD."
         },
         {
-            "SYM": "KISAN",
-            "COMPANY": "KISAN MOULDINGS LTD.-$"
+            SYM: "KISAN",
+            COM: "KISAN MOULDINGS LTD."
         },
         {
-            "SYM": "VIJAYTX",
-            "COMPANY": "VIJAY TEXTILES LTD."
+            SYM: "VIJAYTX",
+            COM: "VIJAY TEXTILES LTD."
         },
         {
-            "SYM": "GARODCH",
-            "COMPANY": "GARODIA CHEMICALS LTD."
+            SYM: "GARODCH",
+            COM: "GARODIA CHEMICALS LTD."
         },
         {
-            "SYM": "KERALAYUR",
-            "COMPANY": "KERALA AYURVEDA LTD."
+            SYM: "KERALAYUR",
+            COM: "KERALA AYURVEDA LTD."
         },
         {
-            "SYM": "MONGIPA",
-            "COMPANY": "MOONGIPA CAPITAL FINANCE LTD."
+            SYM: "MONGIPA",
+            COM: "MOONGIPA CAPITAL FINANCE LTD."
         },
         {
-            "SYM": "MOHITPPR",
-            "COMPANY": "MOHIT PAPER MILLS LTD."
+            SYM: "MOHITPPR",
+            COM: "MOHIT PAPER MILLS LTD."
         },
         {
-            "SYM": "DAULAT",
-            "COMPANY": "DAULAT SECURITIES LTD."
+            SYM: "DAULAT",
+            COM: "DAULAT SECURITIES LTD."
         },
         {
-            "SYM": "OSCARGLO",
-            "COMPANY": "OSCAR GLOBAL LTD."
+            SYM: "OSCARGLO",
+            COM: "OSCAR GLOBAL LTD."
         },
         {
-            "SYM": "ODYSSEY",
-            "COMPANY": "ODYSSEY TECHNOLOGIES LTD.-$"
+            SYM: "ODYSSEY",
+            COM: "ODYSSEY TECHNOLOGIES LTD."
         },
         {
-            "SYM": "SPSINT",
-            "COMPANY": "SPS INTERNATIONAL LTD."
+            SYM: "SPSINT",
+            COM: "SPS INTERNATIONAL LTD."
         },
         {
-            "SYM": "RSCINT",
-            "COMPANY": "RSC INTERNATIONAL LTD."
+            SYM: "RSCINT",
+            COM: "RSC INTERNATIONAL LTD."
         },
         {
-            "SYM": "SURATEX",
-            "COMPANY": "SURAT TEXTILE MILLS LTD."
+            SYM: "SURATEX",
+            COM: "SURAT TEXTILE MILLS LTD."
         },
         {
-            "SYM": "ATHARVENT",
-            "COMPANY": "ATHARV ENTERPRISES LTD."
+            SYM: "ATHARVENT",
+            COM: "ATHARV ENTERPRISES LTD."
         },
         {
-            "SYM": "FUNDVISER",
-            "COMPANY": "Fundviser Capital (India) Ltd"
+            SYM: "FUNDVISER",
+            COM: "Fundviser Capital (India) Ltd"
         },
         {
-            "SYM": "THEMISMED",
-            "COMPANY": "THEMIS MEDICARE LTD."
+            SYM: "THEMISMED",
+            COM: "THEMIS MEDICARE LTD."
         },
         {
-            "SYM": "KALLAM",
-            "COMPANY": "Kallam Textiles Ltd-$"
+            SYM: "KALLAM",
+            COM: "Kallam Textiles Ltd"
         },
         {
-            "SYM": "BRAWN",
-            "COMPANY": "BRAWN BIOTECH LTD."
+            SYM: "BRAWN",
+            COM: "BRAWN BIOTECH LTD."
         },
         {
-            "SYM": "FORINTL",
-            "COMPANY": "FORTUNE INTERNATIONAL LTD."
+            SYM: "FORINTL",
+            COM: "FORTUNE INTERNATIONAL LTD."
         },
         {
-            "SYM": "KINGSINFR",
-            "COMPANY": "Kings Infra Ventures Limited"
+            SYM: "KINGSINFR",
+            COM: "Kings Infra Ventures Limited"
         },
         {
-            "SYM": "NUTRICIRCLE",
-            "COMPANY": "Nutricircle Ltd"
+            SYM: "NUTRICIRCLE",
+            COM: "Nutricircle Ltd"
         },
         {
-            "SYM": "SUBSM",
-            "COMPANY": "SUBHASH SILK MILLS LTD."
+            SYM: "SUBSM",
+            COM: "SUBHASH SILK MILLS LTD."
         },
         {
-            "SYM": "AUROLAB",
-            "COMPANY": "AURO LABORATORIES LTD."
+            SYM: "AUROLAB",
+            COM: "AURO LABORATORIES LTD."
         },
         {
-            "SYM": "KJMCFIN",
-            "COMPANY": "KJMC FINANCIAL SERVICES LTD."
+            SYM: "KJMCFIN",
+            COM: "KJMC FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "SUVEN",
-            "COMPANY": "SUVEN LIFE SCIENCES LTD."
+            SYM: "SUVEN",
+            COM: "SUVEN LIFE SCIENCES LTD."
         },
         {
-            "SYM": "ARYAMAN",
-            "COMPANY": "ARYAMAN FINANCIAL SERVICES LTD."
+            SYM: "ARYAMAN",
+            COM: "ARYAMAN FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "BRIDGESE",
-            "COMPANY": "BRIDGE SECURITIES LTD."
+            SYM: "BRIDGESE",
+            COM: "BRIDGE SECURITIES LTD."
         },
         {
-            "SYM": "RAJTUBE",
-            "COMPANY": "RAJASTHAN TUBE MANUFACTURING CO.LTD."
+            SYM: "RAJTUBE",
+            COM: "RAJASTHAN TUBE MANUFACTURING CO.LTD."
         },
         {
-            "SYM": "INTSTOIL",
-            "COMPANY": "INTER STATE OIL CARRIER LTD."
+            SYM: "INTSTOIL",
+            COM: "INTER STATE OIL CARRIER LTD."
         },
         {
-            "SYM": "GLOBALCA",
-            "COMPANY": "GLOBAL CAPITAL MARKETS LTD."
+            SYM: "GLOBALCA",
+            COM: "GLOBAL CAPITAL MARKETS LTD."
         },
         {
-            "SYM": "SAINIK",
-            "COMPANY": "SAINIK FINANCE & INDUSTRIES LTD."
+            SYM: "SAINIK",
+            COM: "SAINIK FINANCE & INDUSTRIES LTD."
         },
         {
-            "SYM": "SABOOBR",
-            "COMPANY": "SABOO BROTHERS LTD."
+            SYM: "SABOOBR",
+            COM: "SABOO BROTHERS LTD."
         },
         {
-            "SYM": "RICHUNV",
-            "COMPANY": "RICH UNIVERSE NETWORK LTD."
+            SYM: "RICHUNV",
+            COM: "RICH UNIVERSE NETWORK LTD."
         },
         {
-            "SYM": "QUANTDIA",
-            "COMPANY": "QUANTUM DIGITAL VISION (INDIA) LTD."
+            SYM: "QUANTDIA",
+            COM: "QUANTUM DIGITAL VISION (INDIA) LTD."
         },
         {
-            "SYM": "SPCAPIT",
-            "COMPANY": "SP CAPITAL FINANCING LTD."
+            SYM: "SPCAPIT",
+            COM: "SP CAPITAL FINANCING LTD."
         },
         {
-            "SYM": "PAOS",
-            "COMPANY": "Paos Industries Ltd"
+            SYM: "PAOS",
+            COM: "Paos Industries Ltd"
         },
         {
-            "SYM": "KOTHARIPRO",
-            "COMPANY": "KOTHARI PRODUCTS LTD."
+            SYM: "KOTHARIPRO",
+            COM: "KOTHARI PRODUCTS LTD."
         },
         {
-            "SYM": "PICCADIL",
-            "COMPANY": "PICCADILY AGRO INDUSTRIES LTD."
+            SYM: "PICCADIL",
+            COM: "PICCADILY AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "CHAMANSEQ",
-            "COMPANY": "CHAMAN LAL SETIA EXPORTS LTD.-$"
+            SYM: "CHAMANSEQ",
+            COM: "CHAMAN LAL SETIA EXPORTS LTD."
         },
         {
-            "SYM": "CHANDRAP",
-            "COMPANY": "CHANDRA PRABHU INTERNATIONAL LTD.-$"
+            SYM: "CHANDRAP",
+            COM: "CHANDRA PRABHU INTERNATIONAL LTD."
         },
         {
-            "SYM": "KIMIABL",
-            "COMPANY": "Kimia Biosciences Ltd"
+            SYM: "KIMIABL",
+            COM: "Kimia Biosciences Ltd"
         },
         {
-            "SYM": "HINDTIN",
-            "COMPANY": "HINDUSTAN TIN WORKS LTD.-$"
+            SYM: "HINDTIN",
+            COM: "HINDUSTAN TIN WORKS LTD."
         },
         {
-            "SYM": "GODAVARI",
-            "COMPANY": "GODAVARI DRUGS LTD."
+            SYM: "GODAVARI",
+            COM: "GODAVARI DRUGS LTD."
         },
         {
-            "SYM": "PREMCO",
-            "COMPANY": "PREMCO GLOBAL LTD.-$"
+            SYM: "PREMCO",
+            COM: "PREMCO GLOBAL LTD."
         },
         {
-            "SYM": "MUKESHB",
-            "COMPANY": "MUKESH BABU FINANCIAL SERVICES LTD."
+            SYM: "MUKESHB",
+            COM: "MUKESH BABU FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "GENUSPOWER",
-            "COMPANY": "GENUS POWER INFRASTRUCTURES LTD.-$"
+            SYM: "GENUSPOWER",
+            COM: "GENUS POWER INFRASTRUCTURES LTD."
         },
         {
-            "SYM": "ASIANENE",
-            "COMPANY": "Asian Energy Services Ltd"
+            SYM: "ASIANENE",
+            COM: "Asian Energy Services Ltd"
         },
         {
-            "SYM": "KBSINDIA",
-            "COMPANY": "KBS INDIA LIMITED"
+            SYM: "KBSINDIA",
+            COM: "KBS INDIA LIMITED"
         },
         {
-            "SYM": "SEAGOLD",
-            "COMPANY": "SEA GOLD AQUA FARMS LTD."
+            SYM: "SEAGOLD",
+            COM: "SEA GOLD AQUA FARMS LTD."
         },
         {
-            "SYM": "UGARSUGAR",
-            "COMPANY": "UGAR SUGAR WORKS LTD.-$"
+            SYM: "UGARSUGAR",
+            COM: "UGAR SUGAR WORKS LTD."
         },
         {
-            "SYM": "ORIENTBELL",
-            "COMPANY": "ORIENT BELL LIMITED-$"
+            SYM: "ORIENTBELL",
+            COM: "ORIENT BELL LIMITED"
         },
         {
-            "SYM": "NRBBEARING",
-            "COMPANY": "NRB BEARINGS LTD."
+            SYM: "NRBBEARING",
+            COM: "NRB BEARINGS LTD."
         },
         {
-            "SYM": "VAMSHIRU",
-            "COMPANY": "VAMSHI RUBBER LTD."
+            SYM: "VAMSHIRU",
+            COM: "VAMSHI RUBBER LTD."
         },
         {
-            "SYM": "NILA",
-            "COMPANY": "NILA INFRASTRUCTURES LTD."
+            SYM: "NILA",
+            COM: "NILA INFRASTRUCTURES LTD."
         },
         {
-            "SYM": "DBSTOCKBRO",
-            "COMPANY": "DB (INTERNATIONAL) STOCK BROKERS LTD."
+            SYM: "DBSTOCKBRO",
+            COM: "DB (INTERNATIONAL) STOCK BROKERS LTD."
         },
         {
-            "SYM": "VINYOFL",
-            "COMPANY": "VINYOFLEX LTD."
+            SYM: "VINYOFL",
+            COM: "VINYOFLEX LTD."
         },
         {
-            "SYM": "JINDCAP",
-            "COMPANY": "JINDAL CAPITAL LTD."
+            SYM: "JINDCAP",
+            COM: "JINDAL CAPITAL LTD."
         },
         {
-            "SYM": "EPIC",
-            "COMPANY": "EPIC ENERGY LTD.-$"
+            SYM: "EPIC",
+            COM: "EPIC ENERGY LTD."
         },
         {
-            "SYM": "SUMEDHA",
-            "COMPANY": "SUMEDHA FISCAL SERVICES LTD."
+            SYM: "SUMEDHA",
+            COM: "SUMEDHA FISCAL SERVICES LTD."
         },
         {
-            "SYM": "KUWERIN",
-            "COMPANY": "KUWER INDUSTRIES LTD."
+            SYM: "KUWERIN",
+            COM: "KUWER INDUSTRIES LTD."
         },
         {
-            "SYM": "CHOKSI",
-            "COMPANY": "CHOKSI IMAGING LTD."
+            SYM: "CHOKSI",
+            COM: "CHOKSI IMAGING LTD."
         },
         {
-            "SYM": "ASHISHPO",
-            "COMPANY": "ASHISH POLYPLAST LTD."
+            SYM: "ASHISHPO",
+            COM: "ASHISH POLYPLAST LTD."
         },
         {
-            "SYM": "ADORFO",
-            "COMPANY": "ADOR FONTECH LTD.-$"
+            SYM: "ADORFO",
+            COM: "ADOR FONTECH LTD."
         },
         {
-            "SYM": "SHIVAAGRO",
-            "COMPANY": "SHIVA GLOBAL AGRO INDUSTRIES LTD."
+            SYM: "SHIVAAGRO",
+            COM: "SHIVA GLOBAL AGRO INDUSTRIES LTD."
         },
         {
-            "SYM": "SIDDHA",
-            "COMPANY": "SIDDHA VENTURES LTD."
+            SYM: "SIDDHA",
+            COM: "SIDDHA VENTURES LTD."
         },
         {
-            "SYM": "KIRANSY-B",
-            "COMPANY": "KIRAN SYNTEX LTD."
+            SYM: "KIRANSY-B",
+            COM: "KIRAN SYNTEX LTD."
         },
         {
-            "SYM": "SUMERUIND",
-            "COMPANY": "SUMERU INDUSTRIES LTD."
+            SYM: "SUMERUIND",
+            COM: "SUMERU INDUSTRIES LTD."
         },
         {
-            "SYM": "RUNGTAIR",
-            "COMPANY": "RUNGTA IRRIGATION LTD."
+            SYM: "RUNGTAIR",
+            COM: "RUNGTA IRRIGATION LTD."
         },
         {
-            "SYM": "CINERAD",
-            "COMPANY": "CINERAD COMMUNICATIONS LTD."
+            SYM: "CINERAD",
+            COM: "CINERAD COMMUNICATIONS LTD."
         },
         {
-            "SYM": "VALSONQ",
-            "COMPANY": "VALSON INDUSTRIES LTD.-$"
+            SYM: "VALSONQ",
+            COM: "VALSON INDUSTRIES LTD."
         },
         {
-            "SYM": "SABOOSOD",
-            "COMPANY": "SABOO SODIUM CHLORO LTD."
+            SYM: "SABOOSOD",
+            COM: "SABOO SODIUM CHLORO LTD."
         },
         {
-            "SYM": "GSLSEC",
-            "COMPANY": "GSL SECURITIES LTD."
+            SYM: "GSLSEC",
+            COM: "GSL SECURITIES LTD."
         },
         {
-            "SYM": "TINNARUBR",
-            "COMPANY": "Tinna Rubber and Infrastructure Limited"
+            SYM: "TINNARUBR",
+            COM: "Tinna Rubber and Infrastructure Limited"
         },
         {
-            "SYM": "VIKRAMTH",
-            "COMPANY": "VIKRAM THERMO (INDIA) LTD."
+            SYM: "VIKRAMTH",
+            COM: "VIKRAM THERMO (INDIA) LTD."
         },
         {
-            "SYM": "STRATMONT",
-            "COMPANY": "Stratmont Industries Ltd"
+            SYM: "STRATMONT",
+            COM: "Stratmont Industries Ltd"
         },
         {
-            "SYM": "AKCAPIT",
-            "COMPANY": "A.K.CAPITAL SERVICES LTD."
+            SYM: "AKCAPIT",
+            COM: "A.K.CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "RELAXO",
-            "COMPANY": "RELAXO FOOTWEARS LTD.-$"
+            SYM: "RELAXO",
+            COM: "RELAXO FOOTWEARS LTD."
         },
         {
-            "SYM": "VIRAT",
-            "COMPANY": "VIRAT INDUSTRIES LTD."
+            SYM: "VIRAT",
+            COM: "VIRAT INDUSTRIES LTD."
         },
         {
-            "SYM": "SHEETAL",
-            "COMPANY": "SHEETAL DIAMONDS LTD."
+            SYM: "SHEETAL",
+            COM: "SHEETAL DIAMONDS LTD."
         },
         {
-            "SYM": "TERAI",
-            "COMPANY": "TERAI TEA CO.LTD."
+            SYM: "TERAI",
+            COM: "TERAI TEA CO.LTD."
         },
         {
-            "SYM": "MANRAJH",
-            "COMPANY": "MANRAJ HOUSING FINANCE LTD."
+            SYM: "MANRAJH",
+            COM: "MANRAJ HOUSING FINANCE LTD."
         },
         {
-            "SYM": "COSCO",
-            "COMPANY": "COSCO (INDIA) LTD.-$"
+            SYM: "COSCO",
+            COM: "COSCO (INDIA) LTD."
         },
         {
-            "SYM": "SHILPAMED",
-            "COMPANY": "SHILPA MEDICARE LTD."
+            SYM: "SHILPAMED",
+            COM: "SHILPA MEDICARE LTD."
         },
         {
-            "SYM": "PARACABLES",
-            "COMPANY": "PARAMOUNT COMMUNICATIONS LTD.-$"
+            SYM: "PARACABLES",
+            COM: "PARAMOUNT COMMUNICATIONS LTD."
         },
         {
-            "SYM": "NCLRESE",
-            "COMPANY": "NCL RESEARCH & FINANCIAL SERVICES LTD."
+            SYM: "NCLRESE",
+            COM: "NCL RESEARCH & FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "EXPLICITFIN",
-            "COMPANY": "EXPLICIT FINANCE LTD."
+            SYM: "EXPLICITFIN",
+            COM: "EXPLICIT FINANCE LTD."
         },
         {
-            "SYM": "LADDERUP",
-            "COMPANY": "LADDERUP FINANCE LTD."
+            SYM: "LADDERUP",
+            COM: "LADDERUP FINANCE LTD."
         },
         {
-            "SYM": "UYFINCORP",
-            "COMPANY": "U. Y. Fincorp Ltd"
+            SYM: "UYFINCORP",
+            COM: "U. Y. Fincorp Ltd"
         },
         {
-            "SYM": "EKAMLEA",
-            "COMPANY": "EKAM LEASING & FINANCE CO.LTD."
+            SYM: "EKAMLEA",
+            COM: "EKAM LEASING & FINANCE CO.LTD."
         },
         {
-            "SYM": "SWASTIKA",
-            "COMPANY": "SWASTIKA INVESTMART LTD."
+            SYM: "SWASTIKA",
+            COM: "SWASTIKA INVESTMART LTD."
         },
         {
-            "SYM": "PRIMAPLA",
-            "COMPANY": "PRIMA PLASTICS LTD."
+            SYM: "PRIMAPLA",
+            COM: "PRIMA PLASTICS LTD."
         },
         {
-            "SYM": "TELECANOR",
-            "COMPANY": "TELECANOR GLOBAL LTD."
+            SYM: "TELECANOR",
+            COM: "TELECANOR GLOBAL LTD."
         },
         {
-            "SYM": "JAGSONFI",
-            "COMPANY": "JAGSONPAL FINANCE & LEASING LTD."
+            SYM: "JAGSONFI",
+            COM: "JAGSONPAL FINANCE & LEASING LTD."
         },
         {
-            "SYM": "CARNATIN",
-            "COMPANY": "CARNATION INDUSTRIES LTD."
+            SYM: "CARNATIN",
+            COM: "CARNATION INDUSTRIES LTD."
         },
         {
-            "SYM": "STURDY",
-            "COMPANY": "STURDY INDUSTRIES LTD."
+            SYM: "STURDY",
+            COM: "STURDY INDUSTRIES LTD."
         },
         {
-            "SYM": "GARGFUR",
-            "COMPANY": "GARG FURNACE LTD."
+            SYM: "GARGFUR",
+            COM: "GARG FURNACE LTD."
         },
         {
-            "SYM": "SAMPRE",
-            "COMPANY": "SAMPRE NUTRITIONS LTD."
+            SYM: "SAMPRE",
+            COM: "SAMPRE NUTRITIONS LTD."
         },
         {
-            "SYM": "AAIL",
-            "COMPANY": "Akar Auto Industries Ltd"
+            SYM: "AAIL",
+            COM: "Akar Auto Industries Ltd"
         },
         {
-            "SYM": "VIPULORG",
-            "COMPANY": "Vipul Organics Ltd"
+            SYM: "VIPULORG",
+            COM: "Vipul Organics Ltd"
         },
         {
-            "SYM": "ECORECO",
-            "COMPANY": "ECO RECYCLING LTD."
+            SYM: "ECORECO",
+            COM: "ECO RECYCLING LTD."
         },
         {
-            "SYM": "GOODLUCK",
-            "COMPANY": "Goodluck India Ltd"
+            SYM: "GOODLUCK",
+            COM: "Goodluck India Ltd"
         },
         {
-            "SYM": "GOYALASS",
-            "COMPANY": "GOYAL ASSOCIATES LTD."
+            SYM: "GOYALASS",
+            COM: "GOYAL ASSOCIATES LTD."
         },
         {
-            "SYM": "ZENITHHE",
-            "COMPANY": "ZENITH HEALTH CARE LTD."
+            SYM: "ZENITHHE",
+            COM: "ZENITH HEALTH CARE LTD."
         },
         {
-            "SYM": "PRESOFI",
-            "COMPANY": "PREM SOMANI FINANCIAL SERVICES LTD."
+            SYM: "PRESOFI",
+            COM: "PREM SOMANI FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "YORKEXP",
-            "COMPANY": "YORK EXPORTS LTD."
+            SYM: "YORKEXP",
+            COM: "YORK EXPORTS LTD."
         },
         {
-            "SYM": "SUPREME",
-            "COMPANY": "SUPREME HOLDINGS & HOSPITALITY (INDIA) LTD."
+            SYM: "SUPREME",
+            COM: "SUPREME HOLDINGS & HOSPITALITY (INDIA) LTD."
         },
         {
-            "SYM": "PITHP",
-            "COMPANY": "PITHAMPUR POLY PRODUCTS LTD."
+            SYM: "PITHP",
+            COM: "PITHAMPUR POLY PRODUCTS LTD."
         },
         {
-            "SYM": "LYKISLTD",
-            "COMPANY": "Lykis Limited"
+            SYM: "LYKISLTD",
+            COM: "Lykis Limited"
         },
         {
-            "SYM": "PRIMEPRO",
-            "COMPANY": "PRIME PROPERTY DEVELOPMENT CORPORATION LTD.-$"
+            SYM: "PRIMEPRO",
+            COM: "PRIME PROPERTY DEVELOPMENT CORPORATION LTD."
         },
         {
-            "SYM": "ZENLABS",
-            "COMPANY": "Zenlabs Ethica Ltd"
+            SYM: "ZENLABS",
+            COM: "Zenlabs Ethica Ltd"
         },
         {
-            "SYM": "RAJRAYON",
-            "COMPANY": "Raj Rayon Industries Limited-$"
+            SYM: "RAJRAYON",
+            COM: "Raj Rayon Industries Limited"
         },
         {
-            "SYM": "FLORATX",
-            "COMPANY": "FLORA TEXTILES LTD."
+            SYM: "FLORATX",
+            COM: "FLORA TEXTILES LTD."
         },
         {
-            "SYM": "GOWRALE",
-            "COMPANY": "GOWRA LEASING & FINANCE LTD."
+            SYM: "GOWRALE",
+            COM: "GOWRA LEASING & FINANCE LTD."
         },
         {
-            "SYM": "JAGANLAM",
-            "COMPANY": "JAGAN LAMPS LTD."
+            SYM: "JAGANLAM",
+            COM: "JAGAN LAMPS LTD."
         },
         {
-            "SYM": "AJEL",
-            "COMPANY": "AJEL LTD."
+            SYM: "AJEL",
+            COM: "AJEL LTD."
         },
         {
-            "SYM": "ALPSINDUS",
-            "COMPANY": "ALPS INDUSTRIES LTD."
+            SYM: "ALPSINDUS",
+            COM: "ALPS INDUSTRIES LTD."
         },
         {
-            "SYM": "ASITCFIN",
-            "COMPANY": "ASIT C.MEHTA FINANCIAL SERVICES LTD."
+            SYM: "ASITCFIN",
+            COM: "ASIT C.MEHTA FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "NOVAPUB",
-            "COMPANY": "Nova Publications India Ltd"
+            SYM: "NOVAPUB",
+            COM: "Nova Publications India Ltd"
         },
         {
-            "SYM": "SUPERBAK",
-            "COMPANY": "SUPER BAKERS (INDIA) LTD."
+            SYM: "SUPERBAK",
+            COM: "SUPER BAKERS (INDIA) LTD."
         },
         {
-            "SYM": "OVOBELE",
-            "COMPANY": "OVOBEL FOODS LTD."
+            SYM: "OVOBELE",
+            COM: "OVOBEL FOODS LTD."
         },
         {
-            "SYM": "INDOASIAF",
-            "COMPANY": "INDO ASIAN FINANCE LTD."
+            SYM: "INDOASIAF",
+            COM: "INDO ASIAN FINANCE LTD."
         },
         {
-            "SYM": "CORNE",
-            "COMPANY": "CORAL NEWSPRINTS LTD."
+            SYM: "CORNE",
+            COM: "CORAL NEWSPRINTS LTD."
         },
         {
-            "SYM": "STERTOOLS",
-            "COMPANY": "STERLING TOOLS LTD.-$"
+            SYM: "STERTOOLS",
+            COM: "STERLING TOOLS LTD."
         },
         {
-            "SYM": "DEVKI",
-            "COMPANY": "DEVKI LEASING & FINANCE LTD."
+            SYM: "DEVKI",
+            COM: "DEVKI LEASING & FINANCE LTD."
         },
         {
-            "SYM": "KLGCAP",
-            "COMPANY": "KLG CAPITAL SERVICES LTD."
+            SYM: "KLGCAP",
+            COM: "KLG CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "INFRAIND",
-            "COMPANY": "INFRA INDUSTRIES LTD."
+            SYM: "INFRAIND",
+            COM: "INFRA INDUSTRIES LTD."
         },
         {
-            "SYM": "DYNAMICP",
-            "COMPANY": "DYNAMIC PORTFOLIO MANAGEMENT & SERVICES LTD."
+            SYM: "DYNAMICP",
+            COM: "DYNAMIC PORTFOLIO MANAGEMENT & SERVICES LTD."
         },
         {
-            "SYM": "TRANSASIA",
-            "COMPANY": "TRANS ASIA CORPORATION LTD."
+            SYM: "TRANSASIA",
+            COM: "TRANS ASIA CORPORATION LTD."
         },
         {
-            "SYM": "CEEJAY",
-            "COMPANY": "CEEJAY FINANCE LTD."
+            SYM: "CEEJAY",
+            COM: "CEEJAY FINANCE LTD."
         },
         {
-            "SYM": "SUNCITYSY",
-            "COMPANY": "SUNCITY SYNTHETICS LTD."
+            SYM: "SUNCITYSY",
+            COM: "SUNCITY SYNTHETICS LTD."
         },
         {
-            "SYM": "SHGANEL",
-            "COMPANY": "SHREE GANESH ELASTOPLAST LTD."
+            SYM: "SHGANEL",
+            COM: "SHREE GANESH ELASTOPLAST LTD."
         },
         {
-            "SYM": "ANNAINFRA",
-            "COMPANY": "ANNA INFRASTRUCTURES LTD."
+            SYM: "ANNAINFRA",
+            COM: "ANNA INFRASTRUCTURES LTD."
         },
         {
-            "SYM": "BHAGIL",
-            "COMPANY": "Bhageria Industries Ltd"
+            SYM: "BHAGIL",
+            COM: "Bhageria Industries Ltd"
         },
         {
-            "SYM": "OIVL",
-            "COMPANY": "Onesource Ideas Venture Ltd"
+            SYM: "OIVL",
+            COM: "Onesource Ideas Venture Ltd"
         },
         {
-            "SYM": "BNRUDY",
-            "COMPANY": "BNR UDYOG LTD."
+            SYM: "BNRUDY",
+            COM: "BNR UDYOG LTD."
         },
         {
-            "SYM": "KRBL",
-            "COMPANY": "KRBL LTD."
+            SYM: "KRBL",
+            COM: "KRBL LTD."
         },
         {
-            "SYM": "REFNOL",
-            "COMPANY": "REFNOL RESINS & CHEMICALS LTD."
+            SYM: "REFNOL",
+            COM: "REFNOL RESINS & CHEMICALS LTD."
         },
         {
-            "SYM": "SSPDL",
-            "COMPANY": "SSPDL LTD.-$"
+            SYM: "SSPDL",
+            COM: "SSPDL LTD."
         },
         {
-            "SYM": "DAIKAFFI",
-            "COMPANY": "DAIKAFFIL CHEMICALS INDIA LTD."
+            SYM: "DAIKAFFI",
+            COM: "DAIKAFFIL CHEMICALS INDIA LTD."
         },
         {
-            "SYM": "CILSEC",
-            "COMPANY": "CIL SECURITIES LTD."
+            SYM: "CILSEC",
+            COM: "CIL SECURITIES LTD."
         },
         {
-            "SYM": "CLIOINFO",
-            "COMPANY": "CLIO INFOTECH LTD."
+            SYM: "CLIOINFO",
+            COM: "CLIO INFOTECH LTD."
         },
         {
-            "SYM": "SHRIBCL",
-            "COMPANY": "Shri Bholanath Carpets Ltd"
+            SYM: "SHRIBCL",
+            COM: "Shri Bholanath Carpets Ltd"
         },
         {
-            "SYM": "CUPID",
-            "COMPANY": "CUPID LTD.-$"
+            SYM: "CUPID",
+            COM: "CUPID LTD."
         },
         {
-            "SYM": "SUNSHIEL",
-            "COMPANY": "SUNSHIELD CHEMICALS LTD."
+            SYM: "SUNSHIEL",
+            COM: "SUNSHIELD CHEMICALS LTD."
         },
         {
-            "SYM": "HIPOLIN",
-            "COMPANY": "HIPOLIN LTD."
+            SYM: "HIPOLIN",
+            COM: "HIPOLIN LTD."
         },
         {
-            "SYM": "GDLLEAS",
-            "COMPANY": "GDL LEASING & FINANCE LTD."
+            SYM: "GDLLEAS",
+            COM: "GDL LEASING & FINANCE LTD."
         },
         {
-            "SYM": "CHEMBOND",
-            "COMPANY": "CHEMBOND CHEMICALS LTD.-$"
+            SYM: "CHEMBOND",
+            COM: "CHEMBOND CHEMICALS LTD."
         },
         {
-            "SYM": "CIFL",
-            "COMPANY": "Capital India Finance Ltd"
+            SYM: "CIFL",
+            COM: "Capital India Finance Ltd"
         },
         {
-            "SYM": "ABVL",
-            "COMPANY": "Arunjyoti Bio Ventures Ltd"
+            SYM: "ABVL",
+            COM: "Arunjyoti Bio Ventures Ltd"
         },
         {
-            "SYM": "SUCROSA",
-            "COMPANY": "SUPER CROP SAFE LTD."
+            SYM: "SUCROSA",
+            COM: "SUPER CROP SAFE LTD."
         },
         {
-            "SYM": "ALKA",
-            "COMPANY": "ALKA INDIA LTD."
+            SYM: "ALKA",
+            COM: "ALKA INDIA LTD."
         },
         {
-            "SYM": "NGIND",
-            "COMPANY": "N.G.INDUSTRIES LTD.-$"
+            SYM: "NGIND",
+            COM: "N.G.INDUSTRIES LTD."
         },
         {
-            "SYM": "ASIAPAK",
-            "COMPANY": "ASIA PACK LTD."
+            SYM: "ASIAPAK",
+            COM: "ASIA PACK LTD."
         },
         {
-            "SYM": "SAINDUS",
-            "COMPANY": "SAI INDUSTRIES LTD."
+            SYM: "SAINDUS",
+            COM: "SAI INDUSTRIES LTD."
         },
         {
-            "SYM": "ERPSOFT",
-            "COMPANY": "ERP SOFT SYSTEMS LTD."
+            SYM: "ERPSOFT",
+            COM: "ERP SOFT SYSTEMS LTD."
         },
         {
-            "SYM": "JRFOODS",
-            "COMPANY": "J.R.FOODS LTD."
+            SYM: "JRFOODS",
+            COM: "J.R.FOODS LTD."
         },
         {
-            "SYM": "RRSECUR",
-            "COMPANY": "R.R.SECURITIES LTD."
+            SYM: "RRSECUR",
+            COM: "R.R.SECURITIES LTD."
         },
         {
-            "SYM": "REMSONSIND",
-            "COMPANY": "REMSONS INDUSTRIES LTD."
+            SYM: "REMSONSIND",
+            COM: "REMSONS INDUSTRIES LTD."
         },
         {
-            "SYM": "RAMSONS",
-            "COMPANY": "RAMSONS PROJECTS LTD."
+            SYM: "RAMSONS",
+            COM: "RAMSONS PROJECTS LTD."
         },
         {
-            "SYM": "EUROASIA",
-            "COMPANY": "EURO ASIA EXPORTS LTD."
+            SYM: "EUROASIA",
+            COM: "EURO ASIA EXPORTS LTD."
         },
         {
-            "SYM": "STANPACK",
-            "COMPANY": "STANPACKS (INDIA) LTD."
+            SYM: "STANPACK",
+            COM: "STANPACKS (INDIA) LTD."
         },
         {
-            "SYM": "SABTN",
-            "COMPANY": "SRI ADHIKARI BROTHERS TELEVISION NETWORK LTD."
+            SYM: "SABTN",
+            COM: "SRI ADHIKARI BROTHERS TELEVISION NETWORK LTD."
         },
         {
-            "SYM": "RAMINFO",
-            "COMPANY": "RAMINFO LIMITED"
+            SYM: "RAMINFO",
+            COM: "RAMINFO LIMITED"
         },
         {
-            "SYM": "SUNILAGR",
-            "COMPANY": "SUNIL AGRO FOODS LTD.-$"
+            SYM: "SUNILAGR",
+            COM: "SUNIL AGRO FOODS LTD."
         },
         {
-            "SYM": "DIANATEA",
-            "COMPANY": "DIANA TEA CO.LTD."
+            SYM: "DIANATEA",
+            COM: "DIANA TEA CO.LTD."
         },
         {
-            "SYM": "VIKASECO",
-            "COMPANY": "Vikas EcoTech Ltd"
+            SYM: "VIKASECO",
+            COM: "Vikas EcoTech Ltd"
         },
         {
-            "SYM": "IOC",
-            "COMPANY": "INDIAN OIL CORPORATION LTD."
+            SYM: "IOC",
+            COM: "INDIAN OIL CORPORATION LTD."
         },
         {
-            "SYM": "ALFAICA",
-            "COMPANY": "ALFA ICA (INDIA) LTD."
+            SYM: "ALFAICA",
+            COM: "ALFA ICA (INDIA) LTD."
         },
         {
-            "SYM": "SKCIL",
-            "COMPANY": "Shri Keshav Cements And Infra Ltd"
+            SYM: "SKCIL",
+            COM: "Shri Keshav Cements And Infra Ltd"
         },
         {
-            "SYM": "INDIAHOME",
-            "COMPANY": "INDIA HOME LOAN LTD."
+            SYM: "INDIAHOME",
+            COM: "INDIA HOME LOAN LTD."
         },
         {
-            "SYM": "JPTSEC",
-            "COMPANY": "JPT SECURITIES LTD."
+            SYM: "JPTSEC",
+            COM: "JPT SECURITIES LTD."
         },
         {
-            "SYM": "ROOPAIND",
-            "COMPANY": "ROOPA INDUSTRIES LTD."
+            SYM: "ROOPAIND",
+            COM: "ROOPA INDUSTRIES LTD."
         },
         {
-            "SYM": "SARTHAKGL",
-            "COMPANY": "SARTHAK GLOBAL LTD."
+            SYM: "SARTHAKGL",
+            COM: "SARTHAK GLOBAL LTD."
         },
         {
-            "SYM": "UNIQUEO",
-            "COMPANY": "UNIQUE ORGANICS LTD."
+            SYM: "UNIQUEO",
+            COM: "UNIQUE ORGANICS LTD."
         },
         {
-            "SYM": "BALAMINES",
-            "COMPANY": "BALAJI AMINES LTD.-$"
+            SYM: "BALAMINES",
+            COM: "BALAJI AMINES LTD."
         },
         {
-            "SYM": "SWRNASE",
-            "COMPANY": "SWARNA SECURITIES LTD."
+            SYM: "SWRNASE",
+            COM: "SWARNA SECURITIES LTD."
         },
         {
-            "SYM": "ARISE",
-            "COMPANY": "ARIHANT&#39;S SECURITIES LTD."
+            SYM: "ARISE",
+            COM: "ARIHANT&#39;S SECURITIES LTD."
         },
         {
-            "SYM": "VISAGAR",
-            "COMPANY": "VISAGAR FINANCIAL SERVICES LTD."
+            SYM: "VISAGAR",
+            COM: "VISAGAR FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "LIBORD",
-            "COMPANY": "LIBORD SECURITIES LTD."
+            SYM: "LIBORD",
+            COM: "LIBORD SECURITIES LTD."
         },
         {
-            "SYM": "REGAL",
-            "COMPANY": "REGAL ENTERTAINMENT & CONSULTANTS LTD."
+            SYM: "REGAL",
+            COM: "REGAL ENTERTAINMENT & CONSULTANTS LTD."
         },
         {
-            "SYM": "JRELTD",
-            "COMPANY": "Justride Enterprises Ltd"
+            SYM: "JRELTD",
+            COM: "Justride Enterprises Ltd"
         },
         {
-            "SYM": "COMPEAU",
-            "COMPANY": "COMPETENT AUTOMOBILES CO.LTD."
+            SYM: "COMPEAU",
+            COM: "COMPETENT AUTOMOBILES CO.LTD."
         },
         {
-            "SYM": "ZDHJERK",
-            "COMPANY": "DHANVANTRI JEEVAN REKHA LTD."
+            SYM: "ZDHJERK",
+            COM: "DHANVANTRI JEEVAN REKHA LTD."
         },
         {
-            "SYM": "NEELKAN",
-            "COMPANY": "NEELKANTH ROCKMINERALS LTD."
+            SYM: "NEELKAN",
+            COM: "NEELKANTH ROCKMINERALS LTD."
         },
         {
-            "SYM": "VINTAGES",
-            "COMPANY": "VINTAGE SECURITIES LTD."
+            SYM: "VINTAGES",
+            COM: "VINTAGE SECURITIES LTD."
         },
         {
-            "SYM": "OSWALOR",
-            "COMPANY": "OSWAL OVERSEAS LTD."
+            SYM: "OSWALOR",
+            COM: "OSWAL OVERSEAS LTD."
         },
         {
-            "SYM": "CONTILI",
-            "COMPANY": "CONTIL INDIA LTD."
+            SYM: "CONTILI",
+            COM: "CONTIL INDIA LTD."
         },
         {
-            "SYM": "VIJSOLX",
-            "COMPANY": "VIJAY SOLVEX LTD."
+            SYM: "VIJSOLX",
+            COM: "VIJAY SOLVEX LTD."
         },
         {
-            "SYM": "SHRIKRISH",
-            "COMPANY": "SHRI KRISHNA DEVCON LTD."
+            SYM: "SHRIKRISH",
+            COM: "SHRI KRISHNA DEVCON LTD."
         },
         {
-            "SYM": "ALANKIT",
-            "COMPANY": "Alankit Ltd"
+            SYM: "ALANKIT",
+            COM: "Alankit Ltd"
         },
         {
-            "SYM": "NIHARINF",
-            "COMPANY": "NIHAR INFO GLOBAL LTD."
+            SYM: "NIHARINF",
+            COM: "NIHAR INFO GLOBAL LTD."
         },
         {
-            "SYM": "UNITDCR",
-            "COMPANY": "UNITED CREDIT LTD."
+            SYM: "UNITDCR",
+            COM: "UNITED CREDIT LTD."
         },
         {
-            "SYM": "OMINFRAL",
-            "COMPANY": "OM Infra Ltd"
+            SYM: "OMINFRAL",
+            COM: "OM Infra Ltd"
         },
         {
-            "SYM": "RUBRAME",
-            "COMPANY": "RUBRA MEDICAMENTS LTD."
+            SYM: "RUBRAME",
+            COM: "RUBRA MEDICAMENTS LTD."
         },
         {
-            "SYM": "ISHANCH",
-            "COMPANY": "ISHAN DYES & CHEMICALS LTD."
+            SYM: "ISHANCH",
+            COM: "ISHAN DYES & CHEMICALS LTD."
         },
         {
-            "SYM": "GOTHIPL",
-            "COMPANY": "GOTHI PLASCON (INDIA) LTD."
+            SYM: "GOTHIPL",
+            COM: "GOTHI PLASCON (INDIA) LTD."
         },
         {
-            "SYM": "BALUFORGE",
-            "COMPANY": "Balu Forge Industries Ltd"
+            SYM: "BALUFORGE",
+            COM: "Balu Forge Industries Ltd"
         },
         {
-            "SYM": "CEENIK",
-            "COMPANY": "CEENIK EXPORTS (INDIA) LTD."
+            SYM: "CEENIK",
+            COM: "CEENIK EXPORTS (INDIA) LTD."
         },
         {
-            "SYM": "PATELENG",
-            "COMPANY": "PATEL ENGINEERING LTD.-$"
+            SYM: "PATELENG",
+            COM: "PATEL ENGINEERING LTD."
         },
         {
-            "SYM": "VIRTUALS",
-            "COMPANY": "VIRTUALSOFT SYSTEMS LTD."
+            SYM: "VIRTUALS",
+            COM: "VIRTUALSOFT SYSTEMS LTD."
         },
         {
-            "SYM": "MENAMANI",
-            "COMPANY": "Mena Mani Industries Ltd"
+            SYM: "MENAMANI",
+            COM: "Mena Mani Industries Ltd"
         },
         {
-            "SYM": "INANI",
-            "COMPANY": "INANI MARBLES & INDUSTRIES LTD."
+            SYM: "INANI",
+            COM: "INANI MARBLES & INDUSTRIES LTD."
         },
         {
-            "SYM": "GEMSI",
-            "COMPANY": "GEMSTONE INVESTMENTS LTD."
+            SYM: "GEMSI",
+            COM: "GEMSTONE INVESTMENTS LTD."
         },
         {
-            "SYM": "MEDICAMEQ",
-            "COMPANY": "MEDICAMEN BIOTECH LTD.-$"
+            SYM: "MEDICAMEQ",
+            COM: "MEDICAMEN BIOTECH LTD."
         },
         {
-            "SYM": "ALICON",
-            "COMPANY": "Alicon Castalloy Limited"
+            SYM: "ALICON",
+            COM: "Alicon Castalloy Limited"
         },
         {
-            "SYM": "DILIGENT",
-            "COMPANY": "DILIGENT INDUSTRIES LTD."
+            SYM: "DILIGENT",
+            COM: "DILIGENT INDUSTRIES LTD."
         },
         {
-            "SYM": "EPSOMPRO",
-            "COMPANY": "EPSOM PROPERTIES LTD."
+            SYM: "EPSOMPRO",
+            COM: "EPSOM PROPERTIES LTD."
         },
         {
-            "SYM": "ALFAVIO",
-            "COMPANY": "ALFAVISION OVERSEAS (INDIA) LTD."
+            SYM: "ALFAVIO",
+            COM: "ALFAVISION OVERSEAS (INDIA) LTD."
         },
         {
-            "SYM": "ORGCOAT",
-            "COMPANY": "ORGANIC COATINGS LTD."
+            SYM: "ORGCOAT",
+            COM: "ORGANIC COATINGS LTD."
         },
         {
-            "SYM": "CATVISION",
-            "COMPANY": "Catvision Limited"
+            SYM: "CATVISION",
+            COM: "Catvision Limited"
         },
         {
-            "SYM": "ABMKNO",
-            "COMPANY": "ABM KNOWLEDGEWARE LTD."
+            SYM: "ABMKNO",
+            COM: "ABM KNOWLEDGEWARE LTD."
         },
         {
-            "SYM": "EMAMILTD",
-            "COMPANY": "EMAMI LTD.-$"
+            SYM: "EMAMILTD",
+            COM: "EMAMI LTD."
         },
         {
-            "SYM": "KEMISTAR",
-            "COMPANY": "Kemistar Corporation Limited"
+            SYM: "KEMISTAR",
+            COM: "Kemistar Corporation Limited"
         },
         {
-            "SYM": "LADIAMO",
-            "COMPANY": "LASER DIAMONDS LTD."
+            SYM: "LADIAMO",
+            COM: "LASER DIAMONDS LTD."
         },
         {
-            "SYM": "SKPSEC",
-            "COMPANY": "SKP SECURITIES LTD."
+            SYM: "SKPSEC",
+            COM: "SKP SECURITIES LTD."
         },
         {
-            "SYM": "PRANAVSP",
-            "COMPANY": "PRANAVADITYA SPINNING MILLS LTD."
+            SYM: "PRANAVSP",
+            COM: "PRANAVADITYA SPINNING MILLS LTD."
         },
         {
-            "SYM": "SYSCHEM",
-            "COMPANY": "SYSCHEM (INDIA) LTD."
+            SYM: "SYSCHEM",
+            COM: "SYSCHEM (INDIA) LTD."
         },
         {
-            "SYM": "MEFCOMCAP",
-            "COMPANY": "MEFCOM CAPITAL MARKETS LTD."
+            SYM: "MEFCOMCAP",
+            COM: "MEFCOM CAPITAL MARKETS LTD."
         },
         {
-            "SYM": "HEMANG",
-            "COMPANY": "Hemang Resources Ltd"
+            SYM: "HEMANG",
+            COM: "Hemang Resources Ltd"
         },
         {
-            "SYM": "ARMANFIN",
-            "COMPANY": "ARMAN FINANCIAL SERVICES LTD."
+            SYM: "ARMANFIN",
+            COM: "ARMAN FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "TAVERNIER",
-            "COMPANY": "Tavernier Resources Limi"
+            SYM: "TAVERNIER",
+            COM: "Tavernier Resources Limi"
         },
         {
-            "SYM": "MIDINFRA",
-            "COMPANY": "Midas Infra Trade Limited"
+            SYM: "MIDINFRA",
+            COM: "Midas Infra Trade Limited"
         },
         {
-            "SYM": "GAGANPO",
-            "COMPANY": "GAGAN POLYCOT INDIA LTD."
+            SYM: "GAGANPO",
+            COM: "GAGAN POLYCOT INDIA LTD."
         },
         {
-            "SYM": "DHANADACO",
-            "COMPANY": "DHANADA CORPORATION LTD."
+            SYM: "DHANADACO",
+            COM: "DHANADA CORPORATION LTD."
         },
         {
-            "SYM": "GLANCE",
-            "COMPANY": "GLANCE FINANCE LTD."
+            SYM: "GLANCE",
+            COM: "GLANCE FINANCE LTD."
         },
         {
-            "SYM": "SHILCTECH",
-            "COMPANY": "SHILCHAR TECHNOLOGIES LTD."
+            SYM: "SHILCTECH",
+            COM: "SHILCHAR TECHNOLOGIES LTD."
         },
         {
-            "SYM": "BRANDREAL",
-            "COMPANY": "BRAND REALTY SERVICES LTD."
+            SYM: "BRANDREAL",
+            COM: "BRAND REALTY SERVICES LTD."
         },
         {
-            "SYM": "KANSAFB",
-            "COMPANY": "KANSAL FIBRES LTD."
+            SYM: "KANSAFB",
+            COM: "KANSAL FIBRES LTD."
         },
         {
-            "SYM": "NUCLEUS",
-            "COMPANY": "NUCLEUS SOFTWARE EXPORTS LTD."
+            SYM: "NUCLEUS",
+            COM: "NUCLEUS SOFTWARE EXPORTS LTD."
         },
         {
-            "SYM": "COLINZ",
-            "COMPANY": "COLINZ LABORATORIES LTD."
+            SYM: "COLINZ",
+            COM: "COLINZ LABORATORIES LTD."
         },
         {
-            "SYM": "WELLNESS",
-            "COMPANY": "WELLNESS NONI LTD."
+            SYM: "WELLNESS",
+            COM: "WELLNESS NONI LTD."
         },
         {
-            "SYM": "NALINLEA",
-            "COMPANY": "NALIN LEASE FINANCE LTD."
+            SYM: "NALINLEA",
+            COM: "NALIN LEASE FINANCE LTD."
         },
         {
-            "SYM": "MANAPPURAM",
-            "COMPANY": "MANAPPURAM FINANCE LTD."
+            SYM: "MANAPPURAM",
+            COM: "MANAPPURAM FINANCE LTD."
         },
         {
-            "SYM": "RTSPOWR",
-            "COMPANY": "RTS POWER CORPORATION LTD."
+            SYM: "RTSPOWR",
+            COM: "RTS POWER CORPORATION LTD."
         },
         {
-            "SYM": "COMFINTE",
-            "COMPANY": "COMFORT INTECH LTD.-$"
+            SYM: "COMFINTE",
+            COM: "COMFORT INTECH LTD."
         },
         {
-            "SYM": "MAYURFL",
-            "COMPANY": "MAYUR FLOORINGS LTD."
+            SYM: "MAYURFL",
+            COM: "MAYUR FLOORINGS LTD."
         },
         {
-            "SYM": "ANJANI",
-            "COMPANY": "ANJANI SYNTHETICS LTD.-$"
+            SYM: "ANJANI",
+            COM: "ANJANI SYNTHETICS LTD."
         },
         {
-            "SYM": "XTGLOBAL",
-            "COMPANY": "Xtglobal Infotech Ltd"
+            SYM: "XTGLOBAL",
+            COM: "Xtglobal Infotech Ltd"
         },
         {
-            "SYM": "DECOMIC",
-            "COMPANY": "DECO-MICA LTD."
+            SYM: "DECOMIC",
+            COM: "DECO-MICA LTD."
         },
         {
-            "SYM": "RANDER",
-            "COMPANY": "RANDER CORPORATION LTD."
+            SYM: "RANDER",
+            COM: "RANDER CORPORATION LTD."
         },
         {
-            "SYM": "RASIELEC",
-            "COMPANY": "RASI ELECTRODES LTD."
+            SYM: "RASIELEC",
+            COM: "RASI ELECTRODES LTD."
         },
         {
-            "SYM": "VICTORYPP",
-            "COMPANY": "VICTORY PAPER & BOARDS (INDIA) LTD."
+            SYM: "VICTORYPP",
+            COM: "VICTORY PAPER & BOARDS (INDIA) LTD."
         },
         {
-            "SYM": "CITIPOR",
-            "COMPANY": "CITIPORT FINANCIAL SERVICES LTD."
+            SYM: "CITIPOR",
+            COM: "CITIPORT FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "DHRUVCA",
-            "COMPANY": "DHRUVA CAPITAL SERVICES LTD."
+            SYM: "DHRUVCA",
+            COM: "DHRUVA CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "LINCPENQ",
-            "COMPANY": "LINC PEN & PLASTICS LTD.-$"
+            SYM: "LINCPENQ",
+            COM: "LINC PEN & PLASTICS LTD."
         },
         {
-            "SYM": "PRIMAIN",
-            "COMPANY": "PRIMA INDUSTRIES LTD."
+            SYM: "PRIMAIN",
+            COM: "PRIMA INDUSTRIES LTD."
         },
         {
-            "SYM": "ANERI",
-            "COMPANY": "Aneri Fincap Ltd"
+            SYM: "ANERI",
+            COM: "Aneri Fincap Ltd"
         },
         {
-            "SYM": "INDGELA",
-            "COMPANY": "INDIA GELATINE & CHEMICALS LTD.-$"
+            SYM: "INDGELA",
+            COM: "INDIA GELATINE & CHEMICALS LTD."
         },
         {
-            "SYM": "OPTIFIN",
-            "COMPANY": "Optimus Finance Ltd"
+            SYM: "OPTIFIN",
+            COM: "Optimus Finance Ltd"
         },
         {
-            "SYM": "PARAGONF",
-            "COMPANY": "PARAGON FINANCE LTD."
+            SYM: "PARAGONF",
+            COM: "PARAGON FINANCE LTD."
         },
         {
-            "SYM": "PRATIKSH",
-            "COMPANY": "PRATIKSHA CHEMICALS LTD."
+            SYM: "PRATIKSH",
+            COM: "PRATIKSHA CHEMICALS LTD."
         },
         {
-            "SYM": "ESHAMEDIA",
-            "COMPANY": "Esha Media Research Limited"
+            SYM: "ESHAMEDIA",
+            COM: "Esha Media Research Limited"
         },
         {
-            "SYM": "SUNEDISON",
-            "COMPANY": "Sunedison Infrastructure Ltd"
+            SYM: "SUNEDISON",
+            COM: "Sunedison Infrastructure Ltd"
         },
         {
-            "SYM": "PROGREXV",
-            "COMPANY": "Progrex Ventures Ltd"
+            SYM: "PROGREXV",
+            COM: "Progrex Ventures Ltd"
         },
         {
-            "SYM": "VSTTILLERS",
-            "COMPANY": "V.S.T.TILLERS TRACTORS LTD.-$"
+            SYM: "VSTTILLERS",
+            COM: "V.S.T.TILLERS TRACTORS LTD."
         },
         {
-            "SYM": "B2BSOFT",
-            "COMPANY": "B2B SOFTWARE TECHNOLOGIES LTD."
+            SYM: "B2BSOFT",
+            COM: "B2B SOFTWARE TECHNOLOGIES LTD."
         },
         {
-            "SYM": "NIKKIGL",
-            "COMPANY": "NIKKI GLOBAL FINANCE LTD."
+            SYM: "NIKKIGL",
+            COM: "NIKKI GLOBAL FINANCE LTD."
         },
         {
-            "SYM": "RADHEDE",
-            "COMPANY": "RADHE DEVELOPERS (INDIA) LTD."
+            SYM: "RADHEDE",
+            COM: "RADHE DEVELOPERS (INDIA) LTD."
         },
         {
-            "SYM": "KINETRU",
-            "COMPANY": "KINETIC TRUST LTD."
+            SYM: "KINETRU",
+            COM: "KINETIC TRUST LTD."
         },
         {
-            "SYM": "ELIXIR",
-            "COMPANY": "Elixir Capital Ltd"
+            SYM: "ELIXIR",
+            COM: "Elixir Capital Ltd"
         },
         {
-            "SYM": "PANKAJPO",
-            "COMPANY": "PANKAJ POLYMERS LTD."
+            SYM: "PANKAJPO",
+            COM: "PANKAJ POLYMERS LTD."
         },
         {
-            "SYM": "PGINDST",
-            "COMPANY": "PG INDUSTRY LTD."
+            SYM: "PGINDST",
+            COM: "PG INDUSTRY LTD."
         },
         {
-            "SYM": "CINDRELL",
-            "COMPANY": "CINDRELLA FINANCIAL SERVICES LTD."
+            SYM: "CINDRELL",
+            COM: "CINDRELLA FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "NATPLASTI",
-            "COMPANY": "NATIONAL PLASTIC TECHNOLOGIES LTD."
+            SYM: "NATPLASTI",
+            COM: "NATIONAL PLASTIC TECHNOLOGIES LTD."
         },
         {
-            "SYM": "LEADFIN",
-            "COMPANY": "LEAD FINANCIAL SERVICES LTD."
+            SYM: "LEADFIN",
+            COM: "LEAD FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "NATFIT",
-            "COMPANY": "National Fittings Limited"
+            SYM: "NATFIT",
+            COM: "National Fittings Limited"
         },
         {
-            "SYM": "ARTEFACT",
-            "COMPANY": "ARTEFACT PROJECTS LTD."
+            SYM: "ARTEFACT",
+            COM: "ARTEFACT PROJECTS LTD."
         },
         {
-            "SYM": "AMITINT",
-            "COMPANY": "AMIT INTERNATIONAL LTD."
+            SYM: "AMITINT",
+            COM: "AMIT INTERNATIONAL LTD."
         },
         {
-            "SYM": "HIGHSTREE",
-            "COMPANY": "HIGH STREET FILATEX LTD."
+            SYM: "HIGHSTREE",
+            COM: "HIGH STREET FILATEX LTD."
         },
         {
-            "SYM": "NUTECGLOB",
-            "COMPANY": "NUTECH GLOBAL LTD."
+            SYM: "NUTECGLOB",
+            COM: "NUTECH GLOBAL LTD."
         },
         {
-            "SYM": "DHPIND",
-            "COMPANY": "DHP INDIA LTD."
+            SYM: "DHPIND",
+            COM: "DHP INDIA LTD."
         },
         {
-            "SYM": "RRIL",
-            "COMPANY": "RRIL Ltd"
+            SYM: "RRIL",
+            COM: "RRIL Ltd"
         },
         {
-            "SYM": "AVAILFC",
-            "COMPANY": "AVAILABLE FINANCE LTD."
+            SYM: "AVAILFC",
+            COM: "AVAILABLE FINANCE LTD."
         },
         {
-            "SYM": "INTCAPM",
-            "COMPANY": "INTEGRA CAPITAL MANAGEMENT LTD."
+            SYM: "INTCAPM",
+            COM: "INTEGRA CAPITAL MANAGEMENT LTD."
         },
         {
-            "SYM": "MARUTISE",
-            "COMPANY": "MARUTI SECURITIES LTD."
+            SYM: "MARUTISE",
+            COM: "MARUTI SECURITIES LTD."
         },
         {
-            "SYM": "HAVISHA",
-            "COMPANY": "Sri Havisha Hospitality And Infrastructure Ltd"
+            SYM: "HAVISHA",
+            COM: "Sri Havisha Hospitality And Infrastructure Ltd"
         },
         {
-            "SYM": "JAYIND",
-            "COMPANY": "Jayatma Industries Ltd"
+            SYM: "JAYIND",
+            COM: "Jayatma Industries Ltd"
         },
         {
-            "SYM": "CHARMS",
-            "COMPANY": "CHARMS INDUSTRIES LTD."
+            SYM: "CHARMS",
+            COM: "CHARMS INDUSTRIES LTD."
         },
         {
-            "SYM": "KRETTOSYS",
-            "COMPANY": "Kretto Syscon Ltd"
+            SYM: "KRETTOSYS",
+            COM: "Kretto Syscon Ltd"
         },
         {
-            "SYM": "VIKALPS",
-            "COMPANY": "VIKALP SECURITIES LTD."
+            SYM: "VIKALPS",
+            COM: "VIKALP SECURITIES LTD."
         },
         {
-            "SYM": "ZYDUSWELL",
-            "COMPANY": "ZYDUS WELLNESS LTD.-$"
+            SYM: "ZYDUSWELL",
+            COM: "ZYDUS WELLNESS LTD."
         },
         {
-            "SYM": "AUROCOK",
-            "COMPANY": "AUROMA COKE LTD."
+            SYM: "AUROCOK",
+            COM: "AUROMA COKE LTD."
         },
         {
-            "SYM": "JUMPNET",
-            "COMPANY": "Jump Networks Ltd"
+            SYM: "JUMPNET",
+            COM: "Jump Networks Ltd"
         },
         {
-            "SYM": "MILESTONE",
-            "COMPANY": "MILESTONE GLOBAL LTD."
+            SYM: "MILESTONE",
+            COM: "MILESTONE GLOBAL LTD."
         },
         {
-            "SYM": "BERVINL",
-            "COMPANY": "BERVIN INVESTMENT & LEASING LTD."
+            SYM: "BERVINL",
+            COM: "BERVIN INVESTMENT & LEASING LTD."
         },
         {
-            "SYM": "GUJINV",
-            "COMPANY": "GUJARAT INVESTA LTD."
+            SYM: "GUJINV",
+            COM: "GUJARAT INVESTA LTD."
         },
         {
-            "SYM": "INDINFRA",
-            "COMPANY": "INDIA INFRASPACE LTD."
+            SYM: "INDINFRA",
+            COM: "INDIA INFRASPACE LTD."
         },
         {
-            "SYM": "CONCOR",
-            "COMPANY": "CONTAINER CORPORATION OF INDIA LTD."
+            SYM: "CONCOR",
+            COM: "CONTAINER CORPORATION OF INDIA LTD."
         },
         {
-            "SYM": "EASTRED",
-            "COMPANY": "EASTERN TREADS LTD."
+            SYM: "EASTRED",
+            COM: "EASTERN TREADS LTD."
         },
         {
-            "SYM": "PANACEABIO",
-            "COMPANY": "PANACEA BIOTEC LTD."
+            SYM: "PANACEABIO",
+            COM: "PANACEA BIOTEC LTD."
         },
         {
-            "SYM": "PEETISEC",
-            "COMPANY": "PEETI SECURITIES LTD."
+            SYM: "PEETISEC",
+            COM: "PEETI SECURITIES LTD."
         },
         {
-            "SYM": "MERMETL",
-            "COMPANY": "MERCURY METALS LTD."
+            SYM: "MERMETL",
+            COM: "MERCURY METALS LTD."
         },
         {
-            "SYM": "CHOICEIN",
-            "COMPANY": "CHOICE INTERNATIONAL LTD."
+            SYM: "CHOICEIN",
+            COM: "CHOICE INTERNATIONAL LTD."
         },
         {
-            "SYM": "SRAMSET",
-            "COMPANY": "SHRIRAM ASSET MANAGEMENT CO.LTD."
+            SYM: "SRAMSET",
+            COM: "SHRIRAM ASSET MANAGEMENT CO.LTD."
         },
         {
-            "SYM": "GOLECHA",
-            "COMPANY": "GOLECHHA GLOBAL FINANCE LTD."
+            SYM: "GOLECHA",
+            COM: "GOLECHHA GLOBAL FINANCE LTD."
         },
         {
-            "SYM": "PARAMONE",
-            "COMPANY": "Paramone Concepts Ltd"
+            SYM: "PARAMONE",
+            COM: "Paramone Concepts Ltd"
         },
         {
-            "SYM": "SPARCSYS",
-            "COMPANY": "SPARC SYSTEMS LTD."
+            SYM: "SPARCSYS",
+            COM: "SPARC SYSTEMS LTD."
         },
         {
-            "SYM": "THEBYKE",
-            "COMPANY": "THE BYKE HOSPITALITY LTD."
+            SYM: "THEBYKE",
+            COM: "THE BYKE HOSPITALITY LTD."
         },
         {
-            "SYM": "CSURGSU",
-            "COMPANY": "CENTENIAL SURGICAL SUTURE LTD."
+            SYM: "CSURGSU",
+            COM: "CENTENIAL SURGICAL SUTURE LTD."
         },
         {
-            "SYM": "ARIHANT",
-            "COMPANY": "ARIHANT FOUNDATIONS & HOUSING LTD.-$"
+            SYM: "ARIHANT",
+            COM: "ARIHANT FOUNDATIONS & HOUSING LTD."
         },
         {
-            "SYM": "HASTIFIN",
-            "COMPANY": "HASTI FINANCE LTD."
+            SYM: "HASTIFIN",
+            COM: "HASTI FINANCE LTD."
         },
         {
-            "SYM": "UPSURGE",
-            "COMPANY": "UPSURGE INVESTMENT & FINANCE LTD."
+            SYM: "UPSURGE",
+            COM: "UPSURGE INVESTMENT & FINANCE LTD."
         },
         {
-            "SYM": "PADAMCO",
-            "COMPANY": "PADAM COTTON YARNS LTD."
+            SYM: "PADAMCO",
+            COM: "PADAM COTTON YARNS LTD."
         },
         {
-            "SYM": "WOMENNET",
-            "COMPANY": "WOMEN NETWORKS LTD."
+            SYM: "WOMENNET",
+            COM: "WOMEN NETWORKS LTD."
         },
         {
-            "SYM": "POLYCON",
-            "COMPANY": "POLYCON INTERNATIONAL LTD."
+            SYM: "POLYCON",
+            COM: "POLYCON INTERNATIONAL LTD."
         },
         {
-            "SYM": "SOURCENTRL",
-            "COMPANY": "SOURCE NATURAL FOODS & HERBAL SUPPL LTD."
+            SYM: "SOURCENTRL",
+            COM: "SOURCE NATURAL FOODS & HERBAL SUPPL LTD."
         },
         {
-            "SYM": "ALMONDZ",
-            "COMPANY": "ALMONDZ GLOBAL SECURITIES LTD."
+            SYM: "ALMONDZ",
+            COM: "ALMONDZ GLOBAL SECURITIES LTD."
         },
         {
-            "SYM": "LWSKNIT",
-            "COMPANY": "LWS KNITWEAR LTD."
+            SYM: "LWSKNIT",
+            COM: "LWS KNITWEAR LTD."
         },
         {
-            "SYM": "ANSINDUS",
-            "COMPANY": "ANS Industries Ltd"
+            SYM: "ANSINDUS",
+            COM: "ANS Industries Ltd"
         },
         {
-            "SYM": "TUNITEX",
-            "COMPANY": "TUNI TEXTILE MILLS LTD."
+            SYM: "TUNITEX",
+            COM: "TUNI TEXTILE MILLS LTD."
         },
         {
-            "SYM": "RADIXIND",
-            "COMPANY": "Radix Industries (India) Limited"
+            SYM: "RADIXIND",
+            COM: "Radix Industries (India) Limited"
         },
         {
-            "SYM": "KIRANPR",
-            "COMPANY": "KIRAN PRINT-PACK LTD."
+            SYM: "KIRANPR",
+            COM: "KIRAN PRINT-PACK LTD."
         },
         {
-            "SYM": "NARPROP",
-            "COMPANY": "NARENDRA PROPERTIES LTD."
+            SYM: "NARPROP",
+            COM: "NARENDRA PROPERTIES LTD."
         },
         {
-            "SYM": "MEGACOR",
-            "COMPANY": "MEGA CORPORATION LTD."
+            SYM: "MEGACOR",
+            COM: "MEGA CORPORATION LTD."
         },
         {
-            "SYM": "TNPL",
-            "COMPANY": "TAMIL NADU NEWSPRINT & PAPERS LTD."
+            SYM: "TNPL",
+            COM: "TAMIL NADU NEWSPRINT & PAPERS LTD."
         },
         {
-            "SYM": "ADVENT",
-            "COMPANY": "ADVENT COMPUTER SERVICES LTD."
+            SYM: "ADVENT",
+            COM: "ADVENT COMPUTER SERVICES LTD."
         },
         {
-            "SYM": "SHAKTIPUMP",
-            "COMPANY": "SHAKTI PUMPS (INDIA) LTD.-$"
+            SYM: "SHAKTIPUMP",
+            COM: "SHAKTI PUMPS (INDIA) LTD."
         },
         {
-            "SYM": "SUNGOLD",
-            "COMPANY": "SUNGOLD CAPITAL LTD."
+            SYM: "SUNGOLD",
+            COM: "SUNGOLD CAPITAL LTD."
         },
         {
-            "SYM": "SAFFRON",
-            "COMPANY": "Saffron Industries Limited"
+            SYM: "SAFFRON",
+            COM: "Saffron Industries Limited"
         },
         {
-            "SYM": "PWASML",
-            "COMPANY": "Prakash Woollen & Synthetic Mills Ltd"
+            SYM: "PWASML",
+            COM: "Prakash Woollen & Synthetic Mills Ltd"
         },
         {
-            "SYM": "GOLDTECH",
-            "COMPANY": "GOLDSTONE TECHNOLOGIES LTD."
+            SYM: "GOLDTECH",
+            COM: "GOLDSTONE TECHNOLOGIES LTD."
         },
         {
-            "SYM": "VARDHMAN",
-            "COMPANY": "Vardhman Concrete Limited"
+            SYM: "VARDHMAN",
+            COM: "Vardhman Concrete Limited"
         },
         {
-            "SYM": "GRMOVER",
-            "COMPANY": "GRM OVERSEAS LTD."
+            SYM: "GRMOVER",
+            COM: "GRM OVERSEAS LTD."
         },
         {
-            "SYM": "MOHITIND",
-            "COMPANY": "MOHIT INDUSTRIES LTD.-$"
+            SYM: "MOHITIND",
+            COM: "MOHIT INDUSTRIES LTD."
         },
         {
-            "SYM": "POLYLINK",
-            "COMPANY": "POLYLINK POLYMERS (INDIA) LTD."
+            SYM: "POLYLINK",
+            COM: "POLYLINK POLYMERS (INDIA) LTD."
         },
         {
-            "SYM": "MINAXI",
-            "COMPANY": "MINAXI TEXTILES LTD."
+            SYM: "MINAXI",
+            COM: "MINAXI TEXTILES LTD."
         },
         {
-            "SYM": "CONTICON",
-            "COMPANY": "CONTINENTAL CONTROLS LTD."
+            SYM: "CONTICON",
+            COM: "CONTINENTAL CONTROLS LTD."
         },
         {
-            "SYM": "NOUVEAU",
-            "COMPANY": "NOUVEAU GLOBAL VENTURES LTD."
+            SYM: "NOUVEAU",
+            COM: "NOUVEAU GLOBAL VENTURES LTD."
         },
         {
-            "SYM": "DUKEOFS",
-            "COMPANY": "DUKE OFFSHORE LTD."
+            SYM: "DUKEOFS",
+            COM: "DUKE OFFSHORE LTD."
         },
         {
-            "SYM": "CYBELEIND",
-            "COMPANY": "CYBELE INDUSTRIES LTD."
+            SYM: "CYBELEIND",
+            COM: "CYBELE INDUSTRIES LTD."
         },
         {
-            "SYM": "CGVAK",
-            "COMPANY": "CG-VAK SOFTWARE & EXPORTS LTD."
+            SYM: "CGVAK",
+            COM: "CG-VAK SOFTWARE & EXPORTS LTD."
         },
         {
-            "SYM": "NAVBLDR",
-            "COMPANY": "NAVKAR BUILDERS LTD."
+            SYM: "NAVBLDR",
+            COM: "NAVKAR BUILDERS LTD."
         },
         {
-            "SYM": "OMKAR",
-            "COMPANY": "OMKAR OVERSEAS LTD."
+            SYM: "OMKAR",
+            COM: "OMKAR OVERSEAS LTD."
         },
         {
-            "SYM": "MADHUCON",
-            "COMPANY": "MADHUCON PROJECTS LTD.-$"
+            SYM: "MADHUCON",
+            COM: "MADHUCON PROJECTS LTD."
         },
         {
-            "SYM": "SYBLY",
-            "COMPANY": "SYBLY INDUSTRIES LTD.-$"
+            SYM: "SYBLY",
+            COM: "SYBLY INDUSTRIES LTD."
         },
         {
-            "SYM": "RAJESHEXPO",
-            "COMPANY": "RAJESH EXPORTS LTD."
+            SYM: "RAJESHEXPO",
+            COM: "RAJESH EXPORTS LTD."
         },
         {
-            "SYM": "ESARIND",
-            "COMPANY": "ESAAR (INDIA) LTD."
+            SYM: "ESARIND",
+            COM: "ESAAR (INDIA) LTD."
         },
         {
-            "SYM": "MARIS",
-            "COMPANY": "MARIS SPINNERS LTD.-$"
+            SYM: "MARIS",
+            COM: "MARIS SPINNERS LTD."
         },
         {
-            "SYM": "INDERGR",
-            "COMPANY": "INDERGIRI FINANCE LTD."
+            SYM: "INDERGR",
+            COM: "INDERGIRI FINANCE LTD."
         },
         {
-            "SYM": "SKRABUL",
-            "COMPANY": "SHUKRA BULLIONS LTD."
+            SYM: "SKRABUL",
+            COM: "SHUKRA BULLIONS LTD."
         },
         {
-            "SYM": "EVEREADY",
-            "COMPANY": "EVEREADY INDUSTRIES INDIA LTD."
+            SYM: "EVEREADY",
+            COM: "EVEREADY INDUSTRIES INDIA LTD."
         },
         {
-            "SYM": "STEP2COR",
-            "COMPANY": "STEP TWO CORPORATION LTD."
+            SYM: "STEP2COR",
+            COM: "STEP TWO CORPORATION LTD."
         },
         {
-            "SYM": "ORIENTTR",
-            "COMPANY": "ORIENT TRADELINK LTD."
+            SYM: "ORIENTTR",
+            COM: "ORIENT TRADELINK LTD."
         },
         {
-            "SYM": "MAHANIN",
-            "COMPANY": "MAHAN INDUSTRIES LTD."
+            SYM: "MAHANIN",
+            COM: "MAHAN INDUSTRIES LTD."
         },
         {
-            "SYM": "VIKASPROP",
-            "COMPANY": "Vikas Proppant & Granite Ltd"
+            SYM: "VIKASPROP",
+            COM: "Vikas Proppant & Granite Ltd"
         },
         {
-            "SYM": "DESHRAK",
-            "COMPANY": "DESH RAKSHAK AUSHDHALAYA LTD."
+            SYM: "DESHRAK",
+            COM: "DESH RAKSHAK AUSHDHALAYA LTD."
         },
         {
-            "SYM": "ACESOFT",
-            "COMPANY": "ACE SOFTWARE EXPORTS LTD.-$"
+            SYM: "ACESOFT",
+            COM: "ACE SOFTWARE EXPORTS LTD."
         },
         {
-            "SYM": "HATSUN",
-            "COMPANY": "HATSUN AGRO PRODUCT LTD."
+            SYM: "HATSUN",
+            COM: "HATSUN AGRO PRODUCT LTD."
         },
         {
-            "SYM": "ECOM",
-            "COMPANY": "E.COM INFOTECH (I) LTD."
+            SYM: "ECOM",
+            COM: "E.COM INFOTECH (I) LTD."
         },
         {
-            "SYM": "RISHDIGA",
-            "COMPANY": "RISHABH DIGHA STEEL & ALLIED PRODUCTS LTD.-$"
+            SYM: "RISHDIGA",
+            COM: "RISHABH DIGHA STEEL & ALLIED PRODUCTS LTD."
         },
         {
-            "SYM": "MAINFRA",
-            "COMPANY": "MARUTI INFRASTRUCTURE LTD."
+            SYM: "MAINFRA",
+            COM: "MARUTI INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "KOBO",
-            "COMPANY": "Kobo Biotech Ltd-$"
+            SYM: "KOBO",
+            COM: "Kobo Biotech Ltd"
         },
         {
-            "SYM": "JINDWORLD",
-            "COMPANY": "JINDAL WORLDWIDE LTD."
+            SYM: "JINDWORLD",
+            COM: "JINDAL WORLDWIDE LTD."
         },
         {
-            "SYM": "SOMANYCERA",
-            "COMPANY": "SOMANY CERAMICS LTD."
+            SYM: "SOMANYCERA",
+            COM: "SOMANY CERAMICS LTD."
         },
         {
-            "SYM": "JHACC",
-            "COMPANY": "JHAVERI CREDITS & CAPITAL LTD."
+            SYM: "JHACC",
+            COM: "JHAVERI CREDITS & CAPITAL LTD."
         },
         {
-            "SYM": "RAGHUTOB",
-            "COMPANY": "RAGHUNATH TOBACCO CO.LTD."
+            SYM: "RAGHUTOB",
+            COM: "RAGHUNATH TOBACCO CO.LTD."
         },
         {
-            "SYM": "DRL",
-            "COMPANY": "Disha Resources Ltd"
+            SYM: "DRL",
+            COM: "Disha Resources Ltd"
         },
         {
-            "SYM": "CORALFINAC",
-            "COMPANY": "CORAL INDIA FINANCE & HOUSING LTD."
+            SYM: "CORALFINAC",
+            COM: "CORAL INDIA FINANCE & HOUSING LTD."
         },
         {
-            "SYM": "AROMAENT",
-            "COMPANY": "AROMA ENTERPRISES (INDIA) LTD."
+            SYM: "AROMAENT",
+            COM: "AROMA ENTERPRISES (INDIA) LTD."
         },
         {
-            "SYM": "ASHUTPM",
-            "COMPANY": "ASHUTOSH PAPER MILLS LTD."
+            SYM: "ASHUTPM",
+            COM: "ASHUTOSH PAPER MILLS LTD."
         },
         {
-            "SYM": "VASINFRA",
-            "COMPANY": "VAS INFRASTRUCTURE LTD."
+            SYM: "VASINFRA",
+            COM: "VAS INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "KMFBLDR",
-            "COMPANY": "KMF BUILDERS & DEVELOPERS LTD."
+            SYM: "KMFBLDR",
+            COM: "KMF BUILDERS & DEVELOPERS LTD."
         },
         {
-            "SYM": "BERYLSE",
-            "COMPANY": "BERYL SECURITIES LTD."
+            SYM: "BERYLSE",
+            COM: "BERYL SECURITIES LTD."
         },
         {
-            "SYM": "RAP",
-            "COMPANY": "RAP MEDIA LTD."
+            SYM: "RAP",
+            COM: "RAP MEDIA LTD."
         },
         {
-            "SYM": "DEVINE",
-            "COMPANY": "DEVINE IMPEX LTD."
+            SYM: "DEVINE",
+            COM: "DEVINE IMPEX LTD."
         },
         {
-            "SYM": "GENPHARMA",
-            "COMPANY": "Generic Pharmasec Ltd"
+            SYM: "GENPHARMA",
+            COM: "Generic Pharmasec Ltd"
         },
         {
-            "SYM": "INCON",
-            "COMPANY": "INCON ENGINEERS LTD."
+            SYM: "INCON",
+            COM: "INCON ENGINEERS LTD."
         },
         {
-            "SYM": "CGCL",
-            "COMPANY": "Capri Global Capital Limited"
+            SYM: "CGCL",
+            COM: "Capri Global Capital Limited"
         },
         {
-            "SYM": "FDC",
-            "COMPANY": "FDC LTD."
+            SYM: "FDC",
+            COM: "FDC LTD."
         },
         {
-            "SYM": "GOGIACAP",
-            "COMPANY": "Gogia Capital Services Limited"
+            SYM: "GOGIACAP",
+            COM: "Gogia Capital Services Limited"
         },
         {
-            "SYM": "GORANIN",
-            "COMPANY": "GORANI INDUSTRIES LTD."
+            SYM: "GORANIN",
+            COM: "GORANI INDUSTRIES LTD."
         },
         {
-            "SYM": "KGPETRO",
-            "COMPANY": "KG PETROCHEM LTD."
+            SYM: "KGPETRO",
+            COM: "KG PETROCHEM LTD."
         },
         {
-            "SYM": "MAL",
-            "COMPANY": "Meyer Apparel Ltd"
+            SYM: "MAL",
+            COM: "Meyer Apparel Ltd"
         },
         {
-            "SYM": "STARCOM",
-            "COMPANY": "Starcom Information Technology Ltd"
+            SYM: "STARCOM",
+            COM: "Starcom Information Technology Ltd"
         },
         {
-            "SYM": "CENTERAC",
-            "COMPANY": "CENTERAC TECHNOLOGIES LTD."
+            SYM: "CENTERAC",
+            COM: "CENTERAC TECHNOLOGIES LTD."
         },
         {
-            "SYM": "COUNCODOS",
-            "COMPANY": "COUNTRY CONDO&#39;S LTD."
+            SYM: "COUNCODOS",
+            COM: "COUNTRY CONDO&#39;S LTD."
         },
         {
-            "SYM": "OROSMITHS",
-            "COMPANY": "OROSIL SMITHS INDIA LTD.-$"
+            SYM: "OROSMITHS",
+            COM: "OROSIL SMITHS INDIA LTD."
         },
         {
-            "SYM": "TEJASSVI",
-            "COMPANY": "Tejassvi Aaharam Ltd"
+            SYM: "TEJASSVI",
+            COM: "Tejassvi Aaharam Ltd"
         },
         {
-            "SYM": "LINCOPH",
-            "COMPANY": "LINCOLN PHARMACEUTICALS LTD."
+            SYM: "LINCOPH",
+            COM: "LINCOLN PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "SILVOAK",
-            "COMPANY": "SILVER OAK (INDIA) LTD."
+            SYM: "SILVOAK",
+            COM: "SILVER OAK (INDIA) LTD."
         },
         {
-            "SYM": "PRAVEG",
-            "COMPANY": "Praveg Communications (India) Ltd"
+            SYM: "PRAVEG",
+            COM: "Praveg Communications (India) Ltd"
         },
         {
-            "SYM": "SURAJLTD",
-            "COMPANY": "SURAJ LTD.-$"
+            SYM: "SURAJLTD",
+            COM: "SURAJ LTD."
         },
         {
-            "SYM": "SICL",
-            "COMPANY": "Suvidha Infraestate Corporation Limited"
+            SYM: "SICL",
+            COM: "Suvidha Infraestate Corporation Limited"
         },
         {
-            "SYM": "MARICO",
-            "COMPANY": "MARICO LTD."
+            SYM: "MARICO",
+            COM: "MARICO LTD."
         },
         {
-            "SYM": "TOKYOFIN",
-            "COMPANY": "TOKYO FINANCE LTD."
+            SYM: "TOKYOFIN",
+            COM: "TOKYO FINANCE LTD."
         },
         {
-            "SYM": "MAHAVIRIND",
-            "COMPANY": "Mahavir Industries Limited"
+            SYM: "MAHAVIRIND",
+            COM: "Mahavir Industries Limited"
         },
         {
-            "SYM": "NATGENI",
-            "COMPANY": "NATIONAL GENERAL INDUSTRIES LTD."
+            SYM: "NATGENI",
+            COM: "NATIONAL GENERAL INDUSTRIES LTD."
         },
         {
-            "SYM": "THIRDFIN",
-            "COMPANY": "THIRDWAVE FINANCIAL INTERMEDIARIES LTD."
+            SYM: "THIRDFIN",
+            COM: "THIRDWAVE FINANCIAL INTERMEDIARIES LTD."
         },
         {
-            "SYM": "TRIJAL",
-            "COMPANY": "TRIJAL INDUSTRIES LTD."
+            SYM: "TRIJAL",
+            COM: "TRIJAL INDUSTRIES LTD."
         },
         {
-            "SYM": "HITTCO",
-            "COMPANY": "HITTCO TOOLS LTD."
+            SYM: "HITTCO",
+            COM: "HITTCO TOOLS LTD."
         },
         {
-            "SYM": "RRMETAL",
-            "COMPANY": "RR MetalMakers India Ltd"
+            SYM: "RRMETAL",
+            COM: "RR MetalMakers India Ltd"
         },
         {
-            "SYM": "VISIONCO",
-            "COMPANY": "VISION CORPORATION LTD."
+            SYM: "VISIONCO",
+            COM: "VISION CORPORATION LTD."
         },
         {
-            "SYM": "INANISEC",
-            "COMPANY": "INANI SECURITIES LTD."
+            SYM: "INANISEC",
+            COM: "INANI SECURITIES LTD."
         },
         {
-            "SYM": "ANKIN",
-            "COMPANY": "ANKA INDIA LTD."
+            SYM: "ANKIN",
+            COM: "ANKA INDIA LTD."
         },
         {
-            "SYM": "VAGHANI",
-            "COMPANY": "VAGHANI TECHNO-BUILD LTD."
+            SYM: "VAGHANI",
+            COM: "VAGHANI TECHNO-BUILD LTD."
         },
         {
-            "SYM": "ARISINT",
-            "COMPANY": "ARIS INTERNATIONAL LTD."
+            SYM: "ARISINT",
+            COM: "ARIS INTERNATIONAL LTD."
         },
         {
-            "SYM": "MAYUR",
-            "COMPANY": "MAYUR LEATHER PRODUCTS LTD."
+            SYM: "MAYUR",
+            COM: "MAYUR LEATHER PRODUCTS LTD."
         },
         {
-            "SYM": "AMARDEE",
-            "COMPANY": "AMRADEEP INDUSTRIES LTD."
+            SYM: "AMARDEE",
+            COM: "AMRADEEP INDUSTRIES LTD."
         },
         {
-            "SYM": "PRITHVIEXCH",
-            "COMPANY": "Prithvi Exchange (India) Ltd"
+            SYM: "PRITHVIEXCH",
+            COM: "Prithvi Exchange (India) Ltd"
         },
         {
-            "SYM": "KHYATI",
-            "COMPANY": "KHYATI MULTIMEDIA-ENTERTAINMENT LTD."
+            SYM: "KHYATI",
+            COM: "KHYATI MULTIMEDIA-ENTERTAINMENT LTD."
         },
         {
-            "SYM": "RAINBOWF",
-            "COMPANY": "RAINBOW FOUNDATIONS LTD."
+            SYM: "RAINBOWF",
+            COM: "RAINBOW FOUNDATIONS LTD."
         },
         {
-            "SYM": "TRICOMFRU",
-            "COMPANY": "Tricom Fruit Products Limited"
+            SYM: "TRICOMFRU",
+            COM: "Tricom Fruit Products Limited"
         },
         {
-            "SYM": "VIDHIING",
-            "COMPANY": "Vidhi Specialty Food Ingredients Ltd-$"
+            SYM: "VIDHIING",
+            COM: "Vidhi Specialty Food Ingredients Ltd"
         },
         {
-            "SYM": "BHAGCHEM",
-            "COMPANY": "BHAGIRADHA CHEMICALS & INDUSTRIES LTD."
+            SYM: "BHAGCHEM",
+            COM: "BHAGIRADHA CHEMICALS & INDUSTRIES LTD."
         },
         {
-            "SYM": "PANCHSHEEL",
-            "COMPANY": "PANCHSHEEL ORGANICS LTD."
+            SYM: "PANCHSHEEL",
+            COM: "PANCHSHEEL ORGANICS LTD."
         },
         {
-            "SYM": "MENNPIS",
-            "COMPANY": "MENON PISTONS LTD."
+            SYM: "MENNPIS",
+            COM: "MENON PISTONS LTD."
         },
         {
-            "SYM": "PRISMFN",
-            "COMPANY": "PRISM FINANCE LTD."
+            SYM: "PRISMFN",
+            COM: "PRISM FINANCE LTD."
         },
         {
-            "SYM": "GENNEX",
-            "COMPANY": "GENNEX LABORATORIES LTD."
+            SYM: "GENNEX",
+            COM: "GENNEX LABORATORIES LTD."
         },
         {
-            "SYM": "HIRAUTO",
-            "COMPANY": "HIRA AUTOMOBILES LTD."
+            SYM: "HIRAUTO",
+            COM: "HIRA AUTOMOBILES LTD."
         },
         {
-            "SYM": "GINISILK",
-            "COMPANY": "GINI SILK MILLS LTD.-$"
+            SYM: "GINISILK",
+            COM: "GINI SILK MILLS LTD."
         },
         {
-            "SYM": "PRAENG",
-            "COMPANY": "PRAJAY ENGINEERS SYNDICATE LTD."
+            SYM: "PRAENG",
+            COM: "PRAJAY ENGINEERS SYNDICATE LTD."
         },
         {
-            "SYM": "BIOGEN",
-            "COMPANY": "Biogen Pharmachem Industries Ltd"
+            SYM: "BIOGEN",
+            COM: "Biogen Pharmachem Industries Ltd"
         },
         {
-            "SYM": "GKCONS",
-            "COMPANY": "G.K.CONSULTANTS LTD."
+            SYM: "GKCONS",
+            COM: "G.K.CONSULTANTS LTD."
         },
         {
-            "SYM": "APOLLOPIPES",
-            "COMPANY": "Apollo Pipes Ltd"
+            SYM: "APOLLOPIPES",
+            COM: "Apollo Pipes Ltd"
         },
         {
-            "SYM": "UNJHAFOR",
-            "COMPANY": "UNJHA FORMULATIONS LTD."
+            SYM: "UNJHAFOR",
+            COM: "UNJHA FORMULATIONS LTD."
         },
         {
-            "SYM": "POLYMED",
-            "COMPANY": "POLY MEDICURE LTD."
+            SYM: "POLYMED",
+            COM: "POLY MEDICURE LTD."
         },
         {
-            "SYM": "KACHCHH",
-            "COMPANY": "KACHCHH MINERALS LTD."
+            SYM: "KACHCHH",
+            COM: "KACHCHH MINERALS LTD."
         },
         {
-            "SYM": "KACL",
-            "COMPANY": "Kaiser Corporation Limited"
+            SYM: "KACL",
+            COM: "Kaiser Corporation Limited"
         },
         {
-            "SYM": "KCLINFRA",
-            "COMPANY": "KCL Infra Projects Ltd"
+            SYM: "KCLINFRA",
+            COM: "KCL Infra Projects Ltd"
         },
         {
-            "SYM": "ATULAUTO",
-            "COMPANY": "ATUL AUTO LTD.-$"
+            SYM: "ATULAUTO",
+            COM: "ATUL AUTO LTD."
         },
         {
-            "SYM": "SCANPRO",
-            "COMPANY": "SCAN PROJECTS LTD."
+            SYM: "SCANPRO",
+            COM: "SCAN PROJECTS LTD."
         },
         {
-            "SYM": "PRERINFRA",
-            "COMPANY": "PRERNA INFRABUILD LTD."
+            SYM: "PRERINFRA",
+            COM: "PRERNA INFRABUILD LTD."
         },
         {
-            "SYM": "METALCO",
-            "COMPANY": "METAL COATINGS (INDIA) LTD."
+            SYM: "METALCO",
+            COM: "METAL COATINGS (INDIA) LTD."
         },
         {
-            "SYM": "SGNTE",
-            "COMPANY": "SGN TELECOMS LTD."
+            SYM: "SGNTE",
+            COM: "SGN TELECOMS LTD."
         },
         {
-            "SYM": "GANGAPA",
-            "COMPANY": "GANGA PAPERS INDIA LTD."
+            SYM: "GANGAPA",
+            COM: "GANGA PAPERS INDIA LTD."
         },
         {
-            "SYM": "TIRSARJ",
-            "COMPANY": "TIRUPATI SARJAN LTD."
+            SYM: "TIRSARJ",
+            COM: "TIRUPATI SARJAN LTD."
         },
         {
-            "SYM": "NUWAY",
-            "COMPANY": "NUWAY ORGANIC NATURALS INDIA LTD."
+            SYM: "NUWAY",
+            COM: "NUWAY ORGANIC NATURALS INDIA LTD."
         },
         {
-            "SYM": "MUNOTHFI",
-            "COMPANY": "MUNOTH FINANCIAL SERVICES LTD."
+            SYM: "MUNOTHFI",
+            COM: "MUNOTH FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "RODIUM",
-            "COMPANY": "Rodium Realty Limited"
+            SYM: "RODIUM",
+            COM: "Rodium Realty Limited"
         },
         {
-            "SYM": "NAGTECH",
-            "COMPANY": "NAGARJUNA AGRI TECH LTD."
+            SYM: "NAGTECH",
+            COM: "NAGARJUNA AGRI TECH LTD."
         },
         {
-            "SYM": "NATHUEC",
-            "COMPANY": "NATURA HUE CHEM LTD."
+            SYM: "NATHUEC",
+            COM: "NATURA HUE CHEM LTD."
         },
         {
-            "SYM": "INDUSFINL",
-            "COMPANY": "Indus Finance Ltd"
+            SYM: "INDUSFINL",
+            COM: "Indus Finance Ltd"
         },
         {
-            "SYM": "LAHOTIOV",
-            "COMPANY": "LAHOTI OVERSEAS LTD.-$"
+            SYM: "LAHOTIOV",
+            COM: "LAHOTI OVERSEAS LTD."
         },
         {
-            "SYM": "TRINITYLEA",
-            "COMPANY": "TRINITY LEAGUE INDIA LTD."
+            SYM: "TRINITYLEA",
+            COM: "TRINITY LEAGUE INDIA LTD."
         },
         {
-            "SYM": "ASTAR",
-            "COMPANY": "ASIAN STAR CO.LTD.-$"
+            SYM: "ASTAR",
+            COM: "ASIAN STAR CO.LTD."
         },
         {
-            "SYM": "ORIRAIL",
-            "COMPANY": "Oriental Rail Infrastructure Ltd"
+            SYM: "ORIRAIL",
+            COM: "Oriental Rail Infrastructure Ltd"
         },
         {
-            "SYM": "JOINDRE",
-            "COMPANY": "JOINDRE CAPITAL SERVICES LTD."
+            SYM: "JOINDRE",
+            COM: "JOINDRE CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "BHARATAGRI",
-            "COMPANY": "BHARAT AGRI FERT & REALTY LTD."
+            SYM: "BHARATAGRI",
+            COM: "BHARAT AGRI FERT & REALTY LTD."
         },
         {
-            "SYM": "UNITINT",
-            "COMPANY": "UNITECH INTERNATIONAL LTD."
+            SYM: "UNITINT",
+            COM: "UNITECH INTERNATIONAL LTD."
         },
         {
-            "SYM": "SACHEMT",
-            "COMPANY": "SACHETA METALS LTD."
+            SYM: "SACHEMT",
+            COM: "SACHETA METALS LTD."
         },
         {
-            "SYM": "POPULARES",
-            "COMPANY": "POPULAR ESTATE MANAGEMENT LTD."
+            SYM: "POPULARES",
+            COM: "POPULAR ESTATE MANAGEMENT LTD."
         },
         {
-            "SYM": "ANJANIFIN",
-            "COMPANY": "ANJANI FINANCE LTD."
+            SYM: "ANJANIFIN",
+            COM: "ANJANI FINANCE LTD."
         },
         {
-            "SYM": "PIONDIST",
-            "COMPANY": "PIONEER DISTILLERIES LTD."
+            SYM: "PIONDIST",
+            COM: "PIONEER DISTILLERIES LTD."
         },
         {
-            "SYM": "GMETCOAL",
-            "COMPANY": "GUJARAT METALLIC COAL & COKE LTD.-$"
+            SYM: "GMETCOAL",
+            COM: "GUJARAT METALLIC COAL & COKE LTD."
         },
         {
-            "SYM": "SVAINDIA",
-            "COMPANY": "SVA INDIA LTD."
+            SYM: "SVAINDIA",
+            COM: "SVA INDIA LTD."
         },
         {
-            "SYM": "RAHME",
-            "COMPANY": "RAHUL MERCHANDISING LTD."
+            SYM: "RAHME",
+            COM: "RAHUL MERCHANDISING LTD."
         },
         {
-            "SYM": "REXNORD",
-            "COMPANY": "REXNORD ELECTRONICS & CONTROLS LTD."
+            SYM: "REXNORD",
+            COM: "REXNORD ELECTRONICS & CONTROLS LTD."
         },
         {
-            "SYM": "INTECH",
-            "COMPANY": "INTEGRATED TECHNOLOGIES LTD."
+            SYM: "INTECH",
+            COM: "INTEGRATED TECHNOLOGIES LTD."
         },
         {
-            "SYM": "KHANDSE",
-            "COMPANY": "KHANDWALA SECURITIES LTD."
+            SYM: "KHANDSE",
+            COM: "KHANDWALA SECURITIES LTD."
         },
         {
-            "SYM": "SAWABUSI",
-            "COMPANY": "SAWACA BUSINESS MACHINES LTD."
+            SYM: "SAWABUSI",
+            COM: "SAWACA BUSINESS MACHINES LTD."
         },
         {
-            "SYM": "CCLINTER",
-            "COMPANY": "CCL INTERNATIONAL LTD."
+            SYM: "CCLINTER",
+            COM: "CCL INTERNATIONAL LTD."
         },
         {
-            "SYM": "GALLOPENT",
-            "COMPANY": "GALLOPS ENTERPRISE LTD."
+            SYM: "GALLOPENT",
+            COM: "GALLOPS ENTERPRISE LTD."
         },
         {
-            "SYM": "CROISSANCE",
-            "COMPANY": "Croissance Ltd"
+            SYM: "CROISSANCE",
+            COM: "Croissance Ltd"
         },
         {
-            "SYM": "GALAGEX",
-            "COMPANY": "GALAXY AGRICO EXPORTS LTD."
+            SYM: "GALAGEX",
+            COM: "GALAXY AGRICO EXPORTS LTD."
         },
         {
-            "SYM": "GOPAIST",
-            "COMPANY": "GOPAL IRON & STEELS CO.(GUJARAT) LTD."
+            SYM: "GOPAIST",
+            COM: "GOPAL IRON & STEELS CO.(GUJARAT) LTD."
         },
         {
-            "SYM": "TWINSTAR",
-            "COMPANY": "Twinstar Industries Limited"
+            SYM: "TWINSTAR",
+            COM: "Twinstar Industries Limited"
         },
         {
-            "SYM": "HINDAPL",
-            "COMPANY": "HINDUSTAN APPLIANCES LTD."
+            SYM: "HINDAPL",
+            COM: "HINDUSTAN APPLIANCES LTD."
         },
         {
-            "SYM": "AGARIND",
-            "COMPANY": "AGARWAL INDUSTRIAL CORPORATION LTD."
+            SYM: "AGARIND",
+            COM: "AGARWAL INDUSTRIAL CORPORATION LTD."
         },
         {
-            "SYM": "DHAMPURE",
-            "COMPANY": "DHAMPURE SPECIALITY SUGARS LTD."
+            SYM: "DHAMPURE",
+            COM: "DHAMPURE SPECIALITY SUGARS LTD."
         },
         {
-            "SYM": "SHAQUAK",
-            "COMPANY": "SHANTANU SHEOREY AQUAKULT LTD."
+            SYM: "SHAQUAK",
+            COM: "SHANTANU SHEOREY AQUAKULT LTD."
         },
         {
-            "SYM": "GOLCA",
-            "COMPANY": "GOLDEN CARPETS LTD."
+            SYM: "GOLCA",
+            COM: "GOLDEN CARPETS LTD."
         },
         {
-            "SYM": "INNOCORP",
-            "COMPANY": "INNOCORP LTD."
+            SYM: "INNOCORP",
+            COM: "INNOCORP LTD."
         },
         {
-            "SYM": "SARTHAKIND",
-            "COMPANY": "SARTHAK INDUSTRIES LTD."
+            SYM: "SARTHAKIND",
+            COM: "SARTHAK INDUSTRIES LTD."
         },
         {
-            "SYM": "SAICAPI",
-            "COMPANY": "SAI CAPITAL LTD."
+            SYM: "SAICAPI",
+            COM: "SAI CAPITAL LTD."
         },
         {
-            "SYM": "SERVOTEACH",
-            "COMPANY": "Servoteach Industries Ltd"
+            SYM: "SERVOTEACH",
+            COM: "Servoteach Industries Ltd"
         },
         {
-            "SYM": "CHADPAP",
-            "COMPANY": "CHADHA PAPERS LTD."
+            SYM: "CHADPAP",
+            COM: "CHADHA PAPERS LTD."
         },
         {
-            "SYM": "VERTEX",
-            "COMPANY": "VERTEX SECURITIES LTD."
+            SYM: "VERTEX",
+            COM: "VERTEX SECURITIES LTD."
         },
         {
-            "SYM": "RIBATEX",
-            "COMPANY": "RIBA TEXTILES LTD."
+            SYM: "RIBATEX",
+            COM: "RIBA TEXTILES LTD."
         },
         {
-            "SYM": "SHREMETAL",
-            "COMPANY": "SHREE METALLOYS LTD."
+            SYM: "SHREMETAL",
+            COM: "SHREE METALLOYS LTD."
         },
         {
-            "SYM": "IITLPROJ",
-            "COMPANY": "IITL PROJECTS LIMITED"
+            SYM: "IITLPROJ",
+            COM: "IITL PROJECTS LIMITED"
         },
         {
-            "SYM": "HARIGOV",
-            "COMPANY": "HARI GOVIND INTERNATIONAL LTD."
+            SYM: "HARIGOV",
+            COM: "HARI GOVIND INTERNATIONAL LTD."
         },
         {
-            "SYM": "TRIDETOOL",
-            "COMPANY": "TRIDENT TOOLS LTD."
+            SYM: "TRIDETOOL",
+            COM: "TRIDENT TOOLS LTD."
         },
         {
-            "SYM": "CHLOGIST",
-            "COMPANY": "CHARTERED LOGISTICS LTD."
+            SYM: "CHLOGIST",
+            COM: "CHARTERED LOGISTICS LTD."
         },
         {
-            "SYM": "AMBIKCO",
-            "COMPANY": "AMBIKA COTTON MILLS LTD."
+            SYM: "AMBIKCO",
+            COM: "AMBIKA COTTON MILLS LTD."
         },
         {
-            "SYM": "HINDALUMI",
-            "COMPANY": "HIND ALUMINIUM INDUSTRIES LTD.-$"
+            SYM: "HINDALUMI",
+            COM: "HIND ALUMINIUM INDUSTRIES LTD."
         },
         {
-            "SYM": "SENINFO",
-            "COMPANY": "Senthil Infotek Ltd"
+            SYM: "SENINFO",
+            COM: "Senthil Infotek Ltd"
         },
         {
-            "SYM": "SPECFOOD",
-            "COMPANY": "SPECTRUM FOODS LTD."
+            SYM: "SPECFOOD",
+            COM: "SPECTRUM FOODS LTD."
         },
         {
-            "SYM": "DECPO",
-            "COMPANY": "DECCAN POLYPACKS LTD."
+            SYM: "DECPO",
+            COM: "DECCAN POLYPACKS LTD."
         },
         {
-            "SYM": "AMRAAGRI",
-            "COMPANY": "AMRAWORLD AGRICO LTD."
+            SYM: "AMRAAGRI",
+            COM: "AMRAWORLD AGRICO LTD."
         },
         {
-            "SYM": "AUTOPINS",
-            "COMPANY": "AUTO PINS (INDIA) LTD."
+            SYM: "AUTOPINS",
+            COM: "AUTO PINS (INDIA) LTD."
         },
         {
-            "SYM": "ODYCORP",
-            "COMPANY": "ODYSSEY CORPORATION LTD."
+            SYM: "ODYCORP",
+            COM: "ODYSSEY CORPORATION LTD."
         },
         {
-            "SYM": "INDCTST",
-            "COMPANY": "INDUCTO STEEL LTD."
+            SYM: "INDCTST",
+            COM: "INDUCTO STEEL LTD."
         },
         {
-            "SYM": "SAMINDUS",
-            "COMPANY": "SAM INDUSTRIES LTD."
+            SYM: "SAMINDUS",
+            COM: "SAM INDUSTRIES LTD."
         },
         {
-            "SYM": "SHVFL",
-            "COMPANY": "SHREEVATSAA FINANCE & LEASING LTD."
+            SYM: "SHVFL",
+            COM: "SHREEVATSAA FINANCE & LEASING LTD."
         },
         {
-            "SYM": "POOJAENT",
-            "COMPANY": "POOJA ENTERTAINMENT AND FILMS LTD."
+            SYM: "POOJAENT",
+            COM: "POOJA ENTERTAINMENT AND FILMS LTD."
         },
         {
-            "SYM": "GRAVITY",
-            "COMPANY": "GRAVITY (INDIA) LTD.-$"
+            SYM: "GRAVITY",
+            COM: "GRAVITY (INDIA) LTD."
         },
         {
-            "SYM": "WELLESLEY",
-            "COMPANY": "WELLESLEY CORPORATION LTD."
+            SYM: "WELLESLEY",
+            COM: "WELLESLEY CORPORATION LTD."
         },
         {
-            "SYM": "LCCINFOTEC",
-            "COMPANY": "LCC INFOTECH LTD."
+            SYM: "LCCINFOTEC",
+            COM: "LCC INFOTECH LTD."
         },
         {
-            "SYM": "FILATFASH",
-            "COMPANY": "FILATEX FASHIONS LTD."
+            SYM: "FILATFASH",
+            COM: "FILATEX FASHIONS LTD."
         },
         {
-            "SYM": "RBGUPTA",
-            "COMPANY": "R.B.GUPTA FINANCIALS LTD."
+            SYM: "RBGUPTA",
+            COM: "R.B.GUPTA FINANCIALS LTD."
         },
         {
-            "SYM": "SINDHUTRAD",
-            "COMPANY": "Sindhu Trade Links Limited"
+            SYM: "SINDHUTRAD",
+            COM: "Sindhu Trade Links Limited"
         },
         {
-            "SYM": "JAINSTUDIO",
-            "COMPANY": "JAIN STUDIOS LTD."
+            SYM: "JAINSTUDIO",
+            COM: "JAIN STUDIOS LTD."
         },
         {
-            "SYM": "UNISTRMU",
-            "COMPANY": "UNISTAR MULTIMEDIA LTD."
+            SYM: "UNISTRMU",
+            COM: "UNISTAR MULTIMEDIA LTD."
         },
         {
-            "SYM": "ZENOTECH",
-            "COMPANY": "ZENOTECH LABORATORIES LTD."
+            SYM: "ZENOTECH",
+            COM: "ZENOTECH LABORATORIES LTD."
         },
         {
-            "SYM": "HINDBIO",
-            "COMPANY": "HINDUSTAN BIO SCIENCES LTD."
+            SYM: "HINDBIO",
+            COM: "HINDUSTAN BIO SCIENCES LTD."
         },
         {
-            "SYM": "FRONTCORP",
-            "COMPANY": "FRONTLINE CORPORATION LTD."
+            SYM: "FRONTCORP",
+            COM: "FRONTLINE CORPORATION LTD."
         },
         {
-            "SYM": "SWELECTES",
-            "COMPANY": "Swelect Energy Systems Limited-$"
+            SYM: "SWELECTES",
+            COM: "Swelect Energy Systems Limited"
         },
         {
-            "SYM": "WALLFORT",
-            "COMPANY": "WALLFORT FINANCIAL SERVICES LTD."
+            SYM: "WALLFORT",
+            COM: "WALLFORT FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "KDDL",
-            "COMPANY": "KDDL LTD.-$"
+            SYM: "KDDL",
+            COM: "KDDL LTD."
         },
         {
-            "SYM": "ADIEXRE",
-            "COMPANY": "ADINATH EXIM RESOURCES LTD."
+            SYM: "ADIEXRE",
+            COM: "ADINATH EXIM RESOURCES LTD."
         },
         {
-            "SYM": "ABHICAP",
-            "COMPANY": "ABHINAV CAPITAL SERVICES LTD."
+            SYM: "ABHICAP",
+            COM: "ABHINAV CAPITAL SERVICES LTD."
         },
         {
-            "SYM": "KILPEST",
-            "COMPANY": "KILPEST INDIA LTD."
+            SYM: "KILPEST",
+            COM: "KILPEST INDIA LTD."
         },
         {
-            "SYM": "SUPRBPA",
-            "COMPANY": "SUPERB PAPERS LTD."
+            SYM: "SUPRBPA",
+            COM: "SUPERB PAPERS LTD."
         },
         {
-            "SYM": "MONIND",
-            "COMPANY": "Monind Ltd"
+            SYM: "MONIND",
+            COM: "Monind Ltd"
         },
         {
-            "SYM": "SHKALYN",
-            "COMPANY": "SHRI KALYAN HOLDINGS LTD."
+            SYM: "SHKALYN",
+            COM: "SHRI KALYAN HOLDINGS LTD."
         },
         {
-            "SYM": "SAGARPROD",
-            "COMPANY": "Sagar Productions Limited"
+            SYM: "SAGARPROD",
+            COM: "Sagar Productions Limited"
         },
         {
-            "SYM": "INDOCITY",
-            "COMPANY": "INDO-CITY INFOTECH LTD.-$"
+            SYM: "INDOCITY",
+            COM: "INDO-CITY INFOTECH LTD."
         },
         {
-            "SYM": "SBECSUG",
-            "COMPANY": "SBEC SUGAR LTD."
+            SYM: "SBECSUG",
+            COM: "SBEC SUGAR LTD."
         },
         {
-            "SYM": "MEGFI",
-            "COMPANY": "MEGA FIN (INDIA) LTD."
+            SYM: "MEGFI",
+            COM: "MEGA FIN (INDIA) LTD."
         },
         {
-            "SYM": "BRIJLEAS",
-            "COMPANY": "BRIJLAXMI LEASING & FINANCE LTD."
+            SYM: "BRIJLEAS",
+            COM: "BRIJLAXMI LEASING & FINANCE LTD."
         },
         {
-            "SYM": "AREALTY",
-            "COMPANY": "ALCHEMIST REALTY LTD."
+            SYM: "AREALTY",
+            COM: "ALCHEMIST REALTY LTD."
         },
         {
-            "SYM": "BSELINFRA",
-            "COMPANY": "BSEL INFRASTRUCTURE REALTY LTD."
+            SYM: "BSELINFRA",
+            COM: "BSEL INFRASTRUCTURE REALTY LTD."
         },
         {
-            "SYM": "RELIABVEN",
-            "COMPANY": "RELIABLE VENTURES INDIA LTD."
+            SYM: "RELIABVEN",
+            COM: "RELIABLE VENTURES INDIA LTD."
         },
         {
-            "SYM": "BANKBARODA",
-            "COMPANY": "BANK OF BARODA"
+            SYM: "BANKBARODA",
+            COM: "BANK OF BARODA"
         },
         {
-            "SYM": "SMCREDT",
-            "COMPANY": "SMC CREDITS LTD."
+            SYM: "SMCREDT",
+            COM: "SMC CREDITS LTD."
         },
         {
-            "SYM": "MOHITE",
-            "COMPANY": "Mohite Industries Ltd"
+            SYM: "MOHITE",
+            COM: "Mohite Industries Ltd"
         },
         {
-            "SYM": "ANDHRACEMT",
-            "COMPANY": "ANDHRA CEMENTS LTD."
+            SYM: "ANDHRACEMT",
+            COM: "ANDHRA CEMENTS LTD."
         },
         {
-            "SYM": "SKMEGGPROD",
-            "COMPANY": "SKM EGG PRODUCTS EXPORT (INDIA) LTD."
+            SYM: "SKMEGGPROD",
+            COM: "SKM EGG PRODUCTS EXPORT (INDIA) LTD."
         },
         {
-            "SYM": "WELCORP",
-            "COMPANY": "Welspun Corp Limited"
+            SYM: "WELCORP",
+            COM: "Welspun Corp Limited"
         },
         {
-            "SYM": "HOTLSILV",
-            "COMPANY": "H.S.INDIA LTD."
+            SYM: "HOTLSILV",
+            COM: "H.S.INDIA LTD."
         },
         {
-            "SYM": "BANKINDIA",
-            "COMPANY": "BANK OF INDIA"
+            SYM: "BANKINDIA",
+            COM: "BANK OF INDIA"
         },
         {
-            "SYM": "INDRAMEDCO",
-            "COMPANY": "INDRAPRASTHA MEDICAL CORP.LTD."
+            SYM: "INDRAMEDCO",
+            COM: "INDRAPRASTHA MEDICAL CORP.LTD."
         },
         {
-            "SYM": "SUNSHINE",
-            "COMPANY": "SUN AND SHINE WORLDWIDE LTD."
+            SYM: "SUNSHINE",
+            COM: "SUN AND SHINE WORLDWIDE LTD."
         },
         {
-            "SYM": "GAIL",
-            "COMPANY": "GAIL (INDIA) LTD."
+            SYM: "GAIL",
+            COM: "GAIL (INDIA) LTD."
         },
         {
-            "SYM": "VAIBHAVGBL",
-            "COMPANY": "Vaibhav Global Ltd"
+            SYM: "VAIBHAVGBL",
+            COM: "Vaibhav Global Ltd"
         },
         {
-            "SYM": "TRESCON",
-            "COMPANY": "Trescon Ltd"
+            SYM: "TRESCON",
+            COM: "Trescon Ltd"
         },
         {
-            "SYM": "GUJSTATFIN",
-            "COMPANY": "Gujarat State Financial Corporation"
+            SYM: "GUJSTATFIN",
+            COM: "Gujarat State Financial Corporation"
         },
         {
-            "SYM": "JKPAPER",
-            "COMPANY": "JK PAPER LTD."
+            SYM: "JKPAPER",
+            COM: "JK PAPER LTD."
         },
         {
-            "SYM": "SAREGAMA",
-            "COMPANY": "SAREGAMA INDIA LTD."
+            SYM: "SAREGAMA",
+            COM: "SAREGAMA INDIA LTD."
         },
         {
-            "SYM": "MINOLTAF",
-            "COMPANY": "MINOLTA FINANCE LTD."
+            SYM: "MINOLTAF",
+            COM: "MINOLTA FINANCE LTD."
         },
         {
-            "SYM": "ADROITINFO",
-            "COMPANY": "Adroit Infotech Ltd"
+            SYM: "ADROITINFO",
+            COM: "Adroit Infotech Ltd"
         },
         {
-            "SYM": "CYBERTECH",
-            "COMPANY": "CYBERTECH SYSTEMS AND SOFTWARE LTD."
+            SYM: "CYBERTECH",
+            COM: "CYBERTECH SYSTEMS AND SOFTWARE LTD."
         },
         {
-            "SYM": "ICICIBANK",
-            "COMPANY": "ICICI BANK LTD."
+            SYM: "ICICIBANK",
+            COM: "ICICI BANK LTD."
         },
         {
-            "SYM": "CYIENT",
-            "COMPANY": "Cyient Limited"
+            SYM: "CYIENT",
+            COM: "Cyient Limited"
         },
         {
-            "SYM": "ENGINERSIN",
-            "COMPANY": "ENGINEERS INDIA LTD."
+            SYM: "ENGINERSIN",
+            COM: "ENGINEERS INDIA LTD."
         },
         {
-            "SYM": "DHANBANK",
-            "COMPANY": "Dhanlaxmi Bank Limited"
+            SYM: "DHANBANK",
+            COM: "Dhanlaxmi Bank Limited"
         },
         {
-            "SYM": "GMDCLTD",
-            "COMPANY": "GUJARAT MINERAL DEVELOPMENT CORPORATION LTD."
+            SYM: "GMDCLTD",
+            COM: "GUJARAT MINERAL DEVELOPMENT CORPORATION LTD."
         },
         {
-            "SYM": "GAYATRI",
-            "COMPANY": "GAYATRI SUGARS LTD."
+            SYM: "GAYATRI",
+            COM: "GAYATRI SUGARS LTD."
         },
         {
-            "SYM": "INDUSINDBK",
-            "COMPANY": "INDUSIND BANK LTD."
+            SYM: "INDUSINDBK",
+            COM: "INDUSIND BANK LTD."
         },
         {
-            "SYM": "ITDC",
-            "COMPANY": "INDIA TOURISM DEVELOPMENT CORPORATION LTD."
+            SYM: "ITDC",
+            COM: "INDIA TOURISM DEVELOPMENT CORPORATION LTD."
         },
         {
-            "SYM": "J&KBANK",
-            "COMPANY": "JAMMU & KASHMIR BANK LTD."
+            SYM: "J&KBANK",
+            COM: "JAMMU & KASHMIR BANK LTD."
         },
         {
-            "SYM": "CUB",
-            "COMPANY": "CITY UNION BANK LTD."
+            SYM: "CUB",
+            COM: "CITY UNION BANK LTD."
         },
         {
-            "SYM": "ARCHIES",
-            "COMPANY": "ARCHIES LTD."
+            SYM: "ARCHIES",
+            COM: "ARCHIES LTD."
         },
         {
-            "SYM": "AXISBANK",
-            "COMPANY": "AXIS BANK LTD."
+            SYM: "AXISBANK",
+            COM: "AXIS BANK LTD."
         },
         {
-            "SYM": "HBSTOCK",
-            "COMPANY": "HB STOCKHOLDINGS LTD."
+            SYM: "HBSTOCK",
+            COM: "HB STOCKHOLDINGS LTD."
         },
         {
-            "SYM": "SIELFNS",
-            "COMPANY": "SIEL FINANCIAL SERVICES LTD."
+            SYM: "SIELFNS",
+            COM: "SIEL FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "SOUTHBANK",
-            "COMPANY": "SOUTH INDIAN BANK LTD."
+            SYM: "SOUTHBANK",
+            COM: "SOUTH INDIAN BANK LTD."
         },
         {
-            "SYM": "ENERGYDEV",
-            "COMPANY": "ENERGY DEVELOPMENT COMPANY LTD."
+            SYM: "ENERGYDEV",
+            COM: "ENERGY DEVELOPMENT COMPANY LTD."
         },
         {
-            "SYM": "SONATSOFTW",
-            "COMPANY": "SONATA SOFTWARE LTD."
+            SYM: "SONATSOFTW",
+            COM: "SONATA SOFTWARE LTD."
         },
         {
-            "SYM": "BENGALT",
-            "COMPANY": "BENGAL TEA & FABRICS LTD."
+            SYM: "BENGALT",
+            COM: "BENGAL TEA & FABRICS LTD."
         },
         {
-            "SYM": "NATIONALUM",
-            "COMPANY": "NATIONAL ALUMINIUM CO.LTD."
+            SYM: "NATIONALUM",
+            COM: "NATIONAL ALUMINIUM CO.LTD."
         },
         {
-            "SYM": "INDNIPPON",
-            "COMPANY": "INDIA NIPPON ELECTRICALS LTD."
+            SYM: "INDNIPPON",
+            COM: "INDIA NIPPON ELECTRICALS LTD."
         },
         {
-            "SYM": "NSIL",
-            "COMPANY": "NALWA SONS INVESTMENTS LTD."
+            SYM: "NSIL",
+            COM: "NALWA SONS INVESTMENTS LTD."
         },
         {
-            "SYM": "APARINDS",
-            "COMPANY": "APAR INDUSTRIES LTD."
+            SYM: "APARINDS",
+            COM: "APAR INDUSTRIES LTD."
         },
         {
-            "SYM": "TCIIND",
-            "COMPANY": "TCI INDUSTRIES LTD."
+            SYM: "TCIIND",
+            COM: "TCI INDUSTRIES LTD."
         },
         {
-            "SYM": "ACCELYA",
-            "COMPANY": "Accelya Solutions India Ltd"
+            SYM: "ACCELYA",
+            COM: "Accelya Solutions India Ltd"
         },
         {
-            "SYM": "ORCHASP",
-            "COMPANY": "Orchasp Ltd"
+            SYM: "ORCHASP",
+            COM: "Orchasp Ltd"
         },
         {
-            "SYM": "HCLTECH",
-            "COMPANY": "HCL TECHNOLOGIES LTD."
+            SYM: "HCLTECH",
+            COM: "HCL TECHNOLOGIES LTD."
         },
         {
-            "SYM": "TCFCFINQ",
-            "COMPANY": "TCFC FINANCE LTD."
+            SYM: "TCFCFINQ",
+            COM: "TCFC FINANCE LTD."
         },
         {
-            "SYM": "GEOJITFSL",
-            "COMPANY": "Geojit Financial Services Ltd"
+            SYM: "GEOJITFSL",
+            COM: "Geojit Financial Services Ltd"
         },
         {
-            "SYM": "JINDALSTEL",
-            "COMPANY": "JINDAL STEEL & POWER LTD."
+            SYM: "JINDALSTEL",
+            COM: "JINDAL STEEL & POWER LTD."
         },
         {
-            "SYM": "BLBLIMITED",
-            "COMPANY": "BLB LTD."
+            SYM: "BLBLIMITED",
+            COM: "BLB LTD."
         },
         {
-            "SYM": "GLENMARK",
-            "COMPANY": "GLENMARK PHARMACEUTICALS LTD."
+            SYM: "GLENMARK",
+            COM: "GLENMARK PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "WOCKPHARMA",
-            "COMPANY": "WOCKHARDT LTD."
+            SYM: "WOCKPHARMA",
+            COM: "WOCKHARDT LTD."
         },
         {
-            "SYM": "TATACOFFEE",
-            "COMPANY": "TATA COFFEE LTD."
+            SYM: "TATACOFFEE",
+            COM: "TATA COFFEE LTD."
         },
         {
-            "SYM": "KJMCCORP",
-            "COMPANY": "KJMC Corporate Advisors (India) Ltd."
+            SYM: "KJMCCORP",
+            COM: "KJMC Corporate Advisors (India) Ltd."
         },
         {
-            "SYM": "INDSWFTLAB",
-            "COMPANY": "IND-SWIFT LABORATORIES LTD."
+            SYM: "INDSWFTLAB",
+            COM: "IND-SWIFT LABORATORIES LTD."
         },
         {
-            "SYM": "MELSTAR",
-            "COMPANY": "MELSTAR INFORMATION TECHNOLOGIES LTD."
+            SYM: "MELSTAR",
+            COM: "MELSTAR INFORMATION TECHNOLOGIES LTD."
         },
         {
-            "SYM": "GEPIL",
-            "COMPANY": "GE Power India Ltd"
+            SYM: "GEPIL",
+            COM: "GE Power India Ltd"
         },
         {
-            "SYM": "SHREERAMA",
-            "COMPANY": "SHREE RAMA MULTI-TECH LTD."
+            SYM: "SHREERAMA",
+            COM: "SHREE RAMA MULTI-TECH LTD."
         },
         {
-            "SYM": "MAHLIFE",
-            "COMPANY": "MAHINDRA LIFESPACE DEVELOPERS LTD."
+            SYM: "MAHLIFE",
+            COM: "MAHINDRA LIFESPACE DEVELOPERS LTD."
         },
         {
-            "SYM": "VAARAD",
-            "COMPANY": "Vaarad Ventures Ltd"
+            SYM: "VAARAD",
+            COM: "Vaarad Ventures Ltd"
         },
         {
-            "SYM": "CADILAHC",
-            "COMPANY": "CADILA HEALTHCARE LTD."
+            SYM: "CADILAHC",
+            COM: "CADILA HEALTHCARE LTD."
         },
         {
-            "SYM": "SHIVACEM",
-            "COMPANY": "SHIVA CEMENT LTD."
+            SYM: "SHIVACEM",
+            COM: "SHIVA CEMENT LTD."
         },
         {
-            "SYM": "CINEVISTA",
-            "COMPANY": "CINEVISTA LTD."
+            SYM: "CINEVISTA",
+            COM: "CINEVISTA LTD."
         },
         {
-            "SYM": "INTENTECH",
-            "COMPANY": "INTENSE TECHNOLOGIES LTD.-$"
+            SYM: "INTENTECH",
+            COM: "INTENSE TECHNOLOGIES LTD."
         },
         {
-            "SYM": "DANLAW",
-            "COMPANY": "DANLAW TECHNOLOGIES INDIA LTD.-$"
+            SYM: "DANLAW",
+            COM: "DANLAW TECHNOLOGIES INDIA LTD."
         },
         {
-            "SYM": "AJANTPHARM",
-            "COMPANY": "AJANTA PHARMA LTD."
+            SYM: "AJANTPHARM",
+            COM: "AJANTA PHARMA LTD."
         },
         {
-            "SYM": "HBPOR",
-            "COMPANY": "HB PORTFOLIO LTD."
+            SYM: "HBPOR",
+            COM: "HB PORTFOLIO LTD."
         },
         {
-            "SYM": "HBESD",
-            "COMPANY": "HB ESTATE DEVELOPERS LTD."
+            SYM: "HBESD",
+            COM: "HB ESTATE DEVELOPERS LTD."
         },
         {
-            "SYM": "AMBICAAGAR",
-            "COMPANY": "AMBICA AGARBATHIES & AROMA INDUSTRIES LTD."
+            SYM: "AMBICAAGAR",
+            COM: "AMBICA AGARBATHIES & AROMA INDUSTRIES LTD."
         },
         {
-            "SYM": "COMPUSOFT",
-            "COMPANY": "COMPUCOM SOFTWARE LTD.-$"
+            SYM: "COMPUSOFT",
+            COM: "COMPUCOM SOFTWARE LTD."
         },
         {
-            "SYM": "OMNIAX",
-            "COMPANY": "OMNI AXS SOFTWARE LTD."
+            SYM: "OMNIAX",
+            COM: "OMNI AXS SOFTWARE LTD."
         },
         {
-            "SYM": "IZMO",
-            "COMPANY": "IZMO Limited-$"
+            SYM: "IZMO",
+            COM: "IZMO Limited"
         },
         {
-            "SYM": "TVSMOTOR",
-            "COMPANY": "TVS MOTOR COMPANY LTD."
+            SYM: "TVSMOTOR",
+            COM: "TVS MOTOR COMPANY LTD."
         },
         {
-            "SYM": "SOFTSOL",
-            "COMPANY": "SOFTSOL INDIA LTD."
+            SYM: "SOFTSOL",
+            COM: "SOFTSOL INDIA LTD."
         },
         {
-            "SYM": "GATI",
-            "COMPANY": "GATI LTD."
+            SYM: "GATI",
+            COM: "GATI LTD."
         },
         {
-            "SYM": "SUBEX",
-            "COMPANY": "SUBEX LTD."
+            SYM: "SUBEX",
+            COM: "SUBEX LTD."
         },
         {
-            "SYM": "TCI",
-            "COMPANY": "TRANSPORT CORPORATION OF INDIA LTD."
+            SYM: "TCI",
+            COM: "TRANSPORT CORPORATION OF INDIA LTD."
         },
         {
-            "SYM": "PADMALAYAT",
-            "COMPANY": "PADMALAYA TELEFILMS LTD."
+            SYM: "PADMALAYAT",
+            COM: "PADMALAYA TELEFILMS LTD."
         },
         {
-            "SYM": "AKSHOPTFBR",
-            "COMPANY": "AKSH OPTIFIBRE LTD."
+            SYM: "AKSHOPTFBR",
+            COM: "AKSH OPTIFIBRE LTD."
         },
         {
-            "SYM": "PICTUREHS",
-            "COMPANY": "PICTUREHOUSE MEDIA LTD."
+            SYM: "PICTUREHS",
+            COM: "PICTUREHOUSE MEDIA LTD."
         },
         {
-            "SYM": "TRIVENI",
-            "COMPANY": "TRIVENI ENGINEERING & INDUSTRIES LTD."
+            SYM: "TRIVENI",
+            COM: "TRIVENI ENGINEERING & INDUSTRIES LTD."
         },
         {
-            "SYM": "MUKTAARTS",
-            "COMPANY": "MUKTA ARTS LTD."
+            SYM: "MUKTAARTS",
+            COM: "MUKTA ARTS LTD."
         },
         {
-            "SYM": "HITKITGLO",
-            "COMPANY": "HIT KIT GLOBAL SOLUTIONS LTD."
+            SYM: "HITKITGLO",
+            COM: "HIT KIT GLOBAL SOLUTIONS LTD."
         },
         {
-            "SYM": "NAGPI",
-            "COMPANY": "NAGPUR POWER & INDUSTRIES LTD."
+            SYM: "NAGPI",
+            COM: "NAGPUR POWER & INDUSTRIES LTD."
         },
         {
-            "SYM": "DSSL",
-            "COMPANY": "DYNACONS SYSTEMS & SOLUTIONS LTD."
+            SYM: "DSSL",
+            COM: "DYNACONS SYSTEMS & SOLUTIONS LTD."
         },
         {
-            "SYM": "PNBGILTS",
-            "COMPANY": "PNB GILTS LTD."
+            SYM: "PNBGILTS",
+            COM: "PNB GILTS LTD."
         },
         {
-            "SYM": "BCG",
-            "COMPANY": "Brightcom Group Ltd"
+            SYM: "BCG",
+            COM: "Brightcom Group Ltd"
         },
         {
-            "SYM": "RAMCOIND",
-            "COMPANY": "RAMCO INDUSTRIES LTD."
+            SYM: "RAMCOIND",
+            COM: "RAMCO INDUSTRIES LTD."
         },
         {
-            "SYM": "RAMCOSYS",
-            "COMPANY": "RAMCO SYSTEMS LTD."
+            SYM: "RAMCOSYS",
+            COM: "RAMCO SYSTEMS LTD."
         },
         {
-            "SYM": "TTML",
-            "COMPANY": "TATA TELESERVICES (MAHARASHTRA) LTD."
+            SYM: "TTML",
+            COM: "TATA TELESERVICES (MAHARASHTRA) LTD."
         },
         {
-            "SYM": "VIRINCHI",
-            "COMPANY": "Virinchi Ltd"
+            SYM: "VIRINCHI",
+            COM: "Virinchi Ltd"
         },
         {
-            "SYM": "WEPSOLN",
-            "COMPANY": "WEP SOLUTIONS LTD."
+            SYM: "WEPSOLN",
+            COM: "WEP SOLUTIONS LTD."
         },
         {
-            "SYM": "STLTECH",
-            "COMPANY": "STERLITE TECHNOLOGIES LTD."
+            SYM: "STLTECH",
+            COM: "STERLITE TECHNOLOGIES LTD."
         },
         {
-            "SYM": "TIPSINDLTD",
-            "COMPANY": "TIPS INDUSTRIES LTD."
+            SYM: "TIPSINDLTD",
+            COM: "TIPS INDUSTRIES LTD."
         },
         {
-            "SYM": "MRO-TEK",
-            "COMPANY": "MRO-TEK Realty Ltd"
+            SYM: "MRO-TEK",
+            COM: "MRO-TEK Realty Ltd"
         },
         {
-            "SYM": "UNIVARTS",
-            "COMPANY": "UNIVERSAL ARTS LTD."
+            SYM: "UNIVARTS",
+            COM: "UNIVERSAL ARTS LTD."
         },
         {
-            "SYM": "FIRSTOBJ",
-            "COMPANY": "FIRSTOBJECT TECHNOLOGIES LTD."
+            SYM: "FIRSTOBJ",
+            COM: "FIRSTOBJECT TECHNOLOGIES LTD."
         },
         {
-            "SYM": "BABA",
-            "COMPANY": "BABA ARTS LTD.-$"
+            SYM: "BABA",
+            COM: "BABA ARTS LTD."
         },
         {
-            "SYM": "BALAJITELE",
-            "COMPANY": "BALAJI TELEFILMS LTD."
+            SYM: "BALAJITELE",
+            COM: "BALAJI TELEFILMS LTD."
         },
         {
-            "SYM": "TYCHE",
-            "COMPANY": "TYCHE INDUSTRIES LTD."
+            SYM: "TYCHE",
+            COM: "TYCHE INDUSTRIES LTD."
         },
         {
-            "SYM": "CALSOFT",
-            "COMPANY": "CALIFORNIA SOFTWARE CO.LTD."
+            SYM: "CALSOFT",
+            COM: "CALIFORNIA SOFTWARE CO.LTD."
         },
         {
-            "SYM": "PNC",
-            "COMPANY": "PRITISH NANDY COMMUNICATIONS LTD."
+            SYM: "PNC",
+            COM: "PRITISH NANDY COMMUNICATIONS LTD."
         },
         {
-            "SYM": "IOB",
-            "COMPANY": "INDIAN OVERSEAS BANK"
+            SYM: "IOB",
+            COM: "INDIAN OVERSEAS BANK"
         },
         {
-            "SYM": "TAJGVK",
-            "COMPANY": "TAJGVK HOTELS & RESORTS LTD."
+            SYM: "TAJGVK",
+            COM: "TAJGVK HOTELS & RESORTS LTD."
         },
         {
-            "SYM": "OPTOCIRCUI",
-            "COMPANY": "OPTO CIRCUITS (INDIA) LTD."
+            SYM: "OPTOCIRCUI",
+            COM: "OPTO CIRCUITS (INDIA) LTD."
         },
         {
-            "SYM": "CREATIVEYE",
-            "COMPANY": "CREATIVE EYE LTD."
+            SYM: "CREATIVEYE",
+            COM: "CREATIVE EYE LTD."
         },
         {
-            "SYM": "AXISCADES",
-            "COMPANY": "Axiscades Technologies Ltd"
+            SYM: "AXISCADES",
+            COM: "Axiscades Technologies Ltd"
         },
         {
-            "SYM": "KONNDOR",
-            "COMPANY": "Konndor Industries Ltd"
+            SYM: "KONNDOR",
+            COM: "Konndor Industries Ltd"
         },
         {
-            "SYM": "UMESLTD",
-            "COMPANY": "Usha Martin Education & Solutions Limited"
+            SYM: "UMESLTD",
+            COM: "Usha Martin Education & Solutions Limited"
         },
         {
-            "SYM": "BSOFT",
-            "COMPANY": "Birlasoft Ltd"
+            SYM: "BSOFT",
+            COM: "Birlasoft Ltd"
         },
         {
-            "SYM": "USGTECH",
-            "COMPANY": "USG TECH SOLUTIONS LTD."
+            SYM: "USGTECH",
+            COM: "USG TECH SOLUTIONS LTD."
         },
         {
-            "SYM": "4THGEN",
-            "COMPANY": "FOURTH GENERATION INFORMATION SYSTEMS LTD."
+            SYM: "4THGEN",
+            COM: "FOURTH GENERATION INFORMATION SYSTEMS LTD."
         },
         {
-            "SYM": "7TEC",
-            "COMPANY": "SAVEN TECHNOLOGIES LTD."
+            SYM: "7TEC",
+            COM: "SAVEN TECHNOLOGIES LTD."
         },
         {
-            "SYM": "AVANTEL",
-            "COMPANY": "AVANTEL LTD."
+            SYM: "AVANTEL",
+            COM: "AVANTEL LTD."
         },
         {
-            "SYM": "MOSCHIP",
-            "COMPANY": "Moschip Technologies Ltd"
+            SYM: "MOSCHIP",
+            COM: "Moschip Technologies Ltd"
         },
         {
-            "SYM": "MEGASOFT",
-            "COMPANY": "MEGASOFT LTD."
+            SYM: "MEGASOFT",
+            COM: "MEGASOFT LTD."
         },
         {
-            "SYM": "TRANSCOR",
-            "COMPANY": "TRANSCORP INTERNATIONAL LTD."
+            SYM: "TRANSCOR",
+            COM: "TRANSCORP INTERNATIONAL LTD."
         },
         {
-            "SYM": "CEREBRAINT",
-            "COMPANY": "CEREBRA INTEGRATED TECHNOLOGIES LTD."
+            SYM: "CEREBRAINT",
+            COM: "CEREBRA INTEGRATED TECHNOLOGIES LTD."
         },
         {
-            "SYM": "NEXTMEDIA",
-            "COMPANY": "NEXT MEDIAWORKS LTD."
+            SYM: "NEXTMEDIA",
+            COM: "NEXT MEDIAWORKS LTD."
         },
         {
-            "SYM": "SMARTLINK",
-            "COMPANY": "Smartlink Holdings Ltd"
+            SYM: "SMARTLINK",
+            COM: "Smartlink Holdings Ltd"
         },
         {
-            "SYM": "GODREJCP",
-            "COMPANY": "GODREJ CONSUMER PRODUCTS LTD."
+            SYM: "GODREJCP",
+            COM: "GODREJ CONSUMER PRODUCTS LTD."
         },
         {
-            "SYM": "GENUSPRIME",
-            "COMPANY": "Genus Prime Infra Ltd"
+            SYM: "GENUSPRIME",
+            COM: "Genus Prime Infra Ltd"
         },
         {
-            "SYM": "BFUTILITIE",
-            "COMPANY": "BF UTILITIES LTD.-$"
+            SYM: "BFUTILITIE",
+            COM: "BF UTILITIES LTD."
         },
         {
-            "SYM": "UNITDSPR",
-            "COMPANY": "UNITED SPIRITS LTD."
+            SYM: "UNITDSPR",
+            COM: "UNITED SPIRITS LTD."
         },
         {
-            "SYM": "SANINFRA",
-            "COMPANY": "Sanmit Infra Limited"
+            SYM: "SANINFRA",
+            COM: "Sanmit Infra Limited"
         },
         {
-            "SYM": "OLECTRA",
-            "COMPANY": "Olectra Greentech Ltd"
+            SYM: "OLECTRA",
+            COM: "Olectra Greentech Ltd"
         },
         {
-            "SYM": "MPSLTD",
-            "COMPANY": "MPS LTD."
+            SYM: "MPSLTD",
+            COM: "MPS LTD."
         },
         {
-            "SYM": "RAINBOWDQ",
-            "COMPANY": "RAINBOW DENIM LTD."
+            SYM: "RAINBOWDQ",
+            COM: "RAINBOW DENIM LTD."
         },
         {
-            "SYM": "CERA",
-            "COMPANY": "CERA SANITARYWARE LTD."
+            SYM: "CERA",
+            COM: "CERA SANITARYWARE LTD."
         },
         {
-            "SYM": "TSPIRITUAL",
-            "COMPANY": "T.SPIRITUAL WORLD LTD."
+            SYM: "TSPIRITUAL",
+            COM: "T.SPIRITUAL WORLD LTD."
         },
         {
-            "SYM": "BHARTIARTL",
-            "COMPANY": "BHARTI AIRTEL LTD."
+            SYM: "BHARTIARTL",
+            COM: "BHARTI AIRTEL LTD."
         },
         {
-            "SYM": "SHALIWIR",
-            "COMPANY": "SHALIMAR WIRES INDUSTRIES LTD."
+            SYM: "SHALIWIR",
+            COM: "SHALIMAR WIRES INDUSTRIES LTD."
         },
         {
-            "SYM": "COMPUAGE",
-            "COMPANY": "COMPUAGE INFOCOM LTD."
+            SYM: "COMPUAGE",
+            COM: "COMPUAGE INFOCOM LTD."
         },
         {
-            "SYM": "GULPOLY",
-            "COMPANY": "GULSHAN POLYOLS LTD."
+            SYM: "GULPOLY",
+            COM: "GULSHAN POLYOLS LTD."
         },
         {
-            "SYM": "FAZE3AUTO",
-            "COMPANY": "Faze Three Autofab Ltd-$"
+            SYM: "FAZE3AUTO",
+            COM: "Faze Three Autofab Ltd"
         },
         {
-            "SYM": "PONNIERODE",
-            "COMPANY": "PONNI SUGARS (ERODE) LTD."
+            SYM: "PONNIERODE",
+            COM: "PONNI SUGARS (ERODE) LTD."
         },
         {
-            "SYM": "PNB",
-            "COMPANY": "PUNJAB NATIONAL BANK"
+            SYM: "PNB",
+            COM: "PUNJAB NATIONAL BANK"
         },
         {
-            "SYM": "OFSS",
-            "COMPANY": "ORACLE FINANCIAL SERVICES SOFTWARE LTD."
+            SYM: "OFSS",
+            COM: "ORACLE FINANCIAL SERVICES SOFTWARE LTD."
         },
         {
-            "SYM": "HAZOOR",
-            "COMPANY": "HAZOOR MULTI PROJECTS LTD.-$"
+            SYM: "HAZOOR",
+            COM: "HAZOOR MULTI PROJECTS LTD."
         },
         {
-            "SYM": "KAMAHOLD",
-            "COMPANY": "Kama Holdings Limited-$"
+            SYM: "KAMAHOLD",
+            COM: "Kama Holdings Limited"
         },
         {
-            "SYM": "MPFSL",
-            "COMPANY": "MATHER & PLATT FIRE SYSTEMS LTD."
+            SYM: "MPFSL",
+            COM: "MATHER & PLATT FIRE SYSTEMS LTD."
         },
         {
-            "SYM": "APTECHT",
-            "COMPANY": "APTECH LTD."
+            SYM: "APTECHT",
+            COM: "APTECH LTD."
         },
         {
-            "SYM": "UNIONBANK",
-            "COMPANY": "UNION BANK OF INDIA"
+            SYM: "UNIONBANK",
+            COM: "UNION BANK OF INDIA"
         },
         {
-            "SYM": "UBL",
-            "COMPANY": "UNITED BREWERIES LTD.-$"
+            SYM: "UBL",
+            COM: "UNITED BREWERIES LTD."
         },
         {
-            "SYM": "ISMTLTD",
-            "COMPANY": "ISMT LTD."
+            SYM: "ISMTLTD",
+            COM: "ISMT LTD."
         },
         {
-            "SYM": "NOIDATOLL",
-            "COMPANY": "NOIDA TOLL BRIDGE COMPANY LTD."
+            SYM: "NOIDATOLL",
+            COM: "NOIDA TOLL BRIDGE COMPANY LTD."
         },
         {
-            "SYM": "GRANULES",
-            "COMPANY": "GRANULES INDIA LTD.-$"
+            SYM: "GRANULES",
+            COM: "GRANULES INDIA LTD."
         },
         {
-            "SYM": "CANBK",
-            "COMPANY": "CANARA BANK"
+            SYM: "CANBK",
+            COM: "CANARA BANK"
         },
         {
-            "SYM": "BLIL",
-            "COMPANY": "BALMER LAWRIE INVESTMENTS LTD."
+            SYM: "BLIL",
+            COM: "BALMER LAWRIE INVESTMENTS LTD."
         },
         {
-            "SYM": "POKARNA",
-            "COMPANY": "POKARNA LTD."
+            SYM: "POKARNA",
+            COM: "POKARNA LTD."
         },
         {
-            "SYM": "DIVISLAB",
-            "COMPANY": "DIVI&#39;S LABORATORIES LTD."
+            SYM: "DIVISLAB",
+            COM: "DIVI&#39;S LABORATORIES LTD."
         },
         {
-            "SYM": "ASTRAMICRO",
-            "COMPANY": "ASTRA MICROWAVE PRODUCTS LTD."
+            SYM: "ASTRAMICRO",
+            COM: "ASTRA MICROWAVE PRODUCTS LTD."
         },
         {
-            "SYM": "RADICO",
-            "COMPANY": "RADICO KHAITAN LTD."
+            SYM: "RADICO",
+            COM: "RADICO KHAITAN LTD."
         },
         {
-            "SYM": "SHRIRAMCIT",
-            "COMPANY": "SHRIRAM CITY UNION FINANCE LTD."
+            SYM: "SHRIRAMCIT",
+            COM: "SHRIRAM CITY UNION FINANCE LTD."
         },
         {
-            "SYM": "MARUTI",
-            "COMPANY": "MARUTI SUZUKI INDIA LTD."
+            SYM: "MARUTI",
+            COM: "MARUTI SUZUKI INDIA LTD."
         },
         {
-            "SYM": "RAJPALAYAM",
-            "COMPANY": "RAJAPALAYAM MILLS LTD.-$"
+            SYM: "RAJPALAYAM",
+            COM: "RAJAPALAYAM MILLS LTD."
         },
         {
-            "SYM": "NAVINFLUOR",
-            "COMPANY": "Navin Fluorine International Limited-$"
+            SYM: "NAVINFLUOR",
+            COM: "Navin Fluorine International Limited"
         },
         {
-            "SYM": "UCOBANK",
-            "COMPANY": "UCO BANK"
+            SYM: "UCOBANK",
+            COM: "UCO BANK"
         },
         {
-            "SYM": "BAGFILMS",
-            "COMPANY": "B.A.G.FILMS & MEDIA LTD."
+            SYM: "BAGFILMS",
+            COM: "B.A.G.FILMS & MEDIA LTD."
         },
         {
-            "SYM": "JSL",
-            "COMPANY": "JINDAL STAINLESS LTD."
+            SYM: "JSL",
+            COM: "JINDAL STAINLESS LTD."
         },
         {
-            "SYM": "SUPRAJIT",
-            "COMPANY": "SUPRAJIT ENGINEERING LTD.-$"
+            SYM: "SUPRAJIT",
+            COM: "SUPRAJIT ENGINEERING LTD."
         },
         {
-            "SYM": "TVSELECT",
-            "COMPANY": "TVS ELECTRONICS LTD."
+            SYM: "TVSELECT",
+            COM: "TVS ELECTRONICS LTD."
         },
         {
-            "SYM": "IGL",
-            "COMPANY": "INDRAPRASTHA GAS LTD."
+            SYM: "IGL",
+            COM: "INDRAPRASTHA GAS LTD."
         },
         {
-            "SYM": "TVTODAY",
-            "COMPANY": "TV TODAY NETWORK LTD."
+            SYM: "TVTODAY",
+            COM: "TV TODAY NETWORK LTD."
         },
         {
-            "SYM": "PALRED",
-            "COMPANY": "Palred Technologies Limited"
+            SYM: "PALRED",
+            COM: "Palred Technologies Limited"
         },
         {
-            "SYM": "PETRONET",
-            "COMPANY": "PETRONET LNG LTD."
+            SYM: "PETRONET",
+            COM: "PETRONET LNG LTD."
         },
         {
-            "SYM": "BIOCON",
-            "COMPANY": "BIOCON LTD."
+            SYM: "BIOCON",
+            COM: "BIOCON LTD."
         },
         {
-            "SYM": "PTC",
-            "COMPANY": "PTC INDIA LTD."
+            SYM: "PTC",
+            COM: "PTC INDIA LTD."
         },
         {
-            "SYM": "MAHABANK",
-            "COMPANY": "BANK OF MAHARASHTRA"
+            SYM: "MAHABANK",
+            COM: "BANK OF MAHARASHTRA"
         },
         {
-            "SYM": "RKFORGE",
-            "COMPANY": "RAMKRISHNA FORGINGS LTD."
+            SYM: "RKFORGE",
+            COM: "RAMKRISHNA FORGINGS LTD."
         },
         {
-            "SYM": "DATAMATICS",
-            "COMPANY": "DATAMATICS GLOBAL SERVICES LTD."
+            SYM: "DATAMATICS",
+            COM: "DATAMATICS GLOBAL SERVICES LTD."
         },
         {
-            "SYM": "NDTV",
-            "COMPANY": "NEW DELHI TELEVISION LTD."
+            SYM: "NDTV",
+            COM: "NEW DELHI TELEVISION LTD."
         },
         {
-            "SYM": "STAR",
-            "COMPANY": "Strides Pharma Science Ltd"
+            SYM: "STAR",
+            COM: "Strides Pharma Science Ltd"
         },
         {
-            "SYM": "JPASSOCIAT",
-            "COMPANY": "JAIPRAKASH ASSOCIATES LTD."
+            SYM: "JPASSOCIAT",
+            COM: "JAIPRAKASH ASSOCIATES LTD."
         },
         {
-            "SYM": "ULTRACEMCO",
-            "COMPANY": "ULTRATECH CEMENT LTD."
+            SYM: "ULTRACEMCO",
+            COM: "ULTRATECH CEMENT LTD."
         },
         {
-            "SYM": "MINDAIND",
-            "COMPANY": "MINDA INDUSTRIES LTD.-$"
+            SYM: "MINDAIND",
+            COM: "MINDA INDUSTRIES LTD."
         },
         {
-            "SYM": "TCS",
-            "COMPANY": "TATA CONSULTANCY SERVICES LTD."
+            SYM: "TCS",
+            COM: "TATA CONSULTANCY SERVICES LTD."
         },
         {
-            "SYM": "COFORGE",
-            "COMPANY": "Coforge Ltd"
+            SYM: "COFORGE",
+            COM: "Coforge Ltd"
         },
         {
-            "SYM": "GULFPETRO",
-            "COMPANY": "GP Petroleums Limited"
+            SYM: "GULFPETRO",
+            COM: "GP Petroleums Limited"
         },
         {
-            "SYM": "CENTURYPLY",
-            "COMPANY": "CENTURY PLYBOARDS (I) LTD.-$"
+            SYM: "CENTURYPLY",
+            COM: "CENTURY PLYBOARDS (I) LTD."
         },
         {
-            "SYM": "WELENT",
-            "COMPANY": "Welspun Enterprises Ltd"
+            SYM: "WELENT",
+            COM: "Welspun Enterprises Ltd"
         },
         {
-            "SYM": "NTPC",
-            "COMPANY": "NTPC LTD."
+            SYM: "NTPC",
+            COM: "NTPC LTD."
         },
         {
-            "SYM": "SALSTEEL",
-            "COMPANY": "S.A.L.STEEL LTD."
+            SYM: "SALSTEEL",
+            COM: "S.A.L.STEEL LTD."
         },
         {
-            "SYM": "JBMA",
-            "COMPANY": "JBM AUTO LTD."
+            SYM: "JBMA",
+            COM: "JBM AUTO LTD."
         },
         {
-            "SYM": "DWARKESH",
-            "COMPANY": "DWARIKESH SUGAR INDUSTRIES LTD."
+            SYM: "DWARKESH",
+            COM: "DWARIKESH SUGAR INDUSTRIES LTD."
         },
         {
-            "SYM": "INDOCO",
-            "COMPANY": "INDOCO REMEDIES LTD."
+            SYM: "INDOCO",
+            COM: "INDOCO REMEDIES LTD."
         },
         {
-            "SYM": "VIPCLOTHNG",
-            "COMPANY": "VIP Clothing Ltd"
+            SYM: "VIPCLOTHNG",
+            COM: "VIP Clothing Ltd"
         },
         {
-            "SYM": "IMPEXFERRO",
-            "COMPANY": "IMPEX FERRO TECH LTD."
+            SYM: "IMPEXFERRO",
+            COM: "IMPEX FERRO TECH LTD."
         },
         {
-            "SYM": "XCHANGING",
-            "COMPANY": "XCHANGING SOLUTIONS LTD."
+            SYM: "XCHANGING",
+            COM: "XCHANGING SOLUTIONS LTD."
         },
         {
-            "SYM": "JETAIRWAYS",
-            "COMPANY": "JET AIRWAYS (INDIA) LTD."
+            SYM: "JETAIRWAYS",
+            COM: "JET AIRWAYS (INDIA) LTD."
         },
         {
-            "SYM": "MORARJEE",
-            "COMPANY": "MORARJEE TEXTILES LTD."
+            SYM: "MORARJEE",
+            COM: "MORARJEE TEXTILES LTD."
         },
         {
-            "SYM": "GDL",
-            "COMPANY": "GATEWAY DISTRIPARKS LTD."
+            SYM: "GDL",
+            COM: "GATEWAY DISTRIPARKS LTD."
         },
         {
-            "SYM": "JINDALPHOT",
-            "COMPANY": "JINDAL PHOTO LTD."
+            SYM: "JINDALPHOT",
+            COM: "JINDAL PHOTO LTD."
         },
         {
-            "SYM": "PONDYOXIDE",
-            "COMPANY": "PONDY OXIDES & CHEMICALS LTD."
+            SYM: "PONDYOXIDE",
+            COM: "PONDY OXIDES & CHEMICALS LTD."
         },
         {
-            "SYM": "JPPOWER",
-            "COMPANY": "Jaiprakash Power Ventures Limited"
+            SYM: "JPPOWER",
+            COM: "Jaiprakash Power Ventures Limited"
         },
         {
-            "SYM": "3IINFOTECH",
-            "COMPANY": "3I INFOTECH LTD."
+            SYM: "3IINFOTECH",
+            COM: "3I INFOTECH LTD."
         },
         {
-            "SYM": "MBECL",
-            "COMPANY": "MCNALLY BHARAT ENGINEERING COMPANY LTD."
+            SYM: "MBECL",
+            COM: "MCNALLY BHARAT ENGINEERING COMPANY LTD."
         },
         {
-            "SYM": "GOKEX",
-            "COMPANY": "GOKALDAS EXPORTS LTD."
+            SYM: "GOKEX",
+            COM: "GOKALDAS EXPORTS LTD."
         },
         {
-            "SYM": "ALLSEC",
-            "COMPANY": "ALLSEC TECHNOLOGIES LTD."
+            SYM: "ALLSEC",
+            COM: "ALLSEC TECHNOLOGIES LTD."
         },
         {
-            "SYM": "IIFL",
-            "COMPANY": "IIFL Finance Ltd"
+            SYM: "IIFL",
+            COM: "IIFL Finance Ltd"
         },
         {
-            "SYM": "MANGALAM",
-            "COMPANY": "MANGALAM DRUGS & ORGANICS LTD."
+            SYM: "MANGALAM",
+            COM: "MANGALAM DRUGS & ORGANICS LTD."
         },
         {
-            "SYM": "SHOPERSTOP",
-            "COMPANY": "SHOPPERS STOP LTD."
+            SYM: "SHOPERSTOP",
+            COM: "SHOPPERS STOP LTD."
         },
         {
-            "SYM": "CYBERMEDIA",
-            "COMPANY": "CYBER MEDIA (INDIA) LTD."
+            SYM: "CYBERMEDIA",
+            COM: "CYBER MEDIA (INDIA) LTD."
         },
         {
-            "SYM": "NDL",
-            "COMPANY": "Nandan Denim Limited"
+            SYM: "NDL",
+            COM: "Nandan Denim Limited"
         },
         {
-            "SYM": "JSWHL",
-            "COMPANY": "JSW Holdings Limited"
+            SYM: "JSWHL",
+            COM: "JSW Holdings Limited"
         },
         {
-            "SYM": "JKCEMENT",
-            "COMPANY": "J.K.CEMENT LTD."
+            SYM: "JKCEMENT",
+            COM: "J.K.CEMENT LTD."
         },
         {
-            "SYM": "YESBANK",
-            "COMPANY": "YES BANK LTD."
+            SYM: "YESBANK",
+            COM: "YES BANK LTD."
         },
         {
-            "SYM": "NECLIFE",
-            "COMPANY": "NECTAR LIFESCIENCES LTD."
+            SYM: "NECLIFE",
+            COM: "NECTAR LIFESCIENCES LTD."
         },
         {
-            "SYM": "MSPL",
-            "COMPANY": "MSP STEEL & POWER LTD."
+            SYM: "MSPL",
+            COM: "MSP STEEL & POWER LTD."
         },
         {
-            "SYM": "SPLIL",
-            "COMPANY": "SPL INDUSTRIES LTD."
+            SYM: "SPLIL",
+            COM: "SPL INDUSTRIES LTD."
         },
         {
-            "SYM": "KTKBANK",
-            "COMPANY": "KARNATAKA BANK LTD."
+            SYM: "KTKBANK",
+            COM: "KARNATAKA BANK LTD."
         },
         {
-            "SYM": "MCLEODRUSS",
-            "COMPANY": "MCLEOD RUSSEL INDIA LTD."
+            SYM: "MCLEODRUSS",
+            COM: "MCLEOD RUSSEL INDIA LTD."
         },
         {
-            "SYM": "FACORALL",
-            "COMPANY": "FACOR ALLOYS LTD."
+            SYM: "FACORALL",
+            COM: "FACOR ALLOYS LTD."
         },
         {
-            "SYM": "IDFC",
-            "COMPANY": "IDFC LIMITED"
+            SYM: "IDFC",
+            COM: "IDFC LIMITED"
         },
         {
-            "SYM": "VIVIMEDLAB",
-            "COMPANY": "VIVIMED LABS LTD."
+            SYM: "VIVIMEDLAB",
+            COM: "VIVIMED LABS LTD."
         },
         {
-            "SYM": "RML",
-            "COMPANY": "RANE (MADRAS) LTD."
+            SYM: "RML",
+            COM: "RANE (MADRAS) LTD."
         },
         {
-            "SYM": "HTMEDIA",
-            "COMPANY": "HT MEDIA LTD."
+            SYM: "HTMEDIA",
+            COM: "HT MEDIA LTD."
         },
         {
-            "SYM": "SASKEN",
-            "COMPANY": "Sasken Technologies Ltd"
+            SYM: "SASKEN",
+            COM: "Sasken Technologies Ltd"
         },
         {
-            "SYM": "FCSSOFT",
-            "COMPANY": "FCS SOFTWARE SOLUTIONS LTD."
+            SYM: "FCSSOFT",
+            COM: "FCS SOFTWARE SOLUTIONS LTD."
         },
         {
-            "SYM": "SUZLON",
-            "COMPANY": "SUZLON ENERGY LTD."
+            SYM: "SUZLON",
+            COM: "SUZLON ENERGY LTD."
         },
         {
-            "SYM": "AURIONPRO",
-            "COMPANY": "AURIONPRO SOLUTIONS LTD."
+            SYM: "AURIONPRO",
+            COM: "AURIONPRO SOLUTIONS LTD."
         },
         {
-            "SYM": "RENUKA",
-            "COMPANY": "SHREE RENUKA SUGARS LTD."
+            SYM: "RENUKA",
+            COM: "SHREE RENUKA SUGARS LTD."
         },
         {
-            "SYM": "KMSUGAR",
-            "COMPANY": "K.M.SUGAR MILLS LTD."
+            SYM: "KMSUGAR",
+            COM: "K.M.SUGAR MILLS LTD."
         },
         {
-            "SYM": "BASML",
-            "COMPANY": "BANNARI AMMAN SPINNING MILLS LTD."
+            SYM: "BASML",
+            COM: "BANNARI AMMAN SPINNING MILLS LTD."
         },
         {
-            "SYM": "PBAINFRA",
-            "COMPANY": "PBA INFRASTRUCTURE LTD."
+            SYM: "PBAINFRA",
+            COM: "PBA INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "BRFL",
-            "COMPANY": "BOMBAY RAYON FASHIONS LTD."
+            SYM: "BRFL",
+            COM: "BOMBAY RAYON FASHIONS LTD."
         },
         {
-            "SYM": "SORILINFRA",
-            "COMPANY": "SORIL Infra Resources Ltd"
+            SYM: "SORILINFRA",
+            COM: "SORIL Infra Resources Ltd"
         },
         {
-            "SYM": "AIAENG",
-            "COMPANY": "AIA ENGINEERING LTD."
+            SYM: "AIAENG",
+            COM: "AIA ENGINEERING LTD."
         },
         {
-            "SYM": "EKC",
-            "COMPANY": "EVEREST KANTO CYLINDER LTD."
+            SYM: "EKC",
+            COM: "EVEREST KANTO CYLINDER LTD."
         },
         {
-            "SYM": "KERNEX",
-            "COMPANY": "KERNEX MICROSYSTEMS (INDIA) LTD."
+            SYM: "KERNEX",
+            COM: "KERNEX MICROSYSTEMS (INDIA) LTD."
         },
         {
-            "SYM": "REPRO",
-            "COMPANY": "REPRO INDIA LTD."
+            SYM: "REPRO",
+            COM: "REPRO INDIA LTD."
         },
         {
-            "SYM": "PVR",
-            "COMPANY": "PVR LTD."
+            SYM: "PVR",
+            COM: "PVR LTD."
         },
         {
-            "SYM": "RAMSARUP",
-            "COMPANY": "RAMSARUP INDUSTRIES LTD."
+            SYM: "RAMSARUP",
+            COM: "RAMSARUP INDUSTRIES LTD."
         },
         {
-            "SYM": "RMCL",
-            "COMPANY": "RADHA MADHAV CORPORATION LTD."
+            SYM: "RMCL",
+            COM: "RADHA MADHAV CORPORATION LTD."
         },
         {
-            "SYM": "PUNJLLOYD",
-            "COMPANY": "PUNJ LLOYD LTD."
+            SYM: "PUNJLLOYD",
+            COM: "PUNJ LLOYD LTD."
         },
         {
-            "SYM": "BARTRONICS",
-            "COMPANY": "BARTRONICS INDIA LTD."
+            SYM: "BARTRONICS",
+            COM: "BARTRONICS INDIA LTD."
         },
         {
-            "SYM": "CELEBRITY",
-            "COMPANY": "CELEBRITY FASHIONS LTD."
+            SYM: "CELEBRITY",
+            COM: "CELEBRITY FASHIONS LTD."
         },
         {
-            "SYM": "EDUCOMP",
-            "COMPANY": "EDUCOMP SOLUTIONS LTD."
+            SYM: "EDUCOMP",
+            COM: "EDUCOMP SOLUTIONS LTD."
         },
         {
-            "SYM": "NITINSPIN",
-            "COMPANY": "NITIN SPINNERS LTD."
+            SYM: "NITINSPIN",
+            COM: "NITIN SPINNERS LTD."
         },
         {
-            "SYM": "ROHLTD",
-            "COMPANY": "ROYAL ORCHID HOTELS LTD."
+            SYM: "ROHLTD",
+            COM: "ROYAL ORCHID HOTELS LTD."
         },
         {
-            "SYM": "ENIL",
-            "COMPANY": "ENTERTAINMENT NETWORK (INDIA) LTD."
+            SYM: "ENIL",
+            COM: "ENTERTAINMENT NETWORK (INDIA) LTD."
         },
         {
-            "SYM": "CELLA",
-            "COMPANY": "Cella Space Ltd"
+            SYM: "CELLA",
+            COM: "Cella Space Ltd"
         },
         {
-            "SYM": "GSPL",
-            "COMPANY": "GUJARAT STATE PETRONET LTD."
+            SYM: "GSPL",
+            COM: "GUJARAT STATE PETRONET LTD."
         },
         {
-            "SYM": "JAGRAN*",
-            "COMPANY": "JAGRAN PRAKASHAN LTD."
+            SYM: "JAGRAN*",
+            COM: "JAGRAN PRAKASHAN LTD."
         },
         {
-            "SYM": "INOXLEISUR",
-            "COMPANY": "INOX LEISURE LTD."
+            SYM: "INOXLEISUR",
+            COM: "INOX LEISURE LTD."
         },
         {
-            "SYM": "DYNPRO",
-            "COMPANY": "DYNEMIC PRODUCTS LTD."
+            SYM: "DYNPRO",
+            COM: "DYNEMIC PRODUCTS LTD."
         },
         {
-            "SYM": "SADBHAV",
-            "COMPANY": "SADBHAV ENGINEERING LTD."
+            SYM: "SADBHAV",
+            COM: "SADBHAV ENGINEERING LTD."
         },
         {
-            "SYM": "RCOM",
-            "COMPANY": "RELIANCE COMMUNICATIONS LTD."
+            SYM: "RCOM",
+            COM: "RELIANCE COMMUNICATIONS LTD."
         },
         {
-            "SYM": "SAKUMA",
-            "COMPANY": "SAKUMA EXPORTS LTD."
+            SYM: "SAKUMA",
+            COM: "SAKUMA EXPORTS LTD."
         },
         {
-            "SYM": "KEC",
-            "COMPANY": "KEC INTERNATIONAL LTD."
+            SYM: "KEC",
+            COM: "KEC INTERNATIONAL LTD."
         },
         {
-            "SYM": "GILLANDERS",
-            "COMPANY": "GILLANDERS ARBUTHNOT & CO.LTD."
+            SYM: "GILLANDERS",
+            COM: "GILLANDERS ARBUTHNOT & CO.LTD."
         },
         {
-            "SYM": "INDOTECH",
-            "COMPANY": "INDO TECH TRANSFORMERS LTD."
+            SYM: "INDOTECH",
+            COM: "INDO TECH TRANSFORMERS LTD."
         },
         {
-            "SYM": "BLKASHYAP",
-            "COMPANY": "B.L.KASHYAP AND SONS LTD."
+            SYM: "BLKASHYAP",
+            COM: "B.L.KASHYAP AND SONS LTD."
         },
         {
-            "SYM": "M&MFIN",
-            "COMPANY": "MAHINDRA & MAHINDRA FINANCIAL SERVICES LTD."
+            SYM: "M&MFIN",
+            COM: "MAHINDRA & MAHINDRA FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "VISASTEEL",
-            "COMPANY": "VISA STEEL LTD."
+            SYM: "VISASTEEL",
+            COM: "VISA STEEL LTD."
         },
         {
-            "SYM": "NITCO",
-            "COMPANY": "NITCO LTD."
+            SYM: "NITCO",
+            COM: "NITCO LTD."
         },
         {
-            "SYM": "MPDL",
-            "COMPANY": "MPDL Ltd"
+            SYM: "MPDL",
+            COM: "MPDL Ltd"
         },
         {
-            "SYM": "SOLARINDS",
-            "COMPANY": "SOLAR INDUSTRIES INDIA LTD."
+            SYM: "SOLARINDS",
+            COM: "SOLAR INDUSTRIES INDIA LTD."
         },
         {
-            "SYM": "GALLANTT",
-            "COMPANY": "GALLANTT METAL LTD."
+            SYM: "GALLANTT",
+            COM: "GALLANTT METAL LTD."
         },
         {
-            "SYM": "MALUPAPER",
-            "COMPANY": "MALU PAPER MILLS LTD."
+            SYM: "MALUPAPER",
+            COM: "MALU PAPER MILLS LTD."
         },
         {
-            "SYM": "UTTAMSUGAR",
-            "COMPANY": "UTTAM SUGAR MILLS LTD."
+            SYM: "UTTAMSUGAR",
+            COM: "UTTAM SUGAR MILLS LTD."
         },
         {
-            "SYM": "SGL",
-            "COMPANY": "STL GLOBAL LTD."
+            SYM: "SGL",
+            COM: "STL GLOBAL LTD."
         },
         {
-            "SYM": "KKCL",
-            "COMPANY": "KEWAL KIRAN CLOTHING LTD."
+            SYM: "KKCL",
+            COM: "KEWAL KIRAN CLOTHING LTD."
         },
         {
-            "SYM": "SUNTV",
-            "COMPANY": "SUN TV NETWORK LTD."
+            SYM: "SUNTV",
+            COM: "SUN TV NETWORK LTD."
         },
         {
-            "SYM": "GPIL",
-            "COMPANY": "GODAWARI POWER & ISPAT LTD."
+            SYM: "GPIL",
+            COM: "GODAWARI POWER & ISPAT LTD."
         },
         {
-            "SYM": "RSYSTEMINT",
-            "COMPANY": "R Systems International Limited"
+            SYM: "RSYSTEMINT",
+            COM: "R Systems International Limited"
         },
         {
-            "SYM": "EMKAY",
-            "COMPANY": "EMKAY GLOBAL FINANCIAL SERVICES LTD."
+            SYM: "EMKAY",
+            COM: "EMKAY GLOBAL FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "TANTIACONS",
-            "COMPANY": "TANTIA CONSTRUCTIONS LTD."
+            SYM: "TANTIACONS",
+            COM: "TANTIA CONSTRUCTIONS LTD."
         },
         {
-            "SYM": "LOKESHMACH",
-            "COMPANY": "LOKESH MACHINES LTD."
+            SYM: "LOKESHMACH",
+            COM: "LOKESH MACHINES LTD."
         },
         {
-            "SYM": "KAMDHENU",
-            "COMPANY": "Kamdhenu Ltd"
+            SYM: "KAMDHENU",
+            COM: "Kamdhenu Ltd"
         },
         {
-            "SYM": "PAUSHAKLTD",
-            "COMPANY": "PAUSHAK LTD."
+            SYM: "PAUSHAKLTD",
+            COM: "PAUSHAK LTD."
         },
         {
-            "SYM": "GTNTEX",
-            "COMPANY": "GTN TEXTILES LTD."
+            SYM: "GTNTEX",
+            COM: "GTN TEXTILES LTD."
         },
         {
-            "SYM": "INDICAP",
-            "COMPANY": "Inditrade Capital Limited"
+            SYM: "INDICAP",
+            COM: "Inditrade Capital Limited"
         },
         {
-            "SYM": "PFOCUS",
-            "COMPANY": "PRIME FOCUS LTD."
+            SYM: "PFOCUS",
+            COM: "PRIME FOCUS LTD."
         },
         {
-            "SYM": "ALLCARGO",
-            "COMPANY": "ALLCARGO LOGISTICS LTD."
+            SYM: "ALLCARGO",
+            COM: "ALLCARGO LOGISTICS LTD."
         },
         {
-            "SYM": "EASUNREYRL",
-            "COMPANY": "EASUN REYROLLE LTD."
+            SYM: "EASUNREYRL",
+            COM: "EASUN REYROLLE LTD."
         },
         {
-            "SYM": "GMRINFRA",
-            "COMPANY": "GMR INFRASTRUCTURE LTD."
+            SYM: "GMRINFRA",
+            COM: "GMR INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "TECHM",
-            "COMPANY": "TECH MAHINDRA LTD."
+            SYM: "TECHM",
+            COM: "TECH MAHINDRA LTD."
         },
         {
-            "SYM": "MAHINDCIE",
-            "COMPANY": "Mahindra CIE Automotive Limited"
+            SYM: "MAHINDCIE",
+            COM: "Mahindra CIE Automotive Limited"
         },
         {
-            "SYM": "VOLTAMP",
-            "COMPANY": "VOLTAMP TRANSFORMERS LTD."
+            SYM: "VOLTAMP",
+            COM: "VOLTAMP TRANSFORMERS LTD."
         },
         {
-            "SYM": "ATLANTA",
-            "COMPANY": "ATLANTA LTD."
+            SYM: "ATLANTA",
+            COM: "ATLANTA LTD."
         },
         {
-            "SYM": "DEEPENR",
-            "COMPANY": "Deep Energy Resources Ltd"
+            SYM: "DEEPENR",
+            COM: "Deep Energy Resources Ltd"
         },
         {
-            "SYM": "HOVS",
-            "COMPANY": "HOV SERVICES LTD."
+            SYM: "HOVS",
+            COM: "HOV SERVICES LTD."
         },
         {
-            "SYM": "ACE",
-            "COMPANY": "ACTION CONSTRUCTION EQUIPMENT LTD."
+            SYM: "ACE",
+            COM: "ACTION CONSTRUCTION EQUIPMENT LTD."
         },
         {
-            "SYM": "GEECEE",
-            "COMPANY": "GeeCee Ventures Limited"
+            SYM: "GEECEE",
+            COM: "GeeCee Ventures Limited"
         },
         {
-            "SYM": "RICHAIND",
-            "COMPANY": "RICHA INDUSTRIES LTD."
+            SYM: "RICHAIND",
+            COM: "RICHA INDUSTRIES LTD."
         },
         {
-            "SYM": "GAYAPROJ",
-            "COMPANY": "GAYATRI PROJECTS LTD."
+            SYM: "GAYAPROJ",
+            COM: "GAYATRI PROJECTS LTD."
         },
         {
-            "SYM": "FIEMIND",
-            "COMPANY": "FIEM INDUSTRIES LTD."
+            SYM: "FIEMIND",
+            COM: "FIEM INDUSTRIES LTD."
         },
         {
-            "SYM": "JHS",
-            "COMPANY": "JHS SVENDGAARD LABORATORIES LTD."
+            SYM: "JHS",
+            COM: "JHS SVENDGAARD LABORATORIES LTD."
         },
         {
-            "SYM": "DCBBANK",
-            "COMPANY": "DCB Bank Limited"
+            SYM: "DCBBANK",
+            COM: "DCB Bank Limited"
         },
         {
-            "SYM": "GLOBALVECT",
-            "COMPANY": "GLOBAL VECTRA HELICORP LTD."
+            SYM: "GLOBALVECT",
+            COM: "GLOBAL VECTRA HELICORP LTD."
         },
         {
-            "SYM": "INSPIRISYS",
-            "COMPANY": "Inspirisys Solutions Ltd"
+            SYM: "INSPIRISYS",
+            COM: "Inspirisys Solutions Ltd"
         },
         {
-            "SYM": "GTLINFRA",
-            "COMPANY": "GTL INFRASTRUCTURE LTD."
+            SYM: "GTLINFRA",
+            COM: "GTL INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "SHIVAMAUTO",
-            "COMPANY": "SHIVAM AUTOTECH LTD."
+            SYM: "SHIVAMAUTO",
+            COM: "SHIVAM AUTOTECH LTD."
         },
         {
-            "SYM": "NAUKRI",
-            "COMPANY": "INFO EDGE (INDIA) LTD."
+            SYM: "NAUKRI",
+            COM: "INFO EDGE (INDIA) LTD."
         },
         {
-            "SYM": "TORNTPOWER",
-            "COMPANY": "TORRENT POWER LTD."
+            SYM: "TORNTPOWER",
+            COM: "TORRENT POWER LTD."
         },
         {
-            "SYM": "PARSVNATH",
-            "COMPANY": "PARSVNATH DEVELOPERS LTD."
+            SYM: "PARSVNATH",
+            COM: "PARSVNATH DEVELOPERS LTD."
         },
         {
-            "SYM": "SUTLEJTEX",
-            "COMPANY": "SUTLEJ TEXTILES & INDUSTRIES LTD."
+            SYM: "SUTLEJTEX",
+            COM: "SUTLEJ TEXTILES & INDUSTRIES LTD."
         },
         {
-            "SYM": "DAAWAT",
-            "COMPANY": "LT FOODS LTD."
+            SYM: "DAAWAT",
+            COM: "LT FOODS LTD."
         },
         {
-            "SYM": "SOBHA",
-            "COMPANY": "Sobha Limited"
+            SYM: "SOBHA",
+            COM: "Sobha Limited"
         },
         {
-            "SYM": "RUCHIRA",
-            "COMPANY": "RUCHIRA PAPERS LTD."
+            SYM: "RUCHIRA",
+            COM: "RUCHIRA PAPERS LTD."
         },
         {
-            "SYM": "TANLA",
-            "COMPANY": "Tanla Platforms Ltd"
+            SYM: "TANLA",
+            COM: "Tanla Platforms Ltd"
         },
         {
-            "SYM": "ZEEMEDIA",
-            "COMPANY": "Zee Media Corporation Limited"
+            SYM: "ZEEMEDIA",
+            COM: "Zee Media Corporation Limited"
         },
         {
-            "SYM": "SITINET",
-            "COMPANY": "Siti Networks Ltd"
+            SYM: "SITINET",
+            COM: "Siti Networks Ltd"
         },
         {
-            "SYM": "LUMAXTECH",
-            "COMPANY": "LUMAX AUTO TECHNOLOGIES LTD."
+            SYM: "LUMAXTECH",
+            COM: "LUMAX AUTO TECHNOLOGIES LTD."
         },
         {
-            "SYM": "AUTOIND",
-            "COMPANY": "AUTOLINE INDUSTRIES LTD."
+            SYM: "AUTOIND",
+            COM: "AUTOLINE INDUSTRIES LTD."
         },
         {
-            "SYM": "NETWORK18",
-            "COMPANY": "NETWORK18 MEDIA & INVESTMENTS LTD."
+            SYM: "NETWORK18",
+            COM: "NETWORK18 MEDIA & INVESTMENTS LTD."
         },
         {
-            "SYM": "HUBTOWN",
-            "COMPANY": "HUBTOWN LTD."
+            SYM: "HUBTOWN",
+            COM: "HUBTOWN LTD."
         },
         {
-            "SYM": "TV18BRDCST",
-            "COMPANY": "TV18 BROADCAST LTD."
+            SYM: "TV18BRDCST",
+            COM: "TV18 BROADCAST LTD."
         },
         {
-            "SYM": "CTE",
-            "COMPANY": "CAMBRIDGE TECHNOLOGY ENTERPRISES LTD."
+            SYM: "CTE",
+            COM: "CAMBRIDGE TECHNOLOGY ENTERPRISES LTD."
         },
         {
-            "SYM": "TIIL",
-            "COMPANY": "TECHNOCRAFT INDUSTRIES (INDIA) LTD."
+            SYM: "TIIL",
+            COM: "TECHNOCRAFT INDUSTRIES (INDIA) LTD."
         },
         {
-            "SYM": "REDINGTON",
-            "COMPANY": "REDINGTON (INDIA) LTD."
+            SYM: "REDINGTON",
+            COM: "REDINGTON (INDIA) LTD."
         },
         {
-            "SYM": "AICHAMP",
-            "COMPANY": "AI CHAMPDANY INDUSTRIES LTD."
+            SYM: "AICHAMP",
+            COM: "AI CHAMPDANY INDUSTRIES LTD."
         },
         {
-            "SYM": "CINELINE",
-            "COMPANY": "Cineline India Limited"
+            SYM: "CINELINE",
+            COM: "Cineline India Limited"
         },
         {
-            "SYM": "PGIL",
-            "COMPANY": "Pearl Global Industries Limited"
+            SYM: "PGIL",
+            COM: "Pearl Global Industries Limited"
         },
         {
-            "SYM": "FSL",
-            "COMPANY": "FIRSTSOURCE SOLUTIONS LTD."
+            SYM: "FSL",
+            COM: "FIRSTSOURCE SOLUTIONS LTD."
         },
         {
-            "SYM": "PFC",
-            "COMPANY": "POWER FINANCE CORPORATION LTD."
+            SYM: "PFC",
+            COM: "POWER FINANCE CORPORATION LTD."
         },
         {
-            "SYM": "AHLUCONT",
-            "COMPANY": "AHLUWALIA CONTRACTS (INDIA) LTD."
+            SYM: "AHLUCONT",
+            COM: "AHLUWALIA CONTRACTS (INDIA) LTD."
         },
         {
-            "SYM": "TFL",
-            "COMPANY": "TRANSWARRANTY FINANCE LTD."
+            SYM: "TFL",
+            COM: "TRANSWARRANTY FINANCE LTD."
         },
         {
-            "SYM": "CANDC",
-            "COMPANY": "C & C CONSTRUCTIONS LTD."
+            SYM: "CANDC",
+            COM: "C & C CONSTRUCTIONS LTD."
         },
         {
-            "SYM": "INDIANB",
-            "COMPANY": "INDIAN BANK"
+            SYM: "INDIANB",
+            COM: "INDIAN BANK"
         },
         {
-            "SYM": "SMSPHARMA",
-            "COMPANY": "SMS PHARMACEUTICALS LTD."
+            SYM: "SMSPHARMA",
+            COM: "SMS PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "ORIENTALTL",
-            "COMPANY": "ORIENTAL TRIMEX LTD."
+            SYM: "ORIENTALTL",
+            COM: "ORIENTAL TRIMEX LTD."
         },
         {
-            "SYM": "MINDTREE",
-            "COMPANY": "MINDTREE LTD."
+            SYM: "MINDTREE",
+            COM: "MINDTREE LTD."
         },
         {
-            "SYM": "ELAND",
-            "COMPANY": "E-Land Apparel Limited"
+            SYM: "ELAND",
+            COM: "E-Land Apparel Limited"
         },
         {
-            "SYM": "IDEA",
-            "COMPANY": "Vodafone Idea Ltd"
+            SYM: "IDEA",
+            COM: "Vodafone Idea Ltd"
         },
         {
-            "SYM": "JAGJANANI",
-            "COMPANY": "JAGJANANI TEXTILES LTD."
+            SYM: "JAGJANANI",
+            COM: "JAGJANANI TEXTILES LTD."
         },
         {
-            "SYM": "RAJTV",
-            "COMPANY": "RAJ TELEVISION NETWORK LTD."
+            SYM: "RAJTV",
+            COM: "RAJ TELEVISION NETWORK LTD."
         },
         {
-            "SYM": "PAGEIND",
-            "COMPANY": "PAGE INDUSTRIES LTD."
+            SYM: "PAGEIND",
+            COM: "PAGE INDUSTRIES LTD."
         },
         {
-            "SYM": "AMDIND",
-            "COMPANY": "AMD INDUSTRIES LTD."
+            SYM: "AMDIND",
+            COM: "AMD INDUSTRIES LTD."
         },
         {
-            "SYM": "LEHAR",
-            "COMPANY": "Lehar Footwears Ltd"
+            SYM: "LEHAR",
+            COM: "Lehar Footwears Ltd"
         },
         {
-            "SYM": "ASTRAL",
-            "COMPANY": "Astral Ltd"
+            SYM: "ASTRAL",
+            COM: "Astral Ltd"
         },
         {
-            "SYM": "IBREALEST",
-            "COMPANY": "INDIABULLS REAL ESTATE LTD."
+            SYM: "IBREALEST",
+            COM: "INDIABULLS REAL ESTATE LTD."
         },
         {
-            "SYM": "CAMLINFINE",
-            "COMPANY": "CAMLIN FINE SCIENCES LTD."
+            SYM: "CAMLINFINE",
+            COM: "CAMLIN FINE SCIENCES LTD."
         },
         {
-            "SYM": "ICRA",
-            "COMPANY": "ICRA LTD."
+            SYM: "ICRA",
+            COM: "ICRA LTD."
         },
         {
-            "SYM": "DISHTV",
-            "COMPANY": "DISH TV INDIA LTD."
+            SYM: "DISHTV",
+            COM: "DISH TV INDIA LTD."
         },
         {
-            "SYM": "SAHYADRI",
-            "COMPANY": "SAHYADRI INDUSTRIES LTD."
+            SYM: "SAHYADRI",
+            COM: "SAHYADRI INDUSTRIES LTD."
         },
         {
-            "SYM": "SRHHYPOLTD",
-            "COMPANY": "SREE RAYALASEEMA HI-STRENGTH HYPO LTD."
+            SYM: "SRHHYPOLTD",
+            COM: "SREE RAYALASEEMA HI-STRENGTH HYPO LTD."
         },
         {
-            "SYM": "FORTIS",
-            "COMPANY": "FORTIS HEALTHCARE LTD."
+            SYM: "FORTIS",
+            COM: "FORTIS HEALTHCARE LTD."
         },
         {
-            "SYM": "TGBHOTELS",
-            "COMPANY": "TGB BANQUETS AND HOTELS LTD."
+            SYM: "TGBHOTELS",
+            COM: "TGB BANQUETS AND HOTELS LTD."
         },
         {
-            "SYM": "HILTON",
-            "COMPANY": "HILTON METAL FORGING LTD."
+            SYM: "HILTON",
+            COM: "HILTON METAL FORGING LTD."
         },
         {
-            "SYM": "DELTACORP",
-            "COMPANY": "DELTA CORP LTD."
+            SYM: "DELTACORP",
+            COM: "DELTA CORP LTD."
         },
         {
-            "SYM": "INSECTICID*",
-            "COMPANY": "INSECTICIDES (INDIA) LTD."
+            SYM: "INSECTICID*",
+            COM: "INSECTICIDES (INDIA) LTD."
         },
         {
-            "SYM": "MCDHOLDING",
-            "COMPANY": "MCDOWELL HOLDINGS LTD."
+            SYM: "MCDHOLDING",
+            COM: "MCDOWELL HOLDINGS LTD."
         },
         {
-            "SYM": "ASAHISONG",
-            "COMPANY": "ASAHI SONGWON COLORS LTD."
+            SYM: "ASAHISONG",
+            COM: "ASAHI SONGWON COLORS LTD."
         },
         {
-            "SYM": "NITINFIRE",
-            "COMPANY": "NITIN FIRE PROTECTION INDUSTRIES LTD."
+            SYM: "NITINFIRE",
+            COM: "NITIN FIRE PROTECTION INDUSTRIES LTD."
         },
         {
-            "SYM": "HARYNACAP",
-            "COMPANY": "HARYANA CAPFIN LTD."
+            SYM: "HARYNACAP",
+            COM: "HARYANA CAPFIN LTD."
         },
         {
-            "SYM": "TIMETECHNO",
-            "COMPANY": "TIME TECHNOPLAST LTD."
+            SYM: "TIMETECHNO",
+            COM: "TIME TECHNOPLAST LTD."
         },
         {
-            "SYM": "HGS",
-            "COMPANY": "HINDUJA GLOBAL SOLUTIONS LTD."
+            SYM: "HGS",
+            COM: "HINDUJA GLOBAL SOLUTIONS LTD."
         },
         {
-            "SYM": "NELCAST",
-            "COMPANY": "NELCAST LTD."
+            SYM: "NELCAST",
+            COM: "NELCAST LTD."
         },
         {
-            "SYM": "V2RETAIL",
-            "COMPANY": "V2 RETAIL LTD."
+            SYM: "V2RETAIL",
+            COM: "V2 RETAIL LTD."
         },
         {
-            "SYM": "DLF",
-            "COMPANY": "DLF LTD."
+            SYM: "DLF",
+            COM: "DLF LTD."
         },
         {
-            "SYM": "TARMAT",
-            "COMPANY": "TARMAT LTD."
+            SYM: "TARMAT",
+            COM: "TARMAT LTD."
         },
         {
-            "SYM": "ANKITMETAL",
-            "COMPANY": "ANKIT METAL & POWER LTD."
+            SYM: "ANKITMETAL",
+            COM: "ANKIT METAL & POWER LTD."
         },
         {
-            "SYM": "SPARC",
-            "COMPANY": "SUN PHARMA ADVANCED RESEARCH COMPANY LTD."
+            SYM: "SPARC",
+            COM: "SUN PHARMA ADVANCED RESEARCH COMPANY LTD."
         },
         {
-            "SYM": "HDIL",
-            "COMPANY": "HOUSING DEVELOPMENT & INFRASTRUCTURE LTD."
+            SYM: "HDIL",
+            COM: "HOUSING DEVELOPMENT & INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "SURYACHAKRA",
-            "COMPANY": "SURYACHAKRA POWER CORPORATION LTD."
+            SYM: "SURYACHAKRA",
+            COM: "SURYACHAKRA POWER CORPORATION LTD."
         },
         {
-            "SYM": "ADSL",
-            "COMPANY": "ALLIED DIGITAL SERVICES LTD."
+            SYM: "ADSL",
+            COM: "ALLIED DIGITAL SERVICES LTD."
         },
         {
-            "SYM": "ALPA",
-            "COMPANY": "ALPA LABORATORIES LTD."
+            SYM: "ALPA",
+            COM: "ALPA LABORATORIES LTD."
         },
         {
-            "SYM": "SSLEL",
-            "COMPANY": "SIR SHADI LAL ENTERPRISES LTD."
+            SYM: "SSLEL",
+            COM: "SIR SHADI LAL ENTERPRISES LTD."
         },
         {
-            "SYM": "OMAXE",
-            "COMPANY": "OMAXE LTD."
+            SYM: "OMAXE",
+            COM: "OMAXE LTD."
         },
         {
-            "SYM": "REFEX",
-            "COMPANY": "Refex Industries Limited"
+            SYM: "REFEX",
+            COM: "Refex Industries Limited"
         },
         {
-            "SYM": "CENTRALBK",
-            "COMPANY": "CENTRAL BANK OF INDIA"
+            SYM: "CENTRALBK",
+            COM: "CENTRAL BANK OF INDIA"
         },
         {
-            "SYM": "NTL",
-            "COMPANY": "Neueon Towers Ltd"
+            SYM: "NTL",
+            COM: "Neueon Towers Ltd"
         },
         {
-            "SYM": "ASIANTILES",
-            "COMPANY": "ASIAN GRANITO INDIA LTD."
+            SYM: "ASIANTILES",
+            COM: "ASIAN GRANITO INDIA LTD."
         },
         {
-            "SYM": "KPRMILL",
-            "COMPANY": "K.P.R. Mill Limited"
+            SYM: "KPRMILL",
+            COM: "K.P.R. Mill Limited"
         },
         {
-            "SYM": "TAKE",
-            "COMPANY": "TAKE SOLUTIONS LTD."
+            SYM: "TAKE",
+            COM: "TAKE SOLUTIONS LTD."
         },
         {
-            "SYM": "PURVA",
-            "COMPANY": "Puravankara Ltd"
+            SYM: "PURVA",
+            COM: "Puravankara Ltd"
         },
         {
-            "SYM": "MOTILALOFS",
-            "COMPANY": "MOTILAL OSWAL FINANCIAL SERVICES LTD."
+            SYM: "MOTILALOFS",
+            COM: "MOTILAL OSWAL FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "VTMLTD",
-            "COMPANY": "VTM LTD."
+            SYM: "VTMLTD",
+            COM: "VTM LTD."
         },
         {
-            "SYM": "INDOWIND",
-            "COMPANY": "INDOWIND ENERGY LTD."
+            SYM: "INDOWIND",
+            COM: "INDOWIND ENERGY LTD."
         },
         {
-            "SYM": "NAGREEKCAP",
-            "COMPANY": "NAGREEKA CAPITAL & INFRASTRUCTURE LTD."
+            SYM: "NAGREEKCAP",
+            COM: "NAGREEKA CAPITAL & INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "MAGNUM",
-            "COMPANY": "MAGNUM VENTURES LTD."
+            SYM: "MAGNUM",
+            COM: "MAGNUM VENTURES LTD."
         },
         {
-            "SYM": "POWERGRID",
-            "COMPANY": "POWER GRID CORPORATION OF INDIA LTD."
+            SYM: "POWERGRID",
+            COM: "POWER GRID CORPORATION OF INDIA LTD."
         },
         {
-            "SYM": "KSCL",
-            "COMPANY": "KAVERI SEED COMPANY LTD."
+            SYM: "KSCL",
+            COM: "KAVERI SEED COMPANY LTD."
         },
         {
-            "SYM": "PAISALO",
-            "COMPANY": "Paisalo Digital Ltd"
+            SYM: "PAISALO",
+            COM: "Paisalo Digital Ltd"
         },
         {
-            "SYM": "CCCL",
-            "COMPANY": "CONSOLIDATED CONSTRUCTION CONSORTIUM LTD."
+            SYM: "CCCL",
+            COM: "CONSOLIDATED CONSTRUCTION CONSORTIUM LTD."
         },
         {
-            "SYM": "MAANALU",
-            "COMPANY": "MAAN ALUMINIUM LTD."
+            SYM: "MAANALU",
+            COM: "MAAN ALUMINIUM LTD."
         },
         {
-            "SYM": "IL&FSENGG",
-            "COMPANY": "IL&FS ENGINEERING AND CONSTRUCTION COMPANY LTD."
+            SYM: "IL&FSENGG",
+            COM: "IL&FS ENGINEERING AND CONSTRUCTION COMPANY LTD."
         },
         {
-            "SYM": "PARLEIND",
-            "COMPANY": "Parle Industries Ltd"
+            SYM: "PARLEIND",
+            COM: "Parle Industries Ltd"
         },
         {
-            "SYM": "RELIGARE",
-            "COMPANY": "RELIGARE ENTERPRISES LTD."
+            SYM: "RELIGARE",
+            COM: "RELIGARE ENTERPRISES LTD."
         },
         {
-            "SYM": "BVCL",
-            "COMPANY": "BARAK VALLEY CEMENTS LTD."
+            SYM: "BVCL",
+            COM: "BARAK VALLEY CEMENTS LTD."
         },
         {
-            "SYM": "RATHIBAR",
-            "COMPANY": "RATHI BARS LTD."
+            SYM: "RATHIBAR",
+            COM: "RATHI BARS LTD."
         },
         {
-            "SYM": "ADANIPORTS",
-            "COMPANY": "ADANI PORTS AND SPECIAL ECONOMIC ZONE LTD."
+            SYM: "ADANIPORTS",
+            COM: "ADANI PORTS AND SPECIAL ECONOMIC ZONE LTD."
         },
         {
-            "SYM": "EDELWEISS",
-            "COMPANY": "Edelweiss Financial Services Ltd."
+            SYM: "EDELWEISS",
+            COM: "Edelweiss Financial Services Ltd."
         },
         {
-            "SYM": "RGL",
-            "COMPANY": "Renaissance Global Ltd"
+            SYM: "RGL",
+            COM: "Renaissance Global Ltd"
         },
         {
-            "SYM": "KOLTEPATIL",
-            "COMPANY": "KOLTE-PATIL DEVELOPERS LTD."
+            SYM: "KOLTEPATIL",
+            COM: "KOLTE-PATIL DEVELOPERS LTD."
         },
         {
-            "SYM": "KAUSHALYA",
-            "COMPANY": "KAUSHALYA INFRASTRUCTURE DEVELOPMENT CORPORATION LTD."
+            SYM: "KAUSHALYA",
+            COM: "KAUSHALYA INFRASTRUCTURE DEVELOPMENT CORPORATION LTD."
         },
         {
-            "SYM": "JYOTHYLAB",
-            "COMPANY": "Jyothy Labs Ltd"
+            SYM: "JYOTHYLAB",
+            COM: "Jyothy Labs Ltd"
         },
         {
-            "SYM": "ECLERX",
-            "COMPANY": "ECLERX SERVICES LTD."
+            SYM: "ECLERX",
+            COM: "ECLERX SERVICES LTD."
         },
         {
-            "SYM": "TRIL",
-            "COMPANY": "TRANSFORMERS AND RECTIFIERS (INDIA) LTD."
+            SYM: "TRIL",
+            COM: "TRANSFORMERS AND RECTIFIERS (INDIA) LTD."
         },
         {
-            "SYM": "BRIGADE",
-            "COMPANY": "BRIGADE ENTERPRISES LTD."
+            SYM: "BRIGADE",
+            COM: "BRIGADE ENTERPRISES LTD."
         },
         {
-            "SYM": "BGRENERGY",
-            "COMPANY": "BGR ENERGY SYSTEMS LTD."
+            SYM: "BGRENERGY",
+            COM: "BGR ENERGY SYSTEMS LTD."
         },
         {
-            "SYM": "MANAKSIA",
-            "COMPANY": "MANAKSIA LTD."
+            SYM: "MANAKSIA",
+            COM: "MANAKSIA LTD."
         },
         {
-            "SYM": "PORWAL",
-            "COMPANY": "PORWAL AUTO COMPONENTS LTD."
+            SYM: "PORWAL",
+            COM: "PORWAL AUTO COMPONENTS LTD."
         },
         {
-            "SYM": "PPAP",
-            "COMPANY": "PPAP Automotive Limited"
+            SYM: "PPAP",
+            COM: "PPAP Automotive Limited"
         },
         {
-            "SYM": "ARIES",
-            "COMPANY": "ARIES AGRO LTD."
+            SYM: "ARIES",
+            COM: "ARIES AGRO LTD."
         },
         {
-            "SYM": "KUANTUM",
-            "COMPANY": "KUANTUM PAPERS LTD."
+            SYM: "KUANTUM",
+            COM: "KUANTUM PAPERS LTD."
         },
         {
-            "SYM": "RPOWER",
-            "COMPANY": "RELIANCE POWER LTD."
+            SYM: "RPOWER",
+            COM: "RELIANCE POWER LTD."
         },
         {
-            "SYM": "JKIL",
-            "COMPANY": "J.KUMAR INFRAPROJECTS LTD."
+            SYM: "JKIL",
+            COM: "J.KUMAR INFRAPROJECTS LTD."
         },
         {
-            "SYM": "CORDSCABLE",
-            "COMPANY": "CORDS CABLE INDUSTRIES LTD."
+            SYM: "CORDSCABLE",
+            COM: "CORDS CABLE INDUSTRIES LTD."
         },
         {
-            "SYM": "KNRCON",
-            "COMPANY": "KNR CONSTRUCTIONS LTD."
+            SYM: "KNRCON",
+            COM: "KNR CONSTRUCTIONS LTD."
         },
         {
-            "SYM": "ONMOBILE",
-            "COMPANY": "OnMobile Global Ltd."
+            SYM: "ONMOBILE",
+            COM: "OnMobile Global Ltd."
         },
         {
-            "SYM": "SHRIRAMEPC",
-            "COMPANY": "SHRIRAM EPC LTD."
+            SYM: "SHRIRAMEPC",
+            COM: "SHRIRAM EPC LTD."
         },
         {
-            "SYM": "BANG",
-            "COMPANY": "BANG OVERSEAS LTD."
+            SYM: "BANG",
+            COM: "BANG OVERSEAS LTD."
         },
         {
-            "SYM": "IRB",
-            "COMPANY": "IRB INFRASTRUCTURE DEVELOPERS LTD."
+            SYM: "IRB",
+            COM: "IRB INFRASTRUCTURE DEVELOPERS LTD."
         },
         {
-            "SYM": "GSS",
-            "COMPANY": "GSS INFOTECH LTD."
+            SYM: "GSS",
+            COM: "GSS INFOTECH LTD."
         },
         {
-            "SYM": "NAHARCAP",
-            "COMPANY": "NAHAR CAPITAL & FINANCIAL SERVICES LTD."
+            SYM: "NAHARCAP",
+            COM: "NAHAR CAPITAL & FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "VGUARD",
-            "COMPANY": "V-GUARD INDUSTRIES LTD."
+            SYM: "VGUARD",
+            COM: "V-GUARD INDUSTRIES LTD."
         },
         {
-            "SYM": "RECLTD",
-            "COMPANY": "REC Ltd"
+            SYM: "RECLTD",
+            COM: "REC Ltd"
         },
         {
-            "SYM": "GOKAKTEX",
-            "COMPANY": "GOKAK TEXTILES LTD."
+            SYM: "GOKAKTEX",
+            COM: "GOKAK TEXTILES LTD."
         },
         {
-            "SYM": "GAMMNINFRA",
-            "COMPANY": "GAMMON INFRASTRUCTURE PROJECTS LTD."
+            SYM: "GAMMNINFRA",
+            COM: "GAMMON INFRASTRUCTURE PROJECTS LTD."
         },
         {
-            "SYM": "DHANI",
-            "COMPANY": "Dhani Services Ltd"
+            SYM: "DHANI",
+            COM: "Dhani Services Ltd"
         },
         {
-            "SYM": "TWL",
-            "COMPANY": "TITAGARH WAGONS LTD."
+            SYM: "TWL",
+            COM: "TITAGARH WAGONS LTD."
         },
         {
-            "SYM": "KIRIINDUS",
-            "COMPANY": "KIRI INDUSTRIES LTD."
+            SYM: "KIRIINDUS",
+            COM: "KIRI INDUSTRIES LTD."
         },
         {
-            "SYM": "SANKHYAIN",
-            "COMPANY": "SANKHYA INFOTECH LTD."
+            SYM: "SANKHYAIN",
+            COM: "SANKHYA INFOTECH LTD."
         },
         {
-            "SYM": "BIRLAMONEY",
-            "COMPANY": "ADITYA BIRLA MONEY LTD.-$"
+            SYM: "BIRLAMONEY",
+            COM: "ADITYA BIRLA MONEY LTD."
         },
         {
-            "SYM": "AISHWARYA",
-            "COMPANY": "Aishwarya Technologies And Telecom Ltd"
+            SYM: "AISHWARYA",
+            COM: "Aishwarya Technologies And Telecom Ltd"
         },
         {
-            "SYM": "JAIBALAJI",
-            "COMPANY": "JAI BALAJI INDUSTRIES LTD."
+            SYM: "JAIBALAJI",
+            COM: "JAI BALAJI INDUSTRIES LTD."
         },
         {
-            "SYM": "BAJAJ-AUTO",
-            "COMPANY": "BAJAJ AUTO LTD."
+            SYM: "BAJAJ-AUTO",
+            COM: "BAJAJ AUTO LTD."
         },
         {
-            "SYM": "BAJAJFINSV",
-            "COMPANY": "BAJAJ FINSERV LTD."
+            SYM: "BAJAJFINSV",
+            COM: "BAJAJ FINSERV LTD."
         },
         {
-            "SYM": "GOKUL",
-            "COMPANY": "GOKUL REFOILS & SOLVENT LTD."
+            SYM: "GOKUL",
+            COM: "GOKUL REFOILS & SOLVENT LTD."
         },
         {
-            "SYM": "RPGLIFE",
-            "COMPANY": "RPG LIFE SCIENCES LTD."
+            SYM: "RPGLIFE",
+            COM: "RPG LIFE SCIENCES LTD."
         },
         {
-            "SYM": "KTKSENSEX",
-            "COMPANY": "KOTAK SENSEX ETF"
+            SYM: "KTKSENSEX",
+            COM: "KOTAK SENSEX ETF"
         },
         {
-            "SYM": "NIRAJ",
-            "COMPANY": "NIRAJ CEMENT STRUCTURALS LTD."
+            SYM: "NIRAJ",
+            COM: "NIRAJ CEMENT STRUCTURALS LTD."
         },
         {
-            "SYM": "RBL",
-            "COMPANY": "RANE BRAKE LINING LTD."
+            SYM: "RBL",
+            COM: "RANE BRAKE LINING LTD."
         },
         {
-            "SYM": "RANEENGINE",
-            "COMPANY": "RANE ENGINE VALVE LTD."
+            SYM: "RANEENGINE",
+            COM: "RANE ENGINE VALVE LTD."
         },
         {
-            "SYM": "BAFNAPHARM",
-            "COMPANY": "BAFNA PHARMACEUTICALS LTD."
+            SYM: "BAFNAPHARM",
+            COM: "BAFNA PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "CHLLTD",
-            "COMPANY": "CHL LTD."
+            SYM: "CHLLTD",
+            COM: "CHL LTD."
         },
         {
-            "SYM": "ARCHIDPLY",
-            "COMPANY": "ARCHIDPLY INDUSTRIES LTD."
+            SYM: "ARCHIDPLY",
+            COM: "ARCHIDPLY INDUSTRIES LTD."
         },
         {
-            "SYM": "LEHIL",
-            "COMPANY": "Lotus Eye Hospital And Institute Ltd"
+            SYM: "LEHIL",
+            COM: "Lotus Eye Hospital And Institute Ltd"
         },
         {
-            "SYM": "SOMICONV",
-            "COMPANY": "SOMI CONVEYOR BELTINGS LTD."
+            SYM: "SOMICONV",
+            COM: "SOMI CONVEYOR BELTINGS LTD."
         },
         {
-            "SYM": "LGBFORGE",
-            "COMPANY": "LGB FORGE LTD."
+            SYM: "LGBFORGE",
+            COM: "LGB FORGE LTD."
         },
         {
-            "SYM": "LPDC",
-            "COMPANY": "LANDMARK PROPERTY DEVELOPMENT COMPANY LTD."
+            SYM: "LPDC",
+            COM: "LANDMARK PROPERTY DEVELOPMENT COMPANY LTD."
         },
         {
-            "SYM": "SICAGEN",
-            "COMPANY": "SICAGEN INDIA LTD."
+            SYM: "SICAGEN",
+            COM: "SICAGEN INDIA LTD."
         },
         {
-            "SYM": "SIMPLXMIL",
-            "COMPANY": "SIMPLEX MILLS COMPANY LTD."
+            SYM: "SIMPLXMIL",
+            COM: "SIMPLEX MILLS COMPANY LTD."
         },
         {
-            "SYM": "SIMPLXPAP",
-            "COMPANY": "SIMPLEX PAPERS LTD."
+            SYM: "SIMPLXPAP",
+            COM: "SIMPLEX PAPERS LTD."
         },
         {
-            "SYM": "20MICRONS",
-            "COMPANY": "20 MICRONS LTD."
+            SYM: "20MICRONS",
+            COM: "20 MICRONS LTD."
         },
         {
-            "SYM": "WABCOINDIA",
-            "COMPANY": "WABCO INDIA LTD."
+            SYM: "WABCOINDIA",
+            COM: "WABCO INDIA LTD."
         },
         {
-            "SYM": "ALKALI",
-            "COMPANY": "ALKALI METALS LTD."
+            SYM: "ALKALI",
+            COM: "ALKALI METALS LTD."
         },
         {
-            "SYM": "ISGEC",
-            "COMPANY": "ISGEC Heavy Engineering Ltd"
+            SYM: "ISGEC",
+            COM: "ISGEC Heavy Engineering Ltd"
         },
         {
-            "SYM": "IMFA",
-            "COMPANY": "INDIAN METALS & FERRO ALLOYS LTD."
+            SYM: "IMFA",
+            COM: "INDIAN METALS & FERRO ALLOYS LTD."
         },
         {
-            "SYM": "GISOLUTION",
-            "COMPANY": "GI ENGINEERING SOLUTIONS LTD."
+            SYM: "GISOLUTION",
+            COM: "GI ENGINEERING SOLUTIONS LTD."
         },
         {
-            "SYM": "VEDAVAAG",
-            "COMPANY": "VEDAVAAG SYSTEMS LTD."
+            SYM: "VEDAVAAG",
+            COM: "VEDAVAAG SYSTEMS LTD."
         },
         {
-            "SYM": "MANJEERA",
-            "COMPANY": "MANJEERA CONSTRUCTIONS LTD."
+            SYM: "MANJEERA",
+            COM: "MANJEERA CONSTRUCTIONS LTD."
         },
         {
-            "SYM": "MOLDTKPAC",
-            "COMPANY": "Mold-Tek Packaging Limited"
+            SYM: "MOLDTKPAC",
+            COM: "Mold-Tek Packaging Limited"
         },
         {
-            "SYM": "MHRIL",
-            "COMPANY": "MAHINDRA HOLIDAYS & RESORTS INDIA LTD."
+            SYM: "MHRIL",
+            COM: "MAHINDRA HOLIDAYS & RESORTS INDIA LTD."
         },
         {
-            "SYM": "EXCEL",
-            "COMPANY": "Excel Realty N Infra Ltd"
+            SYM: "EXCEL",
+            COM: "Excel Realty N Infra Ltd"
         },
         {
-            "SYM": "RAJOIL",
-            "COMPANY": "RAJ OIL MILLS LTD."
+            SYM: "RAJOIL",
+            COM: "RAJ OIL MILLS LTD."
         },
         {
-            "SYM": "BENGALASM",
-            "COMPANY": "BENGAL & ASSAM COMPANY LTD."
+            SYM: "BENGALASM",
+            COM: "BENGAL & ASSAM COMPANY LTD."
         },
         {
-            "SYM": "ADANIPOWER",
-            "COMPANY": "ADANI POWER LTD."
+            SYM: "ADANIPOWER",
+            COM: "ADANI POWER LTD."
         },
         {
-            "SYM": "NHPC",
-            "COMPANY": "NHPC LTD."
+            SYM: "NHPC",
+            COM: "NHPC LTD."
         },
         {
-            "SYM": "SURYAAMBA",
-            "COMPANY": "SURYAAMBA SPINNING MILLS LTD."
+            SYM: "SURYAAMBA",
+            COM: "SURYAAMBA SPINNING MILLS LTD."
         },
         {
-            "SYM": "GLOBUSSPR",
-            "COMPANY": "GLOBUS SPIRITS LTD."
+            SYM: "GLOBUSSPR",
+            COM: "GLOBUS SPIRITS LTD."
         },
         {
-            "SYM": "OIL",
-            "COMPANY": "OIL INDIA LTD."
+            SYM: "OIL",
+            COM: "OIL INDIA LTD."
         },
         {
-            "SYM": "RNAVAL",
-            "COMPANY": "Reliance Naval and Engineering Ltd"
+            SYM: "RNAVAL",
+            COM: "Reliance Naval and Engineering Ltd"
         },
         {
-            "SYM": "BTTL",
-            "COMPANY": "BHILWARA TECHNICAL TEXTILES LTD."
+            SYM: "BTTL",
+            COM: "BHILWARA TECHNICAL TEXTILES LTD."
         },
         {
-            "SYM": "EXPLEOSOL",
-            "COMPANY": "Expleo Solutions Ltd"
+            SYM: "EXPLEOSOL",
+            COM: "Expleo Solutions Ltd"
         },
         {
-            "SYM": "RTNPOWER",
-            "COMPANY": "RattanIndia Power Limited"
+            SYM: "RTNPOWER",
+            COM: "RattanIndia Power Limited"
         },
         {
-            "SYM": "DEN",
-            "COMPANY": "Den Networks Ltd"
+            SYM: "DEN",
+            COM: "Den Networks Ltd"
         },
         {
-            "SYM": "ASTEC",
-            "COMPANY": "ASTEC LIFESCIENCES LIMITED"
+            SYM: "ASTEC",
+            COM: "ASTEC LIFESCIENCES LIMITED"
         },
         {
-            "SYM": "COX&KINGS",
-            "COMPANY": "Cox & Kings Limited"
+            SYM: "COX&KINGS",
+            COM: "Cox & Kings Limited"
         },
         {
-            "SYM": "DLINKINDIA",
-            "COMPANY": "D-Link (India) Ltd"
+            SYM: "DLINKINDIA",
+            COM: "D-Link (India) Ltd"
         },
         {
-            "SYM": "JSWENERGY",
-            "COMPANY": "JSW Energy Ltd"
+            SYM: "JSWENERGY",
+            COM: "JSW Energy Ltd"
         },
         {
-            "SYM": "ESSARSEC",
-            "COMPANY": "Essar Securities Ltd"
+            SYM: "ESSARSEC",
+            COM: "Essar Securities Ltd"
         },
         {
-            "SYM": "GODREJPROP",
-            "COMPANY": "Godrej Properties Ltd"
+            SYM: "GODREJPROP",
+            COM: "Godrej Properties Ltd"
         },
         {
-            "SYM": "DBCORP",
-            "COMPANY": "D B Corp Ltd"
+            SYM: "DBCORP",
+            COM: "D B Corp Ltd"
         },
         {
-            "SYM": "MBLINFRA",
-            "COMPANY": "MBL Infrastructures Ltd"
+            SYM: "MBLINFRA",
+            COM: "MBL Infrastructures Ltd"
         },
         {
-            "SYM": "JUBLFOOD",
-            "COMPANY": "Jubilant FoodWorks Ltd"
+            SYM: "JUBLFOOD",
+            COM: "Jubilant FoodWorks Ltd"
         },
         {
-            "SYM": "VASCONEQ",
-            "COMPANY": "Vascon Engineers Ltd"
+            SYM: "VASCONEQ",
+            COM: "Vascon Engineers Ltd"
         },
         {
-            "SYM": "SYNCOM",
-            "COMPANY": "Syncom Healthcare Ltd"
+            SYM: "SYNCOM",
+            COM: "Syncom Healthcare Ltd"
         },
         {
-            "SYM": "THANGAMAYL",
-            "COMPANY": "Thangamayil Jewellery Ltd"
+            SYM: "THANGAMAYL",
+            COM: "Thangamayil Jewellery Ltd"
         },
         {
-            "SYM": "DBREALTY",
-            "COMPANY": "D B Realty Ltd"
+            SYM: "DBREALTY",
+            COM: "D B Realty Ltd"
         },
         {
-            "SYM": "EMMBI",
-            "COMPANY": "Emmbi Industries Ltd"
+            SYM: "EMMBI",
+            COM: "Emmbi Industries Ltd"
         },
         {
-            "SYM": "HATHWAY",
-            "COMPANY": "Hathway Cable & Datacom Ltd"
+            SYM: "HATHWAY",
+            COM: "Hathway Cable & Datacom Ltd"
         },
         {
-            "SYM": "ARSSINFRA",
-            "COMPANY": "ARSS INFRASTRUCTURE PROJECTS LTD."
+            SYM: "ARSSINFRA",
+            COM: "ARSS INFRASTRUCTURE PROJECTS LTD."
         },
         {
-            "SYM": "TEXMOPIPES",
-            "COMPANY": "TEXMO PIPES & PRODUCTS LTD."
+            SYM: "TEXMOPIPES",
+            COM: "TEXMO PIPES & PRODUCTS LTD."
         },
         {
-            "SYM": "SUNDARAM",
-            "COMPANY": "SUNDARAM MULTI PAP LTD."
+            SYM: "SUNDARAM",
+            COM: "SUNDARAM MULTI PAP LTD."
         },
         {
-            "SYM": "COROENGG",
-            "COMPANY": "COROMANDEL ENGINEERING COMPANY LTD."
+            SYM: "COROENGG",
+            COM: "COROMANDEL ENGINEERING COMPANY LTD."
         },
         {
-            "SYM": "ROSSELLIND",
-            "COMPANY": "ROSSELL INDIA LTD."
+            SYM: "ROSSELLIND",
+            COM: "ROSSELL INDIA LTD."
         },
         {
-            "SYM": "MANINFRA",
-            "COMPANY": "MAN INFRACONSTRUCTION LTD."
+            SYM: "MANINFRA",
+            COM: "MAN INFRACONSTRUCTION LTD."
         },
         {
-            "SYM": "TAMBOLI",
-            "COMPANY": "TAMBOLI CAPITAL LTD."
+            SYM: "TAMBOLI",
+            COM: "TAMBOLI CAPITAL LTD."
         },
         {
-            "SYM": "IL&FSTRANS",
-            "COMPANY": "IL&FS Transportation Networks Ltd"
+            SYM: "IL&FSTRANS",
+            COM: "IL&FS Transportation Networks Ltd"
         },
         {
-            "SYM": "PERSISTENT",
-            "COMPANY": "PERSISTENT SYSTEMS LTD."
+            SYM: "PERSISTENT",
+            COM: "PERSISTENT SYSTEMS LTD."
         },
         {
-            "SYM": "ISFT",
-            "COMPANY": "INTRASOFT TECHNOLOGIES LTD."
+            SYM: "ISFT",
+            COM: "INTRASOFT TECHNOLOGIES LTD."
         },
         {
-            "SYM": "GOENKA",
-            "COMPANY": "GOENKA DIAMOND & JEWELS LTD."
+            SYM: "GOENKA",
+            COM: "GOENKA DIAMOND & JEWELS LTD."
         },
         {
-            "SYM": "KCPSUGIND",
-            "COMPANY": "KCP SUGAR & INDUSTRIES CORPORATION LTD."
+            SYM: "KCPSUGIND",
+            COM: "KCP SUGAR & INDUSTRIES CORPORATION LTD."
         },
         {
-            "SYM": "KECL",
-            "COMPANY": "Kirloskar Electric Company Ltd"
+            SYM: "KECL",
+            COM: "Kirloskar Electric Company Ltd"
         },
         {
-            "SYM": "NEH",
-            "COMPANY": "Nel Holdings South Ltd"
+            SYM: "NEH",
+            COM: "Nel Holdings South Ltd"
         },
         {
-            "SYM": "TARAPUR",
-            "COMPANY": "Tarapur Transformers Ltd"
+            SYM: "TARAPUR",
+            COM: "Tarapur Transformers Ltd"
         },
         {
-            "SYM": "SJVN",
-            "COMPANY": "SJVN Ltd"
+            SYM: "SJVN",
+            COM: "SJVN Ltd"
         },
         {
-            "SYM": "JPINFRATEC",
-            "COMPANY": "Jaypee Infratech Ltd"
+            SYM: "JPINFRATEC",
+            COM: "Jaypee Infratech Ltd"
         },
         {
-            "SYM": "EMAMIPAP",
-            "COMPANY": "EMAMI PAPER MILLS LTD."
+            SYM: "EMAMIPAP",
+            COM: "EMAMI PAPER MILLS LTD."
         },
         {
-            "SYM": "KRITINUT",
-            "COMPANY": "Kriti Nutrients Ltd"
+            SYM: "KRITINUT",
+            COM: "Kriti Nutrients Ltd"
         },
         {
-            "SYM": "GKB",
-            "COMPANY": "GKB OPHTHALMICS LTD."
+            SYM: "GKB",
+            COM: "GKB OPHTHALMICS LTD."
         },
         {
-            "SYM": "HMVL",
-            "COMPANY": "HINDUSTAN MEDIA VENTURES LTD."
+            SYM: "HMVL",
+            COM: "HINDUSTAN MEDIA VENTURES LTD."
         },
         {
-            "SYM": "EMAMIREAL",
-            "COMPANY": "Emami Realty Ltd"
+            SYM: "EMAMIREAL",
+            COM: "Emami Realty Ltd"
         },
         {
-            "SYM": "AHLWEST",
-            "COMPANY": "ASIAN HOTELS (WEST) LTD."
+            SYM: "AHLWEST",
+            COM: "ASIAN HOTELS (WEST) LTD."
         },
         {
-            "SYM": "AHLEAST",
-            "COMPANY": "ASIAN HOTELS (EAST) LTD."
+            SYM: "AHLEAST",
+            COM: "ASIAN HOTELS (EAST) LTD."
         },
         {
-            "SYM": "BAJAJCON",
-            "COMPANY": "Bajaj Consumer Care Ltd"
+            SYM: "BAJAJCON",
+            COM: "Bajaj Consumer Care Ltd"
         },
         {
-            "SYM": "PRAKASHSTL",
-            "COMPANY": "PRAKASH STEELAGE LTD."
+            SYM: "PRAKASHSTL",
+            COM: "PRAKASH STEELAGE LTD."
         },
         {
-            "SYM": "GPPL",
-            "COMPANY": "GUJARAT PIPAVAV PORT LTD."
+            SYM: "GPPL",
+            COM: "GUJARAT PIPAVAV PORT LTD."
         },
         {
-            "SYM": "WELINV",
-            "COMPANY": "WELSPUN INVESTMENTS AND COMMERCIALS LTD."
+            SYM: "WELINV",
+            COM: "WELSPUN INVESTMENTS AND COMMERCIALS LTD."
         },
         {
-            "SYM": "INDOSOLAR",
-            "COMPANY": "INDOSOLAR LTD."
+            SYM: "INDOSOLAR",
+            COM: "INDOSOLAR LTD."
         },
         {
-            "SYM": "SASTASUNDR",
-            "COMPANY": "Sastasundar Ventures Ltd"
+            SYM: "SASTASUNDR",
+            COM: "Sastasundar Ventures Ltd"
         },
         {
-            "SYM": "CAREERP",
-            "COMPANY": "CAREER POINT LTD."
+            SYM: "CAREERP",
+            COM: "CAREER POINT LTD."
         },
         {
-            "SYM": "EROSMEDIA",
-            "COMPANY": "EROS INTERNATIONAL MEDIA LTD."
+            SYM: "EROSMEDIA",
+            COM: "EROS INTERNATIONAL MEDIA LTD."
         },
         {
-            "SYM": "RAMKY",
-            "COMPANY": "RAMKY INFRASTRUCTURE LTD."
+            SYM: "RAMKY",
+            COM: "RAMKY INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "GREENPOWER",
-            "COMPANY": "ORIENT GREEN POWER COMPANY LTD."
+            SYM: "GREENPOWER",
+            COM: "ORIENT GREEN POWER COMPANY LTD."
         },
         {
-            "SYM": "GALLISPAT",
-            "COMPANY": "GALLANTT ISPAT LTD."
+            SYM: "GALLISPAT",
+            COM: "GALLANTT ISPAT LTD."
         },
         {
-            "SYM": "CANTABIL",
-            "COMPANY": "CANTABIL RETAIL INDIA LTD."
+            SYM: "CANTABIL",
+            COM: "CANTABIL RETAIL INDIA LTD."
         },
         {
-            "SYM": "SEATV",
-            "COMPANY": "SEA TV NETWORK LTD."
+            SYM: "SEATV",
+            COM: "SEA TV NETWORK LTD."
         },
         {
-            "SYM": "WABAG",
-            "COMPANY": "VA TECH WABAG LTD."
+            SYM: "WABAG",
+            COM: "VA TECH WABAG LTD."
         },
         {
-            "SYM": "BEDMUTHA",
-            "COMPANY": "BEDMUTHA INDUSTRIES LTD."
+            SYM: "BEDMUTHA",
+            COM: "BEDMUTHA INDUSTRIES LTD."
         },
         {
-            "SYM": "ASHOKA",
-            "COMPANY": "ASHOKA BUILDCON LTD."
+            SYM: "ASHOKA",
+            COM: "ASHOKA BUILDCON LTD."
         },
         {
-            "SYM": "CEBBCO",
-            "COMPANY": "COMMERCIAL ENGINEERS & BODY BUILDERS CO. LTD."
+            SYM: "CEBBCO",
+            COM: "COMMERCIAL ENGINEERS & BODY BUILDERS CO. LTD."
         },
         {
-            "SYM": "OBEROIRLTY",
-            "COMPANY": "OBEROI REALTY LTD."
+            SYM: "OBEROIRLTY",
+            COM: "OBEROI REALTY LTD."
         },
         {
-            "SYM": "PRESTIGE",
-            "COMPANY": "PRESTIGE ESTATES PROJECTS LTD."
+            SYM: "PRESTIGE",
+            COM: "PRESTIGE ESTATES PROJECTS LTD."
         },
         {
-            "SYM": "GAL",
-            "COMPANY": "GYSCOAL ALLOYS LTD."
+            SYM: "GAL",
+            COM: "GYSCOAL ALLOYS LTD."
         },
         {
-            "SYM": "COALINDIA",
-            "COMPANY": "COAL INDIA LTD."
+            SYM: "COALINDIA",
+            COM: "COAL INDIA LTD."
         },
         {
-            "SYM": "GRAVITA",
-            "COMPANY": "GRAVITA INDIA LTD."
+            SYM: "GRAVITA",
+            COM: "GRAVITA INDIA LTD."
         },
         {
-            "SYM": "RPPINFRA",
-            "COMPANY": "RPP INFRA PROJECTS LTD."
+            SYM: "RPPINFRA",
+            COM: "RPP INFRA PROJECTS LTD."
         },
         {
-            "SYM": "RDBRIL",
-            "COMPANY": "RDB REALTY & INFRASTRUCTURE LTD."
+            SYM: "RDBRIL",
+            COM: "RDB REALTY & INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "MOIL",
-            "COMPANY": "MOIL LTD."
+            SYM: "MOIL",
+            COM: "MOIL LTD."
         },
         {
-            "SYM": "ZEELEARN",
-            "COMPANY": "ZEE LEARN LTD."
+            SYM: "ZEELEARN",
+            COM: "ZEE LEARN LTD."
         },
         {
-            "SYM": "KTIL",
-            "COMPANY": "KESAR TERMINALS & INFRASTRUCTURE LTD."
+            SYM: "KTIL",
+            COM: "KESAR TERMINALS & INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "A2ZINFRA",
-            "COMPANY": "A2Z Infra Engineering Limited"
+            SYM: "A2ZINFRA",
+            COM: "A2Z Infra Engineering Limited"
         },
         {
-            "SYM": "KIRLOSENG",
-            "COMPANY": "KIRLOSKAR OIL ENGINES LTD."
+            SYM: "KIRLOSENG",
+            COM: "KIRLOSKAR OIL ENGINES LTD."
         },
         {
-            "SYM": "RKDL",
-            "COMPANY": "RAVI KUMAR DISTILLERIES LTD."
+            SYM: "RKDL",
+            COM: "RAVI KUMAR DISTILLERIES LTD."
         },
         {
-            "SYM": "PSB",
-            "COMPANY": "PUNJAB & SIND BANK"
+            SYM: "PSB",
+            COM: "PUNJAB & SIND BANK"
         },
         {
-            "SYM": "FMNL",
-            "COMPANY": "FUTURE MARKET NETWORKS LTD."
+            SYM: "FMNL",
+            COM: "FUTURE MARKET NETWORKS LTD."
         },
         {
-            "SYM": "SURANASOL",
-            "COMPANY": "Surana Solar Limited"
+            SYM: "SURANASOL",
+            COM: "Surana Solar Limited"
         },
         {
-            "SYM": "KICL",
-            "COMPANY": "KALYANI INVESTMENT COMPANY LTD."
+            SYM: "KICL",
+            COM: "KALYANI INVESTMENT COMPANY LTD."
         },
         {
-            "SYM": "BFINVEST",
-            "COMPANY": "BF INVESTMENT LTD."
+            SYM: "BFINVEST",
+            COM: "BF INVESTMENT LTD."
         },
         {
-            "SYM": "SUMMITSEC",
-            "COMPANY": "SUMMIT SECURITIES LTD."
+            SYM: "SUMMITSEC",
+            COM: "SUMMIT SECURITIES LTD."
         },
         {
-            "SYM": "INOVSYNTH",
-            "COMPANY": "INNOVASSYNTH INVESTMENTS LTD."
+            SYM: "INOVSYNTH",
+            COM: "INNOVASSYNTH INVESTMENTS LTD."
         },
         {
-            "SYM": "STEL",
-            "COMPANY": "STEL Holdings Ltd"
+            SYM: "STEL",
+            COM: "STEL Holdings Ltd"
         },
         {
-            "SYM": "JUBLINDS",
-            "COMPANY": "JUBILANT INDUSTRIES LTD."
+            SYM: "JUBLINDS",
+            COM: "JUBILANT INDUSTRIES LTD."
         },
         {
-            "SYM": "TEXRAIL",
-            "COMPANY": "TEXMACO RAIL & ENGINEERING LTD."
+            SYM: "TEXRAIL",
+            COM: "TEXMACO RAIL & ENGINEERING LTD."
         },
         {
-            "SYM": "INDTERRAIN",
-            "COMPANY": "INDIAN TERRAIN FASHIONS LTD."
+            SYM: "INDTERRAIN",
+            COM: "INDIAN TERRAIN FASHIONS LTD."
         },
         {
-            "SYM": "FCL",
-            "COMPANY": "FINEOTEX CHEMICAL LTD."
+            SYM: "FCL",
+            COM: "FINEOTEX CHEMICAL LTD."
         },
         {
-            "SYM": "DHUNINV",
-            "COMPANY": "DHUNSERI INVESTMENTS LTD."
+            SYM: "DHUNINV",
+            COM: "DHUNSERI INVESTMENTS LTD."
         },
         {
-            "SYM": "ZENTEC",
-            "COMPANY": "ZEN TECHNOLOGIES LTD."
+            SYM: "ZENTEC",
+            COM: "ZEN TECHNOLOGIES LTD."
         },
         {
-            "SYM": "LOVABLE",
-            "COMPANY": "LOVABLE LINGERIE LTD."
+            SYM: "LOVABLE",
+            COM: "LOVABLE LINGERIE LTD."
         },
         {
-            "SYM": "PFS",
-            "COMPANY": "PTC INDIA FINANCIAL SERVICES LTD."
+            SYM: "PFS",
+            COM: "PTC INDIA FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "TCIDEVELOP",
-            "COMPANY": "TCI DEVELOPERS LTD."
+            SYM: "TCIDEVELOP",
+            COM: "TCI DEVELOPERS LTD."
         },
         {
-            "SYM": "MUTHOOTFIN",
-            "COMPANY": "MUTHOOT FINANCE LTD."
+            SYM: "MUTHOOTFIN",
+            COM: "MUTHOOT FINANCE LTD."
         },
         {
-            "SYM": "FCONSUMER",
-            "COMPANY": "Future Consumer Ltd"
+            SYM: "FCONSUMER",
+            COM: "Future Consumer Ltd"
         },
         {
-            "SYM": "CNOVAPETRO",
-            "COMPANY": "CIL NOVA PETROCHEMICALS LTD."
+            SYM: "CNOVAPETRO",
+            COM: "CIL NOVA PETROCHEMICALS LTD."
         },
         {
-            "SYM": "VMS",
-            "COMPANY": "VMS INDUSTRIES LTD."
+            SYM: "VMS",
+            COM: "VMS INDUSTRIES LTD."
         },
         {
-            "SYM": "KARMAENG",
-            "COMPANY": "KARMA ENERGY LTD."
+            SYM: "KARMAENG",
+            COM: "KARMA ENERGY LTD."
         },
         {
-            "SYM": "EBIXFOREX",
-            "COMPANY": "Ebixcash World Money India Ltd"
+            SYM: "EBIXFOREX",
+            COM: "Ebixcash World Money India Ltd"
         },
         {
-            "SYM": "RUSHIL",
-            "COMPANY": "RUSHIL DECOR LTD."
+            SYM: "RUSHIL",
+            COM: "RUSHIL DECOR LTD."
         },
         {
-            "SYM": "ENKEIWHEL",
-            "COMPANY": "ENKEI WHEELS (INDIA) LTD."
+            SYM: "ENKEIWHEL",
+            COM: "ENKEI WHEELS (INDIA) LTD."
         },
         {
-            "SYM": "KRIINFRA",
-            "COMPANY": "Kridhan Infra Limited"
+            SYM: "KRIINFRA",
+            COM: "Kridhan Infra Limited"
         },
         {
-            "SYM": "INVENTURE",
-            "COMPANY": "INVENTURE GROWTH & SECURITIES LTD."
+            SYM: "INVENTURE",
+            COM: "INVENTURE GROWTH & SECURITIES LTD."
         },
         {
-            "SYM": "L&TFH",
-            "COMPANY": "L&T FINANCE HOLDINGS LTD."
+            SYM: "L&TFH",
+            COM: "L&T FINANCE HOLDINGS LTD."
         },
         {
-            "SYM": "YAARII",
-            "COMPANY": "Yaarii Digital Integrated Services Ltd"
+            SYM: "YAARII",
+            COM: "Yaarii Digital Integrated Services Ltd"
         },
         {
-            "SYM": "TREEHOUSE",
-            "COMPANY": "TREE HOUSE EDUCATION & ACCESSORIES LTD."
+            SYM: "TREEHOUSE",
+            COM: "TREE HOUSE EDUCATION & ACCESSORIES LTD."
         },
         {
-            "SYM": "BROOKS",
-            "COMPANY": "BROOKS LABORATORIES LTD."
+            SYM: "BROOKS",
+            COM: "BROOKS LABORATORIES LTD."
         },
         {
-            "SYM": "RUPA",
-            "COMPANY": "RUPA & COMPANY LTD."
+            SYM: "RUPA",
+            COM: "RUPA & COMPANY LTD."
         },
         {
-            "SYM": "TDPOWERSYS",
-            "COMPANY": "T D POWER SYSTEMS LTD."
+            SYM: "TDPOWERSYS",
+            COM: "T D POWER SYSTEMS LTD."
         },
         {
-            "SYM": "APLLTD",
-            "COMPANY": "ALEMBIC PHARMACEUTICALS LTD."
+            SYM: "APLLTD",
+            COM: "ALEMBIC PHARMACEUTICALS LTD."
         },
         {
-            "SYM": "VASWANI",
-            "COMPANY": "VASWANI INDUSTRIES LTD."
+            SYM: "VASWANI",
+            COM: "VASWANI INDUSTRIES LTD."
         },
         {
-            "SYM": "PGEL",
-            "COMPANY": "PG ELECTROPLAST LTD."
+            SYM: "PGEL",
+            COM: "PG ELECTROPLAST LTD."
         },
         {
-            "SYM": "LESHAIND",
-            "COMPANY": "LESHA INDUSTRIES LTD."
+            SYM: "LESHAIND",
+            COM: "LESHA INDUSTRIES LTD."
         },
         {
-            "SYM": "SETUINFRA",
-            "COMPANY": "Setubandhan Infrastructure Ltd"
+            SYM: "SETUINFRA",
+            COM: "Setubandhan Infrastructure Ltd"
         },
         {
-            "SYM": "RDBRL",
-            "COMPANY": "RDB RASAYANS LTD."
+            SYM: "RDBRL",
+            COM: "RDB RASAYANS LTD."
         },
         {
-            "SYM": "TIJARIA",
-            "COMPANY": "TIJARIA POLYPIPES LTD."
+            SYM: "TIJARIA",
+            COM: "TIJARIA POLYPIPES LTD."
         },
         {
-            "SYM": "ONELIFECAP",
-            "COMPANY": "ONELIFE CAPITAL ADVISORS LTD."
+            SYM: "ONELIFECAP",
+            COM: "ONELIFE CAPITAL ADVISORS LTD."
         },
         {
-            "SYM": "FLEXITUFF",
-            "COMPANY": "Flexituff Ventures International Ltd"
+            SYM: "FLEXITUFF",
+            COM: "Flexituff Ventures International Ltd"
         },
         {
-            "SYM": "UJAAS",
-            "COMPANY": "Ujaas Energy Limited"
+            SYM: "UJAAS",
+            COM: "Ujaas Energy Limited"
         },
         {
-            "SYM": "TRITURBINE",
-            "COMPANY": "TRIVENI TURBINE LTD."
+            SYM: "TRITURBINE",
+            COM: "TRIVENI TURBINE LTD."
         },
         {
-            "SYM": "INDOTHAI",
-            "COMPANY": "INDO THAI SECURITIES LTD."
+            SYM: "INDOTHAI",
+            COM: "INDO THAI SECURITIES LTD."
         },
         {
-            "SYM": "ESSARSHPNG",
-            "COMPANY": "ESSAR SHIPPING LTD."
+            SYM: "ESSARSHPNG",
+            COM: "ESSAR SHIPPING LTD."
         },
         {
-            "SYM": "APLAPOLLO",
-            "COMPANY": "APL APOLLO TUBES LTD."
+            SYM: "APLAPOLLO",
+            COM: "APL APOLLO TUBES LTD."
         },
         {
-            "SYM": "GPTINFRA",
-            "COMPANY": "GPT INFRAPROJECTS LTD."
+            SYM: "GPTINFRA",
+            COM: "GPT INFRAPROJECTS LTD."
         },
         {
-            "SYM": "FERVENTSYN",
-            "COMPANY": "FERVENT SYNERGIES LTD."
+            SYM: "FERVENTSYN",
+            COM: "FERVENT SYNERGIES LTD."
         },
         {
-            "SYM": "THOMASCOTT",
-            "COMPANY": "THOMAS SCOTT (INDIA) LIMITED"
+            SYM: "THOMASCOTT",
+            COM: "THOMAS SCOTT (INDIA) LIMITED"
         },
         {
-            "SYM": "TERASOFT",
-            "COMPANY": "TERA SOFTWARE LTD."
+            SYM: "TERASOFT",
+            COM: "TERA SOFTWARE LTD."
         },
         {
-            "SYM": "PMCFIN",
-            "COMPANY": "PMC Fincorp Limited"
+            SYM: "PMCFIN",
+            COM: "PMC Fincorp Limited"
         },
         {
-            "SYM": "FUTSOL",
-            "COMPANY": "FUTURISTIC SOLUTIONS LTD."
+            SYM: "FUTSOL",
+            COM: "FUTURISTIC SOLUTIONS LTD."
         },
         {
-            "SYM": "AIML",
-            "COMPANY": "ALLIANCE INTEGRATED METALIKS LTD."
+            SYM: "AIML",
+            COM: "ALLIANCE INTEGRATED METALIKS LTD."
         },
         {
-            "SYM": "ORIENTREF",
-            "COMPANY": "ORIENT REFRACTORIES LTD."
+            SYM: "ORIENTREF",
+            COM: "ORIENT REFRACTORIES LTD."
         },
         {
-            "SYM": "MCX",
-            "COMPANY": "MULTI COMMODITY EXCHANGE OF INDIA LTD."
+            SYM: "MCX",
+            COM: "MULTI COMMODITY EXCHANGE OF INDIA LTD."
         },
         {
-            "SYM": "PYXISFIN",
-            "COMPANY": "Pyxis Finvest Ltd"
+            SYM: "PYXISFIN",
+            COM: "Pyxis Finvest Ltd"
         },
         {
-            "SYM": "SCHNEIDER",
-            "COMPANY": "SCHNEIDER ELECTRIC INFRASTRUCTURE LTD."
+            SYM: "SCHNEIDER",
+            COM: "SCHNEIDER ELECTRIC INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "OLPCL",
-            "COMPANY": "OLYMPIC CARDS LTD."
+            SYM: "OLPCL",
+            COM: "OLYMPIC CARDS LTD."
         },
         {
-            "SYM": "NBCC",
-            "COMPANY": "NBCC (India) Ltd"
+            SYM: "NBCC",
+            COM: "NBCC (India) Ltd"
         },
         {
-            "SYM": "MTEDUCARE",
-            "COMPANY": "MT EDUCARE LTD."
+            SYM: "MTEDUCARE",
+            COM: "MT EDUCARE LTD."
         },
         {
-            "SYM": "HEXATRADEX",
-            "COMPANY": "HEXA TRADEX LTD."
+            SYM: "HEXATRADEX",
+            COM: "HEXA TRADEX LTD."
         },
         {
-            "SYM": "MAXHEIGHTS",
-            "COMPANY": "MAXHEIGHTS INFRASTRUCTURE LTD."
+            SYM: "MAXHEIGHTS",
+            COM: "MAXHEIGHTS INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "TBZ",
-            "COMPANY": "TRIBHOVANDAS BHIMJI ZAVERI LTD."
+            SYM: "TBZ",
+            COM: "TRIBHOVANDAS BHIMJI ZAVERI LTD."
         },
         {
-            "SYM": "VSSL",
-            "COMPANY": "VARDHMAN SPECIAL STEELS LTD."
+            SYM: "VSSL",
+            COM: "VARDHMAN SPECIAL STEELS LTD."
         },
         {
-            "SYM": "LOOKS",
-            "COMPANY": "Looks Health Services Limited"
+            SYM: "LOOKS",
+            COM: "Looks Health Services Limited"
         },
         {
-            "SYM": "SPECIALITY",
-            "COMPANY": "SPECIALITY RESTAURANTS LTD."
+            SYM: "SPECIALITY",
+            COM: "SPECIALITY RESTAURANTS LTD."
         },
         {
-            "SYM": "LYPSAGEMS",
-            "COMPANY": "Lypsa Gems & Jewellery Ltd"
+            SYM: "LYPSAGEMS",
+            COM: "Lypsa Gems & Jewellery Ltd"
         },
         {
-            "SYM": "MASL",
-            "COMPANY": "MAX ALERT SYSTEMS LTD."
+            SYM: "MASL",
+            COM: "MAX ALERT SYSTEMS LTD."
         },
         {
-            "SYM": "RTNINDIA",
-            "COMPANY": "Rattanindia Enterprises Ltd"
+            SYM: "RTNINDIA",
+            COM: "Rattanindia Enterprises Ltd"
         },
         {
-            "SYM": "SEPOWER",
-            "COMPANY": "S.E. POWER LTD."
+            SYM: "SEPOWER",
+            COM: "S.E. POWER LTD."
         },
         {
-            "SYM": "JTLINFRA",
-            "COMPANY": "JTL INFRA LTD."
+            SYM: "JTLINFRA",
+            COM: "JTL INFRA LTD."
         },
         {
-            "SYM": "AMTL",
-            "COMPANY": "ADVANCE METERING TECHNOLOGY LTD."
+            SYM: "AMTL",
+            COM: "ADVANCE METERING TECHNOLOGY LTD."
         },
         {
-            "SYM": "NECCLTD",
-            "COMPANY": "NORTH EASTERN CARRYING CORPORATION LTD."
+            SYM: "NECCLTD",
+            COM: "NORTH EASTERN CARRYING CORPORATION LTD."
         },
         {
-            "SYM": "SAREL",
-            "COMPANY": "Sangam Renewables Ltd"
+            SYM: "SAREL",
+            COM: "Sangam Renewables Ltd"
         },
         {
-            "SYM": "JUPITERIN",
-            "COMPANY": "JUPITER INFOMEDIA LTD."
+            SYM: "JUPITERIN",
+            COM: "JUPITER INFOMEDIA LTD."
         },
         {
-            "SYM": "VINAYAKPOL",
-            "COMPANY": "VINAYAK POLYCON INTERNATIONAL LTD."
+            SYM: "VINAYAKPOL",
+            COM: "VINAYAK POLYCON INTERNATIONAL LTD."
         },
         {
-            "SYM": "JOINTECAED",
-            "COMPANY": "JOINTECA EDUCATION SOLUTIONS LTD."
+            SYM: "JOINTECAED",
+            COM: "JOINTECA EDUCATION SOLUTIONS LTD."
         },
         {
-            "SYM": "DUCON",
-            "COMPANY": "Ducon Infratechnologies Ltd"
+            SYM: "DUCON",
+            COM: "Ducon Infratechnologies Ltd"
         },
         {
-            "SYM": "PROZONINTU",
-            "COMPANY": "Prozone Intu Properties Limited"
+            SYM: "PROZONINTU",
+            COM: "Prozone Intu Properties Limited"
         },
         {
-            "SYM": "SRGHFL",
-            "COMPANY": "SRG HOUSING FINANCE LTD."
+            SYM: "SRGHFL",
+            COM: "SRG HOUSING FINANCE LTD."
         },
         {
-            "SYM": "COMCL",
-            "COMPANY": "COMFORT COMMOTRADE LTD."
+            SYM: "COMCL",
+            COM: "COMFORT COMMOTRADE LTD."
         },
         {
-            "SYM": "BITL",
-            "COMPANY": "BRONZE INFRA-TECH LTD."
+            SYM: "BITL",
+            COM: "BRONZE INFRA-TECH LTD."
         },
         {
-            "SYM": "INTELLADV",
-            "COMPANY": "INTELLIVATE CAPITAL ADVISORS LTD."
+            SYM: "INTELLADV",
+            COM: "INTELLIVATE CAPITAL ADVISORS LTD."
         },
         {
-            "SYM": "VIRTUALG",
-            "COMPANY": "VIRTUAL GLOBAL EDUCATION LTD."
+            SYM: "VIRTUALG",
+            COM: "VIRTUAL GLOBAL EDUCATION LTD."
         },
         {
-            "SYM": "ZUARI",
-            "COMPANY": "ZUARI AGRO CHEMICALS LTD."
+            SYM: "ZUARI",
+            COM: "ZUARI AGRO CHEMICALS LTD."
         },
         {
-            "SYM": "STEELXIND",
-            "COMPANY": "STEEL EXCHANGE INDIA LTD."
+            SYM: "STEELXIND",
+            COM: "STEEL EXCHANGE INDIA LTD."
         },
         {
-            "SYM": "TRIOMERC",
-            "COMPANY": "TRIO MERCANTILE & TRADING LTD."
+            SYM: "TRIOMERC",
+            COM: "TRIO MERCANTILE & TRADING LTD."
         },
         {
-            "SYM": "CIGNITI",
-            "COMPANY": "CIGNITI TECHNOLOGIES LTD."
+            SYM: "CIGNITI",
+            COM: "CIGNITI TECHNOLOGIES LTD."
         },
         {
-            "SYM": "CDG",
-            "COMPANY": "CDG Petchem Ltd"
+            SYM: "CDG",
+            COM: "CDG Petchem Ltd"
         },
         {
-            "SYM": "CARERATING",
-            "COMPANY": "CARE Ratings Ltd"
+            SYM: "CARERATING",
+            COM: "CARE Ratings Ltd"
         },
         {
-            "SYM": "PCJEWELLER",
-            "COMPANY": "PC JEWELLER LTD."
+            SYM: "PCJEWELLER",
+            COM: "PC JEWELLER LTD."
         },
         {
-            "SYM": "INDUSTOWER",
-            "COMPANY": "Indus Towers Ltd"
+            SYM: "INDUSTOWER",
+            COM: "Indus Towers Ltd"
         },
         {
-            "SYM": "VMART",
-            "COMPANY": "V-MART RETAIL LTD."
+            SYM: "VMART",
+            COM: "V-MART RETAIL LTD."
         },
         {
-            "SYM": "NIBE",
-            "COMPANY": "NIBE Ltd"
+            SYM: "NIBE",
+            COM: "NIBE Ltd"
         },
         {
-            "SYM": "MUKTA",
-            "COMPANY": "Mukta Agriculture Ltd"
+            SYM: "MUKTA",
+            COM: "Mukta Agriculture Ltd"
         },
         {
-            "SYM": "MYSTICELE",
-            "COMPANY": "Mystic Electronics Ltd"
+            SYM: "MYSTICELE",
+            COM: "Mystic Electronics Ltd"
         },
         {
-            "SYM": "COMFINCAP",
-            "COMPANY": "COMFORT FINCAP LTD."
+            SYM: "COMFINCAP",
+            COM: "COMFORT FINCAP LTD."
         },
         {
-            "SYM": "SBISENSEX",
-            "COMPANY": "SBI Mutual Fund - SBI Sensex ETF"
+            SYM: "SBISENSEX",
+            COM: "SBI Mutual Fund - SBI Sensex ETF"
         },
         {
-            "SYM": "BMAL",
-            "COMPANY": "BOTHRA METALS & ALLOYS LTD."
+            SYM: "BMAL",
+            COM: "BOTHRA METALS & ALLOYS LTD."
         },
         {
-            "SYM": "REPCOHOME",
-            "COMPANY": "REPCO HOME FINANCE LTD."
+            SYM: "REPCOHOME",
+            COM: "REPCO HOME FINANCE LTD."
         },
         {
-            "SYM": "LAKHOTIA",
-            "COMPANY": "LAKHOTIA POLYESTERS (INDIA) LTD."
+            SYM: "LAKHOTIA",
+            COM: "LAKHOTIA POLYESTERS (INDIA) LTD."
         },
         {
-            "SYM": "GCMSECU",
-            "COMPANY": "GCM Securities Ltd"
+            SYM: "GCMSECU",
+            COM: "GCM Securities Ltd"
         },
         {
-            "SYM": "NIBL",
-            "COMPANY": "NRB INDUSTRIAL BEARINGS LTD."
+            SYM: "NIBL",
+            COM: "NRB INDUSTRIAL BEARINGS LTD."
         },
         {
-            "SYM": "KIFS",
-            "COMPANY": "KIFS FINANCIAL SERVICES LTD."
+            SYM: "KIFS",
+            COM: "KIFS FINANCIAL SERVICES LTD."
         },
         {
-            "SYM": "SREEL",
-            "COMPANY": "SREELEATHERS LTD."
+            SYM: "SREEL",
+            COM: "SREELEATHERS LTD."
         },
         {
-            "SYM": "SHARDA",
-            "COMPANY": "Sharda Motor Industries Ltd"
+            SYM: "SHARDA",
+            COM: "Sharda Motor Industries Ltd"
         },
         {
-            "SYM": "BINNYMILLS",
-            "COMPANY": "BINNY MILLS LTD."
+            SYM: "BINNYMILLS",
+            COM: "BINNY MILLS LTD."
         },
         {
-            "SYM": "SVGLOBAL",
-            "COMPANY": "S V GLOBAL MILL LTD."
+            SYM: "SVGLOBAL",
+            COM: "S V GLOBAL MILL LTD."
         },
         {
-            "SYM": "SDC",
-            "COMPANY": "SDC Techmedia Ltd"
+            SYM: "SDC",
+            COM: "SDC Techmedia Ltd"
         },
         {
-            "SYM": "JUSTDIAL",
-            "COMPANY": "JUST DIAL LTD."
+            SYM: "JUSTDIAL",
+            COM: "JUST DIAL LTD."
         },
         {
-            "SYM": "OONE",
-            "COMPANY": "OBJECTONE INFORMATION SYSTEMS LTD."
+            SYM: "OONE",
+            COM: "OBJECTONE INFORMATION SYSTEMS LTD."
         },
         {
-            "SYM": "IFINSEC",
-            "COMPANY": "INDIA FINSEC LTD."
+            SYM: "IFINSEC",
+            COM: "INDIA FINSEC LTD."
         },
         {
-            "SYM": "BRAHMINFRA",
-            "COMPANY": "BRAHMAPUTRA INFRASTRUCTURE LTD."
+            SYM: "BRAHMINFRA",
+            COM: "BRAHMAPUTRA INFRASTRUCTURE LTD."
         },
         {
-            "SYM": "QUEST",
-            "COMPANY": "Quest Softech (India) Ltd"
+            SYM: "QUEST",
+            COM: "Quest Softech (India) Ltd"
         },
         {
-            "SYM": "KHOOBSURAT",
-            "COMPANY": "Khoobsurat Ltd"
+            SYM: "KHOOBSURAT",
+            COM: "Khoobsurat Ltd"
         },
         {
-            "SYM": "ORIENTCEM",
-            "COMPANY": "Orient Cement Ltd"
+            SYM: "ORIENTCEM",
+            COM: "Orient Cement Ltd"
         },
         {
-            "SYM": "ABFRL",
-            "COMPANY": "Aditya Birla Fashion and Retail Ltd"
+            SYM: "ABFRL",
+            COM: "Aditya Birla Fashion and Retail Ltd"
         },
         {
-            "SYM": "IBULHSGFIN",
-            "COMPANY": "Indiabulls Housing Finance Ltd"
+            SYM: "IBULHSGFIN",
+            COM: "Indiabulls Housing Finance Ltd"
         },
         {
-            "SYM": "MMLF",
-            "COMPANY": "Money Masters Leasing & Finance Ltd"
+            SYM: "MMLF",
+            COM: "Money Masters Leasing & Finance Ltd"
         },
         {
-            "SYM": "ALSL",
-            "COMPANY": "Alacrity Securities Ltd"
+            SYM: "ALSL",
+            COM: "Alacrity Securities Ltd"
         },
         {
-            "SYM": "GCMCOMM",
-            "COMPANY": "GCM Commodity & Derivatives Ltd"
+            SYM: "GCMCOMM",
+            COM: "GCM Commodity & Derivatives Ltd"
         },
         {
-            "SYM": "KUSHAL",
-            "COMPANY": "Kushal Ltd"
+            SYM: "KUSHAL",
+            COM: "Kushal Ltd"
         },
         {
-            "SYM": "TIGERLOGS",
-            "COMPANY": "Tiger Logistics (India) Ltd"
+            SYM: "TIGERLOGS",
+            COM: "Tiger Logistics (India) Ltd"
         },
         {
-            "SYM": "RJBIOTECH",
-            "COMPANY": "R J Bio-Tech Ltd"
+            SYM: "RJBIOTECH",
+            COM: "R J Bio-Tech Ltd"
         },
         {
-            "SYM": "JK AGRI",
-            "COMPANY": "JK Agri Genetics Ltd"
+            SYM: "JK AGRI",
+            COM: "JK Agri Genetics Ltd"
         },
         {
-            "SYM": "FLFL",
-            "COMPANY": "Future Lifestyle Fashions Ltd"
+            SYM: "FLFL",
+            COM: "Future Lifestyle Fashions Ltd"
         },
         {
-            "SYM": "TRIMURTHI",
-            "COMPANY": "Trimurthi Ltd"
+            SYM: "TRIMURTHI",
+            COM: "Trimurthi Ltd"
         },
         {
-            "SYM": "PVVINFRA",
-            "COMPANY": "PVV Infra Ltd"
+            SYM: "PVVINFRA",
+            COM: "PVV Infra Ltd"
         },
         {
-            "SYM": "VCU",
-            "COMPANY": "VCU Data Management Ltd"
+            SYM: "VCU",
+            COM: "VCU Data Management Ltd"
         },
         {
-            "SYM": "INDRENEW",
-            "COMPANY": "IND Renewable Energy Ltd"
+            SYM: "INDRENEW",
+            COM: "IND Renewable Energy Ltd"
         },
         {
-            "SYM": "SRGSFL",
-            "COMPANY": "S R G Securities Finance Ltd"
+            SYM: "SRGSFL",
+            COM: "S R G Securities Finance Ltd"
         },
         {
-            "SYM": "ACFSL",
-            "COMPANY": "Amrapali Capital and Finance Services Ltd"
+            SYM: "ACFSL",
+            COM: "Amrapali Capital and Finance Services Ltd"
         },
         {
-            "SYM": "STELLAR",
-            "COMPANY": "Stellar Capital Services Ltd"
+            SYM: "STELLAR",
+            COM: "Stellar Capital Services Ltd"
         },
         {
-            "SYM": "FIVEXTRADE",
-            "COMPANY": "Five X Tradecom Ltd"
+            SYM: "FIVEXTRADE",
+            COM: "Five X Tradecom Ltd"
         },
         {
-            "SYM": "YURANUS",
-            "COMPANY": "Yuranus Infrastructure Ltd"
+            SYM: "YURANUS",
+            COM: "Yuranus Infrastructure Ltd"
         },
         {
-            "SYM": "INTELSOFT",
-            "COMPANY": "Integra Telecommunication & Software Ltd"
+            SYM: "INTELSOFT",
+            COM: "Integra Telecommunication & Software Ltd"
         },
         {
-            "SYM": "M100",
-            "COMPANY": "Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares Midcap 100 ETF- Growth option"
+            SYM: "M100",
+            COM: "Motilal Oswal Mutual Fund - Motilal Oswal MOSt Shares Midcap 100 ETF- Growth option"
         },
         {
-            "SYM": "BPCAP",
-            "COMPANY": "B. P. Capital Ltd"
+            SYM: "BPCAP",
+            COM: "B. P. Capital Ltd"
         },
         {
-            "SYM": "CPL",
-            "COMPANY": "Captain Polyplast Ltd"
+            SYM: "CPL",
+            COM: "Captain Polyplast Ltd"
         },
         {
-            "SYM": "ICICINIFTY",
-            "COMPANY": "ICICI Prudential Nifty ETF"
+            SYM: "ICICINIFTY",
+            COM: "ICICI Prudential Nifty ETF"
         },
         {
-            "SYM": "ICICINF100",
-            "COMPANY": "ICICI Prudential Nifty 100 ETF"
+            SYM: "ICICINF100",
+            COM: "ICICI Prudential Nifty 100 ETF"
         },
         {
-            "SYM": "ARNOLD",
-            "COMPANY": "Arnold Holdings Ltd"
+            SYM: "ARNOLD",
+            COM: "Arnold Holdings Ltd"
         },
         {
-            "SYM": "SUNLOC",
-            "COMPANY": "Sunil Healthcare Ltd"
+            SYM: "SUNLOC",
+            COM: "Sunil Healthcare Ltd"
         },
         {
-            "SYM": "RCIIND",
-            "COMPANY": "RCI Industries & Technologies Ltd"
+            SYM: "RCIIND",
+            COM: "RCI Industries & Technologies Ltd"
         },
         {
-            "SYM": "SUYOG",
-            "COMPANY": "Suyog Telematics Ltd"
+            SYM: "SUYOG",
+            COM: "Suyog Telematics Ltd"
         },
         {
-            "SYM": "NATHBIOGEN",
-            "COMPANY": "Nath Bio-Genes (India) Ltd"
+            SYM: "NATHBIOGEN",
+            COM: "Nath Bio-Genes (India) Ltd"
         },
         {
-            "SYM": "AGRITECH",
-            "COMPANY": "Agri- Tech (India) Ltd"
+            SYM: "AGRITECH",
+            COM: "Agri- Tech (India) Ltd"
         },
         {
-            "SYM": "CHEMTECH",
-            "COMPANY": "Chemtech Industrial Valves Ltd"
+            SYM: "CHEMTECH",
+            COM: "Chemtech Industrial Valves Ltd"
         },
         {
-            "SYM": "TAAZAINT",
-            "COMPANY": "Taaza International Ltd"
+            SYM: "TAAZAINT",
+            COM: "Taaza International Ltd"
         },
         {
-            "SYM": "NETFNIF100",
-            "COMPANY": "NIPPON INDIA ETF NIFTY 100"
+            SYM: "NETFNIF100",
+            COM: "NIPPON INDIA ETF NIFTY 100"
         },
         {
-            "SYM": "AGRIMONY",
-            "COMPANY": "Agrimony Commodities Ltd"
+            SYM: "AGRIMONY",
+            COM: "Agrimony Commodities Ltd"
         },
         {
-            "SYM": "VIAANINDUS",
-            "COMPANY": "Viaan Industries Ltd"
+            SYM: "VIAANINDUS",
+            COM: "Viaan Industries Ltd"
         },
         {
-            "SYM": "DENISCHEM",
-            "COMPANY": "Denis Chem Lab Ltd"
+            SYM: "DENISCHEM",
+            COM: "Denis Chem Lab Ltd"
         },
         {
-            "SYM": "POLYMAC",
-            "COMPANY": "Polymac Thermoformers Ltd"
+            SYM: "POLYMAC",
+            COM: "Polymac Thermoformers Ltd"
         },
         {
-            "SYM": "UNISHIRE",
-            "COMPANY": "Unishire Urban Infra Ltd"
+            SYM: "UNISHIRE",
+            COM: "Unishire Urban Infra Ltd"
         },
         {
-            "SYM": "LAXMIPATI",
-            "COMPANY": "Laxmipati Engineering Works Ltd"
+            SYM: "LAXMIPATI",
+            COM: "Laxmipati Engineering Works Ltd"
         },
         {
-            "SYM": "ETT",
-            "COMPANY": "ETT Ltd"
+            SYM: "ETT",
+            COM: "ETT Ltd"
         },
         {
-            "SYM": "KOTAKNIFTY",
-            "COMPANY": "Kotak Mahindra Mutual Fund - Kotak Nifty ETF"
+            SYM: "KOTAKNIFTY",
+            COM: "Kotak Mahindra Mutual Fund - Kotak Nifty ETF"
         },
         {
-            "SYM": "KIRANVYPAR",
-            "COMPANY": "Kiran Vyapar Ltd"
+            SYM: "KIRANVYPAR",
+            COM: "Kiran Vyapar Ltd"
         },
         {
-            "SYM": "BCP",
-            "COMPANY": "B.C. Power Controls Ltd"
+            SYM: "BCP",
+            COM: "B.C. Power Controls Ltd"
         },
         {
-            "SYM": "KCSL",
-            "COMPANY": "Karnimata Cold Storage Ltd"
+            SYM: "KCSL",
+            COM: "Karnimata Cold Storage Ltd"
         },
         {
-            "SYM": "RACE",
-            "COMPANY": "Race Eco Chain Ltd"
+            SYM: "RACE",
+            COM: "Race Eco Chain Ltd"
         },
         {
-            "SYM": "MANGIND",
-            "COMPANY": "Mangalam Industrial Finance Ltd"
+            SYM: "MANGIND",
+            COM: "Mangalam Industrial Finance Ltd"
         },
         {
-            "SYM": "VFL",
-            "COMPANY": "Viji Finance Ltd"
+            SYM: "VFL",
+            COM: "Viji Finance Ltd"
         },
         {
-            "SYM": "PHOENIXTN",
-            "COMPANY": "Phoenix Township Ltd"
+            SYM: "PHOENIXTN",
+            COM: "Phoenix Township Ltd"
         },
         {
-            "SYM": "RAUNAQEPC",
-            "COMPANY": "Raunaq EPC International Ltd"
+            SYM: "RAUNAQEPC",
+            COM: "Raunaq EPC International Ltd"
         },
         {
-            "SYM": "INFRONICS",
-            "COMPANY": "Infronics Systems Ltd"
+            SYM: "INFRONICS",
+            COM: "Infronics Systems Ltd"
         },
         {
-            "SYM": "OBIL",
-            "COMPANY": "Oceanaa Biotek Industries Ltd"
+            SYM: "OBIL",
+            COM: "Oceanaa Biotek Industries Ltd"
         },
         {
-            "SYM": "CPSEETF",
-            "COMPANY": "CPSE ETF"
+            SYM: "CPSEETF",
+            COM: "CPSE ETF"
         },
         {
-            "SYM": "JOONKTOLL",
-            "COMPANY": "Joonktollee Tea & Industries Ltd"
+            SYM: "JOONKTOLL",
+            COM: "Joonktollee Tea & Industries Ltd"
         },
         {
-            "SYM": "RNBDENIMS",
-            "COMPANY": "R&B Denims Ltd"
+            SYM: "RNBDENIMS",
+            COM: "R&B Denims Ltd"
         },
         {
-            "SYM": "GOLDLINE",
-            "COMPANY": "Gold Line International Finvest Ltd"
+            SYM: "GOLDLINE",
+            COM: "Gold Line International Finvest Ltd"
         },
         {
-            "SYM": "SHARPINV",
-            "COMPANY": "Sharp Investments Ltd"
+            SYM: "SHARPINV",
+            COM: "Sharp Investments Ltd"
         },
         {
-            "SYM": "WONDERLA",
-            "COMPANY": "Wonderla Holidays Ltd"
+            SYM: "WONDERLA",
+            COM: "Wonderla Holidays Ltd"
         },
         {
-            "SYM": "RESPONSINF",
-            "COMPANY": "Response Informatics Ltd"
+            SYM: "RESPONSINF",
+            COM: "Response Informatics Ltd"
         },
         {
-            "SYM": "GCMCAPI",
-            "COMPANY": "GCM Capital Advisors Ltd"
+            SYM: "GCMCAPI",
+            COM: "GCM Capital Advisors Ltd"
         },
         {
-            "SYM": "AFEL",
-            "COMPANY": "A.F. Enterprises Ltd"
+            SYM: "AFEL",
+            COM: "A.F. Enterprises Ltd"
         },
         {
-            "SYM": "INCREDIBLE",
-            "COMPANY": "Incredible Industries Ltd"
+            SYM: "INCREDIBLE",
+            COM: "Incredible Industries Ltd"
         },
         {
-            "SYM": "WESTLEIRES",
-            "COMPANY": "West Leisure Resorts Ltd"
+            SYM: "WESTLEIRES",
+            COM: "West Leisure Resorts Ltd"
         },
         {
-            "SYM": "NAM",
-            "COMPANY": "Nam Securities Ltd"
+            SYM: "NAM",
+            COM: "Nam Securities Ltd"
         },
         {
-            "SYM": "METSL",
-            "COMPANY": "Maestros Electronics & Telecommunications Systems Ltd"
+            SYM: "METSL",
+            COM: "Maestros Electronics & Telecommunications Systems Ltd"
         },
         {
-            "SYM": "SPS",
-            "COMPANY": "SPS Finquest Ltd"
+            SYM: "SPS",
+            COM: "SPS Finquest Ltd"
         },
         {
-            "SYM": "CCFCL",
-            "COMPANY": "Classic Global Finance & Capital Ltd"
+            SYM: "CCFCL",
+            COM: "Classic Global Finance & Capital Ltd"
         },
         {
-            "SYM": "MONEYBOXX",
-            "COMPANY": "Moneyboxx Finance Ltd"
+            SYM: "MONEYBOXX",
+            COM: "Moneyboxx Finance Ltd"
         },
         {
-            "SYM": "WORTH",
-            "COMPANY": "Worth Investment & Trading Co Ltd"
+            SYM: "WORTH",
+            COM: "Worth Investment & Trading Co Ltd"
         },
         {
-            "SYM": "QUASAR",
-            "COMPANY": "Quasar India Ltd"
+            SYM: "QUASAR",
+            COM: "Quasar India Ltd"
         },
         {
-            "SYM": "TPROJECT",
-            "COMPANY": "Thirani Projects Ltd"
+            SYM: "TPROJECT",
+            COM: "Thirani Projects Ltd"
         },
         {
-            "SYM": "CTL",
-            "COMPANY": "Capital Trade Links Ltd"
+            SYM: "CTL",
+            COM: "Capital Trade Links Ltd"
         },
         {
-            "SYM": "TARINI",
-            "COMPANY": "Tarini International Ltd"
+            SYM: "TARINI",
+            COM: "Tarini International Ltd"
         },
         {
-            "SYM": "CROWNTOURS",
-            "COMPANY": "Crown Tours Ltd"
+            SYM: "CROWNTOURS",
+            COM: "Crown Tours Ltd"
         },
         {
-            "SYM": "OMANSH",
-            "COMPANY": "Omansh Enterprises Ltd"
+            SYM: "OMANSH",
+            COM: "Omansh Enterprises Ltd"
         },
         {
-            "SYM": "JTAPARIA",
-            "COMPANY": "J. Taparia Projects Ltd"
+            SYM: "JTAPARIA",
+            COM: "J. Taparia Projects Ltd"
         },
         {
-            "SYM": "RLFL",
-            "COMPANY": "Ramchandra Leasing & Finance Ltd"
+            SYM: "RLFL",
+            COM: "Ramchandra Leasing & Finance Ltd"
         },
         {
-            "SYM": "GOLDCOINHF",
-            "COMPANY": "Gold Coin Health Foods Ltd"
+            SYM: "GOLDCOINHF",
+            COM: "Gold Coin Health Foods Ltd"
         },
         {
-            "SYM": "BRPL",
-            "COMPANY": "Bansal Roofing Products Ltd"
+            SYM: "BRPL",
+            COM: "Bansal Roofing Products Ltd"
         },
         {
-            "SYM": "ARMAN",
-            "COMPANY": "Arman Holdings Ltd"
+            SYM: "ARMAN",
+            COM: "Arman Holdings Ltd"
         },
         {
-            "SYM": "SKIPPER",
-            "COMPANY": "Skipper Ltd"
+            SYM: "SKIPPER",
+            COM: "Skipper Ltd"
         },
         {
-            "SYM": "ADARSH",
-            "COMPANY": "Adarsh Mercantile Ltd"
+            SYM: "ADARSH",
+            COM: "Adarsh Mercantile Ltd"
         },
         {
-            "SYM": "JAMESWARREN",
-            "COMPANY": "James Warren Tea Ltd"
+            SYM: "JAMESWARREN",
+            COM: "James Warren Tea Ltd"
         },
         {
-            "SYM": "VISTARAMAR",
-            "COMPANY": "Vistar Amar Ltd"
+            SYM: "VISTARAMAR",
+            COM: "Vistar Amar Ltd"
         },
         {
-            "SYM": "APOLLOTRI",
-            "COMPANY": "Apollo Tricoat Tubes Ltd"
+            SYM: "APOLLOTRI",
+            COM: "Apollo Tricoat Tubes Ltd"
         },
         {
-            "SYM": "GULFOILLUB",
-            "COMPANY": "Gulf Oil Lubricants India Ltd"
+            SYM: "GULFOILLUB",
+            COM: "Gulf Oil Lubricants India Ltd"
         },
         {
-            "SYM": "FRUTION",
-            "COMPANY": "Fruition Venture Ltd"
+            SYM: "FRUTION",
+            COM: "Fruition Venture Ltd"
         },
         {
-            "SYM": "TRIVENIENT",
-            "COMPANY": "Triveni Enterprises Ltd"
+            SYM: "TRIVENIENT",
+            COM: "Triveni Enterprises Ltd"
         },
         {
-            "SYM": "BHANDERI",
-            "COMPANY": "Bhanderi Infracon Ltd"
+            SYM: "BHANDERI",
+            COM: "Bhanderi Infracon Ltd"
         },
         {
-            "SYM": "TRIVIKRAMA",
-            "COMPANY": "Trivikrama Industries Ltd"
+            SYM: "TRIVIKRAMA",
+            COM: "Trivikrama Industries Ltd"
         },
         {
-            "SYM": "QUANTBUILD",
-            "COMPANY": "Quantum Build-Tech Ltd"
+            SYM: "QUANTBUILD",
+            COM: "Quantum Build-Tech Ltd"
         },
         {
-            "SYM": "TTIENT",
-            "COMPANY": "TTI Enterprise Ltd"
+            SYM: "TTIENT",
+            COM: "TTI Enterprise Ltd"
         },
         {
-            "SYM": "VISHAL",
-            "COMPANY": "Vishal Fabrics Ltd"
+            SYM: "VISHAL",
+            COM: "Vishal Fabrics Ltd"
         },
         {
-            "SYM": "TOYAMIND",
-            "COMPANY": "Toyam Industries Ltd"
+            SYM: "TOYAMIND",
+            COM: "Toyam Industries Ltd"
         },
         {
-            "SYM": "GAJANANSEC",
-            "COMPANY": "Gajanan Securities Services Ltd"
+            SYM: "GAJANANSEC",
+            COM: "Gajanan Securities Services Ltd"
         },
         {
-            "SYM": "UNISON",
-            "COMPANY": "Unison Metals Ltd"
+            SYM: "UNISON",
+            COM: "Unison Metals Ltd"
         },
         {
-            "SYM": "RTFL",
-            "COMPANY": "Real Touch Finance Ltd"
+            SYM: "RTFL",
+            COM: "Real Touch Finance Ltd"
         },
         {
-            "SYM": "VRL",
-            "COMPANY": "Vasundhara Rasayans Ltd"
+            SYM: "VRL",
+            COM: "Vasundhara Rasayans Ltd"
         },
         {
-            "SYM": "SNOWMAN",
-            "COMPANY": "Snowman Logistics Ltd"
+            SYM: "SNOWMAN",
+            COM: "Snowman Logistics Ltd"
         },
         {
-            "SYM": "QGO",
-            "COMPANY": "QGO Finance Ltd"
+            SYM: "QGO",
+            COM: "QGO Finance Ltd"
         },
         {
-            "SYM": "PURSHOTTAM",
-            "COMPANY": "Purshottam Investofin Ltd"
+            SYM: "PURSHOTTAM",
+            COM: "Purshottam Investofin Ltd"
         },
         {
-            "SYM": "HCLTD",
-            "COMPANY": "Hind Commerce Ltd"
+            SYM: "HCLTD",
+            COM: "Hind Commerce Ltd"
         },
         {
-            "SYM": "SHARDACROP",
-            "COMPANY": "Sharda Cropchem Ltd"
+            SYM: "SHARDACROP",
+            COM: "Sharda Cropchem Ltd"
         },
         {
-            "SYM": "SIROHIA",
-            "COMPANY": "Sirohia & Sons Ltd"
+            SYM: "SIROHIA",
+            COM: "Sirohia & Sons Ltd"
         },
         {
-            "SYM": "NAYSAA",
-            "COMPANY": "Naysaa Securities Ltd"
+            SYM: "NAYSAA",
+            COM: "Naysaa Securities Ltd"
         },
         {
-            "SYM": "CITYONLINE",
-            "COMPANY": "City Online Services Ltd"
+            SYM: "CITYONLINE",
+            COM: "City Online Services Ltd"
         },
         {
-            "SYM": "NETFSENSEX",
-            "COMPANY": "NIPPON INDIA ETF SENSEX"
+            SYM: "NETFSENSEX",
+            COM: "NIPPON INDIA ETF SENSEX"
         },
         {
-            "SYM": "SHEMAROO",
-            "COMPANY": "Shemaroo Entertainment Ltd"
+            SYM: "SHEMAROO",
+            COM: "Shemaroo Entertainment Ltd"
         },
         {
-            "SYM": "ULTRACAB",
-            "COMPANY": "Ultracab (India) Ltd"
+            SYM: "ULTRACAB",
+            COM: "Ultracab (India) Ltd"
         },
         {
-            "SYM": "RCCL",
-            "COMPANY": "Rajasthan Cylinders & Containers Ltd"
+            SYM: "RCCL",
+            COM: "Rajasthan Cylinders & Containers Ltd"
         },
         {
-            "SYM": "ETIL",
-            "COMPANY": "Econo Trade (India) Ltd"
+            SYM: "ETIL",
+            COM: "Econo Trade (India) Ltd"
         },
         {
-            "SYM": "ATISHAY",
-            "COMPANY": "Atishay Ltd"
+            SYM: "ATISHAY",
+            COM: "Atishay Ltd"
         },
         {
-            "SYM": "SUCHITRA",
-            "COMPANY": "Suchitra Finance & Trading Company Ltd"
+            SYM: "SUCHITRA",
+            COM: "Suchitra Finance & Trading Company Ltd"
         },
         {
-            "SYM": "DHABRIYA",
-            "COMPANY": "Dhabriya Polywood Ltd"
+            SYM: "DHABRIYA",
+            COM: "Dhabriya Polywood Ltd"
         },
         {
-            "SYM": "ARYACAPM",
-            "COMPANY": "Aryaman Capital Markets Ltd"
+            SYM: "ARYACAPM",
+            COM: "Aryaman Capital Markets Ltd"
         },
         {
-            "SYM": "PDSMFL",
-            "COMPANY": "PDS Multinational Fashions Ltd"
+            SYM: "PDSMFL",
+            COM: "PDS Multinational Fashions Ltd"
         },
         {
-            "SYM": "HANMAN",
-            "COMPANY": "Hanman Fit Ltd"
+            SYM: "HANMAN",
+            COM: "Hanman Fit Ltd"
         },
         {
-            "SYM": "VGCL",
-            "COMPANY": "Vibrant Global Capital Ltd"
+            SYM: "VGCL",
+            COM: "Vibrant Global Capital Ltd"
         },
         {
-            "SYM": "STARLIT",
-            "COMPANY": "Starlit Power Systems Ltd"
+            SYM: "STARLIT",
+            COM: "Starlit Power Systems Ltd"
         },
         {
-            "SYM": "CEINSYSTECH",
-            "COMPANY": "Ceinsys Tech Ltd"
+            SYM: "CEINSYSTECH",
+            COM: "Ceinsys Tech Ltd"
         },
         {
-            "SYM": "PANACHE",
-            "COMPANY": "Panache Innovations Ltd"
+            SYM: "PANACHE",
+            COM: "Panache Innovations Ltd"
         },
         {
-            "SYM": "MUDUNURU",
-            "COMPANY": "Mudunuru Ltd"
+            SYM: "MUDUNURU",
+            COM: "Mudunuru Ltd"
         },
         {
-            "SYM": "JSHL",
-            "COMPANY": "JLA Infraville Shoppers Ltd"
+            SYM: "JSHL",
+            COM: "JLA Infraville Shoppers Ltd"
         },
         {
-            "SYM": "CRANEINFRA",
-            "COMPANY": "Crane Infrastructure Ltd"
+            SYM: "CRANEINFRA",
+            COM: "Crane Infrastructure Ltd"
         },
         {
-            "SYM": "NIYOGIN",
-            "COMPANY": "Niyogin Fintech Ltd"
+            SYM: "NIYOGIN",
+            COM: "Niyogin Fintech Ltd"
         },
         {
-            "SYM": "ASIACAP",
-            "COMPANY": "Asia Capital Ltd"
+            SYM: "ASIACAP",
+            COM: "Asia Capital Ltd"
         },
         {
-            "SYM": "AKASHDEEP",
-            "COMPANY": "Akashdeep Metal Industries Ltd"
+            SYM: "AKASHDEEP",
+            COM: "Akashdeep Metal Industries Ltd"
         },
         {
-            "SYM": "CIL",
-            "COMPANY": "Citizen Infoline Ltd"
+            SYM: "CIL",
+            COM: "Citizen Infoline Ltd"
         },
         {
-            "SYM": "GBFL",
-            "COMPANY": "Goenka Business & Finance Ltd"
+            SYM: "GBFL",
+            COM: "Goenka Business & Finance Ltd"
         },
         {
-            "SYM": "GILADAFINS",
-            "COMPANY": "Gilada Finance & Investments Ltd"
+            SYM: "GILADAFINS",
+            COM: "Gilada Finance & Investments Ltd"
         },
         {
-            "SYM": "BUDGE BUDGE",
-            "COMPANY": "Budge Budge Company Ltd"
+            SYM: "BUDGE BUDGE",
+            COM: "Budge Budge Company Ltd"
         },
         {
-            "SYM": "JETINFRA",
-            "COMPANY": "Jet Infraventure Ltd"
+            SYM: "JETINFRA",
+            COM: "Jet Infraventure Ltd"
         },
         {
-            "SYM": "SAPPL",
-            "COMPANY": "Shree Ajit Pulp And Paper Ltd"
+            SYM: "SAPPL",
+            COM: "Shree Ajit Pulp And Paper Ltd"
         },
         {
-            "SYM": "AANCHALISP",
-            "COMPANY": "Aanchal Ispat Ltd"
+            SYM: "AANCHALISP",
+            COM: "Aanchal Ispat Ltd"
         },
         {
-            "SYM": "CAPPIPES",
-            "COMPANY": "Captain Pipes Ltd"
+            SYM: "CAPPIPES",
+            COM: "Captain Pipes Ltd"
         },
         {
-            "SYM": "ANUBHAV",
-            "COMPANY": "Anubhav Infrastructure Ltd"
+            SYM: "ANUBHAV",
+            COM: "Anubhav Infrastructure Ltd"
         },
         {
-            "SYM": "MEL",
-            "COMPANY": "Meenakshi Enterprises Ltd"
+            SYM: "MEL",
+            COM: "Meenakshi Enterprises Ltd"
         },
         {
-            "SYM": "INTELLECT",
-            "COMPANY": "Intellect Design Arena Ltd"
+            SYM: "INTELLECT",
+            COM: "Intellect Design Arena Ltd"
         },
         {
-            "SYM": "MONTECARLO",
-            "COMPANY": "Monte Carlo Fashions Ltd"
+            SYM: "MONTECARLO",
+            COM: "Monte Carlo Fashions Ltd"
         },
         {
-            "SYM": "JSTL",
-            "COMPANY": "Jeevan Scientific Technology Ltd"
+            SYM: "JSTL",
+            COM: "Jeevan Scientific Technology Ltd"
         },
         {
-            "SYM": "PANAFIC",
-            "COMPANY": "Panafic Industrials Ltd"
+            SYM: "PANAFIC",
+            COM: "Panafic Industrials Ltd"
         },
         {
-            "SYM": "MYMONEY",
-            "COMPANY": "My Money Securities Ltd"
+            SYM: "MYMONEY",
+            COM: "My Money Securities Ltd"
         },
         {
-            "SYM": "AMARNATH",
-            "COMPANY": "Sri Amarnath Finance Ltd"
+            SYM: "AMARNATH",
+            COM: "Sri Amarnath Finance Ltd"
         },
         {
-            "SYM": "CSL",
-            "COMPANY": "Continental Securities Ltd"
+            SYM: "CSL",
+            COM: "Continental Securities Ltd"
         },
         {
-            "SYM": "NEXUSSURGL",
-            "COMPANY": "Nexus Surgical And Medicare Ltd"
+            SYM: "NEXUSSURGL",
+            COM: "Nexus Surgical And Medicare Ltd"
         },
         {
-            "SYM": "SELLWIN",
-            "COMPANY": "Sellwin Traders Ltd"
+            SYM: "SELLWIN",
+            COM: "Sellwin Traders Ltd"
         },
         {
-            "SYM": "GALADAFIN",
-            "COMPANY": "Galada Finance Ltd"
+            SYM: "GALADAFIN",
+            COM: "Galada Finance Ltd"
         },
         {
-            "SYM": "EMERALD",
-            "COMPANY": "Emerald Leasing Finance & Investment Company Ltd"
+            SYM: "EMERALD",
+            COM: "Emerald Leasing Finance & Investment Company Ltd"
         },
         {
-            "SYM": "MKEXIM",
-            "COMPANY": "M.K. Exim (India) Ltd"
+            SYM: "MKEXIM",
+            COM: "M.K. Exim (India) Ltd"
         },
         {
-            "SYM": "MCLOUD",
-            "COMPANY": "Magellanic Cloud Ltd"
+            SYM: "MCLOUD",
+            COM: "Magellanic Cloud Ltd"
         },
         {
-            "SYM": "OCTAL",
-            "COMPANY": "Octal Credit Capital Ltd"
+            SYM: "OCTAL",
+            COM: "Octal Credit Capital Ltd"
         },
         {
-            "SYM": "MIHIKA",
-            "COMPANY": "Mihika Industries Ltd"
+            SYM: "MIHIKA",
+            COM: "Mihika Industries Ltd"
         },
         {
-            "SYM": "KANCHI",
-            "COMPANY": "Kanchi Karpooram Ltd"
+            SYM: "KANCHI",
+            COM: "Kanchi Karpooram Ltd"
         },
         {
-            "SYM": "SHRINIWAS",
-            "COMPANY": "Shri Niwas Leasing And Finance Ltd"
+            SYM: "SHRINIWAS",
+            COM: "Shri Niwas Leasing And Finance Ltd"
         },
         {
-            "SYM": "DHUNTEAIND",
-            "COMPANY": "Dhunseri Tea & Industries Ltd"
+            SYM: "DHUNTEAIND",
+            COM: "Dhunseri Tea & Industries Ltd"
         },
         {
-            "SYM": "VANICOM",
-            "COMPANY": "Vani Commercials Ltd"
+            SYM: "VANICOM",
+            COM: "Vani Commercials Ltd"
         },
         {
-            "SYM": "SKILVEN",
-            "COMPANY": "Skyline Ventures India Ltd"
+            SYM: "SKILVEN",
+            COM: "Skyline Ventures India Ltd"
         },
         {
-            "SYM": "SPACEAGE",
-            "COMPANY": "Spaceage Products Ltd"
+            SYM: "SPACEAGE",
+            COM: "Spaceage Products Ltd"
         },
         {
-            "SYM": "RAFL",
-            "COMPANY": "Raghuvansh Agrofarms Ltd"
+            SYM: "RAFL",
+            COM: "Raghuvansh Agrofarms Ltd"
         },
         {
-            "SYM": "COSYN",
-            "COMPANY": "COSYN Ltd"
+            SYM: "COSYN",
+            COM: "COSYN Ltd"
         },
         {
-            "SYM": "SOFCOM",
-            "COMPANY": "Sofcom Systems Ltd"
+            SYM: "SOFCOM",
+            COM: "Sofcom Systems Ltd"
         },
         {
-            "SYM": "NAPL",
-            "COMPANY": "Naturite Agro Products Ltd"
+            SYM: "NAPL",
+            COM: "Naturite Agro Products Ltd"
         },
         {
-            "SYM": "KARNAVATI",
-            "COMPANY": "Karnavati Finance Ltd"
+            SYM: "KARNAVATI",
+            COM: "Karnavati Finance Ltd"
         },
         {
-            "SYM": "ABHIFIN",
-            "COMPANY": "Abhishek Finlease Ltd"
+            SYM: "ABHIFIN",
+            COM: "Abhishek Finlease Ltd"
         },
         {
-            "SYM": "MERCANTILE",
-            "COMPANY": "Mercantile Ventures Ltd"
+            SYM: "MERCANTILE",
+            COM: "Mercantile Ventures Ltd"
         },
         {
-            "SYM": "SONAL",
-            "COMPANY": "Sonal Mercantile Ltd"
+            SYM: "SONAL",
+            COM: "Sonal Mercantile Ltd"
         },
         {
-            "SYM": "ALFL",
-            "COMPANY": "Abhinav Leasing & Finance Ltd"
+            SYM: "ALFL",
+            COM: "Abhinav Leasing & Finance Ltd"
         },
         {
-            "SYM": "GENUSPAPER",
-            "COMPANY": "Genus Paper & Boards Ltd"
+            SYM: "GENUSPAPER",
+            COM: "Genus Paper & Boards Ltd"
         },
         {
-            "SYM": "MINDACORP",
-            "COMPANY": "Minda Corporation Ltd"
+            SYM: "MINDACORP",
+            COM: "Minda Corporation Ltd"
         },
         {
-            "SYM": "MERCURYLAB",
-            "COMPANY": "Mercury Laboratories Ltd"
+            SYM: "MERCURYLAB",
+            COM: "Mercury Laboratories Ltd"
         },
         {
-            "SYM": "CONCORD",
-            "COMPANY": "Concord Drugs Ltd"
+            SYM: "CONCORD",
+            COM: "Concord Drugs Ltd"
         },
         {
-            "SYM": "WARDINMOBI",
-            "COMPANY": "Wardwizard Innovations & Mobility Ltd"
+            SYM: "WARDINMOBI",
+            COM: "Wardwizard Innovations & Mobility Ltd"
         },
         {
-            "SYM": "SHREESEC",
-            "COMPANY": "Shree Securities Ltd"
+            SYM: "SHREESEC",
+            COM: "Shree Securities Ltd"
         },
         {
-            "SYM": "GRNLAMIND",
-            "COMPANY": "Greenlam Industries Ltd"
+            SYM: "GRNLAMIND",
+            COM: "Greenlam Industries Ltd"
         },
         {
-            "SYM": "TALBROSENG",
-            "COMPANY": "Talbros Engineering Ltd"
+            SYM: "TALBROSENG",
+            COM: "Talbros Engineering Ltd"
         },
         {
-            "SYM": "SAPL",
-            "COMPANY": "SAR Auto Products Ltd"
+            SYM: "SAPL",
+            COM: "SAR Auto Products Ltd"
         },
         {
-            "SYM": "PUROHITCON",
-            "COMPANY": "Purohit Construction Ltd"
+            SYM: "PUROHITCON",
+            COM: "Purohit Construction Ltd"
         },
         {
-            "SYM": "JAYATMA",
-            "COMPANY": "Jayatma Enterprises Ltd"
+            SYM: "JAYATMA",
+            COM: "Jayatma Enterprises Ltd"
         },
         {
-            "SYM": "PTCIL",
-            "COMPANY": "PTC Industries Ltd"
+            SYM: "PTCIL",
+            COM: "PTC Industries Ltd"
         },
         {
-            "SYM": "GBLIL",
-            "COMPANY": "GBL Industries Ltd"
+            SYM: "GBLIL",
+            COM: "GBL Industries Ltd"
         },
         {
-            "SYM": "CHENFERRO",
-            "COMPANY": "Chennai Ferrous Industries Ltd"
+            SYM: "CHENFERRO",
+            COM: "Chennai Ferrous Industries Ltd"
         },
         {
-            "SYM": "MEGRISOFT",
-            "COMPANY": "Megri Soft Ltd"
+            SYM: "MEGRISOFT",
+            COM: "Megri Soft Ltd"
         },
         {
-            "SYM": "GITARENEW",
-            "COMPANY": "Gita Renewable Energy Ltd"
+            SYM: "GITARENEW",
+            COM: "Gita Renewable Energy Ltd"
         },
         {
-            "SYM": "ORTEL",
-            "COMPANY": "Ortel Communications Ltd"
+            SYM: "ORTEL",
+            COM: "Ortel Communications Ltd"
         },
         {
-            "SYM": "NEIL",
-            "COMPANY": "Neil Industries Ltd"
+            SYM: "NEIL",
+            COM: "Neil Industries Ltd"
         },
         {
-            "SYM": "STARHFL",
-            "COMPANY": "Star Housing Finance Ltd"
+            SYM: "STARHFL",
+            COM: "Star Housing Finance Ltd"
         },
         {
-            "SYM": "BEEKAY",
-            "COMPANY": "Beekay Steel Industries Ltd"
+            SYM: "BEEKAY",
+            COM: "Beekay Steel Industries Ltd"
         },
         {
-            "SYM": "SSPNFIN",
-            "COMPANY": "SSPN Finance Ltd"
+            SYM: "SSPNFIN",
+            COM: "SSPN Finance Ltd"
         },
         {
-            "SYM": "SETFBSE100",
-            "COMPANY": "SBI Mutual Fund - SBI - ETF BSE 100"
+            SYM: "SETFBSE100",
+            COM: "SBI Mutual Fund - SBI - ETF BSE 100"
         },
         {
-            "SYM": "FRASER",
-            "COMPANY": "Fraser and Company Ltd"
+            SYM: "FRASER",
+            COM: "Fraser and Company Ltd"
         },
         {
-            "SYM": "TTIL",
-            "COMPANY": "Tirupati Tyres Ltd"
+            SYM: "TTIL",
+            COM: "Tirupati Tyres Ltd"
         },
         {
-            "SYM": "SVPHOUSING",
-            "COMPANY": "SVP Housing Ltd"
+            SYM: "SVPHOUSING",
+            COM: "SVP Housing Ltd"
         },
         {
-            "SYM": "AGIIL",
-            "COMPANY": "AGI Infra Ltd"
+            SYM: "AGIIL",
+            COM: "AGI Infra Ltd"
         },
         {
-            "SYM": "BKMINDST",
-            "COMPANY": "BKM Industries Ltd"
+            SYM: "BKMINDST",
+            COM: "BKM Industries Ltd"
         },
         {
-            "SYM": "MANAKSTELTD",
-            "COMPANY": "Manaksia Steels Ltd"
+            SYM: "MANAKSTELTD",
+            COM: "Manaksia Steels Ltd"
         },
         {
-            "SYM": "MNKALCOLTD",
-            "COMPANY": "Manaksia Aluminium Company Ltd"
+            SYM: "MNKALCOLTD",
+            COM: "Manaksia Aluminium Company Ltd"
         },
         {
-            "SYM": "MNKCMILTD",
-            "COMPANY": "Manaksia Coated Metals & Industries Ltd"
+            SYM: "MNKCMILTD",
+            COM: "Manaksia Coated Metals & Industries Ltd"
         },
         {
-            "SYM": "IMAGICAA",
-            "COMPANY": "Imagicaaworld Entertainment Ltd"
+            SYM: "IMAGICAA",
+            COM: "Imagicaaworld Entertainment Ltd"
         },
         {
-            "SYM": "INOXWIND",
-            "COMPANY": "Inox Wind Ltd"
+            SYM: "INOXWIND",
+            COM: "Inox Wind Ltd"
         },
         {
-            "SYM": "RAJPUTANA",
-            "COMPANY": "Rajputana Investment and Finance Ltd"
+            SYM: "RAJPUTANA",
+            COM: "Rajputana Investment and Finance Ltd"
         },
         {
-            "SYM": "CITL",
-            "COMPANY": "Consecutive Investment & Trading Company Ltd"
+            SYM: "CITL",
+            COM: "Consecutive Investment & Trading Company Ltd"
         },
         {
-            "SYM": "AANANDALAK",
-            "COMPANY": "Aananda Lakshmi Spinning Mills Ltd"
+            SYM: "AANANDALAK",
+            COM: "Aananda Lakshmi Spinning Mills Ltd"
         },
         {
-            "SYM": "HKG",
-            "COMPANY": "HKG Ltd"
+            SYM: "HKG",
+            COM: "HKG Ltd"
         },
         {
-            "SYM": "FILTRA",
-            "COMPANY": "Filtra Consultants and Engineers Ltd"
+            SYM: "FILTRA",
+            COM: "Filtra Consultants and Engineers Ltd"
         },
         {
-            "SYM": "ATHCON",
-            "COMPANY": "Athena Constructions Ltd"
+            SYM: "ATHCON",
+            COM: "Athena Constructions Ltd"
         },
         {
-            "SYM": "NORTHLINK",
-            "COMPANY": "Northlink Fiscal and Capital Services Ltd"
+            SYM: "NORTHLINK",
+            COM: "Northlink Fiscal and Capital Services Ltd"
         },
         {
-            "SYM": "SHESHAINDS",
-            "COMPANY": "Sheshadri Industries Ltd"
+            SYM: "SHESHAINDS",
+            COM: "Sheshadri Industries Ltd"
         },
         {
-            "SYM": "SAB",
-            "COMPANY": "SAB Industries Ltd"
+            SYM: "SAB",
+            COM: "SAB Industries Ltd"
         },
         {
-            "SYM": "PML",
-            "COMPANY": "Paul Merchants Ltd"
+            SYM: "PML",
+            COM: "Paul Merchants Ltd"
         },
         {
-            "SYM": "OPCHAINS",
-            "COMPANY": "O. P. Chains Ltd"
+            SYM: "OPCHAINS",
+            COM: "O. P. Chains Ltd"
         },
         {
-            "SYM": "SUJALA",
-            "COMPANY": "Sujala Trading & Holdings Ltd"
+            SYM: "SUJALA",
+            COM: "Sujala Trading & Holdings Ltd"
         },
         {
-            "SYM": "VRLLOG",
-            "COMPANY": "VRL Logistics Ltd"
+            SYM: "VRLLOG",
+            COM: "VRL Logistics Ltd"
         },
         {
-            "SYM": "JAINMARMO",
-            "COMPANY": "Jain Marmo Industries Ltd"
+            SYM: "JAINMARMO",
+            COM: "Jain Marmo Industries Ltd"
         },
         {
-            "SYM": "BFFL",
-            "COMPANY": "Bangalore Fort Farms Ltd"
+            SYM: "BFFL",
+            COM: "Bangalore Fort Farms Ltd"
         },
         {
-            "SYM": "PALCO",
-            "COMPANY": "Palco Metals Ltd"
+            SYM: "PALCO",
+            COM: "Palco Metals Ltd"
         },
         {
-            "SYM": "BODHTREE",
-            "COMPANY": "Bodhtree Consulting Ltd"
+            SYM: "BODHTREE",
+            COM: "Bodhtree Consulting Ltd"
         },
         {
-            "SYM": "SARVOTTAM",
-            "COMPANY": "Sarvottam Finvest Ltd"
+            SYM: "SARVOTTAM",
+            COM: "Sarvottam Finvest Ltd"
         },
         {
-            "SYM": "MEP",
-            "COMPANY": "MEP Infrastructure Developers Ltd"
+            SYM: "MEP",
+            COM: "MEP Infrastructure Developers Ltd"
         },
         {
-            "SYM": "VEGETABLE",
-            "COMPANY": "Vegetable Products Ltd"
+            SYM: "VEGETABLE",
+            COM: "Vegetable Products Ltd"
         },
         {
-            "SYM": "UFO",
-            "COMPANY": "UFO Moviez India Ltd"
+            SYM: "UFO",
+            COM: "UFO Moviez India Ltd"
         },
         {
-            "SYM": "NIFTYEES",
-            "COMPANY": "Edelweiss Mutual Fund - Edelweiss Exchange Traded Scheme - Nifty ( Nifty EES )"
+            SYM: "NIFTYEES",
+            COM: "Edelweiss Mutual Fund - Edelweiss Exchange Traded Scheme - Nifty ( Nifty EES )"
         },
         {
-            "SYM": "PANTH",
-            "COMPANY": "Panth Infinity Ltd"
+            SYM: "PANTH",
+            COM: "Panth Infinity Ltd"
         },
         {
-            "SYM": "SHIVALIK",
-            "COMPANY": "Shivalik Rasayan Ltd"
+            SYM: "SHIVALIK",
+            COM: "Shivalik Rasayan Ltd"
         },
         {
-            "SYM": "ICSL",
-            "COMPANY": "Integrated Capital Services Ltd"
+            SYM: "ICSL",
+            COM: "Integrated Capital Services Ltd"
         },
         {
-            "SYM": "PNCINFRA",
-            "COMPANY": "PNC Infratech Ltd"
+            SYM: "PNCINFRA",
+            COM: "PNC Infratech Ltd"
         },
         {
-            "SYM": "ARFIN",
-            "COMPANY": "Arfin India Ltd"
+            SYM: "ARFIN",
+            COM: "Arfin India Ltd"
         },
         {
-            "SYM": "HELPAGE",
-            "COMPANY": "Helpage Finlease Ltd"
+            SYM: "HELPAGE",
+            COM: "Helpage Finlease Ltd"
         },
         {
-            "SYM": "INDRAIND",
-            "COMPANY": "Indra Industries Ltd"
+            SYM: "INDRAIND",
+            COM: "Indra Industries Ltd"
         },
         {
-            "SYM": "HAWAENG",
-            "COMPANY": "Hawa Engineers Ltd"
+            SYM: "HAWAENG",
+            COM: "Hawa Engineers Ltd"
         },
         {
-            "SYM": "AIIL",
-            "COMPANY": "Authum Investment & Infrastructure Ltd"
+            SYM: "AIIL",
+            COM: "Authum Investment & Infrastructure Ltd"
         },
         {
-            "SYM": "POEL",
-            "COMPANY": "POCL Enterprises Ltd"
+            SYM: "POEL",
+            COM: "POCL Enterprises Ltd"
         },
         {
-            "SYM": "AEL",
-            "COMPANY": "Amba Enterprises Ltd"
+            SYM: "AEL",
+            COM: "Amba Enterprises Ltd"
         },
         {
-            "SYM": "DEVHARI",
-            "COMPANY": "Devhari Exports (India) Ltd"
+            SYM: "DEVHARI",
+            COM: "Devhari Exports (India) Ltd"
         },
         {
-            "SYM": "CAPFIN",
-            "COMPANY": "Capfin India Ltd"
+            SYM: "CAPFIN",
+            COM: "Capfin India Ltd"
         },
         {
-            "SYM": "MOONGIPASEC",
-            "COMPANY": "Moongipa Securities Ltd"
+            SYM: "MOONGIPASEC",
+            COM: "Moongipa Securities Ltd"
         },
         {
-            "SYM": "SATIA",
-            "COMPANY": "Satia Industries Ltd"
+            SYM: "SATIA",
+            COM: "Satia Industries Ltd"
         },
         {
-            "SYM": "GVBL",
-            "COMPANY": "Genomic Valley Biotech Ltd"
+            SYM: "GVBL",
+            COM: "Genomic Valley Biotech Ltd"
         },
         {
-            "SYM": "GARMNTMNTR",
-            "COMPANY": "Garment Mantra Lifestyle Ltd"
+            SYM: "GARMNTMNTR",
+            COM: "Garment Mantra Lifestyle Ltd"
         },
         {
-            "SYM": "SRESTHA",
-            "COMPANY": "Srestha Finvest Ltd"
+            SYM: "SRESTHA",
+            COM: "Srestha Finvest Ltd"
         },
         {
-            "SYM": "SAUMYA",
-            "COMPANY": "Saumya Consultants Ltd"
+            SYM: "SAUMYA",
+            COM: "Saumya Consultants Ltd"
         },
         {
-            "SYM": "MUL",
-            "COMPANY": "Mauria Udyog Ltd"
+            SYM: "MUL",
+            COM: "Mauria Udyog Ltd"
         },
         {
-            "SYM": "MISHKA",
-            "COMPANY": "Mishka Exim Ltd"
+            SYM: "MISHKA",
+            COM: "Mishka Exim Ltd"
         },
         {
-            "SYM": "SPORTKING",
-            "COMPANY": "Sportking India Ltd"
+            SYM: "SPORTKING",
+            COM: "Sportking India Ltd"
         },
         {
-            "SYM": "VMV",
-            "COMPANY": "VMV Holidays Ltd"
+            SYM: "VMV",
+            COM: "VMV Holidays Ltd"
         },
         {
-            "SYM": "AMBITION",
-            "COMPANY": "Ambition Mica Ltd"
+            SYM: "AMBITION",
+            COM: "Ambition Mica Ltd"
         },
         {
-            "SYM": "HCKKVENTURE",
-            "COMPANY": "HCKK Ventures Ltd"
+            SYM: "HCKKVENTURE",
+            COM: "HCKK Ventures Ltd"
         },
         {
-            "SYM": "JIYAECO",
-            "COMPANY": "Jiya Eco-Products Ltd"
+            SYM: "JIYAECO",
+            COM: "Jiya Eco-Products Ltd"
         },
         {
-            "SYM": "RUDRA",
-            "COMPANY": "Rudra Global Infra Products Ltd"
+            SYM: "RUDRA",
+            COM: "Rudra Global Infra Products Ltd"
         },
         {
-            "SYM": "LOYAL",
-            "COMPANY": "Loyal Equipments Ltd"
+            SYM: "LOYAL",
+            COM: "Loyal Equipments Ltd"
         },
         {
-            "SYM": "GGPL",
-            "COMPANY": "Gala Global Products Ltd"
+            SYM: "GGPL",
+            COM: "Gala Global Products Ltd"
         },
         {
-            "SYM": "MRSS",
-            "COMPANY": "Majestic Research Services and Solutions Ltd"
+            SYM: "MRSS",
+            COM: "Majestic Research Services and Solutions Ltd"
         },
         {
-            "SYM": "CHEMIESYNT",
-            "COMPANY": "Chemiesynth (Vapi) Ltd"
+            SYM: "CHEMIESYNT",
+            COM: "Chemiesynth (Vapi) Ltd"
         },
         {
-            "SYM": "GPL",
-            "COMPANY": "Grandeur Products Ltd"
+            SYM: "GPL",
+            COM: "Grandeur Products Ltd"
         },
         {
-            "SYM": "JEL",
-            "COMPANY": "Jyotirgamya Enterprises Ltd"
+            SYM: "JEL",
+            COM: "Jyotirgamya Enterprises Ltd"
         },
         {
-            "SYM": "BALKRISHNA",
-            "COMPANY": "Balkrishna Paper Mills Ltd"
+            SYM: "BALKRISHNA",
+            COM: "Balkrishna Paper Mills Ltd"
         },
         {
-            "SYM": "SCFL",
-            "COMPANY": "Shyam Century Ferrous Ltd"
+            SYM: "SCFL",
+            COM: "Shyam Century Ferrous Ltd"
         },
         {
-            "SYM": "SURYAINDIA",
-            "COMPANY": "Surya India Ltd"
+            SYM: "SURYAINDIA",
+            COM: "Surya India Ltd"
         },
         {
-            "SYM": "ADANITRANS",
-            "COMPANY": "Adani Transmission Ltd"
+            SYM: "ADANITRANS",
+            COM: "Adani Transmission Ltd"
         },
         {
-            "SYM": "STARDELTA",
-            "COMPANY": "Star Delta Transformers Ltd"
+            SYM: "STARDELTA",
+            COM: "Star Delta Transformers Ltd"
         },
         {
-            "SYM": "AMRAFIN",
-            "COMPANY": "Amrapali Fincap Ltd"
+            SYM: "AMRAFIN",
+            COM: "Amrapali Fincap Ltd"
         },
         {
-            "SYM": "DRHABEEB",
-            "COMPANY": "Dr Habeebullah Life Sciences Ltd"
+            SYM: "DRHABEEB",
+            COM: "Dr Habeebullah Life Sciences Ltd"
         },
         {
-            "SYM": "SYNGENE",
-            "COMPANY": "Syngene International Ltd"
+            SYM: "SYNGENE",
+            COM: "Syngene International Ltd"
         },
         {
-            "SYM": "PECOS",
-            "COMPANY": "Pecos Hotels and Pubs Ltd"
+            SYM: "PECOS",
+            COM: "Pecos Hotels and Pubs Ltd"
         },
         {
-            "SYM": "BLFL",
-            "COMPANY": "Boston Leasing and Finance Ltd"
+            SYM: "BLFL",
+            COM: "Boston Leasing and Finance Ltd"
         },
         {
-            "SYM": "MSL",
-            "COMPANY": "Mangalam Seeds Ltd"
+            SYM: "MSL",
+            COM: "Mangalam Seeds Ltd"
         },
         {
-            "SYM": "KAYA",
-            "COMPANY": "Kaya Ltd"
+            SYM: "KAYA",
+            COM: "Kaya Ltd"
         },
         {
-            "SYM": "ALSTONE",
-            "COMPANY": "Alstone Textiles (India) Ltd"
+            SYM: "ALSTONE",
+            COM: "Alstone Textiles (India) Ltd"
         },
         {
-            "SYM": "SYMBIOX",
-            "COMPANY": "Symbiox Investment & Trading Company Ltd"
+            SYM: "SYMBIOX",
+            COM: "Symbiox Investment & Trading Company Ltd"
         },
         {
-            "SYM": "ORTINLAABS",
-            "COMPANY": "Ortin Laboratories Ltd"
+            SYM: "ORTINLAABS",
+            COM: "Ortin Laboratories Ltd"
         },
         {
-            "SYM": "AVI",
-            "COMPANY": "AVI Polymers Ltd"
+            SYM: "AVI",
+            COM: "AVI Polymers Ltd"
         },
         {
-            "SYM": "MJCO",
-            "COMPANY": "Majesco Ltd"
+            SYM: "MJCO",
+            COM: "Majesco Ltd"
         },
         {
-            "SYM": "BINDALAGRO",
-            "COMPANY": "Oswal Greentech Ltd"
+            SYM: "BINDALAGRO",
+            COM: "Oswal Greentech Ltd"
         },
         {
-            "SYM": "OZONEWORLD",
-            "COMPANY": "Ozone World Ltd"
+            SYM: "OZONEWORLD",
+            COM: "Ozone World Ltd"
         },
         {
-            "SYM": "AKSPINTEX",
-            "COMPANY": "A.K. Spintex Ltd"
+            SYM: "AKSPINTEX",
+            COM: "A.K. Spintex Ltd"
         },
         {
-            "SYM": "ARVSMART",
-            "COMPANY": "Arvind SmartSpaces Ltd"
+            SYM: "ARVSMART",
+            COM: "Arvind SmartSpaces Ltd"
         },
         {
-            "SYM": "POWERMECH",
-            "COMPANY": "Power Mech Projects Ltd"
+            SYM: "POWERMECH",
+            COM: "Power Mech Projects Ltd"
         },
         {
-            "SYM": "RAMASTEEL",
-            "COMPANY": "Rama Steel Tubes Ltd"
+            SYM: "RAMASTEEL",
+            COM: "Rama Steel Tubes Ltd"
         },
         {
-            "SYM": "THINKINK",
-            "COMPANY": "Thinkink Picturez Ltd"
+            SYM: "THINKINK",
+            COM: "Thinkink Picturez Ltd"
         },
         {
-            "SYM": "UTISENSETF",
-            "COMPANY": "UTI- SENSEX ETF"
+            SYM: "UTISENSETF",
+            COM: "UTI- SENSEX ETF"
         },
         {
-            "SYM": "UTINIFTETF",
-            "COMPANY": "UTI NIFTY ETF"
+            SYM: "UTINIFTETF",
+            COM: "UTI NIFTY ETF"
         },
         {
-            "SYM": "UNIAUTO",
-            "COMPANY": "Universal Autofoundry Ltd"
+            SYM: "UNIAUTO",
+            COM: "Universal Autofoundry Ltd"
         },
         {
-            "SYM": "VETO",
-            "COMPANY": "Veto Switchgears and Cables Ltd"
+            SYM: "VETO",
+            COM: "Veto Switchgears and Cables Ltd"
         },
         {
-            "SYM": "NAVKARCORP",
-            "COMPANY": "Navkar Corporation Ltd"
+            SYM: "NAVKARCORP",
+            COM: "Navkar Corporation Ltd"
         },
         {
-            "SYM": "SHREEPUSHK",
-            "COMPANY": "Shree Pushkar Chemicals & Fertilisers Ltd"
+            SYM: "SHREEPUSHK",
+            COM: "Shree Pushkar Chemicals & Fertilisers Ltd"
         },
         {
-            "SYM": "GUJGAS",
-            "COMPANY": "Gujarat Gas Ltd"
+            SYM: "GUJGAS",
+            COM: "Gujarat Gas Ltd"
         },
         {
-            "SYM": "WAAREE",
-            "COMPANY": "Waaree Technologies Ltd"
+            SYM: "WAAREE",
+            COM: "Waaree Technologies Ltd"
         },
         {
-            "SYM": "SADBHIN",
-            "COMPANY": "Sadbhav Infrastructure Project Ltd"
+            SYM: "SADBHIN",
+            COM: "Sadbhav Infrastructure Project Ltd"
         },
         {
-            "SYM": "SALAUTO",
-            "COMPANY": "Sal Automotive Ltd"
+            SYM: "SALAUTO",
+            COM: "Sal Automotive Ltd"
         },
         {
-            "SYM": "POLYSPIN",
-            "COMPANY": "Polyspin Exports Ltd"
+            SYM: "POLYSPIN",
+            COM: "Polyspin Exports Ltd"
         },
         {
-            "SYM": "PRITIKAUTO",
-            "COMPANY": "Pritika Auto Industries Ltd"
+            SYM: "PRITIKAUTO",
+            COM: "Pritika Auto Industries Ltd"
         },
         {
-            "SYM": "SKC",
-            "COMPANY": "Sri Krishna Constructions (India) Ltd"
+            SYM: "SKC",
+            COM: "Sri Krishna Constructions (India) Ltd"
         },
         {
-            "SYM": "SML",
-            "COMPANY": "Soni Medicare Ltd"
+            SYM: "SML",
+            COM: "Soni Medicare Ltd"
         },
         {
-            "SYM": "MINFY",
-            "COMPANY": "Mahaveer Infoway Ltd"
+            SYM: "MINFY",
+            COM: "Mahaveer Infoway Ltd"
         },
         {
-            "SYM": "KRISHNACAP",
-            "COMPANY": "Krishna Capital and Securities Ltd"
+            SYM: "KRISHNACAP",
+            COM: "Krishna Capital and Securities Ltd"
         },
         {
-            "SYM": "ACME",
-            "COMPANY": "Acme Resources Ltd"
+            SYM: "ACME",
+            COM: "Acme Resources Ltd"
         },
         {
-            "SYM": "KCL",
-            "COMPANY": "Kabra Commercial Ltd"
+            SYM: "KCL",
+            COM: "Kabra Commercial Ltd"
         },
         {
-            "SYM": "VISHALBL",
-            "COMPANY": "Vishal Bearings Ltd"
+            SYM: "VISHALBL",
+            COM: "Vishal Bearings Ltd"
         },
         {
-            "SYM": "BELLACASA",
-            "COMPANY": "Bella Casa Fashion & Retail Ltd"
+            SYM: "BELLACASA",
+            COM: "Bella Casa Fashion & Retail Ltd"
         },
         {
-            "SYM": "MALLCOM",
-            "COMPANY": "Mallcom (India) Ltd"
+            SYM: "MALLCOM",
+            COM: "Mallcom (India) Ltd"
         },
         {
-            "SYM": "PJL",
-            "COMPANY": "Patdiam Jewellery Ltd"
+            SYM: "PJL",
+            COM: "Patdiam Jewellery Ltd"
         },
         {
-            "SYM": "VAL",
-            "COMPANY": "Vaksons Automobiles Ltd"
+            SYM: "VAL",
+            COM: "Vaksons Automobiles Ltd"
         },
         {
-            "SYM": "ARAMBHAN",
-            "COMPANY": "Arambhan Hospitality Services Ltd"
+            SYM: "ARAMBHAN",
+            COM: "Arambhan Hospitality Services Ltd"
         },
         {
-            "SYM": "SATIN",
-            "COMPANY": "Satin Creditcare Network Ltd"
+            SYM: "SATIN",
+            COM: "Satin Creditcare Network Ltd"
         },
         {
-            "SYM": "DITCO",
-            "COMPANY": "Decorous Investment & Trading Co Ltd"
+            SYM: "DITCO",
+            COM: "Decorous Investment & Trading Co Ltd"
         },
         {
-            "SYM": "SWAGTAM",
-            "COMPANY": "Swagtam Trading & Services Ltd"
+            SYM: "SWAGTAM",
+            COM: "Swagtam Trading & Services Ltd"
         },
         {
-            "SYM": "GENCON",
-            "COMPANY": "Generic Engineering Construction and Projects Ltd"
+            SYM: "GENCON",
+            COM: "Generic Engineering Construction and Projects Ltd"
         },
         {
-            "SYM": "KUBERJI",
-            "COMPANY": "Kuber Udyog Ltd"
+            SYM: "KUBERJI",
+            COM: "Kuber Udyog Ltd"
         },
         {
-            "SYM": "NEERAJ",
-            "COMPANY": "Neeraj Paper Marketing Ltd"
+            SYM: "NEERAJ",
+            COM: "Neeraj Paper Marketing Ltd"
         },
         {
-            "SYM": "MUZALI",
-            "COMPANY": "Muzali Arts Ltd"
+            SYM: "MUZALI",
+            COM: "Muzali Arts Ltd"
         },
         {
-            "SYM": "TEJNAKSH",
-            "COMPANY": "Tejnaksh Healthcare Ltd"
+            SYM: "TEJNAKSH",
+            COM: "Tejnaksh Healthcare Ltd"
         },
         {
-            "SYM": "INDOGLOBAL",
-            "COMPANY": "Indo-Global Enterprises Ltd"
+            SYM: "INDOGLOBAL",
+            COM: "Indo-Global Enterprises Ltd"
         },
         {
-            "SYM": "BRIPORT",
-            "COMPANY": "Brilliant Portfolios Ltd"
+            SYM: "BRIPORT",
+            COM: "Brilliant Portfolios Ltd"
         },
         {
-            "SYM": "RFSL",
-            "COMPANY": "Richfield Financial Services Ltd"
+            SYM: "RFSL",
+            COM: "Richfield Financial Services Ltd"
         },
         {
-            "SYM": "COFFEEDAY",
-            "COMPANY": "Coffee Day Enterprises Ltd"
+            SYM: "COFFEEDAY",
+            COM: "Coffee Day Enterprises Ltd"
         },
         {
-            "SYM": "IDFCFIRSTB",
-            "COMPANY": "IDFC First Bank Ltd"
+            SYM: "IDFCFIRSTB",
+            COM: "IDFC First Bank Ltd"
         },
         {
-            "SYM": "BEARDSELL",
-            "COMPANY": "Beardsell Ltd"
+            SYM: "BEARDSELL",
+            COM: "Beardsell Ltd"
         },
         {
-            "SYM": "INDIGO",
-            "COMPANY": "InterGlobe Aviation Ltd"
+            SYM: "INDIGO",
+            COM: "InterGlobe Aviation Ltd"
         },
         {
-            "SYM": "IGCIL",
-            "COMPANY": "IGC Industries Ltd"
+            SYM: "IGCIL",
+            COM: "IGC Industries Ltd"
         },
         {
-            "SYM": "SHK",
-            "COMPANY": "S H Kelkar and Company Ltd"
+            SYM: "SHK",
+            COM: "S H Kelkar and Company Ltd"
         },
         {
-            "SYM": "ARYAVAN",
-            "COMPANY": "Aryavan Enterprise Ltd"
+            SYM: "ARYAVAN",
+            COM: "Aryavan Enterprise Ltd"
         },
         {
-            "SYM": "TFSL",
-            "COMPANY": "Typhoon Financial Services Ltd"
+            SYM: "TFSL",
+            COM: "Typhoon Financial Services Ltd"
         },
         {
-            "SYM": "PANORAMA",
-            "COMPANY": "Panorama Studios International Ltd"
+            SYM: "PANORAMA",
+            COM: "Panorama Studios International Ltd"
         },
         {
-            "SYM": "SHREEGANES",
-            "COMPANY": "Shree Ganesh Biotech (India) Ltd"
+            SYM: "SHREEGANES",
+            COM: "Shree Ganesh Biotech (India) Ltd"
         },
         {
-            "SYM": "GTV",
-            "COMPANY": "GTV Engineering Ltd"
+            SYM: "GTV",
+            COM: "GTV Engineering Ltd"
         },
         {
-            "SYM": "LICNETFN50",
-            "COMPANY": "LIC MF EXCHANGE TRADED FUND- NIFTY 50"
+            SYM: "LICNETFN50",
+            COM: "LIC MF EXCHANGE TRADED FUND- NIFTY 50"
         },
         {
-            "SYM": "PARIKSHA",
-            "COMPANY": "Pariksha Fin- Invest- Lease Ltd"
+            SYM: "PARIKSHA",
+            COM: "Pariksha Fin- Invest- Lease Ltd"
         },
         {
-            "SYM": "LICNETFSEN",
-            "COMPANY": "LIC MF EXCHANGE TRADED FUND- SENSEX"
+            SYM: "LICNETFSEN",
+            COM: "LIC MF EXCHANGE TRADED FUND- SENSEX"
         },
         {
-            "SYM": "TFLL",
-            "COMPANY": "Tirupati Finlease Ltd"
+            SYM: "TFLL",
+            COM: "Tirupati Finlease Ltd"
         },
         {
-            "SYM": "GARBIFIN",
-            "COMPANY": "Garbi Finvest Ltd"
+            SYM: "GARBIFIN",
+            COM: "Garbi Finvest Ltd"
         },
         {
-            "SYM": "ADHARSHILA",
-            "COMPANY": "Adharshila Capital Services Ltd"
+            SYM: "ADHARSHILA",
+            COM: "Adharshila Capital Services Ltd"
         },
         {
-            "SYM": "SMARTFIN",
-            "COMPANY": "Smart Finsec Ltd"
+            SYM: "SMARTFIN",
+            COM: "Smart Finsec Ltd"
         },
         {
-            "SYM": "RAJKOTINV",
-            "COMPANY": "Rajkot Investment Trust Ltd"
+            SYM: "RAJKOTINV",
+            COM: "Rajkot Investment Trust Ltd"
         },
         {
-            "SYM": "ADCON",
-            "COMPANY": "Adcon Capital Services Ltd"
+            SYM: "ADCON",
+            COM: "Adcon Capital Services Ltd"
         },
         {
-            "SYM": "QUINT",
-            "COMPANY": "Quint Digital Media Ltd"
+            SYM: "QUINT",
+            COM: "Quint Digital Media Ltd"
         },
         {
-            "SYM": "HDFCNIFETF",
-            "COMPANY": "HDFC Nifty ETF"
+            SYM: "HDFCNIFETF",
+            COM: "HDFC Nifty ETF"
         },
         {
-            "SYM": "SXETF",
-            "COMPANY": "HDFC Sensex ETF - Open Ended Traded Fund"
+            SYM: "SXETF",
+            COM: "HDFC Sensex ETF - Open Ended Traded Fund"
         },
         {
-            "SYM": "UDAYJEW",
-            "COMPANY": "Uday Jewellery Industries Ltd"
+            SYM: "UDAYJEW",
+            COM: "Uday Jewellery Industries Ltd"
         },
         {
-            "SYM": "MAYUKH",
-            "COMPANY": "Mayukh Dealtrade Ltd"
+            SYM: "MAYUKH",
+            COM: "Mayukh Dealtrade Ltd"
         },
         {
-            "SYM": "NAVIGANT",
-            "COMPANY": "Navigant Corporate Advisors Ltd"
+            SYM: "NAVIGANT",
+            COM: "Navigant Corporate Advisors Ltd"
         },
         {
-            "SYM": "GROVY",
-            "COMPANY": "Grovy India Ltd"
+            SYM: "GROVY",
+            COM: "Grovy India Ltd"
         },
         {
-            "SYM": "ALKEM",
-            "COMPANY": "Alkem Laboratories Ltd"
+            SYM: "ALKEM",
+            COM: "Alkem Laboratories Ltd"
         },
         {
-            "SYM": "LALPATHLAB",
-            "COMPANY": "Dr. Lal PathLabs Ltd"
+            SYM: "LALPATHLAB",
+            COM: "Dr. Lal PathLabs Ltd"
         },
         {
-            "SYM": "NAVKETAN",
-            "COMPANY": "Navketan Merchants Ltd"
+            SYM: "NAVKETAN",
+            COM: "Navketan Merchants Ltd"
         },
         {
-            "SYM": "SCTL",
-            "COMPANY": "Suncare Traders Ltd"
+            SYM: "SCTL",
+            COM: "Suncare Traders Ltd"
         },
         {
-            "SYM": "CREATIVE",
-            "COMPANY": "Creative Castings Ltd"
+            SYM: "CREATIVE",
+            COM: "Creative Castings Ltd"
         },
         {
-            "SYM": "AAYUSH",
-            "COMPANY": "Aayush Food and Herbs Ltd"
+            SYM: "AAYUSH",
+            COM: "Aayush Food and Herbs Ltd"
         },
         {
-            "SYM": "ELITECON",
-            "COMPANY": "Elitecon International Ltd"
+            SYM: "ELITECON",
+            COM: "Elitecon International Ltd"
         },
         {
-            "SYM": "LUXIND",
-            "COMPANY": "Lux Industries Ltd"
+            SYM: "LUXIND",
+            COM: "Lux Industries Ltd"
         },
         {
-            "SYM": "VALLEY",
-            "COMPANY": "Valley Magnesite Company Ltd"
+            SYM: "VALLEY",
+            COM: "Valley Magnesite Company Ltd"
         },
         {
-            "SYM": "ABHIINFRA",
-            "COMPANY": "Abhishek Infraventures Ltd"
+            SYM: "ABHIINFRA",
+            COM: "Abhishek Infraventures Ltd"
         },
         {
-            "SYM": "BNL",
-            "COMPANY": "Beekay Niryat Ltd"
+            SYM: "BNL",
+            COM: "Beekay Niryat Ltd"
         },
         {
-            "SYM": "NH",
-            "COMPANY": "Narayana Hrudayalaya Ltd"
+            SYM: "NH",
+            COM: "Narayana Hrudayalaya Ltd"
         },
         {
-            "SYM": "FMEC",
-            "COMPANY": "F Mec International Financial Services Ltd"
+            SYM: "FMEC",
+            COM: "F Mec International Financial Services Ltd"
         },
         {
-            "SYM": "DDIL",
-            "COMPANY": "Deep Diamond India Ltd"
+            SYM: "DDIL",
+            COM: "Deep Diamond India Ltd"
         },
         {
-            "SYM": "ABHIJIT",
-            "COMPANY": "Abhijit Trading Company Ltd"
+            SYM: "ABHIJIT",
+            COM: "Abhijit Trading Company Ltd"
         },
         {
-            "SYM": "REMLIFE",
-            "COMPANY": "Remedium Lifecare Ltd"
+            SYM: "REMLIFE",
+            COM: "Remedium Lifecare Ltd"
         },
         {
-            "SYM": "AARNAV",
-            "COMPANY": "Aarnav Fashions Ltd"
+            SYM: "AARNAV",
+            COM: "Aarnav Fashions Ltd"
         },
         {
-            "SYM": "ACEWIN",
-            "COMPANY": "Acewin Agriteck Ltd"
+            SYM: "ACEWIN",
+            COM: "Acewin Agriteck Ltd"
         },
         {
-            "SYM": "SCL",
-            "COMPANY": "Sunshine Capital Ltd"
+            SYM: "SCL",
+            COM: "Sunshine Capital Ltd"
         },
         {
-            "SYM": "SIPTL",
-            "COMPANY": "Sharanam Infraproject and Trading Ltd"
+            SYM: "SIPTL",
+            COM: "Sharanam Infraproject and Trading Ltd"
         },
         {
-            "SYM": "SHIVA",
-            "COMPANY": "Shivansh Finserve Ltd"
+            SYM: "SHIVA",
+            COM: "Shivansh Finserve Ltd"
         },
         {
-            "SYM": "MISHTANN",
-            "COMPANY": "Mishtann Foods Ltd"
+            SYM: "MISHTANN",
+            COM: "Mishtann Foods Ltd"
         },
         {
-            "SYM": "DELTA",
-            "COMPANY": "Delta Industrial Resources Ltd"
+            SYM: "DELTA",
+            COM: "Delta Industrial Resources Ltd"
         },
         {
-            "SYM": "JSLHISAR",
-            "COMPANY": "Jindal Stainless (Hisar) Ltd"
+            SYM: "JSLHISAR",
+            COM: "Jindal Stainless (Hisar) Ltd"
         },
         {
-            "SYM": "ORACLECR",
-            "COMPANY": "Oracle Credit Ltd"
+            SYM: "ORACLECR",
+            COM: "Oracle Credit Ltd"
         },
         {
-            "SYM": "KEL",
-            "COMPANY": "Kotia Enterprises Ltd"
+            SYM: "KEL",
+            COM: "Kotia Enterprises Ltd"
         },
         {
-            "SYM": "CHAMAK",
-            "COMPANY": "Chamak Holdings Ltd"
+            SYM: "CHAMAK",
+            COM: "Chamak Holdings Ltd"
         },
         {
-            "SYM": "BLUECLOUDS",
-            "COMPANY": "Blue Cloud Softech Solutions Ltd"
+            SYM: "BLUECLOUDS",
+            COM: "Blue Cloud Softech Solutions Ltd"
         },
         {
-            "SYM": "AINFRA",
-            "COMPANY": "A Infrastructure Ltd"
+            SYM: "AINFRA",
+            COM: "A Infrastructure Ltd"
         },
         {
-            "SYM": "BCLENTERPR",
-            "COMPANY": "BCL Enterprises Ltd"
+            SYM: "BCLENTERPR",
+            COM: "BCL Enterprises Ltd"
         },
         {
-            "SYM": "AARCOM",
-            "COMPANY": "AAR Commercial Company Ltd"
+            SYM: "AARCOM",
+            COM: "AAR Commercial Company Ltd"
         },
         {
-            "SYM": "PRECAM",
-            "COMPANY": "Precision Camshafts Ltd"
+            SYM: "PRECAM",
+            COM: "Precision Camshafts Ltd"
         },
         {
-            "SYM": "BVL",
-            "COMPANY": "Blueblood Ventures Ltd"
+            SYM: "BVL",
+            COM: "Blueblood Ventures Ltd"
         },
         {
-            "SYM": "TEAMLEASE",
-            "COMPANY": "TeamLease Services Ltd"
+            SYM: "TEAMLEASE",
+            COM: "TeamLease Services Ltd"
         },
         {
-            "SYM": "VIDLI",
-            "COMPANY": "Vidli Restaurants Ltd"
+            SYM: "VIDLI",
+            COM: "Vidli Restaurants Ltd"
         },
         {
-            "SYM": "BESTAGRO",
-            "COMPANY": "Best Agrolife Ltd"
+            SYM: "BESTAGRO",
+            COM: "Best Agrolife Ltd"
         },
         {
-            "SYM": "ACEMEN",
-            "COMPANY": "Ace Men Engg Works Ltd"
+            SYM: "ACEMEN",
+            COM: "Ace Men Engg Works Ltd"
         },
         {
-            "SYM": "BFLAFL",
-            "COMPANY": "BFL Asset Finvest Ltd"
+            SYM: "BFLAFL",
+            COM: "BFL Asset Finvest Ltd"
         },
         {
-            "SYM": "RCL",
-            "COMPANY": "Radhagobind Commercial Ltd"
+            SYM: "RCL",
+            COM: "Radhagobind Commercial Ltd"
         },
         {
-            "SYM": "QUICKHEAL",
-            "COMPANY": "Quick Heal Technologies Ltd"
+            SYM: "QUICKHEAL",
+            COM: "Quick Heal Technologies Ltd"
         },
         {
-            "SYM": "KAPILRAJ",
-            "COMPANY": "Kapil Raj Finance Ltd"
+            SYM: "KAPILRAJ",
+            COM: "Kapil Raj Finance Ltd"
         },
         {
-            "SYM": "GANGAPHARM",
-            "COMPANY": "Ganga Pharmaceuticals Ltd"
+            SYM: "GANGAPHARM",
+            COM: "Ganga Pharmaceuticals Ltd"
         },
         {
-            "SYM": "DAL",
-            "COMPANY": "Dynamic Archistructures Ltd"
+            SYM: "DAL",
+            COM: "Dynamic Archistructures Ltd"
         },
         {
-            "SYM": "SESL",
-            "COMPANY": "Sylph Education Solutions Ltd"
+            SYM: "SESL",
+            COM: "Sylph Education Solutions Ltd"
         },
         {
-            "SYM": "SHIVKAMAL",
-            "COMPANY": "Shivkamal Impex Ltd"
+            SYM: "SHIVKAMAL",
+            COM: "Shivkamal Impex Ltd"
         },
         {
-            "SYM": "KPEL",
-            "COMPANY": "K.P. Energy Ltd"
+            SYM: "KPEL",
+            COM: "K.P. Energy Ltd"
         },
         {
-            "SYM": "IFINSER",
-            "COMPANY": "Interactive Financial Services Ltd"
+            SYM: "IFINSER",
+            COM: "Interactive Financial Services Ltd"
         },
         {
-            "SYM": "HILIKS",
-            "COMPANY": "Hiliks Technologies Ltd"
+            SYM: "HILIKS",
+            COM: "Hiliks Technologies Ltd"
         },
         {
-            "SYM": "HYPERSOFT",
-            "COMPANY": "Hypersoft Technologies Ltd"
+            SYM: "HYPERSOFT",
+            COM: "Hypersoft Technologies Ltd"
         },
         {
-            "SYM": "GOKULAGRO",
-            "COMPANY": "Gokul Agro Resources Ltd"
+            SYM: "GOKULAGRO",
+            COM: "Gokul Agro Resources Ltd"
         },
         {
-            "SYM": "FREDUN",
-            "COMPANY": "Fredun Pharmaceuticals Ltd"
+            SYM: "FREDUN",
+            COM: "Fredun Pharmaceuticals Ltd"
         },
         {
-            "SYM": "SIMBHALS",
-            "COMPANY": "Simbhaoli Sugars Ltd"
+            SYM: "SIMBHALS",
+            COM: "Simbhaoli Sugars Ltd"
         },
         {
-            "SYM": "RELICAB",
-            "COMPANY": "Relicab Cable Manufacturing Ltd"
+            SYM: "RELICAB",
+            COM: "Relicab Cable Manufacturing Ltd"
         },
         {
-            "SYM": "MODCL",
-            "COMPANY": "Modern Converters Ltd"
+            SYM: "MODCL",
+            COM: "Modern Converters Ltd"
         },
         {
-            "SYM": "MNIL",
-            "COMPANY": "Mega Nirman and Industries Ltd"
+            SYM: "MNIL",
+            COM: "Mega Nirman and Industries Ltd"
         },
         {
-            "SYM": "DARJEELING",
-            "COMPANY": "Darjeeling Ropeway Company Ltd"
+            SYM: "DARJEELING",
+            COM: "Darjeeling Ropeway Company Ltd"
         },
         {
-            "SYM": "ADVIKCA",
-            "COMPANY": "Advik Capital Ltd"
+            SYM: "ADVIKCA",
+            COM: "Advik Capital Ltd"
         },
         {
-            "SYM": "LICNFNHGP",
-            "COMPANY": "LIC MF Exchange Traded Fund- NIFTY 100"
+            SYM: "LICNFNHGP",
+            COM: "LIC MF Exchange Traded Fund- NIFTY 100"
         },
         {
-            "SYM": "PDMJEPAPER",
-            "COMPANY": "Pudumjee Paper Products Ltd"
+            SYM: "PDMJEPAPER",
+            COM: "Pudumjee Paper Products Ltd"
         },
         {
-            "SYM": "HCG",
-            "COMPANY": "HealthCare Global Enterprises Ltd"
+            SYM: "HCG",
+            COM: "HealthCare Global Enterprises Ltd"
         },
         {
-            "SYM": "KDML",
-            "COMPANY": "Khemani Distributors & Marketing Ltd"
+            SYM: "KDML",
+            COM: "Khemani Distributors & Marketing Ltd"
         },
         {
-            "SYM": "UMIYA",
-            "COMPANY": "Umiya Tubes Ltd"
+            SYM: "UMIYA",
+            COM: "Umiya Tubes Ltd"
         },
         {
-            "SYM": "BHARATWIRE",
-            "COMPANY": "Bharat Wire Ropes Ltd"
+            SYM: "BHARATWIRE",
+            COM: "Bharat Wire Ropes Ltd"
         },
         {
-            "SYM": "CHDCHEM",
-            "COMPANY": "CHD Chemicals Ltd"
+            SYM: "CHDCHEM",
+            COM: "CHD Chemicals Ltd"
         },
         {
-            "SYM": "INFIBEAM",
-            "COMPANY": "Infibeam Avenues Ltd"
+            SYM: "INFIBEAM",
+            COM: "Infibeam Avenues Ltd"
         },
         {
-            "SYM": "LELAVOIR",
-            "COMPANY": "LE Lavoir Ltd"
+            SYM: "LELAVOIR",
+            COM: "LE Lavoir Ltd"
         },
         {
-            "SYM": "MUDRA",
-            "COMPANY": "Mudra Financial Services Ltd"
+            SYM: "MUDRA",
+            COM: "Mudra Financial Services Ltd"
         },
         {
-            "SYM": "SICLTD",
-            "COMPANY": "Shivom Investment & Consultancy Ltd"
+            SYM: "SICLTD",
+            COM: "Shivom Investment & Consultancy Ltd"
         },
         {
-            "SYM": "BALGOPAL",
-            "COMPANY": "Balgopal Commercial Ltd"
+            SYM: "BALGOPAL",
+            COM: "Balgopal Commercial Ltd"
         },
         {
-            "SYM": "SUPERIOR",
-            "COMPANY": "Superior Finlease Ltd"
+            SYM: "SUPERIOR",
+            COM: "Superior Finlease Ltd"
         },
         {
-            "SYM": "RPEL",
-            "COMPANY": "Raghav Productivity Enhancers Ltd"
+            SYM: "RPEL",
+            COM: "Raghav Productivity Enhancers Ltd"
         },
         {
-            "SYM": "FRANKLIN",
-            "COMPANY": "Franklin Leasing and Finance Ltd"
+            SYM: "FRANKLIN",
+            COM: "Franklin Leasing and Finance Ltd"
         },
         {
-            "SYM": "LANCER",
-            "COMPANY": "Lancer Container Lines Ltd"
+            SYM: "LANCER",
+            COM: "Lancer Container Lines Ltd"
         },
         {
-            "SYM": "NINSYS",
-            "COMPANY": "NINtec Systems Ltd"
+            SYM: "NINSYS",
+            COM: "NINtec Systems Ltd"
         },
         {
-            "SYM": "EQUITAS",
-            "COMPANY": "Equitas Holdings Ltd"
+            SYM: "EQUITAS",
+            COM: "Equitas Holdings Ltd"
         },
         {
-            "SYM": "HALDER",
-            "COMPANY": "Halder Venture Ltd"
+            SYM: "HALDER",
+            COM: "Halder Venture Ltd"
         },
         {
-            "SYM": "SKIL",
-            "COMPANY": "SKIL Infrastructure Ltd"
+            SYM: "SKIL",
+            COM: "SKIL Infrastructure Ltd"
         },
         {
-            "SYM": "THYROCARE",
-            "COMPANY": "Thyrocare Technologies Ltd"
+            SYM: "THYROCARE",
+            COM: "Thyrocare Technologies Ltd"
         },
         {
-            "SYM": "BAJAJHCARE",
-            "COMPANY": "Bajaj Healthcare Ltd"
+            SYM: "BAJAJHCARE",
+            COM: "Bajaj Healthcare Ltd"
         },
         {
-            "SYM": "UJJIVAN",
-            "COMPANY": "Ujjivan Financial Services Ltd"
+            SYM: "UJJIVAN",
+            COM: "Ujjivan Financial Services Ltd"
         },
         {
-            "SYM": "RSDFIN",
-            "COMPANY": "RSD Finance Ltd"
+            SYM: "RSDFIN",
+            COM: "RSD Finance Ltd"
         },
         {
-            "SYM": "CROMPTON",
-            "COMPANY": "Crompton Greaves Consumer Electricals Ltd"
+            SYM: "CROMPTON",
+            COM: "Crompton Greaves Consumer Electricals Ltd"
         },
         {
-            "SYM": "PILANIINVS",
-            "COMPANY": "Pilani Investment and Industries Corporation Ltd"
+            SYM: "PILANIINVS",
+            COM: "Pilani Investment and Industries Corporation Ltd"
         },
         {
-            "SYM": "DARSHANORNA",
-            "COMPANY": "Darshan Orna Ltd"
+            SYM: "DARSHANORNA",
+            COM: "Darshan Orna Ltd"
         },
         {
-            "SYM": "PARAGMILK",
-            "COMPANY": "Parag Milk Foods Ltd"
+            SYM: "PARAGMILK",
+            COM: "Parag Milk Foods Ltd"
         },
         {
-            "SYM": "MADHAVIPL",
-            "COMPANY": "Madhav Infra Projects Ltd"
+            SYM: "MADHAVIPL",
+            COM: "Madhav Infra Projects Ltd"
         },
         {
-            "SYM": "SAGL",
-            "COMPANY": "Shalimar Agencies Ltd"
+            SYM: "SAGL",
+            COM: "Shalimar Agencies Ltd"
         },
         {
-            "SYM": "LATENT",
-            "COMPANY": "Latent Light Finance Ltd"
+            SYM: "LATENT",
+            COM: "Latent Light Finance Ltd"
         },
         {
-            "SYM": "KOCL",
-            "COMPANY": "Kome-On Communication Ltd"
+            SYM: "KOCL",
+            COM: "Kome-On Communication Ltd"
         },
         {
-            "SYM": "NAGARFERT",
-            "COMPANY": "Nagarjuna Fertilizers and Chemicals Ltd"
+            SYM: "NAGARFERT",
+            COM: "Nagarjuna Fertilizers and Chemicals Ltd"
         },
         {
-            "SYM": "SEIL",
-            "COMPANY": "Shanti Educational Initiatives Ltd"
+            SYM: "SEIL",
+            COM: "Shanti Educational Initiatives Ltd"
         },
         {
-            "SYM": "RGIL",
-            "COMPANY": "Rotographics (India) Ltd"
+            SYM: "RGIL",
+            COM: "Rotographics (India) Ltd"
         },
         {
-            "SYM": "LIKHAMI",
-            "COMPANY": "Likhami Consulting Ltd"
+            SYM: "LIKHAMI",
+            COM: "Likhami Consulting Ltd"
         },
         {
-            "SYM": "MIL",
-            "COMPANY": "Medico Intercontinental Ltd"
+            SYM: "MIL",
+            COM: "Medico Intercontinental Ltd"
         },
         {
-            "SYM": "YASHCHEM",
-            "COMPANY": "Yash Chemex Ltd"
+            SYM: "YASHCHEM",
+            COM: "Yash Chemex Ltd"
         },
         {
-            "SYM": "MAXVIL",
-            "COMPANY": "Max Ventures and Industries Ltd"
+            SYM: "MAXVIL",
+            COM: "Max Ventures and Industries Ltd"
         },
         {
-            "SYM": "ICICINV20",
-            "COMPANY": "ICICI Prudential NV20 ETF"
+            SYM: "ICICINV20",
+            COM: "ICICI Prudential NV20 ETF"
         },
         {
-            "SYM": "BAZELINTER",
-            "COMPANY": "Bazel International Ltd"
+            SYM: "BAZELINTER",
+            COM: "Bazel International Ltd"
         },
         {
-            "SYM": "JLL",
-            "COMPANY": "Jindal Leasefin Ltd"
+            SYM: "JLL",
+            COM: "Jindal Leasefin Ltd"
         },
         {
-            "SYM": "TAALENT",
-            "COMPANY": "TAAL Enterprises Ltd"
+            SYM: "TAALENT",
+            COM: "TAAL Enterprises Ltd"
         },
         {
-            "SYM": "MGL",
-            "COMPANY": "Mahanagar Gas Ltd"
+            SYM: "MGL",
+            COM: "Mahanagar Gas Ltd"
         },
         {
-            "SYM": "ZEAL",
-            "COMPANY": "Zeal Aqua Ltd"
+            SYM: "ZEAL",
+            COM: "Zeal Aqua Ltd"
         },
         {
-            "SYM": "QUESS",
-            "COMPANY": "Quess Corp Ltd"
+            SYM: "QUESS",
+            COM: "Quess Corp Ltd"
         },
         {
-            "SYM": "ICICIMCAP",
-            "COMPANY": "ICICI Prudential Midcap Select ETF"
+            SYM: "ICICIMCAP",
+            COM: "ICICI Prudential Midcap Select ETF"
         },
         {
-            "SYM": "ASYL",
-            "COMPANY": "Advance Syntex Ltd"
+            SYM: "ASYL",
+            COM: "Advance Syntex Ltd"
         },
         {
-            "SYM": "HUIL",
-            "COMPANY": "Hindusthan Urban Infrastructure Ltd"
+            SYM: "HUIL",
+            COM: "Hindusthan Urban Infrastructure Ltd"
         },
         {
-            "SYM": "TITAANIUM",
-            "COMPANY": "Titaanium Ten Enterprise Ltd"
+            SYM: "TITAANIUM",
+            COM: "Titaanium Ten Enterprise Ltd"
         },
         {
-            "SYM": "COMSYN",
-            "COMPANY": "Commercial Syn Bags Ltd"
+            SYM: "COMSYN",
+            COM: "Commercial Syn Bags Ltd"
         },
         {
-            "SYM": "CFEL",
-            "COMPANY": "Confidence Futuristic Energetech Ltd"
+            SYM: "CFEL",
+            COM: "Confidence Futuristic Energetech Ltd"
         },
         {
-            "SYM": "LLOYDSTEEL",
-            "COMPANY": "Lloyds Steels Industries Ltd"
+            SYM: "LLOYDSTEEL",
+            COM: "Lloyds Steels Industries Ltd"
         },
         {
-            "SYM": "KPL",
-            "COMPANY": "Kwality Pharmaceuticals Ltd"
+            SYM: "KPL",
+            COM: "Kwality Pharmaceuticals Ltd"
         },
         {
-            "SYM": "LTI",
-            "COMPANY": "Larsen & Toubro Infotech Ltd"
+            SYM: "LTI",
+            COM: "Larsen & Toubro Infotech Ltd"
         },
         {
-            "SYM": "EASTWEST",
-            "COMPANY": "East West Holdings Ltd"
+            SYM: "EASTWEST",
+            COM: "East West Holdings Ltd"
         },
         {
-            "SYM": "BSLSENETFG",
-            "COMPANY": "BIRLA SUN LIFE SENSEX ETF"
+            SYM: "BSLSENETFG",
+            COM: "BIRLA SUN LIFE SENSEX ETF"
         },
         {
-            "SYM": "COLORCHIPS",
-            "COMPANY": "Colorchips New Media Ltd"
+            SYM: "COLORCHIPS",
+            COM: "Colorchips New Media Ltd"
         },
         {
-            "SYM": "ADVENZYMES",
-            "COMPANY": "Advanced Enzyme Technologies Ltd"
+            SYM: "ADVENZYMES",
+            COM: "Advanced Enzyme Technologies Ltd"
         },
         {
-            "SYM": "LAHL",
-            "COMPANY": "Ladam Affordable Housing Ltd"
+            SYM: "LAHL",
+            COM: "Ladam Affordable Housing Ltd"
         },
         {
-            "SYM": "PTIL",
-            "COMPANY": "Prabhat Technologies (India) Ltd"
+            SYM: "PTIL",
+            COM: "Prabhat Technologies (India) Ltd"
         },
         {
-            "SYM": "DBL",
-            "COMPANY": "Dilip Buildcon Ltd"
+            SYM: "DBL",
+            COM: "Dilip Buildcon Ltd"
         },
         {
-            "SYM": "SPAL",
-            "COMPANY": "S.P. Apparels Ltd"
+            SYM: "SPAL",
+            COM: "S.P. Apparels Ltd"
         },
         {
-            "SYM": "BIGBLOC",
-            "COMPANY": "Bigbloc Construction Ltd"
+            SYM: "BIGBLOC",
+            COM: "Bigbloc Construction Ltd"
         },
         {
-            "SYM": "GOLDENCREST",
-            "COMPANY": "Golden Crest Education & Services Ltd"
+            SYM: "GOLDENCREST",
+            COM: "Golden Crest Education & Services Ltd"
         },
         {
-            "SYM": "ECS",
-            "COMPANY": "ECS Biztech Ltd"
+            SYM: "ECS",
+            COM: "ECS Biztech Ltd"
         },
         {
-            "SYM": "FRETAIL",
-            "COMPANY": "Future Retail Ltd"
+            SYM: "FRETAIL",
+            COM: "Future Retail Ltd"
         },
         {
-            "SYM": "RBLBANK",
-            "COMPANY": "RBL Bank Ltd"
+            SYM: "RBLBANK",
+            COM: "RBL Bank Ltd"
         },
         {
-            "SYM": "AMS",
-            "COMPANY": "AMS Polymers Ltd"
+            SYM: "AMS",
+            COM: "AMS Polymers Ltd"
         },
         {
-            "SYM": "SHIVAEXPO",
-            "COMPANY": "Shiva Granito Export Ltd"
+            SYM: "SHIVAEXPO",
+            COM: "Shiva Granito Export Ltd"
         },
         {
-            "SYM": "BLS",
-            "COMPANY": "BLS International Services Ltd"
+            SYM: "BLS",
+            COM: "BLS International Services Ltd"
         },
         {
-            "SYM": "MITSU",
-            "COMPANY": "Mitsu Chem Plast Ltd"
+            SYM: "MITSU",
+            COM: "Mitsu Chem Plast Ltd"
         },
         {
-            "SYM": "SPRAYKING",
-            "COMPANY": "Sprayking Agro Equipment Ltd"
+            SYM: "SPRAYKING",
+            COM: "Sprayking Agro Equipment Ltd"
         },
         {
-            "SYM": "NARAYANI",
-            "COMPANY": "Narayani Steels Ltd"
+            SYM: "NARAYANI",
+            COM: "Narayani Steels Ltd"
         },
         {
-            "SYM": "GOVNOW",
-            "COMPANY": "SAB Events & Governance Now Media Ltd"
+            SYM: "GOVNOW",
+            COM: "SAB Events & Governance Now Media Ltd"
         },
         {
-            "SYM": "RSTL",
-            "COMPANY": "Riddhi Steel and Tube Ltd"
+            SYM: "RSTL",
+            COM: "Riddhi Steel and Tube Ltd"
         },
         {
-            "SYM": "TVVISION",
-            "COMPANY": "TV Vision Ltd"
+            SYM: "TVVISION",
+            COM: "TV Vision Ltd"
         },
         {
-            "SYM": "SPICY",
-            "COMPANY": "Spicy Entertainment and Media Ltd"
+            SYM: "SPICY",
+            COM: "Spicy Entertainment and Media Ltd"
         },
         {
-            "SYM": "VISCO",
-            "COMPANY": "Visco Trade Associates Ltd"
+            SYM: "VISCO",
+            COM: "Visco Trade Associates Ltd"
         },
         {
-            "SYM": "TIAANC",
-            "COMPANY": "Tiaan Consumer Ltd"
+            SYM: "TIAANC",
+            COM: "Tiaan Consumer Ltd"
         },
         {
-            "SYM": "LTTS",
-            "COMPANY": "L&T Technology Services Ltd"
+            SYM: "LTTS",
+            COM: "L&T Technology Services Ltd"
         },
         {
-            "SYM": "GNA",
-            "COMPANY": "G N A Axles Ltd"
+            SYM: "GNA",
+            COM: "G N A Axles Ltd"
         },
         {
-            "SYM": "RADHIKAJWE",
-            "COMPANY": "Radhika Jeweltech Ltd"
+            SYM: "RADHIKAJWE",
+            COM: "Radhika Jeweltech Ltd"
         },
         {
-            "SYM": "SIIL",
-            "COMPANY": "Sabrimala Industries India Ltd"
+            SYM: "SIIL",
+            COM: "Sabrimala Industries India Ltd"
         },
         {
-            "SYM": "ICICIPRULI",
-            "COMPANY": "ICICI Prudential Life Insurance Company Ltd"
+            SYM: "ICICIPRULI",
+            COM: "ICICI Prudential Life Insurance Company Ltd"
         },
         {
-            "SYM": "IISL",
-            "COMPANY": "Ishaan Infrastructures and Shelters Ltd"
+            SYM: "IISL",
+            COM: "Ishaan Infrastructures and Shelters Ltd"
         },
         {
-            "SYM": "ARCFIN",
-            "COMPANY": "ARC Finance Ltd"
+            SYM: "ARCFIN",
+            COM: "ARC Finance Ltd"
         },
         {
-            "SYM": "HPL",
-            "COMPANY": "HPL Electric & Power Ltd"
+            SYM: "HPL",
+            COM: "HPL Electric & Power Ltd"
         },
         {
-            "SYM": "SAGARSOFT",
-            "COMPANY": "Sagarsoft (India) Ltd"
+            SYM: "SAGARSOFT",
+            COM: "Sagarsoft (India) Ltd"
         },
         {
-            "SYM": "DRA",
-            "COMPANY": "DRA Consultants Ltd"
+            SYM: "DRA",
+            COM: "DRA Consultants Ltd"
         },
         {
-            "SYM": "VALIANTORG",
-            "COMPANY": "Valiant Organics Ltd"
+            SYM: "VALIANTORG",
+            COM: "Valiant Organics Ltd"
         },
         {
-            "SYM": "ACML",
-            "COMPANY": "Aditya Consumer Marketing Ltd"
+            SYM: "ACML",
+            COM: "Aditya Consumer Marketing Ltd"
         },
         {
-            "SYM": "SHASHIJIT",
-            "COMPANY": "Shashijit Infraprojects Ltd"
+            SYM: "SHASHIJIT",
+            COM: "Shashijit Infraprojects Ltd"
         },
         {
-            "SYM": "BINDALEXPO",
-            "COMPANY": "Bindal Exports Ltd"
+            SYM: "BINDALEXPO",
+            COM: "Bindal Exports Ltd"
         },
         {
-            "SYM": "MHEL",
-            "COMPANY": "Mewar Hi-Tech Engineering Ltd"
+            SYM: "MHEL",
+            COM: "Mewar Hi-Tech Engineering Ltd"
         },
         {
-            "SYM": "DIKSAT",
-            "COMPANY": "Diksat Transworld Ltd"
+            SYM: "DIKSAT",
+            COM: "Diksat Transworld Ltd"
         },
         {
-            "SYM": "IGRL",
-            "COMPANY": "India Green Reality Ltd"
+            SYM: "IGRL",
+            COM: "India Green Reality Ltd"
         },
         {
-            "SYM": "ENDURANCE",
-            "COMPANY": "Endurance Technologies Ltd"
+            SYM: "ENDURANCE",
+            COM: "Endurance Technologies Ltd"
         },
         {
-            "SYM": "IDFSENSEXE",
-            "COMPANY": "IDFC SENSEX ETF"
+            SYM: "IDFSENSEXE",
+            COM: "IDFC SENSEX ETF"
         },
         {
-            "SYM": "PURPLE",
-            "COMPANY": "Purple Entertainment Ltd"
+            SYM: "PURPLE",
+            COM: "Purple Entertainment Ltd"
         },
         {
-            "SYM": "SUPRAP",
-            "COMPANY": "Supra Pacific Management Consultancy Ltd"
+            SYM: "SUPRAP",
+            COM: "Supra Pacific Management Consultancy Ltd"
         },
         {
-            "SYM": "PNBHOUSING",
-            "COMPANY": "PNB Housing Finance Ltd"
+            SYM: "PNBHOUSING",
+            COM: "PNB Housing Finance Ltd"
         },
         {
-            "SYM": "SOUTHERNIN",
-            "COMPANY": "Southern Infosys Ltd"
+            SYM: "SOUTHERNIN",
+            COM: "Southern Infosys Ltd"
         },
         {
-            "SYM": "REGENCY",
-            "COMPANY": "Regency Fincorp Ltd"
+            SYM: "REGENCY",
+            COM: "Regency Fincorp Ltd"
         },
         {
-            "SYM": "VBL",
-            "COMPANY": "Varun Beverages Ltd"
+            SYM: "VBL",
+            COM: "Varun Beverages Ltd"
         },
         {
-            "SYM": "SALEM",
-            "COMPANY": "Salem Erode Investments Ltd"
+            SYM: "SALEM",
+            COM: "Salem Erode Investments Ltd"
         },
         {
-            "SYM": "FRANKLININD",
-            "COMPANY": "Franklin Industries Ltd"
+            SYM: "FRANKLININD",
+            COM: "Franklin Industries Ltd"
         },
         {
-            "SYM": "LKPSEC",
-            "COMPANY": "LKP Securities Ltd"
+            SYM: "LKPSEC",
+            COM: "LKP Securities Ltd"
         },
         {
-            "SYM": "OSIAJEE",
-            "COMPANY": "Osiajee Texfab Ltd"
+            SYM: "OSIAJEE",
+            COM: "Osiajee Texfab Ltd"
         },
         {
-            "SYM": "CMBL",
-            "COMPANY": "Corporate Merchant Bankers Ltd"
+            SYM: "CMBL",
+            COM: "Corporate Merchant Bankers Ltd"
         },
         {
-            "SYM": "SFL",
-            "COMPANY": "Sheela Foam Ltd"
+            SYM: "SFL",
+            COM: "Sheela Foam Ltd"
         },
         {
-            "SYM": "NIDL",
-            "COMPANY": "Narendra Investments (Delhi) Ltd"
+            SYM: "NIDL",
+            COM: "Narendra Investments (Delhi) Ltd"
         },
         {
-            "SYM": "AVL",
-            "COMPANY": "Aditya Vision Ltd"
+            SYM: "AVL",
+            COM: "Aditya Vision Ltd"
         },
         {
-            "SYM": "TMRVL",
-            "COMPANY": "The Mandhana Retail Ventures Ltd"
+            SYM: "TMRVL",
+            COM: "The Mandhana Retail Ventures Ltd"
         },
         {
-            "SYM": "SIFL",
-            "COMPANY": "Sparkling (India) Finshares Ltd"
+            SYM: "SIFL",
+            COM: "Sparkling (India) Finshares Ltd"
         },
         {
-            "SYM": "TCIEXP",
-            "COMPANY": "TCI Express Ltd"
+            SYM: "TCIEXP",
+            COM: "TCI Express Ltd"
         },
         {
-            "SYM": "SHASHANK",
-            "COMPANY": "Shashank Traders Ltd"
+            SYM: "SHASHANK",
+            COM: "Shashank Traders Ltd"
         },
         {
-            "SYM": "LAURUSLABS",
-            "COMPANY": "Laurus Labs Ltd"
+            SYM: "LAURUSLABS",
+            COM: "Laurus Labs Ltd"
         },
         {
-            "SYM": "NEWLIGHT",
-            "COMPANY": "New Light Apparels Ltd"
+            SYM: "NEWLIGHT",
+            COM: "New Light Apparels Ltd"
         },
         {
-            "SYM": "VSL",
-            "COMPANY": "Veeram Securities Ltd"
+            SYM: "VSL",
+            COM: "Veeram Securities Ltd"
         },
         {
-            "SYM": "SNTCL",
-            "COMPANY": "Shree Nidhi Trading Co. Ltd"
+            SYM: "SNTCL",
+            COM: "Shree Nidhi Trading Co. Ltd"
         },
         {
-            "SYM": "MTPL",
-            "COMPANY": "Marg Techno Projects Ltd"
+            SYM: "MTPL",
+            COM: "Marg Techno Projects Ltd"
         },
         {
-            "SYM": "SHANGAR",
-            "COMPANY": "Shangar Decor Ltd"
+            SYM: "SHANGAR",
+            COM: "Shangar Decor Ltd"
         },
         {
-            "SYM": "GLCL",
-            "COMPANY": "Globe Commercials Ltd"
+            SYM: "GLCL",
+            COM: "Globe Commercials Ltd"
         },
         {
-            "SYM": "DHANVARSHA",
-            "COMPANY": "Dhanvarsha Finvest Ltd"
+            SYM: "DHANVARSHA",
+            COM: "Dhanvarsha Finvest Ltd"
         },
         {
-            "SYM": "SKL",
-            "COMPANY": "Super Fine Knitters Ltd"
+            SYM: "SKL",
+            COM: "Super Fine Knitters Ltd"
         },
         {
-            "SYM": "RAIDEEPIND",
-            "COMPANY": "Raideep Industries Ltd"
+            SYM: "RAIDEEPIND",
+            COM: "Raideep Industries Ltd"
         },
         {
-            "SYM": "PRICOLLTD",
-            "COMPANY": "Pricol Ltd"
+            SYM: "PRICOLLTD",
+            COM: "Pricol Ltd"
         },
         {
-            "SYM": "CFL",
-            "COMPANY": "Classic Filaments Ltd"
+            SYM: "CFL",
+            COM: "Classic Filaments Ltd"
         },
         {
-            "SYM": "JITFINFRA",
-            "COMPANY": "JITF Infralogistics Ltd"
+            SYM: "JITFINFRA",
+            COM: "JITF Infralogistics Ltd"
         },
         {
-            "SYM": "SUERYAAKNI",
-            "COMPANY": "Sueryaa Knitwear Ltd"
+            SYM: "SUERYAAKNI",
+            COM: "Sueryaa Knitwear Ltd"
         },
         {
-            "SYM": "TANVI",
-            "COMPANY": "Tanvi Foods (India) Ltd"
+            SYM: "TANVI",
+            COM: "Tanvi Foods (India) Ltd"
         },
         {
-            "SYM": "RMC",
-            "COMPANY": "RMC Switchgears Ltd"
+            SYM: "RMC",
+            COM: "RMC Switchgears Ltd"
         },
         {
-            "SYM": "PARMAX",
-            "COMPANY": "Parmax Pharma Ltd"
+            SYM: "PARMAX",
+            COM: "Parmax Pharma Ltd"
         },
         {
-            "SYM": "LLFICL",
-            "COMPANY": "Leading Leasing Finance And Investment Company Ltd"
+            SYM: "LLFICL",
+            COM: "Leading Leasing Finance And Investment Company Ltd"
         },
         {
-            "SYM": "DANUBE",
-            "COMPANY": "Danube Industries Ltd"
+            SYM: "DANUBE",
+            COM: "Danube Industries Ltd"
         },
         {
-            "SYM": "RADIOCITY",
-            "COMPANY": "Music Broadcast Ltd"
+            SYM: "RADIOCITY",
+            COM: "Music Broadcast Ltd"
         },
         {
-            "SYM": "DMART",
-            "COMPANY": "Avenue Supermarts Ltd"
+            SYM: "DMART",
+            COM: "Avenue Supermarts Ltd"
         },
         {
-            "SYM": "IFL",
-            "COMPANY": "IFL Enterprises Ltd"
+            SYM: "IFL",
+            COM: "IFL Enterprises Ltd"
         },
         {
-            "SYM": "KDLL",
-            "COMPANY": "KD Leisures Ltd"
+            SYM: "KDLL",
+            COM: "KD Leisures Ltd"
         },
         {
-            "SYM": "ONTIC",
-            "COMPANY": "Ontic Finserve Ltd"
+            SYM: "ONTIC",
+            COM: "Ontic Finserve Ltd"
         },
         {
-            "SYM": "SMLT",
-            "COMPANY": "Sarthak Metals Ltd"
+            SYM: "SMLT",
+            COM: "Sarthak Metals Ltd"
         },
         {
-            "SYM": "CHEMCRUX",
-            "COMPANY": "Chemcrux Enterprises Ltd"
+            SYM: "CHEMCRUX",
+            COM: "Chemcrux Enterprises Ltd"
         },
         {
-            "SYM": "MANOMAY",
-            "COMPANY": "Manomay Tex India Ltd"
+            SYM: "MANOMAY",
+            COM: "Manomay Tex India Ltd"
         },
         {
-            "SYM": "MAXIMUS",
-            "COMPANY": "Maximus International Ltd"
+            SYM: "MAXIMUS",
+            COM: "Maximus International Ltd"
         },
         {
-            "SYM": "MANAS",
-            "COMPANY": "Manas Properties Ltd"
+            SYM: "MANAS",
+            COM: "Manas Properties Ltd"
         },
         {
-            "SYM": "CLEDUCATE",
-            "COMPANY": "CL Educate Ltd"
+            SYM: "CLEDUCATE",
+            COM: "CL Educate Ltd"
         },
         {
-            "SYM": "PRIMEFRESH",
-            "COMPANY": "Prime Fresh Ltd"
+            SYM: "PRIMEFRESH",
+            COM: "Prime Fresh Ltd"
         },
         {
-            "SYM": "OCEANIC",
-            "COMPANY": "Oceanic Foods Ltd"
+            SYM: "OCEANIC",
+            COM: "Oceanic Foods Ltd"
         },
         {
-            "SYM": "OCTAWARE",
-            "COMPANY": "Octaware Technologies Ltd"
+            SYM: "OCTAWARE",
+            COM: "Octaware Technologies Ltd"
         },
         {
-            "SYM": "SHANKARA",
-            "COMPANY": "Shankara Building Products Ltd"
+            SYM: "SHANKARA",
+            COM: "Shankara Building Products Ltd"
         },
         {
-            "SYM": "ESCORP",
-            "COMPANY": "Escorp Asset Management Ltd"
+            SYM: "ESCORP",
+            COM: "Escorp Asset Management Ltd"
         },
         {
-            "SYM": "PARMSILK",
-            "COMPANY": "Parmeshwari Silk Mills Ltd"
+            SYM: "PARMSILK",
+            COM: "Parmeshwari Silk Mills Ltd"
         },
         {
-            "SYM": "KMSMEDI",
-            "COMPANY": "KMS Medisurgi Ltd"
+            SYM: "KMSMEDI",
+            COM: "KMS Medisurgi Ltd"
         },
         {
-            "SYM": "CLFL",
-            "COMPANY": "Classic Leasing & Finance Ltd"
+            SYM: "CLFL",
+            COM: "Classic Leasing & Finance Ltd"
         },
         {
-            "SYM": "STARLENT",
-            "COMPANY": "Starlineps Enterprises Ltd"
+            SYM: "STARLENT",
+            COM: "Starlineps Enterprises Ltd"
         },
         {
-            "SYM": "SCHAND",
-            "COMPANY": "S Chand and Company Ltd"
+            SYM: "SCHAND",
+            COM: "S Chand and Company Ltd"
         },
         {
-            "SYM": "KANUNGO",
-            "COMPANY": "Kanungo Financiers Ltd"
+            SYM: "KANUNGO",
+            COM: "Kanungo Financiers Ltd"
         },
         {
-            "SYM": "MEERA",
-            "COMPANY": "Meera Industries Ltd"
+            SYM: "MEERA",
+            COM: "Meera Industries Ltd"
         },
         {
-            "SYM": "HUDCO",
-            "COMPANY": "Housing & Urban Development Corporation Ltd"
+            SYM: "HUDCO",
+            COM: "Housing & Urban Development Corporation Ltd"
         },
         {
-            "SYM": "PSPPROJECT",
-            "COMPANY": "PSP Projects Ltd"
+            SYM: "PSPPROJECT",
+            COM: "PSP Projects Ltd"
         },
         {
-            "SYM": "BGJL",
-            "COMPANY": "Bhakti Gems and Jewellery Ltd"
+            SYM: "BGJL",
+            COM: "Bhakti Gems and Jewellery Ltd"
         },
         {
-            "SYM": "YUG",
-            "COMPANY": "Yug Decor Ltd"
+            SYM: "YUG",
+            COM: "Yug Decor Ltd"
         },
         {
-            "SYM": "AXISAEDGG",
-            "COMPANY": "Axis Equity Advantage Fund- Series 1 Direct Plan- Growth"
+            SYM: "AXISAEDGG",
+            COM: "Axis Equity Advantage Fund- Series 1 Direct Plan- Growth"
         },
         {
-            "SYM": "AXISAEGPG",
-            "COMPANY": "Axis Equity Advantage Fund- Series 1 Regular Plan- Growth"
+            SYM: "AXISAEGPG",
+            COM: "Axis Equity Advantage Fund- Series 1 Regular Plan- Growth"
         },
         {
-            "SYM": "VARIMAN",
-            "COMPANY": "Variman Global Enterprises Ltd"
+            SYM: "VARIMAN",
+            COM: "Variman Global Enterprises Ltd"
         },
         {
-            "SYM": "STARCEMENT",
-            "COMPANY": "Star Cement Ltd"
+            SYM: "STARCEMENT",
+            COM: "Star Cement Ltd"
         },
         {
-            "SYM": "RIDDHICORP",
-            "COMPANY": "Riddhi Corporate Services Ltd"
+            SYM: "RIDDHICORP",
+            COM: "Riddhi Corporate Services Ltd"
         },
         {
-            "SYM": "HEOFDG1126",
-            "COMPANY": "HDFC EOF- II- 1126D May 2017(1)  plan under HDFC Equity Opportunities Fund- Series 2- Direct"
+            SYM: "HEOFDG1126",
+            COM: "HDFC EOF- II- 1126D May 2017(1)  plan under HDFC Equity Opportunities Fund- Series 2- Direct"
         },
         {
-            "SYM": "HEOFDD1126",
-            "COMPANY": "HDFC EOF - II - 1126D May 2017(1)  plan under HDFC Equity Opportunities Fund - Series 2 - Direct"
+            SYM: "HEOFDD1126",
+            COM: "HDFC EOF - II - 1126D May 2017(1)  plan under HDFC Equity Opportunities Fund - Series 2 - Direct"
         },
         {
-            "SYM": "HEOFRG1126",
-            "COMPANY": "HDFC EOF- II - 1126D May 2017(1) plan under HDFC Equity Opportunities Fund - Series2 - Regular"
+            SYM: "HEOFRG1126",
+            COM: "HDFC EOF- II - 1126D May 2017(1) plan under HDFC Equity Opportunities Fund - Series2 - Regular"
         },
         {
-            "SYM": "HEOFRD1126",
-            "COMPANY": "HDFC EOF - II - 1126D May 2017(1)  plan under HDFC Equity Opportunities Fund - Series 2 - Regular"
+            SYM: "HEOFRD1126",
+            COM: "HDFC EOF - II - 1126D May 2017(1)  plan under HDFC Equity Opportunities Fund - Series 2 - Regular"
         },
         {
-            "SYM": "TEJASNET",
-            "COMPANY": "Tejas Networks Ltd"
+            SYM: "TEJASNET",
+            COM: "Tejas Networks Ltd"
         },
         {
-            "SYM": "ERIS",
-            "COMPANY": "Eris Lifesciences Ltd"
+            SYM: "ERIS",
+            COM: "Eris Lifesciences Ltd"
         },
         {
-            "SYM": "GTPL",
-            "COMPANY": "GTPL Hathway Ltd"
+            SYM: "GTPL",
+            COM: "GTPL Hathway Ltd"
         },
         {
-            "SYM": "AUBANK",
-            "COMPANY": "AU Small Finance Bank Ltd"
+            SYM: "AUBANK",
+            COM: "AU Small Finance Bank Ltd"
         },
         {
-            "SYM": "ICICILOVOL",
-            "COMPANY": "ICICI Prudential Nifty Low Vol 30 ETF"
+            SYM: "ICICILOVOL",
+            COM: "ICICI Prudential Nifty Low Vol 30 ETF"
         },
         {
-            "SYM": "GEL",
-            "COMPANY": "Gautam Exim Ltd"
+            SYM: "GEL",
+            COM: "Gautam Exim Ltd"
         },
         {
-            "SYM": "GGENG",
-            "COMPANY": "G G Engineering Ltd"
+            SYM: "GGENG",
+            COM: "G G Engineering Ltd"
         },
         {
-            "SYM": "7NR",
-            "COMPANY": "7NR Retail Ltd"
+            SYM: "7NR",
+            COM: "7NR Retail Ltd"
         },
         {
-            "SYM": "BHAGYAPROP",
-            "COMPANY": "Bhagyanagar Properties Ltd"
+            SYM: "BHAGYAPROP",
+            COM: "Bhagyanagar Properties Ltd"
         },
         {
-            "SYM": "HEOFDG1100",
-            "COMPANY": "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-DIRECT OPTION-GROWTH OPTION"
+            SYM: "HEOFDG1100",
+            COM: "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-DIRECT OPTION-GROWTH OPTION"
         },
         {
-            "SYM": "HEOFDD1100",
-            "COMPANY": "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-DIRECT OPTION-DIVIDEND PAYOUT OPTION"
+            SYM: "HEOFDD1100",
+            COM: "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-DIRECT OPTION-DIVIDEND PAYOUT OPTION"
         },
         {
-            "SYM": "HEOFRG1100",
-            "COMPANY": "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-REGULAR OPTION-GROWTH OPTION"
+            SYM: "HEOFRG1100",
+            COM: "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-REGULAR OPTION-GROWTH OPTION"
         },
         {
-            "SYM": "HEOFRD1100",
-            "COMPANY": "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-REGULAR OPTION-DIVIDEND PAYOUT OPTION"
+            SYM: "HEOFRD1100",
+            COM: "HDFC EQUITY OPPORTUNITIES FUND-II-1100D JUNE 2017(1) SERIES 2-REGULAR OPTION-DIVIDEND PAYOUT OPTION"
         },
         {
-            "SYM": "SALASAR",
-            "COMPANY": "Salasar Techno Engineering Ltd"
+            SYM: "SALASAR",
+            COM: "Salasar Techno Engineering Ltd"
         },
         {
-            "SYM": "GANGESSEC",
-            "COMPANY": "Ganges Securities Ltd"
+            SYM: "GANGESSEC",
+            COM: "Ganges Securities Ltd"
         },
         {
-            "SYM": "PALASHSEC",
-            "COMPANY": "Palash Securities Ltd"
+            SYM: "PALASHSEC",
+            COM: "Palash Securities Ltd"
         },
         {
-            "SYM": "AVADHSUGAR",
-            "COMPANY": "Avadh Sugar & Energy Ltd"
+            SYM: "AVADHSUGAR",
+            COM: "Avadh Sugar & Energy Ltd"
         },
         {
-            "SYM": "MAGADHSUGAR",
-            "COMPANY": "Magadh Sugar & Energy Ltd"
+            SYM: "MAGADHSUGAR",
+            COM: "Magadh Sugar & Energy Ltd"
         },
         {
-            "SYM": "JIGAR",
-            "COMPANY": "Jigar Cables Ltd"
+            SYM: "JIGAR",
+            COM: "Jigar Cables Ltd"
         },
         {
-            "SYM": "CTCL",
-            "COMPANY": "Captain Technocast Ltd"
+            SYM: "CTCL",
+            COM: "Captain Technocast Ltd"
         },
         {
-            "SYM": "SINTEXPLAST",
-            "COMPANY": "Sintex Plastics Technology Ltd"
+            SYM: "SINTEXPLAST",
+            COM: "Sintex Plastics Technology Ltd"
         },
         {
-            "SYM": "GSTL",
-            "COMPANY": "Globalspace Technologies Ltd"
+            SYM: "GSTL",
+            COM: "Globalspace Technologies Ltd"
         },
         {
-            "SYM": "UTINEXT50",
-            "COMPANY": "UTI Nifty Next 50 ETF"
+            SYM: "UTINEXT50",
+            COM: "UTI Nifty Next 50 ETF"
         },
         {
-            "SYM": "SIS",
-            "COMPANY": "SIS Ltd"
+            SYM: "SIS",
+            COM: "SIS Ltd"
         },
         {
-            "SYM": "COCHINSHIP",
-            "COMPANY": "Cochin Shipyard Ltd"
+            SYM: "COCHINSHIP",
+            COM: "Cochin Shipyard Ltd"
         },
         {
-            "SYM": "SMSLIFE",
-            "COMPANY": "SMS Lifesciences India Ltd"
+            SYM: "SMSLIFE",
+            COM: "SMS Lifesciences India Ltd"
         },
         {
-            "SYM": "KIOCL",
-            "COMPANY": "KIOCL Ltd"
+            SYM: "KIOCL",
+            COM: "KIOCL Ltd"
         },
         {
-            "SYM": "CHOTHANI",
-            "COMPANY": "Chothani Foods Ltd"
+            SYM: "CHOTHANI",
+            COM: "Chothani Foods Ltd"
         },
         {
-            "SYM": "SMRUTHIORG",
-            "COMPANY": "Smruthi Organics Ltd"
+            SYM: "SMRUTHIORG",
+            COM: "Smruthi Organics Ltd"
         },
         {
-            "SYM": "ABCAPITAL",
-            "COMPANY": "Aditya Birla Capital Ltd"
+            SYM: "ABCAPITAL",
+            COM: "Aditya Birla Capital Ltd"
         },
         {
-            "SYM": "APEX",
-            "COMPANY": "Apex Frozen Foods Ltd"
+            SYM: "APEX",
+            COM: "Apex Frozen Foods Ltd"
         },
         {
-            "SYM": "SHISHIND",
-            "COMPANY": "Shish Industries Ltd"
+            SYM: "SHISHIND",
+            COM: "Shish Industries Ltd"
         },
         {
-            "SYM": "ANG",
-            "COMPANY": "ANG Lifesciences India Ltd"
+            SYM: "ANG",
+            COM: "ANG Lifesciences India Ltd"
         },
         {
-            "SYM": "DWL",
-            "COMPANY": "Dhruv Wellness Ltd"
+            SYM: "DWL",
+            COM: "Dhruv Wellness Ltd"
         },
         {
-            "SYM": "KCDGROUP",
-            "COMPANY": "KCD Industries India Ltd"
+            SYM: "KCDGROUP",
+            COM: "KCD Industries India Ltd"
         },
         {
-            "SYM": "AMFL",
-            "COMPANY": "A & M Febcon Ltd"
+            SYM: "AMFL",
+            COM: "A & M Febcon Ltd"
         },
         {
-            "SYM": "DIXON",
-            "COMPANY": "Dixon Technologies (India) Ltd"
+            SYM: "DIXON",
+            COM: "Dixon Technologies (India) Ltd"
         },
         {
-            "SYM": "BRNL",
-            "COMPANY": "Bharat Road Network Ltd"
+            SYM: "BRNL",
+            COM: "Bharat Road Network Ltd"
         },
         {
-            "SYM": "DCAL",
-            "COMPANY": "Dishman Carbogen Amcis Ltd"
+            SYM: "DCAL",
+            COM: "Dishman Carbogen Amcis Ltd"
         },
         {
-            "SYM": "LASA",
-            "COMPANY": "Lasa Supergenerics Ltd"
+            SYM: "LASA",
+            COM: "Lasa Supergenerics Ltd"
         },
         {
-            "SYM": "PROVESTSER",
-            "COMPANY": "Provestment Services Ltd"
+            SYM: "PROVESTSER",
+            COM: "Provestment Services Ltd"
         },
         {
-            "SYM": "MATRIMONY",
-            "COMPANY": "Matrimony.com Ltd"
+            SYM: "MATRIMONY",
+            COM: "Matrimony.com Ltd"
         },
         {
-            "SYM": "RELHOME",
-            "COMPANY": "Reliance Home Finance Ltd"
+            SYM: "RELHOME",
+            COM: "Reliance Home Finance Ltd"
         },
         {
-            "SYM": "CAPACITE",
-            "COMPANY": "Capacite Infraprojects Ltd"
+            SYM: "CAPACITE",
+            COM: "Capacite Infraprojects Ltd"
         },
         {
-            "SYM": "SAGAR",
-            "COMPANY": "Sagar Diamonds Ltd"
+            SYM: "SAGAR",
+            COM: "Sagar Diamonds Ltd"
         },
         {
-            "SYM": "ICICIGI",
-            "COMPANY": "ICICI Lombard General Insurance Company Ltd"
+            SYM: "ICICIGI",
+            COM: "ICICI Lombard General Insurance Company Ltd"
         },
         {
-            "SYM": "PQIF",
-            "COMPANY": "Polo Queen Industrial and Fintech Ltd"
+            SYM: "PQIF",
+            COM: "Polo Queen Industrial and Fintech Ltd"
         },
         {
-            "SYM": "AKM",
-            "COMPANY": "AKM Lace and Embrotex Ltd"
+            SYM: "AKM",
+            COM: "AKM Lace and Embrotex Ltd"
         },
         {
-            "SYM": "SBILIFE",
-            "COMPANY": "SBI Life Insurance Company Ltd"
+            SYM: "SBILIFE",
+            COM: "SBI Life Insurance Company Ltd"
         },
         {
-            "SYM": "DIAMONDYD",
-            "COMPANY": "Prataap Snacks Ltd"
+            SYM: "DIAMONDYD",
+            COM: "Prataap Snacks Ltd"
         },
         {
-            "SYM": "SHAREINDIA",
-            "COMPANY": "Share India Securities Ltd"
+            SYM: "SHAREINDIA",
+            COM: "Share India Securities Ltd"
         },
         {
-            "SYM": "TTFL",
-            "COMPANY": "Trident Texofab Ltd"
+            SYM: "TTFL",
+            COM: "Trident Texofab Ltd"
         },
         {
-            "SYM": "POOJA",
-            "COMPANY": "Poojawestern Metaliks Ltd"
+            SYM: "POOJA",
+            COM: "Poojawestern Metaliks Ltd"
         },
         {
-            "SYM": "SAYAJIIND",
-            "COMPANY": "Sayaji Industries Ltd"
+            SYM: "SAYAJIIND",
+            COM: "Sayaji Industries Ltd"
         },
         {
-            "SYM": "VANTABIO",
-            "COMPANY": "Vanta Bioscience Ltd"
+            SYM: "VANTABIO",
+            COM: "Vanta Bioscience Ltd"
         },
         {
-            "SYM": "MEHAI",
-            "COMPANY": "Mehai Technology Ltd"
+            SYM: "MEHAI",
+            COM: "Mehai Technology Ltd"
         },
         {
-            "SYM": "IRIS",
-            "COMPANY": "IRIS Business Services Ltd"
+            SYM: "IRIS",
+            COM: "IRIS Business Services Ltd"
         },
         {
-            "SYM": "SGRL",
-            "COMPANY": "Shree Ganesh Remedies Ltd"
+            SYM: "SGRL",
+            COM: "Shree Ganesh Remedies Ltd"
         },
         {
-            "SYM": "STL",
-            "COMPANY": "Shreeji Translogistics Ltd"
+            SYM: "STL",
+            COM: "Shreeji Translogistics Ltd"
         },
         {
-            "SYM": "GODREJAGRO",
-            "COMPANY": "Godrej Agrovet Ltd"
+            SYM: "GODREJAGRO",
+            COM: "Godrej Agrovet Ltd"
         },
         {
-            "SYM": "MESCON",
-            "COMPANY": "Mideast Integrated Steels Ltd"
+            SYM: "MESCON",
+            COM: "Mideast Integrated Steels Ltd"
         },
         {
-            "SYM": "MASFIN",
-            "COMPANY": "MAS Financial Services Ltd"
+            SYM: "MASFIN",
+            COM: "MAS Financial Services Ltd"
         },
         {
-            "SYM": "IEX",
-            "COMPANY": "Indian Energy Exchange Ltd"
+            SYM: "IEX",
+            COM: "Indian Energy Exchange Ltd"
         },
         {
-            "SYM": "GICRE",
-            "COMPANY": "General Insurance Corporation of India"
+            SYM: "GICRE",
+            COM: "General Insurance Corporation of India"
         },
         {
-            "SYM": "KAARYAFSL",
-            "COMPANY": "Kaarya Facilities and Services Ltd"
+            SYM: "KAARYAFSL",
+            COM: "Kaarya Facilities and Services Ltd"
         },
         {
-            "SYM": "SCPL",
-            "COMPANY": "Sheetal Cool Products Ltd"
+            SYM: "SCPL",
+            COM: "Sheetal Cool Products Ltd"
         },
         {
-            "SYM": "TIINDIA",
-            "COMPANY": "Tube Investments of India Ltd"
+            SYM: "TIINDIA",
+            COM: "Tube Investments of India Ltd"
         },
         {
-            "SYM": "NAM-INDIA",
-            "COMPANY": "Nippon Life India Asset Management Ltd"
+            SYM: "NAM-INDIA",
+            COM: "Nippon Life India Asset Management Ltd"
         },
         {
-            "SYM": "MAHLOG",
-            "COMPANY": "Mahindra Logistics Ltd"
+            SYM: "MAHLOG",
+            COM: "Mahindra Logistics Ltd"
         },
         {
-            "SYM": "NIACL",
-            "COMPANY": "The New India Assurance Company Ltd"
+            SYM: "NIACL",
+            COM: "The New India Assurance Company Ltd"
         },
         {
-            "SYM": "IFGLEXPOR",
-            "COMPANY": "IFGL Refractories Ltd"
+            SYM: "IFGLEXPOR",
+            COM: "IFGL Refractories Ltd"
         },
         {
-            "SYM": "KHADIM",
-            "COMPANY": "Khadim India Ltd"
+            SYM: "KHADIM",
+            COM: "Khadim India Ltd"
         },
         {
-            "SYM": "5PAISA",
-            "COMPANY": "5paisa Capital Ltd"
+            SYM: "5PAISA",
+            COM: "5paisa Capital Ltd"
         },
         {
-            "SYM": "HDFCLIFE",
-            "COMPANY": "HDFC Life Insurance Company Ltd"
+            SYM: "HDFCLIFE",
+            COM: "HDFC Life Insurance Company Ltd"
         },
         {
-            "SYM": "NIVBDDP",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B DR DVP 06JN21"
+            SYM: "NIVBDDP",
+            COM: "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B DR DVP 06JN21"
         },
         {
-            "SYM": "NIVBDGP",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B DR GWTH 06JN21"
+            SYM: "NIVBDGP",
+            COM: "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B DR GWTH 06JN21"
         },
         {
-            "SYM": "NIVBDP",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B RG DVP 06JN21"
+            SYM: "NIVBDP",
+            COM: "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B RG DVP 06JN21"
         },
         {
-            "SYM": "NIVBGP",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B RG GWTH 06JN21"
+            SYM: "NIVBGP",
+            COM: "NIPPON INDIA MUTUAL FUND  CAPITAL BUILDER FD SR B RG GWTH 06JN21"
         },
         {
-            "SYM": "SBRANDS",
-            "COMPANY": "Sanghvi Brands Ltd"
+            SYM: "SBRANDS",
+            COM: "Sanghvi Brands Ltd"
         },
         {
-            "SYM": "SHARIKA",
-            "COMPANY": "Sharika Enterprises Ltd"
+            SYM: "SHARIKA",
+            COM: "Sharika Enterprises Ltd"
         },
         {
-            "SYM": "ICICIB22",
-            "COMPANY": "BHARAT 22 ETF - ICICI Prudential AMC"
+            SYM: "ICICIB22",
+            COM: "BHARAT 22 ETF - ICICI Prudential AMC"
         },
         {
-            "SYM": "DNAMEDIA",
-            "COMPANY": "Diligent Media Corporation Ltd"
+            SYM: "DNAMEDIA",
+            COM: "Diligent Media Corporation Ltd"
         },
         {
-            "SYM": "DYNAMIC",
-            "COMPANY": "Dynamic Cables Ltd"
+            SYM: "DYNAMIC",
+            COM: "Dynamic Cables Ltd"
         },
         {
-            "SYM": "RATNABHUMI",
-            "COMPANY": "Ratnabhumi Developers Ltd"
+            SYM: "RATNABHUMI",
+            COM: "Ratnabhumi Developers Ltd"
         },
         {
-            "SYM": "SHALBY",
-            "COMPANY": "Shalby Ltd"
+            SYM: "SHALBY",
+            COM: "Shalby Ltd"
         },
         {
-            "SYM": "FSC",
-            "COMPANY": "Future Supply Chain Solutions Ltd"
+            SYM: "FSC",
+            COM: "Future Supply Chain Solutions Ltd"
         },
         {
-            "SYM": "MRCEXIM",
-            "COMPANY": "MRC Exim Ltd"
+            SYM: "MRCEXIM",
+            COM: "MRC Exim Ltd"
         },
         {
-            "SYM": "DML",
-            "COMPANY": "Diggi Multitrade Ltd"
+            SYM: "DML",
+            COM: "Diggi Multitrade Ltd"
         },
         {
-            "SYM": "SADHNA",
-            "COMPANY": "Sadhna Broadcast Ltd"
+            SYM: "SADHNA",
+            COM: "Sadhna Broadcast Ltd"
         },
         {
-            "SYM": "VITESSE",
-            "COMPANY": "Vitesse Agro Ltd"
+            SYM: "VITESSE",
+            COM: "Vitesse Agro Ltd"
         },
         {
-            "SYM": "ASTRON",
-            "COMPANY": "Astron Paper & Board Mill Ltd"
+            SYM: "ASTRON",
+            COM: "Astron Paper & Board Mill Ltd"
         },
         {
-            "SYM": "CHANDRIMA",
-            "COMPANY": "Chandrima Mercantiles Ltd"
+            SYM: "CHANDRIMA",
+            COM: "Chandrima Mercantiles Ltd"
         },
         {
-            "SYM": "RITHWIKFMS",
-            "COMPANY": "Rithwik Facility Management Services Ltd"
+            SYM: "RITHWIKFMS",
+            COM: "Rithwik Facility Management Services Ltd"
         },
         {
-            "SYM": "JFL",
-            "COMPANY": "Jhandewalas Foods Ltd"
+            SYM: "JFL",
+            COM: "Jhandewalas Foods Ltd"
         },
         {
-            "SYM": "IPRU3018",
-            "COMPANY": "ICICI PRUDENTIAL VALUE FUND - SERIES 19 - CUMULATIVE OPTION"
+            SYM: "IPRU3018",
+            COM: "ICICI PRUDENTIAL VALUE FUND - SERIES 19 - CUMULATIVE OPTION"
         },
         {
-            "SYM": "IPRU3019",
-            "COMPANY": "ICICI PRUDENTIAL VALUE FUND - SERIES 19  - DIVIDEND PAYOUT OPTION"
+            SYM: "IPRU3019",
+            COM: "ICICI PRUDENTIAL VALUE FUND - SERIES 19  - DIVIDEND PAYOUT OPTION"
         },
         {
-            "SYM": "IPRU9220",
-            "COMPANY": "ICICI PRUDENTIAL VALUE FUND - SERIES 19  - DIRECT PLAN CUMULATIVE OPTION"
+            SYM: "IPRU9220",
+            COM: "ICICI PRUDENTIAL VALUE FUND - SERIES 19  - DIRECT PLAN CUMULATIVE OPTION"
         },
         {
-            "SYM": "IPRU9221",
-            "COMPANY": "ICICI PRUDENTIAL VALUE FUND - SERIES 19  -DIRECT PLAN DIVIDEND PAYOUT OPTION"
+            SYM: "IPRU9221",
+            COM: "ICICI PRUDENTIAL VALUE FUND - SERIES 19  -DIRECT PLAN DIVIDEND PAYOUT OPTION"
         },
         {
-            "SYM": "APOLLO",
-            "COMPANY": "Apollo Micro Systems Ltd"
+            SYM: "APOLLO",
+            COM: "Apollo Micro Systems Ltd"
         },
         {
-            "SYM": "NEWGEN",
-            "COMPANY": "Newgen Software Technologies Ltd"
+            SYM: "NEWGEN",
+            COM: "Newgen Software Technologies Ltd"
         },
         {
-            "SYM": "PRAXIS",
-            "COMPANY": "Praxis Home Retail Ltd"
+            SYM: "PRAXIS",
+            COM: "Praxis Home Retail Ltd"
         },
         {
-            "SYM": "AMBER",
-            "COMPANY": "Amber Enterprises India Ltd"
+            SYM: "AMBER",
+            COM: "Amber Enterprises India Ltd"
         },
         {
-            "SYM": "TIRUFOAM",
-            "COMPANY": "Tirupati Foam Ltd"
+            SYM: "TIRUFOAM",
+            COM: "Tirupati Foam Ltd"
         },
         {
-            "SYM": "SRUSTEELS",
-            "COMPANY": "SRU Steels Ltd"
+            SYM: "SRUSTEELS",
+            COM: "SRU Steels Ltd"
         },
         {
-            "SYM": "AML",
-            "COMPANY": "Ashoka Metcast Ltd"
+            SYM: "AML",
+            COM: "Ashoka Metcast Ltd"
         },
         {
-            "SYM": "GALAXYSURF",
-            "COMPANY": "Galaxy Surfactants Ltd"
+            SYM: "GALAXYSURF",
+            COM: "Galaxy Surfactants Ltd"
         },
         {
-            "SYM": "GGL",
-            "COMPANY": "Gautam Gems Ltd"
+            SYM: "GGL",
+            COM: "Gautam Gems Ltd"
         },
         {
-            "SYM": "MEDICO",
-            "COMPANY": "Medico Remedies Ltd"
+            SYM: "MEDICO",
+            COM: "Medico Remedies Ltd"
         },
         {
-            "SYM": "GUJHYSPIN",
-            "COMPANY": "Gujarat Hy-Spin Ltd"
+            SYM: "GUJHYSPIN",
+            COM: "Gujarat Hy-Spin Ltd"
         },
         {
-            "SYM": "IPRU3034",
-            "COMPANY": "ICICI Prudential Value Fund - Series 20 - Cumulative Option"
+            SYM: "IPRU3034",
+            COM: "ICICI Prudential Value Fund - Series 20 - Cumulative Option"
         },
         {
-            "SYM": "IPRU3035",
-            "COMPANY": "ICICI Prudential Value Fund - Series 20 - Dividend Option"
+            SYM: "IPRU3035",
+            COM: "ICICI Prudential Value Fund - Series 20 - Dividend Option"
         },
         {
-            "SYM": "IPRU9236",
-            "COMPANY": "ICICI Prudential Value Fund - Series 20 - Direct Plan Cumulative Option"
+            SYM: "IPRU9236",
+            COM: "ICICI Prudential Value Fund - Series 20 - Direct Plan Cumulative Option"
         },
         {
-            "SYM": "IPRU9237",
-            "COMPANY": "ICICI Prudential Value Fund - Series 20 - Direct Plan Dividend Option"
+            SYM: "IPRU9237",
+            COM: "ICICI Prudential Value Fund - Series 20 - Direct Plan Dividend Option"
         },
         {
-            "SYM": "LAL",
-            "COMPANY": "Lorenzini Apparels Ltd"
+            SYM: "LAL",
+            COM: "Lorenzini Apparels Ltd"
         },
         {
-            "SYM": "KENVI",
-            "COMPANY": "Kenvi Jewels Ltd"
+            SYM: "KENVI",
+            COM: "Kenvi Jewels Ltd"
         },
         {
-            "SYM": "IWP",
-            "COMPANY": "The Indian Wood Products Company Ltd"
+            SYM: "IWP",
+            COM: "The Indian Wood Products Company Ltd"
         },
         {
-            "SYM": "TDSL",
-            "COMPANY": "Tasty Dairy Specialities Ltd"
+            SYM: "TDSL",
+            COM: "Tasty Dairy Specialities Ltd"
         },
         {
-            "SYM": "BHATIA",
-            "COMPANY": "Bhatia Communications & Retail (India) Ltd"
+            SYM: "BHATIA",
+            COM: "Bhatia Communications & Retail (India) Ltd"
         },
         {
-            "SYM": "SHIVAMILLS",
-            "COMPANY": "Shiva Mills Ltd"
+            SYM: "SHIVAMILLS",
+            COM: "Shiva Mills Ltd"
         },
         {
-            "SYM": "ASTERDM",
-            "COMPANY": "Aster DM Healthcare Ltd"
+            SYM: "ASTERDM",
+            COM: "Aster DM Healthcare Ltd"
         },
         {
-            "SYM": "YSL",
-            "COMPANY": "The Yamuna Syndicate Ltd"
+            SYM: "YSL",
+            COM: "The Yamuna Syndicate Ltd"
         },
         {
-            "SYM": "KTINDF4RG",
-            "COMPANY": "Kotak India Growth Fund   Series 4 - Regular Plan Growth Option"
+            SYM: "KTINDF4RG",
+            COM: "Kotak India Growth Fund   Series 4 - Regular Plan Growth Option"
         },
         {
-            "SYM": "KTINDF4RD",
-            "COMPANY": "Kotak India Growth Fund   Series 4 - Regular Plan Dividend Option"
+            SYM: "KTINDF4RD",
+            COM: "Kotak India Growth Fund   Series 4 - Regular Plan Dividend Option"
         },
         {
-            "SYM": "KTINDF4DG",
-            "COMPANY": "KOTAK INDIA GROWTH FUND SERIES 4 DIRECT PLAN DIVIDEND OPTION"
+            SYM: "KTINDF4DG",
+            COM: "KOTAK INDIA GROWTH FUND SERIES 4 DIRECT PLAN DIVIDEND OPTION"
         },
         {
-            "SYM": "KTINDF4DD",
-            "COMPANY": "Kotak India Growth Fund   Series 4 - Direct Plan Growth Option"
+            SYM: "KTINDF4DD",
+            COM: "Kotak India Growth Fund   Series 4 - Direct Plan Growth Option"
         },
         {
-            "SYM": "KANCOTEA",
-            "COMPANY": "Kanco Tea & Industries Ltd"
+            SYM: "KANCOTEA",
+            COM: "Kanco Tea & Industries Ltd"
         },
         {
-            "SYM": "ANGEL",
-            "COMPANY": "Angel Fibers Ltd"
+            SYM: "ANGEL",
+            COM: "Angel Fibers Ltd"
         },
         {
-            "SYM": "HGINFRA",
-            "COMPANY": "H.G. Infra Engineering Ltd"
+            SYM: "HGINFRA",
+            COM: "H.G. Infra Engineering Ltd"
         },
         {
-            "SYM": "EIS",
-            "COMPANY": "East India Securities Ltd"
+            SYM: "EIS",
+            COM: "East India Securities Ltd"
         },
         {
-            "SYM": "AXISCBD1D",
-            "COMPANY": "Axis Capital Builder Fund - Series 1 (1540 Days) - Direct Plan  - Dividend Payout"
+            SYM: "AXISCBD1D",
+            COM: "Axis Capital Builder Fund - Series 1 (1540 Days) - Direct Plan  - Dividend Payout"
         },
         {
-            "SYM": "AXISCBDGG",
-            "COMPANY": "Axis Capital Builder Fund - Series 1 (1540 Days) - Direct Plan  - Growth"
+            SYM: "AXISCBDGG",
+            COM: "Axis Capital Builder Fund - Series 1 (1540 Days) - Direct Plan  - Growth"
         },
         {
-            "SYM": "AXISCBDPD",
-            "COMPANY": "Axis Capital Builder Fund - Series 1 (1540 Days) - Regular Plan  - Dividend Payout"
+            SYM: "AXISCBDPD",
+            COM: "Axis Capital Builder Fund - Series 1 (1540 Days) - Regular Plan  - Dividend Payout"
         },
         {
-            "SYM": "AXISCBGPG",
-            "COMPANY": "Axis Capital Builder Fund - Series 1 (1540 Days) - Regular Plan  - Growth"
+            SYM: "AXISCBGPG",
+            COM: "Axis Capital Builder Fund - Series 1 (1540 Days) - Regular Plan  - Growth"
         },
         {
-            "SYM": "INFLAME",
-            "COMPANY": "Inflame Appliances Ltd"
+            SYM: "INFLAME",
+            COM: "Inflame Appliances Ltd"
         },
         {
-            "SYM": "DACE2RG",
-            "COMPANY": "DSP A.C.E. Fund - Series 2 - Reg - Growth Mat Dt.28-Jun-2021"
+            SYM: "DACE2RG",
+            COM: "DSP A.C.E. Fund - Series 2 - Reg - Growth Mat Dt.28-Jun-2021"
         },
         {
-            "SYM": "DACE2RDP",
-            "COMPANY": "DSP A.C.E. Fund - Series 2 - Reg - IDCW - Reg Pay Mat Dt.28-Jun-2021"
+            SYM: "DACE2RDP",
+            COM: "DSP A.C.E. Fund - Series 2 - Reg - IDCW - Reg Pay Mat Dt.28-Jun-2021"
         },
         {
-            "SYM": "DACE2DG",
-            "COMPANY": "DSP A.C.E. Fund - Series 2 - Dir - Growth Mat Dt.28-Jun-2021"
+            SYM: "DACE2DG",
+            COM: "DSP A.C.E. Fund - Series 2 - Dir - Growth Mat Dt.28-Jun-2021"
         },
         {
-            "SYM": "DACE2DDP",
-            "COMPANY": "DSP A.C.E. Fund - Series 2 - Dir - IDCW - Reg Pay Mat Dt.28-Jun-2021"
+            SYM: "DACE2DDP",
+            COM: "DSP A.C.E. Fund - Series 2 - Dir - IDCW - Reg Pay Mat Dt.28-Jun-2021"
         },
         {
-            "SYM": "ABSLRIF6RG",
-            "COMPANY": "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- REGULAR PLAN- GROWTH"
+            SYM: "ABSLRIF6RG",
+            COM: "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- REGULAR PLAN- GROWTH"
         },
         {
-            "SYM": "ABSLRIF6RD",
-            "COMPANY": "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- REGULAR PLAN- DIVIDEND PAYOUT"
+            SYM: "ABSLRIF6RD",
+            COM: "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- REGULAR PLAN- DIVIDEND PAYOUT"
         },
         {
-            "SYM": "ABSLRIF6DG",
-            "COMPANY": "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- DIRECT PLAN- GROWTH"
+            SYM: "ABSLRIF6DG",
+            COM: "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- DIRECT PLAN- GROWTH"
         },
         {
-            "SYM": "ABSLRIF6DD",
-            "COMPANY": "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- DIRECT PLAN- DIVIDEND PAYOUT"
+            SYM: "ABSLRIF6DD",
+            COM: "ADITYA BIRLA SUN LIFE RESURGENT INDIA FUND - SERIES 6- DIRECT PLAN- DIVIDEND PAYOUT"
         },
         {
-            "SYM": "BPLPHARMA",
-            "COMPANY": "Bharat Parenterals Ltd"
+            SYM: "BPLPHARMA",
+            COM: "Bharat Parenterals Ltd"
         },
         {
-            "SYM": "SHREESHAY",
-            "COMPANY": "Shreeshay Engineers Ltd"
+            SYM: "SHREESHAY",
+            COM: "Shreeshay Engineers Ltd"
         },
         {
-            "SYM": "ACFL",
-            "COMPANY": "Apex Capital And Finance Ltd"
+            SYM: "ACFL",
+            COM: "Apex Capital And Finance Ltd"
         },
         {
-            "SYM": "BDL",
-            "COMPANY": "Bharat Dynamics Ltd"
+            SYM: "BDL",
+            COM: "Bharat Dynamics Ltd"
         },
         {
-            "SYM": "ACTIVE",
-            "COMPANY": "Active Clothing Co Ltd"
+            SYM: "ACTIVE",
+            COM: "Active Clothing Co Ltd"
         },
         {
-            "SYM": "RIDINGS",
-            "COMPANY": "Ridings Consulting Engineers India Ltd"
+            SYM: "RIDINGS",
+            COM: "Ridings Consulting Engineers India Ltd"
         },
         {
-            "SYM": "ADVITIYA",
-            "COMPANY": "Advitiya Trade India Ltd"
+            SYM: "ADVITIYA",
+            COM: "Advitiya Trade India Ltd"
         },
         {
-            "SYM": "BANDHANBNK",
-            "COMPANY": "Bandhan Bank Ltd"
+            SYM: "BANDHANBNK",
+            COM: "Bandhan Bank Ltd"
         },
         {
-            "SYM": "HAL",
-            "COMPANY": "Hindustan Aeronautics Ltd"
+            SYM: "HAL",
+            COM: "Hindustan Aeronautics Ltd"
         },
         {
-            "SYM": "KARDA",
-            "COMPANY": "Karda Constructions Ltd"
+            SYM: "KARDA",
+            COM: "Karda Constructions Ltd"
         },
         {
-            "SYM": "SANDHAR",
-            "COMPANY": "Sandhar Technologies Ltd"
+            SYM: "SANDHAR",
+            COM: "Sandhar Technologies Ltd"
         },
         {
-            "SYM": "YASHO",
-            "COMPANY": "Yasho Industries Ltd"
+            SYM: "YASHO",
+            COM: "Yasho Industries Ltd"
         },
         {
-            "SYM": "BENARA",
-            "COMPANY": "Benara Bearings and Pistons Ltd"
+            SYM: "BENARA",
+            COM: "Benara Bearings and Pistons Ltd"
         },
         {
-            "SYM": "ISEC",
-            "COMPANY": "ICICI Securities Ltd"
+            SYM: "ISEC",
+            COM: "ICICI Securities Ltd"
         },
         {
-            "SYM": "MIDHANI",
-            "COMPANY": "Mishra Dhatu Nigam Ltd"
+            SYM: "MIDHANI",
+            COM: "Mishra Dhatu Nigam Ltd"
         },
         {
-            "SYM": "LEX",
-            "COMPANY": "Lex Nimble Solutions Ltd"
+            SYM: "LEX",
+            COM: "Lex Nimble Solutions Ltd"
         },
         {
-            "SYM": "OBCL",
-            "COMPANY": "Orissa Bengal Carrier Ltd"
+            SYM: "OBCL",
+            COM: "Orissa Bengal Carrier Ltd"
         },
         {
-            "SYM": "TRL",
-            "COMPANY": "Taylormade Renewables Ltd"
+            SYM: "TRL",
+            COM: "Taylormade Renewables Ltd"
         },
         {
-            "SYM": "LEMONTREE",
-            "COMPANY": "Lemon Tree Hotels Ltd"
+            SYM: "LEMONTREE",
+            COM: "Lemon Tree Hotels Ltd"
         },
         {
-            "SYM": "ABSLRIF7RG",
-            "COMPANY": "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Regular Plan - Growth Option"
+            SYM: "ABSLRIF7RG",
+            COM: "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Regular Plan - Growth Option"
         },
         {
-            "SYM": "ABSLRIF7RD",
-            "COMPANY": "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Regular Plan - Dividend Payout"
+            SYM: "ABSLRIF7RD",
+            COM: "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Regular Plan - Dividend Payout"
         },
         {
-            "SYM": "ABSLRIF7DG",
-            "COMPANY": "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Direct Plan - Growth Option"
+            SYM: "ABSLRIF7DG",
+            COM: "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Direct Plan - Growth Option"
         },
         {
-            "SYM": "ABSLRIF7DD",
-            "COMPANY": "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Direct Plan - Dividend Payout"
+            SYM: "ABSLRIF7DD",
+            COM: "Aditya Birla Sun Life Resurgent India Fund - Series 7 - Direct Plan - Dividend Payout"
         },
         {
-            "SYM": "CHEMFABALKA",
-            "COMPANY": "Chemfab Alkalis Ltd"
+            SYM: "CHEMFABALKA",
+            COM: "Chemfab Alkalis Ltd"
         },
         {
-            "SYM": "HARDWYN",
-            "COMPANY": "Hardwyn India Ltd"
+            SYM: "HARDWYN",
+            COM: "Hardwyn India Ltd"
         },
         {
-            "SYM": "DLCL",
-            "COMPANY": "Dr Lalchandani Labs Ltd"
+            SYM: "DLCL",
+            COM: "Dr Lalchandani Labs Ltd"
         },
         {
-            "SYM": "ORIENTELEC",
-            "COMPANY": "Orient Electric Ltd"
+            SYM: "ORIENTELEC",
+            COM: "Orient Electric Ltd"
         },
         {
-            "SYM": "DHRUV",
-            "COMPANY": "Dhruv Consultancy Services Ltd"
+            SYM: "DHRUV",
+            COM: "Dhruv Consultancy Services Ltd"
         },
         {
-            "SYM": "AKSHAR",
-            "COMPANY": "Akshar Spintex Ltd"
+            SYM: "AKSHAR",
+            COM: "Akshar Spintex Ltd"
         },
         {
-            "SYM": "INDOUS",
-            "COMPANY": "Indo Us Bio-Tech Ltd"
+            SYM: "INDOUS",
+            COM: "Indo Us Bio-Tech Ltd"
         },
         {
-            "SYM": "IPRU3095",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 2 - Cumulative Option"
+            SYM: "IPRU3095",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 2 - Cumulative Option"
         },
         {
-            "SYM": "IPRU3096",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 2 - Dividend Option"
+            SYM: "IPRU3096",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 2 - Dividend Option"
         },
         {
-            "SYM": "IPRU9297",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 2 - Direct Plan Cumulative Option"
+            SYM: "IPRU9297",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 2 - Direct Plan Cumulative Option"
         },
         {
-            "SYM": "IPRU9298",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 2 - Direct Plan Dividend Option"
+            SYM: "IPRU9298",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 2 - Direct Plan Dividend Option"
         },
         {
-            "SYM": "ICICI500",
-            "COMPANY": "ICICI Prudential S&P BSE 500 ETF"
+            SYM: "ICICI500",
+            COM: "ICICI Prudential S&P BSE 500 ETF"
         },
         {
-            "SYM": "INDOSTAR",
-            "COMPANY": "Indostar Capital Finance Ltd"
+            SYM: "INDOSTAR",
+            COM: "Indostar Capital Finance Ltd"
         },
         {
-            "SYM": "MILEFUR",
-            "COMPANY": "Milestone Furniture Ltd"
+            SYM: "MILEFUR",
+            COM: "Milestone Furniture Ltd"
         },
         {
-            "SYM": "UHZAVERI",
-            "COMPANY": "U. H. Zaveri Ltd"
+            SYM: "UHZAVERI",
+            COM: "U. H. Zaveri Ltd"
         },
         {
-            "SYM": "PARVATI",
-            "COMPANY": "Parvati Sweetners and Power Ltd"
+            SYM: "PARVATI",
+            COM: "Parvati Sweetners and Power Ltd"
         },
         {
-            "SYM": "MEGASTAR",
-            "COMPANY": "Megastar Foods Ltd"
+            SYM: "MEGASTAR",
+            COM: "Megastar Foods Ltd"
         },
         {
-            "SYM": "INNOVATORS",
-            "COMPANY": "Innovators Facade Systems Ltd"
+            SYM: "INNOVATORS",
+            COM: "Innovators Facade Systems Ltd"
         },
         {
-            "SYM": "ZIMLAB",
-            "COMPANY": "Zim Laboratories Ltd"
+            SYM: "ZIMLAB",
+            COM: "Zim Laboratories Ltd"
         },
         {
-            "SYM": "AFFORDABLE",
-            "COMPANY": "Affordable Robotic & Automation Ltd"
+            SYM: "AFFORDABLE",
+            COM: "Affordable Robotic & Automation Ltd"
         },
         {
-            "SYM": "DOLLAR",
-            "COMPANY": "Dollar Industries Ltd"
+            SYM: "DOLLAR",
+            COM: "Dollar Industries Ltd"
         },
         {
-            "SYM": "NGIL",
-            "COMPANY": "Nakoda Group of Industries Ltd"
+            SYM: "NGIL",
+            COM: "Nakoda Group of Industries Ltd"
         },
         {
-            "SYM": "PALMJEWELS",
-            "COMPANY": "Palm Jewels Ltd"
+            SYM: "PALMJEWELS",
+            COM: "Palm Jewels Ltd"
         },
         {
-            "SYM": "WAA",
-            "COMPANY": "Waa Solar Ltd"
+            SYM: "WAA",
+            COM: "Waa Solar Ltd"
         },
         {
-            "SYM": "ADANIGREEN",
-            "COMPANY": "Adani Green Energy Ltd"
+            SYM: "ADANIGREEN",
+            COM: "Adani Green Energy Ltd"
         },
         {
-            "SYM": "UNICK",
-            "COMPANY": "Unick Fix-A-Form And Printers Ltd"
+            SYM: "UNICK",
+            COM: "Unick Fix-A-Form And Printers Ltd"
         },
         {
-            "SYM": "SOLARA",
-            "COMPANY": "Solara Active Pharma Sciences Ltd"
+            SYM: "SOLARA",
+            COM: "Solara Active Pharma Sciences Ltd"
         },
         {
-            "SYM": "GAYAHWS",
-            "COMPANY": "Gayatri Highways Ltd"
+            SYM: "GAYAHWS",
+            COM: "Gayatri Highways Ltd"
         },
         {
-            "SYM": "RITES",
-            "COMPANY": "RITES Ltd"
+            SYM: "RITES",
+            COM: "RITES Ltd"
         },
         {
-            "SYM": "FINEORG",
-            "COMPANY": "Fine Organic Industries Ltd"
+            SYM: "FINEORG",
+            COM: "Fine Organic Industries Ltd"
         },
         {
-            "SYM": "VARROC",
-            "COMPANY": "Varroc Engineering Ltd"
+            SYM: "VARROC",
+            COM: "Varroc Engineering Ltd"
         },
         {
-            "SYM": "RAJNISH",
-            "COMPANY": "Rajnish Wellness Ltd"
+            SYM: "RAJNISH",
+            COM: "Rajnish Wellness Ltd"
         },
         {
-            "SYM": "HITECHWIND",
-            "COMPANY": "Hi-Tech Winding Systems Ltd"
+            SYM: "HITECHWIND",
+            COM: "Hi-Tech Winding Systems Ltd"
         },
         {
-            "SYM": "STRAEXPO",
-            "COMPANY": "Sophia Traexpo Ltd"
+            SYM: "STRAEXPO",
+            COM: "Sophia Traexpo Ltd"
         },
         {
-            "SYM": "RAWEDGE",
-            "COMPANY": "Raw Edge Industrial Solutions Ltd"
+            SYM: "RAWEDGE",
+            COM: "Raw Edge Industrial Solutions Ltd"
         },
         {
-            "SYM": "IPRU3143",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund  - Series 3 - Cumulative Option"
+            SYM: "IPRU3143",
+            COM: "ICICI Prudential Bharat Consumption Fund  - Series 3 - Cumulative Option"
         },
         {
-            "SYM": "IPRU3144",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund  - Series 3 - Dividend Payout Option"
+            SYM: "IPRU3144",
+            COM: "ICICI Prudential Bharat Consumption Fund  - Series 3 - Dividend Payout Option"
         },
         {
-            "SYM": "IPRU9345",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund  - Series 3 -  Direct Plan - Cumulative Option"
+            SYM: "IPRU9345",
+            COM: "ICICI Prudential Bharat Consumption Fund  - Series 3 -  Direct Plan - Cumulative Option"
         },
         {
-            "SYM": "IPRU9346",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund  - Series 3 - Direct Plan - Dividend Payout Option"
+            SYM: "IPRU9346",
+            COM: "ICICI Prudential Bharat Consumption Fund  - Series 3 - Direct Plan - Dividend Payout Option"
         },
         {
-            "SYM": "TVF1D",
-            "COMPANY": "Tata Vaue Fund Series 1 - Regular Plan - Dividend Payout Option"
+            SYM: "TVF1D",
+            COM: "Tata Vaue Fund Series 1 - Regular Plan - Dividend Payout Option"
         },
         {
-            "SYM": "TVF1DZ",
-            "COMPANY": "Tata Vaue Fund Series 1 - Direct Plan - Dividend Payout Option"
+            SYM: "TVF1DZ",
+            COM: "Tata Vaue Fund Series 1 - Direct Plan - Dividend Payout Option"
         },
         {
-            "SYM": "TVF1G",
-            "COMPANY": "Tata Vaue Fund Series 1 - Regular Plan - Growth Option"
+            SYM: "TVF1G",
+            COM: "Tata Vaue Fund Series 1 - Regular Plan - Growth Option"
         },
         {
-            "SYM": "TVF1GZ",
-            "COMPANY": "Tata Vaue Fund Series 1 - Direct Plan - Growth Option"
+            SYM: "TVF1GZ",
+            COM: "Tata Vaue Fund Series 1 - Direct Plan - Growth Option"
         },
         {
-            "SYM": "TCNSBRANDS",
-            "COMPANY": "TCNS Clothing Co. Ltd"
+            SYM: "TCNSBRANDS",
+            COM: "TCNS Clothing Co. Ltd"
         },
         {
-            "SYM": "SUPERSHAKT",
-            "COMPANY": "Supershakti Metaliks Ltd"
+            SYM: "SUPERSHAKT",
+            COM: "Supershakti Metaliks Ltd"
         },
         {
-            "SYM": "ASHNI",
-            "COMPANY": "Ashnisha Industries Ltd"
+            SYM: "ASHNI",
+            COM: "Ashnisha Industries Ltd"
         },
         {
-            "SYM": "GFIL",
-            "COMPANY": "Ganesh Films India Ltd"
+            SYM: "GFIL",
+            COM: "Ganesh Films India Ltd"
         },
         {
-            "SYM": "IDFCEOS6RG",
-            "COMPANY": "IDFC Equity Opportunity - Series 6 - Regular Plan - Growth Option"
+            SYM: "IDFCEOS6RG",
+            COM: "IDFC Equity Opportunity - Series 6 - Regular Plan - Growth Option"
         },
         {
-            "SYM": "IDFCEOS6RD",
-            "COMPANY": "IDFC Equity Opportunity - Series 6 - Regular Plan - Dividend Payout  Option"
+            SYM: "IDFCEOS6RD",
+            COM: "IDFC Equity Opportunity - Series 6 - Regular Plan - Dividend Payout  Option"
         },
         {
-            "SYM": "IDFCEOS6DG",
-            "COMPANY": "IDFC Equity Opportunity - Series 6 - Direct Plan - Growth Option"
+            SYM: "IDFCEOS6DG",
+            COM: "IDFC Equity Opportunity - Series 6 - Direct Plan - Growth Option"
         },
         {
-            "SYM": "IDFCEOS6DD",
-            "COMPANY": "IDFC Equity Opportunity - Series 6 - Direct Plan - Dividend Payout Option"
+            SYM: "IDFCEOS6DD",
+            COM: "IDFC Equity Opportunity - Series 6 - Direct Plan - Dividend Payout Option"
         },
         {
-            "SYM": "HDFCAMC",
-            "COMPANY": "HDFC Asset Management Company Ltd"
+            SYM: "HDFCAMC",
+            COM: "HDFC Asset Management Company Ltd"
         },
         {
-            "SYM": "VIVANTA",
-            "COMPANY": "Vivanta Industries Ltd"
+            SYM: "VIVANTA",
+            COM: "Vivanta Industries Ltd"
         },
         {
-            "SYM": "TINNATFL",
-            "COMPANY": "Tinna Trade Ltd"
+            SYM: "TINNATFL",
+            COM: "Tinna Trade Ltd"
         },
         {
-            "SYM": "TVF2D",
-            "COMPANY": "TATA Value Fund Series  2 - Regular Plan  - Dividend Payout Option"
+            SYM: "TVF2D",
+            COM: "TATA Value Fund Series  2 - Regular Plan  - Dividend Payout Option"
         },
         {
-            "SYM": "TVF2DZ",
-            "COMPANY": "TATA Value Fund Series  2 - Direct Plan  - Dividend Payout Option"
+            SYM: "TVF2DZ",
+            COM: "TATA Value Fund Series  2 - Direct Plan  - Dividend Payout Option"
         },
         {
-            "SYM": "TVF2G",
-            "COMPANY": "TATA Value Fund Series  2 - Regular  Plan  - Growth Option"
+            SYM: "TVF2G",
+            COM: "TATA Value Fund Series  2 - Regular  Plan  - Growth Option"
         },
         {
-            "SYM": "TVF2GZ",
-            "COMPANY": "TATA Value Fund Series  2 - Direct Plan  - Growth Option"
+            SYM: "TVF2GZ",
+            COM: "TATA Value Fund Series  2 - Direct Plan  - Growth Option"
         },
         {
-            "SYM": "CREDITACC",
-            "COMPANY": "CreditAccess Grameen Ltd"
+            SYM: "CREDITACC",
+            COM: "CreditAccess Grameen Ltd"
         },
         {
-            "SYM": "AMINTAN",
-            "COMPANY": "Amin Tannery Ltd"
+            SYM: "AMINTAN",
+            COM: "Amin Tannery Ltd"
         },
         {
-            "SYM": "DEEP",
-            "COMPANY": "Deep Polymers Ltd"
+            SYM: "DEEP",
+            COM: "Deep Polymers Ltd"
         },
         {
-            "SYM": "SMEL",
-            "COMPANY": "Sungold Media and Entertainment Ltd"
+            SYM: "SMEL",
+            COM: "Sungold Media and Entertainment Ltd"
         },
         {
-            "SYM": "IPRU3168",
-            "COMPANY": "ICICI PRU Bharat Consumption Fund - Sr 4 - Cumulative"
+            SYM: "IPRU3168",
+            COM: "ICICI PRU Bharat Consumption Fund - Sr 4 - Cumulative"
         },
         {
-            "SYM": "IPRU3169",
-            "COMPANY": "ICICI PRU Bharat Consumption Fund - Sr 4 - Dividend Payout Option"
+            SYM: "IPRU3169",
+            COM: "ICICI PRU Bharat Consumption Fund - Sr 4 - Dividend Payout Option"
         },
         {
-            "SYM": "IPRU9370",
-            "COMPANY": "ICICI PRU Bharat Consumption Fund - Sr 4 - Direct Plan Cumulative"
+            SYM: "IPRU9370",
+            COM: "ICICI PRU Bharat Consumption Fund - Sr 4 - Direct Plan Cumulative"
         },
         {
-            "SYM": "IPRU9371",
-            "COMPANY": "ICICI PRU Bharat Consumption Fund - Sr 4 - Direct Plan Dividend Payout"
+            SYM: "IPRU9371",
+            COM: "ICICI PRU Bharat Consumption Fund - Sr 4 - Direct Plan Dividend Payout"
         },
         {
-            "SYM": "ICICINXT50",
-            "COMPANY": "ICICI Prudential Nifty Next 50 ETF"
+            SYM: "ICICINXT50",
+            COM: "ICICI Prudential Nifty Next 50 ETF"
         },
         {
-            "SYM": "ASRL",
-            "COMPANY": "Add-Shop ERetail Ltd"
+            SYM: "ASRL",
+            COM: "Add-Shop ERetail Ltd"
         },
         {
-            "SYM": "KTKIND7RG",
-            "COMPANY": "Kotak India Growth Fund Series 7 - Regular Plan - Growth Option"
+            SYM: "KTKIND7RG",
+            COM: "Kotak India Growth Fund Series 7 - Regular Plan - Growth Option"
         },
         {
-            "SYM": "KTKIND7RD",
-            "COMPANY": "Kotak India Growth Fund Series 7 - Regular Plan - Dividend Option"
+            SYM: "KTKIND7RD",
+            COM: "Kotak India Growth Fund Series 7 - Regular Plan - Dividend Option"
         },
         {
-            "SYM": "KTKIND7DG",
-            "COMPANY": "Kotak India Growth Fund Series 7 - Direct Plan - Growth Option"
+            SYM: "KTKIND7DG",
+            COM: "Kotak India Growth Fund Series 7 - Direct Plan - Growth Option"
         },
         {
-            "SYM": "KTKIND7DD",
-            "COMPANY": "Kotak India Growth Fund Series 7 - Direct Plan - Dividend Option"
+            SYM: "KTKIND7DD",
+            COM: "Kotak India Growth Fund Series 7 - Direct Plan - Dividend Option"
         },
         {
-            "SYM": "SPACEINCUBA",
-            "COMPANY": "Space Incubatrics Technologies Ltd"
+            SYM: "SPACEINCUBA",
+            COM: "Space Incubatrics Technologies Ltd"
         },
         {
-            "SYM": "SGIL",
-            "COMPANY": "Synergy Green Industries Ltd"
+            SYM: "SGIL",
+            COM: "Synergy Green Industries Ltd"
         },
         {
-            "SYM": "RANJEET",
-            "COMPANY": "Ranjeet Mechatronics Ltd"
+            SYM: "RANJEET",
+            COM: "Ranjeet Mechatronics Ltd"
         },
         {
-            "SYM": "IRCON",
-            "COMPANY": "IRCON International Ltd"
+            SYM: "IRCON",
+            COM: "IRCON International Ltd"
         },
         {
-            "SYM": "SKYGOLD",
-            "COMPANY": "Sky Gold Ltd"
+            SYM: "SKYGOLD",
+            COM: "Sky Gold Ltd"
         },
         {
-            "SYM": "SETFSN50",
-            "COMPANY": "SBI - ETF - SENSEX NEXT 50"
+            SYM: "SETFSN50",
+            COM: "SBI - ETF - SENSEX NEXT 50"
         },
         {
-            "SYM": "MACH",
-            "COMPANY": "Mac Hotels Ltd"
+            SYM: "MACH",
+            COM: "Mac Hotels Ltd"
         },
         {
-            "SYM": "MANORAMA",
-            "COMPANY": "Manorama Industries Ltd"
+            SYM: "MANORAMA",
+            COM: "Manorama Industries Ltd"
         },
         {
-            "SYM": "INNOVATIVE",
-            "COMPANY": "Innovative Ideals and Services (India) Ltd"
+            SYM: "INNOVATIVE",
+            COM: "Innovative Ideals and Services (India) Ltd"
         },
         {
-            "SYM": "NIOSAG",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A RG GWTH31JN22"
+            SYM: "NIOSAG",
+            COM: "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A RG GWTH31JN22"
         },
         {
-            "SYM": "NIOSAD",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A RG DVP31JN22"
+            SYM: "NIOSAD",
+            COM: "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A RG DVP31JN22"
         },
         {
-            "SYM": "NIOSADG",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A DR GWTH31JN22"
+            SYM: "NIOSADG",
+            COM: "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A DR GWTH31JN22"
         },
         {
-            "SYM": "NIOSADD",
-            "COMPANY": "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A DR DVP31JN22"
+            SYM: "NIOSADD",
+            COM: "NIPPON INDIA MUTUAL FUND  INDIA OPPT FD  SR A DR DVP31JN22"
         },
         {
-            "SYM": "AAVAS",
-            "COMPANY": "AAVAS Financiers Ltd"
+            SYM: "AAVAS",
+            COM: "AAVAS Financiers Ltd"
         },
         {
-            "SYM": "GENERAAGRI",
-            "COMPANY": "Genera Agri Corp Ltd"
+            SYM: "GENERAAGRI",
+            COM: "Genera Agri Corp Ltd"
         },
         {
-            "SYM": "DCL",
-            "COMPANY": "Devoted Construction Ltd"
+            SYM: "DCL",
+            COM: "Devoted Construction Ltd"
         },
         {
-            "SYM": "GRSE",
-            "COMPANY": "Garden Reach Shipbuilders & Engineers Ltd"
+            SYM: "GRSE",
+            COM: "Garden Reach Shipbuilders & Engineers Ltd"
         },
         {
-            "SYM": "AAL",
-            "COMPANY": "A-1 Acid Ltd"
+            SYM: "AAL",
+            COM: "A-1 Acid Ltd"
         },
         {
-            "SYM": "DOLFIN",
-            "COMPANY": "Dolfin Rubbers Ltd"
+            SYM: "DOLFIN",
+            COM: "Dolfin Rubbers Ltd"
         },
         {
-            "SYM": "SHUBHAM",
-            "COMPANY": "Shubham Polyspin Ltd"
+            SYM: "SHUBHAM",
+            COM: "Shubham Polyspin Ltd"
         },
         {
-            "SYM": "AKI",
-            "COMPANY": "AKI India Ltd"
+            SYM: "AKI",
+            COM: "AKI India Ltd"
         },
         {
-            "SYM": "SUNRETAIL",
-            "COMPANY": "Sun Retail Ltd"
+            SYM: "SUNRETAIL",
+            COM: "Sun Retail Ltd"
         },
         {
-            "SYM": "SMGOLD",
-            "COMPANY": "S. M. Gold Ltd"
+            SYM: "SMGOLD",
+            COM: "S. M. Gold Ltd"
         },
         {
-            "SYM": "VIVIDM",
-            "COMPANY": "Vivid Mercantile Ltd"
+            SYM: "VIVIDM",
+            COM: "Vivid Mercantile Ltd"
         },
         {
-            "SYM": "BCPL",
-            "COMPANY": "BCPL Railway Infrastructure Ltd"
+            SYM: "BCPL",
+            COM: "BCPL Railway Infrastructure Ltd"
         },
         {
-            "SYM": "ATGL",
-            "COMPANY": "Adani Total Gas Ltd"
+            SYM: "ATGL",
+            COM: "Adani Total Gas Ltd"
         },
         {
-            "SYM": "NETRIPPLES",
-            "COMPANY": "Netripples Software Ltd"
+            SYM: "NETRIPPLES",
+            COM: "Netripples Software Ltd"
         },
         {
-            "SYM": "PHOSPHATE",
-            "COMPANY": "The Phosphate Company Ltd"
+            SYM: "PHOSPHATE",
+            COM: "The Phosphate Company Ltd"
         },
         {
-            "SYM": "MAN50ETF",
-            "COMPANY": "MIRAE ASSET NIFTY 50 ETF (MAN50ETF)"
+            SYM: "MAN50ETF",
+            COM: "MIRAE ASSET NIFTY 50 ETF (MAN50ETF)"
         },
         {
-            "SYM": "TECHNOE",
-            "COMPANY": "Techno Electric & Engineering Company Ltd"
+            SYM: "TECHNOE",
+            COM: "Techno Electric & Engineering Company Ltd"
         },
         {
-            "SYM": "RONI",
-            "COMPANY": "Roni Households Ltd"
+            SYM: "RONI",
+            COM: "Roni Households Ltd"
         },
         {
-            "SYM": "SKIFL",
-            "COMPANY": "Shree Krishna Infrastructure Ltd"
+            SYM: "SKIFL",
+            COM: "Shree Krishna Infrastructure Ltd"
         },
         {
-            "SYM": "DGL",
-            "COMPANY": "Diksha Greens Ltd"
+            SYM: "DGL",
+            COM: "Diksha Greens Ltd"
         },
         {
-            "SYM": "IPRU3218",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 5 - Cumulative Option"
+            SYM: "IPRU3218",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 5 - Cumulative Option"
         },
         {
-            "SYM": "IPRU3219",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 5 - Dividend Payout Option"
+            SYM: "IPRU3219",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 5 - Dividend Payout Option"
         },
         {
-            "SYM": "IPRU9420",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 5 -  Direct Plan - Cumulative Option"
+            SYM: "IPRU9420",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 5 -  Direct Plan - Cumulative Option"
         },
         {
-            "SYM": "IPRU9421",
-            "COMPANY": "ICICI Prudential Bharat Consumption Fund - Series 5 -  Direct Plan - Dividend Payout  Option"
+            SYM: "IPRU9421",
+            COM: "ICICI Prudential Bharat Consumption Fund - Series 5 -  Direct Plan - Dividend Payout  Option"
         },
         {
-            "SYM": "ARYAN",
-            "COMPANY": "Aryan Share and Stock Brokers Ltd"
+            SYM: "ARYAN",
+            COM: "Aryan Share and Stock Brokers Ltd"
         },
         {
-            "SYM": "NIVAKA",
-            "COMPANY": "Nivaka Fashions Ltd"
+            SYM: "NIVAKA",
+            COM: "Nivaka Fashions Ltd"
         },
         {
-            "SYM": "DALBHARAT",
-            "COMPANY": "Dalmia Bharat Ltd"
+            SYM: "DALBHARAT",
+            COM: "Dalmia Bharat Ltd"
         },
         {
-            "SYM": "ABSLNN50ET",
-            "COMPANY": "Aditya Birla Sun Life Nifty Next 50 ETF"
+            SYM: "ABSLNN50ET",
+            COM: "Aditya Birla Sun Life Nifty Next 50 ETF"
         },
         {
-            "SYM": "NILASPACES",
-            "COMPANY": "Nila Spaces Ltd"
+            SYM: "NILASPACES",
+            COM: "Nila Spaces Ltd"
         },
         {
-            "SYM": "SRD",
-            "COMPANY": "Shankar Lal Rampal Dye-Chem Ltd"
+            SYM: "SRD",
+            COM: "Shankar Lal Rampal Dye-Chem Ltd"
         },
         {
-            "SYM": "TREJHARA",
-            "COMPANY": "Trejhara Solutions Ltd"
+            SYM: "TREJHARA",
+            COM: "Trejhara Solutions Ltd"
         },
         {
-            "SYM": "AXISCCDID",
-            "COMPANY": "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;-"
+            SYM: "AXISCCDID",
+            COM: "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;-"
         },
         {
-            "SYM": "AXISCCDGG",
-            "COMPANY": "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;-Direct&#160;Plan&#160;-&#160;Growth&#160;Option"
+            SYM: "AXISCCDGG",
+            COM: "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;-Direct&#160;Plan&#160;-&#160;Growth&#160;Option"
         },
         {
-            "SYM": "AXISCCDPD",
-            "COMPANY": "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;-Regular&#160;Plan&#160;-&#160;Dividend&#160;Payout&#160;Option"
+            SYM: "AXISCCDPD",
+            COM: "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;-Regular&#160;Plan&#160;-&#160;Dividend&#160;Payout&#160;Option"
         },
         {
-            "SYM": "AXISCCGPG",
-            "COMPANY": "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;- Regular&#160;Plan&#160;-&#160;Growth&#160;Option"
+            SYM: "AXISCCGPG",
+            COM: "Axis&#160;Capital&#160;Builder&#160;Fund&#160;-&#160;Series&#160;4&#160;(1582&#160;days)&#160;- Regular&#160;Plan&#160;-&#160;Growth&#160;Option"
         },
         {
-            "SYM": "DECCAN",
-            "COMPANY": "Deccan Health Care Ltd"
+            SYM: "DECCAN",
+            COM: "Deccan Health Care Ltd"
         },
         {
-            "SYM": "AXITA",
-            "COMPANY": "Axita Cotton Ltd"
+            SYM: "AXITA",
+            COM: "Axita Cotton Ltd"
         },
         {
-            "SYM": "KPIGLOBAL",
-            "COMPANY": "K.P.I. Global Infrastructure Ltd"
+            SYM: "KPIGLOBAL",
+            COM: "K.P.I. Global Infrastructure Ltd"
         },
         {
-            "SYM": "HIKLASS",
-            "COMPANY": "Hi-Klass Trading and Investment Ltd"
+            SYM: "HIKLASS",
+            COM: "Hi-Klass Trading and Investment Ltd"
         },
         {
-            "SYM": "RPSGVENT",
-            "COMPANY": "RPSG Ventures Ltd"
+            SYM: "RPSGVENT",
+            COM: "RPSG Ventures Ltd"
         },
         {
-            "SYM": "SPENCER",
-            "COMPANY": "Spencers Retail Ltd"
+            SYM: "SPENCER",
+            COM: "Spencers Retail Ltd"
         },
         {
-            "SYM": "GLOSTERLTD",
-            "COMPANY": "Gloster Ltd"
+            SYM: "GLOSTERLTD",
+            COM: "Gloster Ltd"
         },
         {
-            "SYM": "XELPMOC",
-            "COMPANY": "Xelpmoc Design and Tech Ltd"
+            SYM: "XELPMOC",
+            COM: "Xelpmoc Design and Tech Ltd"
         },
         {
-            "SYM": "SPACAPS",
-            "COMPANY": "SPA Capital Services Ltd"
+            SYM: "SPACAPS",
+            COM: "SPA Capital Services Ltd"
         },
         {
-            "SYM": "AARSHYAM",
-            "COMPANY": "Aar Shyam India Investment Company Ltd"
+            SYM: "AARSHYAM",
+            COM: "Aar Shyam India Investment Company Ltd"
         },
         {
-            "SYM": "RITCO",
-            "COMPANY": "Ritco Logistics Ltd"
+            SYM: "RITCO",
+            COM: "Ritco Logistics Ltd"
         },
         {
-            "SYM": "CHALET",
-            "COMPANY": "Chalet Hotels Ltd"
+            SYM: "CHALET",
+            COM: "Chalet Hotels Ltd"
         },
         {
-            "SYM": "ANMOL",
-            "COMPANY": "Anmol India Ltd"
+            SYM: "ANMOL",
+            COM: "Anmol India Ltd"
         },
         {
-            "SYM": "JONJUA",
-            "COMPANY": "Jonjua Overseas Ltd"
+            SYM: "JONJUA",
+            COM: "Jonjua Overseas Ltd"
         },
         {
-            "SYM": "KRANTI",
-            "COMPANY": "Kranti Industries Ltd"
+            SYM: "KRANTI",
+            COM: "Kranti Industries Ltd"
         },
         {
-            "SYM": "ANUP",
-            "COMPANY": "The Anup Engineering Ltd"
+            SYM: "ANUP",
+            COM: "The Anup Engineering Ltd"
         },
         {
-            "SYM": "ARVINDFASN",
-            "COMPANY": "Arvind Fashions Ltd"
+            SYM: "ARVINDFASN",
+            COM: "Arvind Fashions Ltd"
         },
         {
-            "SYM": "UTISXN50",
-            "COMPANY": "UTI S&P BSE Sensex Next 50 ETF"
+            SYM: "UTISXN50",
+            COM: "UTI S&P BSE Sensex Next 50 ETF"
         },
         {
-            "SYM": "AIHL",
-            "COMPANY": "Ambassador Intra Holdings Ltd"
+            SYM: "AIHL",
+            COM: "Ambassador Intra Holdings Ltd"
         },
         {
-            "SYM": "JYOTIN",
-            "COMPANY": "Jyot International Marketing Ltd"
+            SYM: "JYOTIN",
+            COM: "Jyot International Marketing Ltd"
         },
         {
-            "SYM": "AGOL",
-            "COMPANY": "Ashapuri Gold Ornament Ltd"
+            SYM: "AGOL",
+            COM: "Ashapuri Gold Ornament Ltd"
         },
         {
-            "SYM": "AARTECH",
-            "COMPANY": "Aartech Solonics Ltd"
+            SYM: "AARTECH",
+            COM: "Aartech Solonics Ltd"
         },
         {
-            "SYM": "HBEL",
-            "COMPANY": "Humming Bird Education Ltd"
+            SYM: "HBEL",
+            COM: "Humming Bird Education Ltd"
         },
         {
-            "SYM": "MSTC",
-            "COMPANY": "MSTC Ltd"
+            SYM: "MSTC",
+            COM: "MSTC Ltd"
         },
         {
-            "SYM": "ROOPSHRI",
-            "COMPANY": "Roopshri Resorts Ltd"
+            SYM: "ROOPSHRI",
+            COM: "Roopshri Resorts Ltd"
         },
         {
-            "SYM": "CHANDNIMACH",
-            "COMPANY": "Chandni Machines Ltd"
+            SYM: "CHANDNIMACH",
+            COM: "Chandni Machines Ltd"
         },
         {
-            "SYM": "NSL",
-            "COMPANY": "Northern Spirits Ltd"
+            SYM: "NSL",
+            COM: "Northern Spirits Ltd"
         },
         {
-            "SYM": "RVNL",
-            "COMPANY": "Rail Vikas Nigam Ltd"
+            SYM: "RVNL",
+            COM: "Rail Vikas Nigam Ltd"
         },
         {
-            "SYM": "METROPOLIS",
-            "COMPANY": "Metropolis Healthcare Ltd"
+            SYM: "METROPOLIS",
+            COM: "Metropolis Healthcare Ltd"
         },
         {
-            "SYM": "KPITTECH",
-            "COMPANY": "KPIT Technologies Ltd"
+            SYM: "KPITTECH",
+            COM: "KPIT Technologies Ltd"
         },
         {
-            "SYM": "POLYCAB",
-            "COMPANY": "Polycab India Ltd"
+            SYM: "POLYCAB",
+            COM: "Polycab India Ltd"
         },
         {
-            "SYM": "JINAAM",
-            "COMPANY": "Jinaams Dress Ltd"
+            SYM: "JINAAM",
+            COM: "Jinaams Dress Ltd"
         },
         {
-            "SYM": "VRFILMS",
-            "COMPANY": "V R Films & Studios Ltd"
+            SYM: "VRFILMS",
+            COM: "V R Films & Studios Ltd"
         },
         {
-            "SYM": "VIKASLIFE",
-            "COMPANY": "Vikas Lifecare Ltd"
+            SYM: "VIKASLIFE",
+            COM: "Vikas Lifecare Ltd"
         },
         {
-            "SYM": "NEOGEN",
-            "COMPANY": "Neogen Chemicals Ltd"
+            SYM: "NEOGEN",
+            COM: "Neogen Chemicals Ltd"
         },
         {
-            "SYM": "GKP",
-            "COMPANY": "G. K. P. Printing & Packaging Ltd"
+            SYM: "GKP",
+            COM: "G. K. P. Printing & Packaging Ltd"
         },
         {
-            "SYM": "WORL",
-            "COMPANY": "White Organic Retail Ltd"
+            SYM: "WORL",
+            COM: "White Organic Retail Ltd"
         },
         {
-            "SYM": "EVANS",
-            "COMPANY": "Evans Electric Ltd"
+            SYM: "EVANS",
+            COM: "Evans Electric Ltd"
         },
         {
-            "SYM": "BMW",
-            "COMPANY": "BMW Industries Ltd"
+            SYM: "BMW",
+            COM: "BMW Industries Ltd"
         },
         {
-            "SYM": "ARTEMISELC",
-            "COMPANY": "Artemis Electricals Ltd"
+            SYM: "ARTEMISELC",
+            COM: "Artemis Electricals Ltd"
         },
         {
-            "SYM": "MAHESH",
-            "COMPANY": "Mahesh Developers Ltd"
+            SYM: "MAHESH",
+            COM: "Mahesh Developers Ltd"
         },
         {
-            "SYM": "CHCL",
-            "COMPANY": "Cian Healthcare Ltd"
+            SYM: "CHCL",
+            COM: "Cian Healthcare Ltd"
         },
         {
-            "SYM": "DEL",
-            "COMPANY": "Dhanashree Electronics Ltd"
+            SYM: "DEL",
+            COM: "Dhanashree Electronics Ltd"
         },
         {
-            "SYM": "PPL",
-            "COMPANY": "Prakash Pipes Ltd"
+            SYM: "PPL",
+            COM: "Prakash Pipes Ltd"
         },
         {
-            "SYM": "DGCONTENT",
-            "COMPANY": "Digicontent Ltd"
+            SYM: "DGCONTENT",
+            COM: "Digicontent Ltd"
         },
         {
-            "SYM": "PARSHVA",
-            "COMPANY": "Parshva Enterprises Ltd"
+            SYM: "PARSHVA",
+            COM: "Parshva Enterprises Ltd"
         },
         {
-            "SYM": "ARL",
-            "COMPANY": "Anand Rayons Ltd"
+            SYM: "ARL",
+            COM: "Anand Rayons Ltd"
         },
         {
-            "SYM": "EARUM",
-            "COMPANY": "Earum Pharmaceuticals Ltd"
+            SYM: "EARUM",
+            COM: "Earum Pharmaceuticals Ltd"
         },
         {
-            "SYM": "SBC",
-            "COMPANY": "SBC Exports Ltd"
+            SYM: "SBC",
+            COM: "SBC Exports Ltd"
         },
         {
-            "SYM": "INDIAMART",
-            "COMPANY": "IndiaMART InterMESH Ltd"
+            SYM: "INDIAMART",
+            COM: "IndiaMART InterMESH Ltd"
         },
         {
-            "SYM": "CPML",
-            "COMPANY": "City Pulse Multiplex Ltd"
+            SYM: "CPML",
+            COM: "City Pulse Multiplex Ltd"
         },
         {
-            "SYM": "SKIEL",
-            "COMPANY": "SK International Export Ltd"
+            SYM: "SKIEL",
+            COM: "SK International Export Ltd"
         },
         {
-            "SYM": "DCMNVL",
-            "COMPANY": "DCM Nouvelle Ltd"
+            SYM: "DCMNVL",
+            COM: "DCM Nouvelle Ltd"
         },
         {
-            "SYM": "ICICIBANKN",
-            "COMPANY": "ICICI Prudential Bank ETF"
+            SYM: "ICICIBANKN",
+            COM: "ICICI Prudential Bank ETF"
         },
         {
-            "SYM": "NETFSNX150",
-            "COMPANY": "NIPPON INDIA ETF SENSEX NEXT 50"
+            SYM: "NETFSNX150",
+            COM: "NIPPON INDIA ETF SENSEX NEXT 50"
         },
         {
-            "SYM": "AFFLE",
-            "COMPANY": "Affle (India) Ltd"
+            SYM: "AFFLE",
+            COM: "Affle (India) Ltd"
         },
         {
-            "SYM": "SEACOAST",
-            "COMPANY": "Seacoast Shipping Services Ltd"
+            SYM: "SEACOAST",
+            COM: "Seacoast Shipping Services Ltd"
         },
         {
-            "SYM": "ICICIBANKP",
-            "COMPANY": "ICICI Prudential Private Banks ETF"
+            SYM: "ICICIBANKP",
+            COM: "ICICI Prudential Private Banks ETF"
         },
         {
-            "SYM": "SPANDANA",
-            "COMPANY": "Spandana Sphoorty Financial Ltd"
+            SYM: "SPANDANA",
+            COM: "Spandana Sphoorty Financial Ltd"
         },
         {
-            "SYM": "SWSOLAR",
-            "COMPANY": "Sterling and Wilson Solar Ltd"
+            SYM: "SWSOLAR",
+            COM: "Sterling and Wilson Solar Ltd"
         },
         {
-            "SYM": "NOVATEOR",
-            "COMPANY": "Novateor Research Laboratories Ltd"
+            SYM: "NOVATEOR",
+            COM: "Novateor Research Laboratories Ltd"
         },
         {
-            "SYM": "IIFLWAM",
-            "COMPANY": "IIFL Wealth Management Ltd"
+            SYM: "IIFLWAM",
+            COM: "IIFL Wealth Management Ltd"
         },
         {
-            "SYM": "IIFLSEC",
-            "COMPANY": "IIFL Securities Ltd"
+            SYM: "IIFLSEC",
+            COM: "IIFL Securities Ltd"
         },
         {
-            "SYM": "APMFINVEST",
-            "COMPANY": "APM Finvest Ltd"
+            SYM: "APMFINVEST",
+            COM: "APM Finvest Ltd"
         },
         {
-            "SYM": "MISQUITA",
-            "COMPANY": "Misquita Engineering Ltd"
+            SYM: "MISQUITA",
+            COM: "Misquita Engineering Ltd"
         },
         {
-            "SYM": "GALACTICO",
-            "COMPANY": "Galactico Corporate Services Ltd"
+            SYM: "GALACTICO",
+            COM: "Galactico Corporate Services Ltd"
         },
         {
-            "SYM": "ELLORATRAD",
-            "COMPANY": "Ellora Trading Ltd"
+            SYM: "ELLORATRAD",
+            COM: "Ellora Trading Ltd"
         },
         {
-            "SYM": "NIESSPJ",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "NIESSPJ",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIESSPI",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIESSPI",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIESSPB",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT BONUS PLAN BONUS"
+            SYM: "NIESSPB",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT BONUS PLAN BONUS"
         },
         {
-            "SYM": "NIESSPO",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "NIESSPO",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIESSPC",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIESSPC",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIESSPP",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIESSPP",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIESSPA",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - BONUS PLANBONUS"
+            SYM: "NIESSPA",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - BONUS PLANBONUS"
         },
         {
-            "SYM": "NIESSPG",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIESSPG",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "FLUOROCHEM",
-            "COMPANY": "Gujarat Fluorochemicals Ltd"
+            SYM: "FLUOROCHEM",
+            COM: "Gujarat Fluorochemicals Ltd"
         },
         {
-            "SYM": "NIEHSPA",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1- DIRECT DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIEHSPA",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1- DIRECT DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIEHSPB",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIEHSPB",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIEHSPC",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIEHSPC",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIEHSPF",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIEHSPF",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIEHSPI",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIEHSPI",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIEHSPK",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIEHSPK",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIEHSPM",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIEHSPM",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIEHSPN",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIEHSPN",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "IRCTC",
-            "COMPANY": "Indian Railway Catering and Tourism Corporation Ltd"
+            SYM: "IRCTC",
+            COM: "Indian Railway Catering and Tourism Corporation Ltd"
         },
         {
-            "SYM": "NIESSPD",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIESSPD",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIESSPE",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT GROWTH PLAN GROWTH"
+            SYM: "NIESSPE",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT GROWTH PLAN GROWTH"
         },
         {
-            "SYM": "NIESSPF",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIESSPF",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT MONTHLY DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIEHSPD",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - GROWTH PLAN GROWTH"
+            SYM: "NIEHSPD",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - GROWTH PLAN GROWTH"
         },
         {
-            "SYM": "NIESSPH",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIESSPH",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIRECT QUARTERLY DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIEHSPE",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIEHSPE",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - QUARTERLY DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIESSPK",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIESSPK",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIEHSPG",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT GROWTH PLAN GROWTH"
+            SYM: "NIEHSPG",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIRECT GROWTH PLAN GROWTH"
         },
         {
-            "SYM": "NIEHSPH",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIEHSPH",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIEHSPJ",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIEHSPJ",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "NIEHSPL",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLAN DIVIDEND PAYOUT"
+            SYM: "NIEHSPL",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -&#160;SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLAN DIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIESSPL",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - GROWTH PLAN GROWTH"
+            SYM: "NIESSPL",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - GROWTH PLAN GROWTH"
         },
         {
-            "SYM": "NIESSPM",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "NIESSPM",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "NIESSPN",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLAN REINVESTMENT"
+            SYM: "NIESSPN",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND - SEGREGATED PORTFOLIO 1 - MONTHLY DIVIDEND PLAN REINVESTMENT"
         },
         {
-            "SYM": "GOBLIN",
-            "COMPANY": "Goblin India Ltd"
+            SYM: "GOBLIN",
+            COM: "Goblin India Ltd"
         },
         {
-            "SYM": "GENSOL",
-            "COMPANY": "Gensol Engineering Ltd"
+            SYM: "GENSOL",
+            COM: "Gensol Engineering Ltd"
         },
         {
-            "SYM": "VISHWARAJ",
-            "COMPANY": "Vishwaraj Sugar Industries Ltd"
+            SYM: "VISHWARAJ",
+            COM: "Vishwaraj Sugar Industries Ltd"
         },
         {
-            "SYM": "GREENPANEL",
-            "COMPANY": "Greenpanel Industries Ltd"
+            SYM: "GREENPANEL",
+            COM: "Greenpanel Industries Ltd"
         },
         {
-            "SYM": "SHAHLON",
-            "COMPANY": "Shahlon Silk Industries Ltd"
+            SYM: "SHAHLON",
+            COM: "Shahlon Silk Industries Ltd"
         },
         {
-            "SYM": "ABSLBANETF",
-            "COMPANY": "ADITYA BIRLA SUN LIFE BANKING ETF"
+            SYM: "ABSLBANETF",
+            COM: "ADITYA BIRLA SUN LIFE BANKING ETF"
         },
         {
-            "SYM": "MOUNT",
-            "COMPANY": "Mount Housing and Infrastructure Ltd"
+            SYM: "MOUNT",
+            COM: "Mount Housing and Infrastructure Ltd"
         },
         {
-            "SYM": "ANUROOP",
-            "COMPANY": "Anuroop Packaging Ltd"
+            SYM: "ANUROOP",
+            COM: "Anuroop Packaging Ltd"
         },
         {
-            "SYM": "JSGLEASING",
-            "COMPANY": "JSG Leasing Ltd"
+            SYM: "JSGLEASING",
+            COM: "JSG Leasing Ltd"
         },
         {
-            "SYM": "CSBBANK",
-            "COMPANY": "CSB Bank Ltd"
+            SYM: "CSBBANK",
+            COM: "CSB Bank Ltd"
         },
         {
-            "SYM": "UJJIVANSFB",
-            "COMPANY": "Ujjivan Small Finance Bank Ltd"
+            SYM: "UJJIVANSFB",
+            COM: "Ujjivan Small Finance Bank Ltd"
         },
         {
-            "SYM": "SHIL",
-            "COMPANY": "Somany Home Innovation Ltd"
+            SYM: "SHIL",
+            COM: "Somany Home Innovation Ltd"
         },
         {
-            "SYM": "EASUN",
-            "COMPANY": "Easun Capital Markets Ltd"
+            SYM: "EASUN",
+            COM: "Easun Capital Markets Ltd"
         },
         {
-            "SYM": "PRINCEPIPE",
-            "COMPANY": "Prince Pipes and Fittings Ltd"
+            SYM: "PRINCEPIPE",
+            COM: "Prince Pipes and Fittings Ltd"
         },
         {
-            "SYM": "ASSAMENT",
-            "COMPANY": "Assam Entrade Ltd"
+            SYM: "ASSAMENT",
+            COM: "Assam Entrade Ltd"
         },
         {
-            "SYM": "GIANLIFE",
-            "COMPANY": "Gian Life Care Ltd"
+            SYM: "GIANLIFE",
+            COM: "Gian Life Care Ltd"
         },
         {
-            "SYM": "ARTEMISMED",
-            "COMPANY": "Artemis Medicare Services Ltd"
+            SYM: "ARTEMISMED",
+            COM: "Artemis Medicare Services Ltd"
         },
         {
-            "SYM": "SUMICHEM",
-            "COMPANY": "Sumitomo Chemical India Ltd"
+            SYM: "SUMICHEM",
+            COM: "Sumitomo Chemical India Ltd"
         },
         {
-            "SYM": "ICICIM150",
-            "COMPANY": "ICICI Prudential Midcap 150 ETF"
+            SYM: "ICICIM150",
+            COM: "ICICI Prudential Midcap 150 ETF"
         },
         {
-            "SYM": "MANXT50ETF",
-            "COMPANY": "Mirae Asset Nifty Next 50 ETF (MANXT50ETF)"
+            SYM: "MANXT50ETF",
+            COM: "Mirae Asset Nifty Next 50 ETF (MANXT50ETF)"
         },
         {
-            "SYM": "JANUSCORP",
-            "COMPANY": "Janus Corporation Ltd"
+            SYM: "JANUSCORP",
+            COM: "Janus Corporation Ltd"
         },
         {
-            "SYM": "VARDHANCFL",
-            "COMPANY": "Vardhan Capital & Finance Ltd"
+            SYM: "VARDHANCFL",
+            COM: "Vardhan Capital & Finance Ltd"
         },
         {
-            "SYM": "BIRLATYRES",
-            "COMPANY": "Birla Tyres Ltd"
+            SYM: "BIRLATYRES",
+            COM: "Birla Tyres Ltd"
         },
         {
-            "SYM": "UNIVPHOTO",
-            "COMPANY": "Universus Photo Imagings Ltd"
+            SYM: "UNIVPHOTO",
+            COM: "Universus Photo Imagings Ltd"
         },
         {
-            "SYM": "CBPL",
-            "COMPANY": "Chandra Bhagat Pharma Ltd"
+            SYM: "CBPL",
+            COM: "Chandra Bhagat Pharma Ltd"
         },
         {
-            "SYM": "ICLORGANIC",
-            "COMPANY": "ICL Organic Dairy Products Ltd"
+            SYM: "ICLORGANIC",
+            COM: "ICL Organic Dairy Products Ltd"
         },
         {
-            "SYM": "OCTAVIUSPL",
-            "COMPANY": "Octavius Plantations Ltd"
+            SYM: "OCTAVIUSPL",
+            COM: "Octavius Plantations Ltd"
         },
         {
-            "SYM": "SUVENPHAR",
-            "COMPANY": "Suven Pharmaceuticals Ltd"
+            SYM: "SUVENPHAR",
+            COM: "Suven Pharmaceuticals Ltd"
         },
         {
-            "SYM": "SMAUTO",
-            "COMPANY": "SM Auto Stamping Ltd"
+            SYM: "SMAUTO",
+            COM: "SM Auto Stamping Ltd"
         },
         {
-            "SYM": "SBICARD",
-            "COMPANY": "SBI Cards and Payment Services Ltd"
+            SYM: "SBICARD",
+            COM: "SBI Cards and Payment Services Ltd"
         },
         {
-            "SYM": "08MPD",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08MPD",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08ADR",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08ADR",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08MPR",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08MPR",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08AMD",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08AMD",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08AMR",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08AMR",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT MONTHLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08BPB",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - BONUS PLAN(Issue Price: 0.01)"
+            SYM: "08BPB",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - BONUS PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08GPG",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - GROWTH PLAN(Issue Price: 0.01)"
+            SYM: "08GPG",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - GROWTH PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08ABB",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT BONUS PLAN(Issue Price: 0.01)"
+            SYM: "08ABB",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT BONUS PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08QPD",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08QPD",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08AGG",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT GROWTH PLAN(Issue Price: 0.01)"
+            SYM: "08AGG",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT GROWTH PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08QPR",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08QPR",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08AQD",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08AQD",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08DPD",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08DPD",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08AQR",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08AQR",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT QUARTERLY DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08DPR",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08DPR",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "08ADD",
-            "COMPANY": "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT DIVIDEND PLAN(Issue Price: 0.01)"
+            SYM: "08ADD",
+            COM: "NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - DIRECT DIVIDEND PLAN(Issue Price: 0.01)"
         },
         {
-            "SYM": "ROJL",
-            "COMPANY": "RO Jewels Ltd"
+            SYM: "ROJL",
+            COM: "RO Jewels Ltd"
         },
         {
-            "SYM": "COSPOWER",
-            "COMPANY": "Cospower Engineering Ltd"
+            SYM: "COSPOWER",
+            COM: "Cospower Engineering Ltd"
         },
         {
-            "SYM": "11DPR",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIVIDEND PLANDIVIDEND REINVESTMENT"
+            SYM: "11DPR",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIVIDEND PLANDIVIDEND REINVESTMENT"
         },
         {
-            "SYM": "11GPG",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2GROWTH PLAN GROWTH OPTIONGROWTH"
+            SYM: "11GPG",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2GROWTH PLAN GROWTH OPTIONGROWTH"
         },
         {
-            "SYM": "11MPD",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2MONTHLY DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "11MPD",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2MONTHLY DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "11MPR",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2MONTHLY DIVIDEND PLANREINVESTMENT"
+            SYM: "11MPR",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2MONTHLY DIVIDEND PLANREINVESTMENT"
         },
         {
-            "SYM": "11QPD",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2QUARTERLY DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "11QPD",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2QUARTERLY DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "11QPR",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2QUARTERLY DIVIDEND PLANREINVESTMENT"
+            SYM: "11QPR",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2QUARTERLY DIVIDEND PLANREINVESTMENT"
         },
         {
-            "SYM": "11ADD",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT PLAN DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "11ADD",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT PLAN DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "11ADR",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT PLAN DIVIDEND PLANDIVIDEND REINVESTMENT"
+            SYM: "11ADR",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT PLAN DIVIDEND PLANDIVIDEND REINVESTMENT"
         },
         {
-            "SYM": "11AGG",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT GROWTH PLAN GROWTH OPTIONGROWTH"
+            SYM: "11AGG",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT GROWTH PLAN GROWTH OPTIONGROWTH"
         },
         {
-            "SYM": "11AMD",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT MONTHLY DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "11AMD",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT MONTHLY DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "11AMR",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT MONTHLY DIVIDEND PLANREINVESTMENT"
+            SYM: "11AMR",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT MONTHLY DIVIDEND PLANREINVESTMENT"
         },
         {
-            "SYM": "11AQD",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT QUARTERLY DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "11AQD",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT QUARTERLY DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "11AQR",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT QUARTERLY DIVIDEND PLANREINVESTMENT"
+            SYM: "11AQR",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIRECT QUARTERLY DIVIDEND PLANREINVESTMENT"
         },
         {
-            "SYM": "11DPD",
-            "COMPANY": "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIVIDEND PLANDIVIDEND PAYOUT"
+            SYM: "11DPD",
+            COM: "NIPPON INDIA EQUITY HYBRID FUND -  SEGREGATED PORTFOLIO 2DIVIDEND PLANDIVIDEND PAYOUT"
         },
         {
-            "SYM": "POWERINDIA",
-            "COMPANY": "ABB Power Products and Systems India Ltd"
+            SYM: "POWERINDIA",
+            COM: "ABB Power Products and Systems India Ltd"
         },
         {
-            "SYM": "DJML",
-            "COMPANY": "DJ Mediaprint & Logistics Ltd"
+            SYM: "DJML",
+            COM: "DJ Mediaprint & Logistics Ltd"
         },
         {
-            "SYM": "NATURAL",
-            "COMPANY": "Natural Biocon (India) Ltd"
+            SYM: "NATURAL",
+            COM: "Natural Biocon (India) Ltd"
         },
         {
-            "SYM": "BHARTIA",
-            "COMPANY": "Bhartia Bachat Ltd"
+            SYM: "BHARTIA",
+            COM: "Bhartia Bachat Ltd"
         },
         {
-            "SYM": "BILLWIN",
-            "COMPANY": "Billwin Industries Ltd"
+            SYM: "BILLWIN",
+            COM: "Billwin Industries Ltd"
         },
         {
-            "SYM": "AARTISURF",
-            "COMPANY": "Aarti Surfactants Ltd"
+            SYM: "AARTISURF",
+            COM: "Aarti Surfactants Ltd"
         },
         {
-            "SYM": "BONLON",
-            "COMPANY": "Bonlon Industries Ltd"
+            SYM: "BONLON",
+            COM: "Bonlon Industries Ltd"
         },
         {
-            "SYM": "BOROLTD",
-            "COMPANY": "Borosil Ltd"
+            SYM: "BOROLTD",
+            COM: "Borosil Ltd"
         },
         {
-            "SYM": "ROSSARI",
-            "COMPANY": "Rossari Biotech Ltd"
+            SYM: "ROSSARI",
+            COM: "Rossari Biotech Ltd"
         },
         {
-            "SYM": "NDRAUTO",
-            "COMPANY": "NDR Auto Components Ltd"
+            SYM: "NDRAUTO",
+            COM: "NDR Auto Components Ltd"
         },
         {
-            "SYM": "SBGLP",
-            "COMPANY": "Suratwwala Business Group Ltd"
+            SYM: "SBGLP",
+            COM: "Suratwwala Business Group Ltd"
         },
         {
-            "SYM": "ICICIALPLV",
-            "COMPANY": "&#160;ICICI Prudential Alpha Low Vol 30 ETF&#160;"
+            SYM: "ICICIALPLV",
+            COM: "&#160;ICICI Prudential Alpha Low Vol 30 ETF&#160;"
         },
         {
-            "SYM": "MAXHEALTH",
-            "COMPANY": "Max Healthcare Institute Ltd"
+            SYM: "MAXHEALTH",
+            COM: "Max Healthcare Institute Ltd"
         },
         {
-            "SYM": "ICICITECH",
-            "COMPANY": "ICICI Prudential IT ETF"
+            SYM: "ICICITECH",
+            COM: "ICICI Prudential IT ETF"
         },
         {
-            "SYM": "MAXINDIA",
-            "COMPANY": "Max India Ltd"
+            SYM: "MAXINDIA",
+            COM: "Max India Ltd"
         },
         {
-            "SYM": "HBANKETF",
-            "COMPANY": "HDFC Banking ETF"
+            SYM: "HBANKETF",
+            COM: "HDFC Banking ETF"
         },
         {
-            "SYM": "UTIBANKETF",
-            "COMPANY": "UTI Bank Exchange Traded Fund (UTI Bank ETF)"
+            SYM: "UTIBANKETF",
+            COM: "UTI Bank Exchange Traded Fund (UTI Bank ETF)"
         },
         {
-            "SYM": "HAPPSTMNDS",
-            "COMPANY": "Happiest Minds Technologies Ltd"
+            SYM: "HAPPSTMNDS",
+            COM: "Happiest Minds Technologies Ltd"
         },
         {
-            "SYM": "ROUTE",
-            "COMPANY": "Route Mobile Ltd"
+            SYM: "ROUTE",
+            COM: "Route Mobile Ltd"
         },
         {
-            "SYM": "SAMRATFORG",
-            "COMPANY": "Samrat Forgings Ltd"
+            SYM: "SAMRATFORG",
+            COM: "Samrat Forgings Ltd"
         },
         {
-            "SYM": "ADVAIT",
-            "COMPANY": "Advait Infratech Ltd"
+            SYM: "ADVAIT",
+            COM: "Advait Infratech Ltd"
         },
         {
-            "SYM": "ADL",
-            "COMPANY": "Archidply Decor Ltd"
+            SYM: "ADL",
+            COM: "Archidply Decor Ltd"
         },
         {
-            "SYM": "CAMS",
-            "COMPANY": "Computer Age Management Services Ltd"
+            SYM: "CAMS",
+            COM: "Computer Age Management Services Ltd"
         },
         {
-            "SYM": "CHEMCON",
-            "COMPANY": "Chemcon Speciality Chemicals Ltd"
+            SYM: "CHEMCON",
+            COM: "Chemcon Speciality Chemicals Ltd"
         },
         {
-            "SYM": "SECMARK",
-            "COMPANY": "SecMark Consultancy Ltd"
+            SYM: "SECMARK",
+            COM: "SecMark Consultancy Ltd"
         },
         {
-            "SYM": "ANGELBRKG",
-            "COMPANY": "Angel Broking Ltd"
+            SYM: "ANGELBRKG",
+            COM: "Angel Broking Ltd"
         },
         {
-            "SYM": "ATAM",
-            "COMPANY": "Atam Valves Ltd"
+            SYM: "ATAM",
+            COM: "Atam Valves Ltd"
         },
         {
-            "SYM": "MAZDOCK",
-            "COMPANY": "Mazagon Dock Shipbuilders Ltd"
+            SYM: "MAZDOCK",
+            COM: "Mazagon Dock Shipbuilders Ltd"
         },
         {
-            "SYM": "UTIAMC",
-            "COMPANY": "UTI Asset Management Company Ltd"
+            SYM: "UTIAMC",
+            COM: "UTI Asset Management Company Ltd"
         },
         {
-            "SYM": "GMPL",
-            "COMPANY": "G M Polyplast Ltd"
+            SYM: "GMPL",
+            COM: "G M Polyplast Ltd"
         },
         {
-            "SYM": "LIKHITHA",
-            "COMPANY": "Likhitha Infrastructure Ltd"
+            SYM: "LIKHITHA",
+            COM: "Likhitha Infrastructure Ltd"
         },
         {
-            "SYM": "VGIL",
-            "COMPANY": "Veer Global Infraconstruction Ltd"
+            SYM: "VGIL",
+            COM: "Veer Global Infraconstruction Ltd"
         },
         {
-            "SYM": "HEMIPROP",
-            "COMPANY": "Hemisphere Properties India Ltd"
+            SYM: "HEMIPROP",
+            COM: "Hemisphere Properties India Ltd"
         },
         {
-            "SYM": "EQUITASBNK",
-            "COMPANY": "Equitas Small Finance Bank Ltd"
+            SYM: "EQUITASBNK",
+            COM: "Equitas Small Finance Bank Ltd"
         },
         {
-            "SYM": "SHINEFASH",
-            "COMPANY": "Shine Fashions (India) Ltd"
+            SYM: "SHINEFASH",
+            COM: "Shine Fashions (India) Ltd"
         },
         {
-            "SYM": "GLAND",
-            "COMPANY": "Gland Pharma Ltd"
+            SYM: "GLAND",
+            COM: "Gland Pharma Ltd"
         },
         {
-            "SYM": "MAESGETF",
-            "COMPANY": "Mirae Asset ESG Sector Leaders ETF"
+            SYM: "MAESGETF",
+            COM: "Mirae Asset ESG Sector Leaders ETF"
         },
         {
-            "SYM": "NETPIX",
-            "COMPANY": "Net Pix Shorts Digital Media Ltd"
+            SYM: "NETPIX",
+            COM: "Net Pix Shorts Digital Media Ltd"
         },
         {
-            "SYM": "BURGERKING",
-            "COMPANY": "Burger King India Ltd"
+            SYM: "BURGERKING",
+            COM: "Burger King India Ltd"
         },
         {
-            "SYM": "TARC",
-            "COMPANY": "Tarc Ltd"
+            SYM: "TARC",
+            COM: "Tarc Ltd"
         },
         {
-            "SYM": "RVHL",
-            "COMPANY": "Ravinder Heights Ltd"
+            SYM: "RVHL",
+            COM: "Ravinder Heights Ltd"
         },
         {
-            "SYM": "FAIRCHEMOR",
-            "COMPANY": "Fairchem Organics Ltd"
+            SYM: "FAIRCHEMOR",
+            COM: "Fairchem Organics Ltd"
         },
         {
-            "SYM": "BECTORFOOD",
-            "COMPANY": "Mrs. Bectors Food Specialities Ltd"
+            SYM: "BECTORFOOD",
+            COM: "Mrs. Bectors Food Specialities Ltd"
         },
         {
-            "SYM": "AWHCL",
-            "COMPANY": "Antony Waste Handling Cell Ltd"
+            SYM: "AWHCL",
+            COM: "Antony Waste Handling Cell Ltd"
         },
         {
-            "SYM": "INFRABEES",
-            "COMPANY": "NIPPON INDIA ETF INFRA BeES"
+            SYM: "INFRABEES",
+            COM: "NIPPON INDIA ETF INFRA BeES"
         },
         {
-            "SYM": "RFLL",
-            "COMPANY": "Rita Finance and Leasing Ltd"
+            SYM: "RFLL",
+            COM: "Rita Finance and Leasing Ltd"
         },
         {
-            "SYM": "IRFC",
-            "COMPANY": "Indian Railway Finance Corporation Ltd"
+            SYM: "IRFC",
+            COM: "Indian Railway Finance Corporation Ltd"
         },
         {
-            "SYM": "INDIGOPNTS",
-            "COMPANY": "Indigo Paints Ltd"
+            SYM: "INDIGOPNTS",
+            COM: "Indigo Paints Ltd"
         },
         {
-            "SYM": "HOMEFIRST",
-            "COMPANY": "Home First Finance Company India Ltd"
+            SYM: "HOMEFIRST",
+            COM: "Home First Finance Company India Ltd"
         },
         {
-            "SYM": "STOVEKRAFT",
-            "COMPANY": "Stove Kraft Ltd"
+            SYM: "STOVEKRAFT",
+            COM: "Stove Kraft Ltd"
         },
         {
-            "SYM": "MRP",
-            "COMPANY": "MRP Agro Ltd"
+            SYM: "MRP",
+            COM: "MRP Agro Ltd"
         },
         {
-            "SYM": "SMCGLOBAL",
-            "COMPANY": "SMC Global Securities Ltd"
+            SYM: "SMCGLOBAL",
+            COM: "SMC Global Securities Ltd"
         },
         {
-            "SYM": "NURECA",
-            "COMPANY": "Nureca Ltd"
+            SYM: "NURECA",
+            COM: "Nureca Ltd"
         },
         {
-            "SYM": "RAILTEL",
-            "COMPANY": "RailTel Corporation of India Ltd"
+            SYM: "RAILTEL",
+            COM: "RailTel Corporation of India Ltd"
         },
         {
-            "SYM": "HERANBA",
-            "COMPANY": "Heranba Industries Ltd"
+            SYM: "HERANBA",
+            COM: "Heranba Industries Ltd"
         },
         {
-            "SYM": "DAVANGERE",
-            "COMPANY": "Davangere Sugar Company Ltd"
+            SYM: "DAVANGERE",
+            COM: "Davangere Sugar Company Ltd"
         },
         {
-            "SYM": "DRCSYSTEMS",
-            "COMPANY": "DRC Systems India Ltd"
+            SYM: "DRCSYSTEMS",
+            COM: "DRC Systems India Ltd"
         },
         {
-            "SYM": "MTARTECH",
-            "COMPANY": "MTAR Technologies Ltd"
+            SYM: "MTARTECH",
+            COM: "MTAR Technologies Ltd"
         },
         {
-            "SYM": "JUBLINGREA",
-            "COMPANY": "Jubilant Ingrevia Ltd"
+            SYM: "JUBLINGREA",
+            COM: "Jubilant Ingrevia Ltd"
         },
         {
-            "SYM": "EASEMYTRIP",
-            "COMPANY": "Easy Trip Planners Ltd"
+            SYM: "EASEMYTRIP",
+            COM: "Easy Trip Planners Ltd"
         },
         {
-            "SYM": "KMEW",
-            "COMPANY": "Knowledge Marine & Engineering Works Ltd"
+            SYM: "KMEW",
+            COM: "Knowledge Marine & Engineering Works Ltd"
         },
         {
-            "SYM": "RTL",
-            "COMPANY": "Rangoli Tradecomm Ltd"
+            SYM: "RTL",
+            COM: "Rangoli Tradecomm Ltd"
         },
         {
-            "SYM": "ANURAS",
-            "COMPANY": "Anupam Rasayan India Ltd"
+            SYM: "ANURAS",
+            COM: "Anupam Rasayan India Ltd"
         },
         {
-            "SYM": "CRAFTSMAN",
-            "COMPANY": "Craftsman Automation Ltd"
+            SYM: "CRAFTSMAN",
+            COM: "Craftsman Automation Ltd"
         },
         {
-            "SYM": "LXCHEM",
-            "COMPANY": "Laxmi Organic Industries Ltd"
+            SYM: "LXCHEM",
+            COM: "Laxmi Organic Industries Ltd"
         },
         {
-            "SYM": "KALYANKJIL",
-            "COMPANY": "Kalyan Jewellers India Ltd"
+            SYM: "KALYANKJIL",
+            COM: "Kalyan Jewellers India Ltd"
         },
         {
-            "SYM": "SURYODAY",
-            "COMPANY": "Suryoday Small Finance Bank Ltd"
+            SYM: "SURYODAY",
+            COM: "Suryoday Small Finance Bank Ltd"
         },
         {
-            "SYM": "NAZARA",
-            "COMPANY": "Nazara Technologies Ltd"
+            SYM: "NAZARA",
+            COM: "Nazara Technologies Ltd"
         },
         {
-            "SYM": "SUVIDHAA",
-            "COMPANY": "Suvidhaa Infoserve Ltd"
+            SYM: "SUVIDHAA",
+            COM: "Suvidhaa Infoserve Ltd"
         },
         {
-            "SYM": "NIKSTECH",
-            "COMPANY": "Niks Technology Ltd"
+            SYM: "NIKSTECH",
+            COM: "Niks Technology Ltd"
         },
         {
-            "SYM": "BARBEQUE",
-            "COMPANY": "Barbeque-Nation Hospitality Ltd"
+            SYM: "BARBEQUE",
+            COM: "Barbeque-Nation Hospitality Ltd"
         },
         {
-            "SYM": "EKI",
-            "COMPANY": "EKI Energy Services Ltd"
+            SYM: "EKI",
+            COM: "EKI Energy Services Ltd"
         },
         {
-            "SYM": "RCAN",
-            "COMPANY": "Rajeshwari Cans Ltd"
+            SYM: "RCAN",
+            COM: "Rajeshwari Cans Ltd"
         },
         {
-            "SYM": "JETMALL",
-            "COMPANY": "Jetmall Spices and Masala Ltd"
+            SYM: "JETMALL",
+            COM: "Jetmall Spices and Masala Ltd"
         },
         {
-            "SYM": "LODHA",
-            "COMPANY": "Macrotech Developers Ltd"
+            SYM: "LODHA",
+            COM: "Macrotech Developers Ltd"
         },
         {
-            "SYM": "DEEPIND",
-            "COMPANY": "Deep Industries Ltd"
+            SYM: "DEEPIND",
+            COM: "Deep Industries Ltd"
         },
         {
-            "SYM": "MAFANG",
-            "COMPANY": "Mirae Asset NYSE FANG+ ETF"
+            SYM: "MAFANG",
+            COM: "Mirae Asset NYSE FANG+ ETF"
         },
         {
-            "SYM": "ICICIPHARM",
-            "COMPANY": "ICICI Prudential Healthcare ETF"
+            SYM: "ICICIPHARM",
+            COM: "ICICI Prudential Healthcare ETF"
         },
         {
-            "SYM": "ICICISENSX",
-            "COMPANY": "ICICI Prudential Sensex ETF"
+            SYM: "ICICISENSX",
+            COM: "ICICI Prudential Sensex ETF"
         },
         {
-            "SYM": "TATAMTRDVR",
-            "COMPANY": "Tata Motors  Ltd - DVR"
+            SYM: "TATAMTRDVR",
+            COM: "Tata Motors  Ltd - DVR"
         },
         {
-            "SYM": "FELDVR",
-            "COMPANY": "Future Enterprises Ltd_DVR"
+            SYM: "FELDVR",
+            COM: "Future Enterprises Ltd_DVR"
         },
         {
-            "SYM": "JISLDVREQS",
-            "COMPANY": "JAIN IRRIGATION SYSTEMS LTD."
+            SYM: "JISLDVREQS",
+            COM: "JAIN IRRIGATION SYSTEMS LTD."
         },
         {
-            "SYM": "SCAPDVR",
-            "COMPANY": "Stampede Capital Ltd - DVR"
+            SYM: "SCAPDVR",
+            COM: "Stampede Capital Ltd - DVR"
         },
         {
-            "SYM": "KARURVYSYA",
-            "COMPANY": "KARUR VYSYA BANK LTD."
+            SYM: "KARURVYSYA",
+            COM: "KARUR VYSYA BANK LTD."
         },
         {
-            "SYM": "TIDEWATER",
-            "COMPANY": "TIDE WATER OIL (INDIA) LTD."
+            SYM: "TIDEWATER",
+            COM: "TIDE WATER OIL (INDIA) LTD."
         },
         {
-            "SYM": "AMRUTANJAN",
-            "COMPANY": "AMRUTANJAN HEALTH CARE LTD.-$"
+            SYM: "AMRUTANJAN",
+            COM: "AMRUTANJAN HEALTH CARE LTD."
         },
         {
-            "SYM": "XPROINDIA",
-            "COMPANY": "XPRO INDIA LTD."
+            SYM: "XPROINDIA",
+            COM: "XPRO INDIA LTD."
         },
         {
-            "SYM": "HISARMET",
-            "COMPANY": "HISAR METAL INDUSTRIES LTD.-$"
+            SYM: "HISARMET",
+            COM: "HISAR METAL INDUSTRIES LTD."
         },
         {
-            "SYM": "BHARATRAS",
-            "COMPANY": "BHARAT RASAYAN LTD."
+            SYM: "BHARATRAS",
+            COM: "BHARAT RASAYAN LTD."
         },
         {
-            "SYM": "EASTSILK",
-            "COMPANY": "EASTERN SILK INDUSTRIES LTD."
+            SYM: "EASTSILK",
+            COM: "EASTERN SILK INDUSTRIES LTD."
         },
         {
-            "SYM": "FACT",
-            "COMPANY": "FERTILIZERS & CHEMICALS TRAVANCORE LTD."
+            SYM: "FACT",
+            COM: "FERTILIZERS & CHEMICALS TRAVANCORE LTD."
         },
         {
-            "SYM": "GINNIFILA",
-            "COMPANY": "GINNI FILAMENTS LTD."
+            SYM: "GINNIFILA",
+            COM: "GINNI FILAMENTS LTD."
         },
         {
-            "SYM": "SPIC",
-            "COMPANY": "SOUTHERN PETROCHEMICALS LTD."
+            SYM: "SPIC",
+            COM: "SOUTHERN PETROCHEMICALS LTD."
         },
         {
-            "SYM": "DENORA",
-            "COMPANY": "DE NORA INDIA LTD."
+            SYM: "DENORA",
+            COM: "DE NORA INDIA LTD."
         },
         {
-            "SYM": "SAKSOFT",
-            "COMPANY": "SAKSOFT LTD."
+            SYM: "SAKSOFT",
+            COM: "SAKSOFT LTD."
         },
         {
-            "SYM": "SALONACOT",
-            "COMPANY": "SALONA COTSPIN LTD."
+            SYM: "SALONACOT",
+            COM: "SALONA COTSPIN LTD."
         },
         {
-            "SYM": "PROSEED",
-            "COMPANY": "Proseed India Ltd"
+            SYM: "PROSEED",
+            COM: "Proseed India Ltd"
         },
         {
-            "SYM": "ANDHRSUGAR",
-            "COMPANY": "ANDHRA SUGARS LTD."
+            SYM: "ANDHRSUGAR",
+            COM: "ANDHRA SUGARS LTD."
         },
         {
-            "SYM": "IMPAL",
-            "COMPANY": "INDIA MOTOR PARTS & ACCESSORIES LTD."
+            SYM: "IMPAL",
+            COM: "INDIA MOTOR PARTS & ACCESSORIES LTD."
         },
         {
-            "SYM": "KCP",
-            "COMPANY": "K.C.P.LTD."
+            SYM: "KCP",
+            COM: "K.C.P.LTD."
         },
         {
-            "SYM": "RADAAN",
-            "COMPANY": "RADAAN MEDIAWORKS (I) LTD."
+            SYM: "RADAAN",
+            COM: "RADAAN MEDIAWORKS (I) LTD."
         },
         {
-            "SYM": "SUNDARMFIN",
-            "COMPANY": "SUNDARAM FINANCE LTD."
+            SYM: "SUNDARMFIN",
+            COM: "SUNDARAM FINANCE LTD."
         },
         {
-            "SYM": "SUNDRMBRAK",
-            "COMPANY": "SUNDARAM BRAKE LININGS LTD."
+            SYM: "SUNDRMBRAK",
+            COM: "SUNDARAM BRAKE LININGS LTD."
         },
         {
-            "SYM": "WHEELS",
-            "COMPANY": "WHEELS INDIA LTD."
+            SYM: "WHEELS",
+            COM: "WHEELS INDIA LTD."
         },
         {
-            "SYM": "LAMBODHARA",
-            "COMPANY": "LAMBODHARA TEXTILES LTD.-$"
+            SYM: "LAMBODHARA",
+            COM: "LAMBODHARA TEXTILES LTD."
         },
         {
-            "SYM": "MAITHANALL",
-            "COMPANY": "MAITHAN ALLOYS LTD."
+            SYM: "MAITHANALL",
+            COM: "MAITHAN ALLOYS LTD."
         },
         {
-            "SYM": "LOHIASEC",
-            "COMPANY": "LOHIA SECURITIES LTD."
+            SYM: "LOHIASEC",
+            COM: "LOHIA SECURITIES LTD."
         },
         {
-            "SYM": "ORISSAMINE",
-            "COMPANY": "ORISSA MINERALS DEVELOPMENT COMPANY LTD."
+            SYM: "ORISSAMINE",
+            COM: "ORISSA MINERALS DEVELOPMENT COMPANY LTD."
         },
         {
-            "SYM": "NIFTYBEES",
-            "COMPANY": "NIPPON INDIA ETF NIFTY BEES"
+            SYM: "NIFTYBEES",
+            COM: "NIPPON INDIA ETF NIFTY BEES"
         },
         {
-            "SYM": "JUNIORBEES",
-            "COMPANY": "NIPPON INDIA ETF JUNIOR BEES"
+            SYM: "JUNIORBEES",
+            COM: "NIPPON INDIA ETF JUNIOR BEES"
         },
         {
-            "SYM": "BANKBEES",
-            "COMPANY": "NIPPON INDIA ETF BANK BEES"
+            SYM: "BANKBEES",
+            COM: "NIPPON INDIA ETF BANK BEES"
         },
         {
-            "SYM": "KOTAKPSUBK",
-            "COMPANY": "KOTAK MAHINDRA MUTUAL FUND - KOTAK PSU BANK ETF"
+            SYM: "KOTAKPSUBK",
+            COM: "KOTAK MAHINDRA MUTUAL FUND - KOTAK PSU BANK ETF"
         },
         {
-            "SYM": "PSUBNKBEES",
-            "COMPANY": "NIPPON INDIA ETF PSU BANK BEES"
+            SYM: "PSUBNKBEES",
+            COM: "NIPPON INDIA ETF PSU BANK BEES"
         },
         {
-            "SYM": "SHARIABEES",
-            "COMPANY": "NIPPON INDIA ETF SHARIAH BEES"
+            SYM: "SHARIABEES",
+            COM: "NIPPON INDIA ETF SHARIAH BEES"
         },
         {
-            "SYM": "QNIFTY",
-            "COMPANY": "QUANTUM MUTUAL FUND - QUANTUM INDEX FUND ETF"
+            SYM: "QNIFTY",
+            COM: "QUANTUM MUTUAL FUND - QUANTUM INDEX FUND ETF"
         },
         {
-            "SYM": "M50",
-            "COMPANY": "Motilal Oswal MOSt Shares M50 ETF"
+            SYM: "M50",
+            COM: "Motilal Oswal MOSt Shares M50 ETF"
         },
         {
-            "SYM": "ASHIKACR",
-            "COMPANY": "ASHIKA CREDIT CAPITAL LTD."
+            SYM: "ASHIKACR",
+            COM: "ASHIKA CREDIT CAPITAL LTD."
         },
         {
-            "SYM": "MADRASFERT",
-            "COMPANY": "Madras Fertilizers Ltd"
+            SYM: "MADRASFERT",
+            COM: "Madras Fertilizers Ltd"
         },
         {
-            "SYM": "BLBLEND",
-            "COMPANY": "Blue Blends (India) Ltd"
+            SYM: "BLBLEND",
+            COM: "Blue Blends (India) Ltd"
         },
         {
-            "SYM": "BLBLNDS",
-            "COMPANY": "Blue Blends India Ltd"
+            SYM: "BLBLNDS",
+            COM: "Blue Blends India Ltd"
         },
         {
-            "SYM": "SKUMSYN",
-            "COMPANY": "S. Kumars Nationwide Ltd"
+            SYM: "SKUMSYN",
+            COM: "S. Kumars Nationwide Ltd"
         },
         {
-            "SYM": "BLEBLNI",
-            "COMPANY": "Blue Blends (India) Ltd"
+            SYM: "BLEBLNI",
+            COM: "Blue Blends (India) Ltd"
         },
         {
-            "SYM": "SKSUGAR",
-            "COMPANY": "Sakthi Sugars Ltd"
+            SYM: "SKSUGAR",
+            COM: "Sakthi Sugars Ltd"
         },
         {
-            "SYM": "SKSYNFB",
-            "COMPANY": "S. Kumars Nationwide Ltd"
+            SYM: "SKSYNFB",
+            COM: "S. Kumars Nationwide Ltd"
         },
         {
-            "SYM": "SKSNFAB",
-            "COMPANY": "S. Kumars Nationwide Ltd"
+            SYM: "SKSNFAB",
+            COM: "S. Kumars Nationwide Ltd"
         },
         {
-            "SYM": "SKUMSNB",
-            "COMPANY": "S. Kumars Nationwide Ltd"
+            SYM: "SKUMSNB",
+            COM: "S. Kumars Nationwide Ltd"
         },
         {
-            "SYM": "SKUMARF",
-            "COMPANY": "S. Kumars Nationwide Ltd"
+            SYM: "SKUMARF",
+            COM: "S. Kumars Nationwide Ltd"
         },
         {
-            "SYM": "SKUMSYF",
-            "COMPANY": "S. Kumars Nationwide Ltd"
+            SYM: "SKUMSYF",
+            COM: "S. Kumars Nationwide Ltd"
         },
         {
-            "SYM": "TIMEXPS",
-            "COMPANY": "Timex Group India Ltd"
+            SYM: "TIMEXPS",
+            COM: "Timex Group India Ltd"
         },
         {
-            "SYM": "SKSYNFA",
-            "COMPANY": "S. Kumars Nationwide Ltd"
+            SYM: "SKSYNFA",
+            COM: "S. Kumars Nationwide Ltd"
         },
         {
-            "SYM": "SUPERNOVA",
-            "COMPANY": "Supernova Advertising Ltd"
+            SYM: "SUPERNOVA",
+            COM: "Supernova Advertising Ltd"
         },
         {
-            "SYM": "CITYON",
-            "COMPANY": "Cityon Systems (India) Ltd"
+            SYM: "CITYON",
+            COM: "Cityon Systems (India) Ltd"
         },
         {
-            "SYM": "HASJUICE",
-            "COMPANY": "Has Lifestyle Ltd"
+            SYM: "HASJUICE",
+            COM: "Has Lifestyle Ltd"
         },
         {
-            "SYM": "WEBSL",
-            "COMPANY": "Web Element Solutions Ltd"
+            SYM: "WEBSL",
+            COM: "Web Element Solutions Ltd"
         },
         {
-            "SYM": "ADHIRAJ",
-            "COMPANY": "Adhiraj Distributors Ltd"
+            SYM: "ADHIRAJ",
+            COM: "Adhiraj Distributors Ltd"
         }
     
     ]

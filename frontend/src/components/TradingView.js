@@ -34,7 +34,7 @@ const TradingView = (props) => {
 
   return (
     <div className="trading-view__main-container">
-      <TradingViewWidget symbol="BSE:RELIANCE" theme={Themes.DARK} autosize />
+      <TradingViewWidget symbol={`BSE:${props.symbol}`} theme={Themes.DARK} autosize />
     </div>
   );
 };

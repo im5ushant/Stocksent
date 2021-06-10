@@ -11,6 +11,7 @@ import SearchBar from "./components/SearchBar";
 const App = (props) => {
 
   const [companyName, setCompanyName] = useState("");
+  const [companySym, setCompanySym] = useState("SENSEX");
 
   const [chartData, setChartData] = useState({
     labels: ["Positive", "Negative", "Neutral"],
@@ -27,11 +28,13 @@ const App = (props) => {
 
 
   const getSentimentHandler = (stock) => {
-    setCompanyName(stock);
+    let seperatedStock = stock.split(" : ");
+    setCompanySym(seperatedStock[0]);
+    setCompanyName(seperatedStock[1]);
     setResLoaded(false);
     axios
       .post("http://127.0.0.1:5000/analyse", {
-        stock: stock,
+        stock: seperatedStock[1],
       })
       .then(function (response) {
         resultHandler(response);
@@ -56,7 +59,7 @@ const App = (props) => {
     <div className="App">
       <Header />
       <SearchBar onClick={getSentimentHandler} />
-      <TradingView />
+      <TradingView symbol={companySym} />
       <Chart />
       <div className="preview-container">
         <PreviewSection header="Recent News" />
