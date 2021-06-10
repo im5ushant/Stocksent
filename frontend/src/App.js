@@ -13,16 +13,7 @@ const App = (props) => {
   const [companyName, setCompanyName] = useState("");
   const [companySym, setCompanySym] = useState("SENSEX");
 
-  const [chartData, setChartData] = useState({
-    labels: ["Positive", "Negative", "Neutral"],
-    datasets: [
-      {
-        label: "Sentiment",
-        data: [50, 40, 10],
-        backgroundColor: ["#60eca4", "#f64f7d", "#cccccc"],
-      },
-    ],
-  });
+  const [sentimentData, setSentimentData] = useState([50,40,10])
 
   const [resLoaded, setResLoaded] = useState(false);
 
@@ -34,7 +25,7 @@ const App = (props) => {
     setResLoaded(false);
     axios
       .post("http://127.0.0.1:5000/analyse", {
-        stock: seperatedStock[1],
+        stock: seperatedStock[0],
       })
       .then(function (response) {
         resultHandler(response);
@@ -46,11 +37,11 @@ const App = (props) => {
 
   const resultHandler = (response) => {
     const res = response.data;
-    const temp = { ...chartData };
-    temp.datasets[0].data[0] = res.positive;
-    temp.datasets[0].data[1] = res.negative;
-    temp.datasets[0].data[2] = res.neutral;
-    setChartData(temp);
+    const temp = { ...sentimentData };
+    temp[0] = res.positive;
+    temp[1] = res.negative;
+    temp[2] = res.neutral;
+    setSentimentData(temp);
     setResLoaded(true);
   };
 
@@ -60,7 +51,7 @@ const App = (props) => {
       <Header />
       <SearchBar onClick={getSentimentHandler} />
       <TradingView symbol={companySym} />
-      <Chart />
+      <Chart sentiment={sentimentData} />
       <div className="preview-container">
         <PreviewSection header="Recent News" />
         <PreviewSection header="Recent Tweets" />

@@ -20,12 +20,12 @@ body {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background: #3f53a0; 
+  background: #2296f470; 
   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
 }
 
 ::-webkit-scrollbar-thumb:hover{
-  background: #203879;
+  background: #2296f440;
 }
 
 code {

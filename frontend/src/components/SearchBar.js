@@ -89,7 +89,7 @@ const SearchBar = (props) => {
           )}
         />
         <Button
-          style={{ height: "40px", marginTop: "10px" }}
+          style={{ height: "40px", marginTop: "10px", backgroundColor: "#2296f470" }}
           variant="contained"
           color="primary"
           onClick={onClickHandler}
