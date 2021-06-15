@@ -9,14 +9,7 @@ const PreviewSection = (props) => {
       <div className="preview-section__container">
         <div className="preview-section__header">{props.header}</div>
         <div className="preview-section__content">
-          <PreviewItem />
-          <PreviewItem />
-          <PreviewItem />
-          <PreviewItem />
-          <PreviewItem />
-          <PreviewItem />
-          <PreviewItem />
-          <PreviewItem />
+          {props.content.data.content.map(tweet => <PreviewItem item={tweet} />)}
         </div>
       </div>
     </>

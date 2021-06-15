@@ -19,8 +19,11 @@ from IPython.core.interactiveshell import InteractiveShell
 
 # Fetching google news data
 def analyse(text_query):
-    googlenews=GoogleNews(start='02/01/2021',end='05/12/2021')
+    print("Starting analyser...")
+    googlenews=GoogleNews(start='02/01/2021',end='06/12/2021')
+    print("Connecting to Google news...")
     googlenews.search(text_query)
+    print("Fetching News...")
     result=googlenews.result()
     news_df=pd.DataFrame(result)
     for i in range(2,5):
@@ -28,6 +31,9 @@ def analyse(text_query):
         result=googlenews.result()
         news_df=pd.DataFrame(result)
     list=[]
+
+    print(news_df)
+    print("Removing Unwanted Content...")
 
     news_df.drop('img', inplace=True, axis=1)
     news_df.drop('link', inplace=True, axis=1)
@@ -37,10 +43,13 @@ def analyse(text_query):
     news_df.drop('media', inplace=True, axis=1)
     news_df.rename(columns={"title": 0}, inplace= True)
 
+    print(news_df)
+    
 
     tweet_list = get_related_tweets(text_query)
-
+    print("Fetching Tweets...")
     tw_list = pd.DataFrame(tweet_list)
+    print(tw_list)
     tw_list.append(news_df, ignore_index=True)
 
     tw_list.drop_duplicates(inplace = True)
@@ -87,6 +96,7 @@ def analyse(text_query):
     #Count_values for sentiment
     final_result = count_values_in_column(tw_list,"sentiment")
     # print(count_values_in_column(tw_list,"sentiment"))
+    print(final_result)
     return final_result
     # print(final_result["Percentage"]["positive"])
 

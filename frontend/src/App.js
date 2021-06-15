@@ -13,10 +13,11 @@ const App = (props) => {
   const [companyName, setCompanyName] = useState("");
   const [companySym, setCompanySym] = useState("SENSEX");
 
-  const [sentimentData, setSentimentData] = useState([50,40,10])
+  const [sentimentData, setSentimentData] = useState([40,40,20]);
 
   const [resLoaded, setResLoaded] = useState(false);
-
+  const [tweets, setTweets] = useState("");
+  const [news, setNews] = useState("");
 
   const getSentimentHandler = (stock) => {
     let seperatedStock = stock.split(" : ");
@@ -33,6 +34,24 @@ const App = (props) => {
       .catch(function (error) {
         console.log(error);
       });
+
+    axios.post("http://127.0.0.1:5000/get-tweets", {
+      stock: seperatedStock[0]
+    }).then(function (response) {
+      setTweets(response);
+    })
+    .catch(function (err) {
+      console.log(err);
+    })
+
+    axios.post("http://127.0.0.1:5000/get-news", {
+      stock: seperatedStock[0]
+    }).then(function (response) {
+      setNews(response);
+    })
+    .catch(function (err) {
+      console.log(err);
+    })
   };
 
   const resultHandler = (response) => {
@@ -53,8 +72,8 @@ const App = (props) => {
       <TradingView symbol={companySym} />
       <Chart sentiment={sentimentData} />
       <div className="preview-container">
-        <PreviewSection header="Recent News" />
-        <PreviewSection header="Recent Tweets" />
+        {tweets && <PreviewSection content={tweets} header="Recent Tweets" />}
+        {news && <PreviewSection content={news} header="Recent News" />}
       </div>
       <Footer />
     </div>
